@@ -1,10 +1,10 @@
 module Unicode
   module Cldr
     module Inflector
-      extend self
+      module_function
 
       def camelize(str)
-        str.gsub(/(?:_|(\/))([a-z\d]*)/i) { "#{$1}#{$2.capitalize}" }
+        str.gsub(%r{(?:_|(\/))([a-z\d]*)}i) { "#{$1}#{$2.capitalize}" }
       end
 
       def underscore(str)
@@ -16,7 +16,11 @@ module Unicode
 
       def underscore_keys(hash)
         hash.each_with_object({}) do |(key, value), memo|
-          memo[underscore(key)] = value.is_a?(Hash) ? underscore_keys(value) : value.to_s
+          if value.is_a?(Hash)
+            memo[underscore(key)] = underscore_keys(value)
+          else
+            memo[underscore(key)] = value.to_s
+          end
         end
       end
     end

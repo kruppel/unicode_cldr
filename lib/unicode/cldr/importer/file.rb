@@ -2,9 +2,11 @@ require 'json'
 
 module Unicode
   module Cldr
-    module Importer
+    class Importer
+
       class File
-        MATCHER = /([^\/]+)\/([^\/]+)\/([^\/]+)\.json$/.freeze
+
+        MATCHER = %r{([^\/]+)\/([^\/]+)\/([^\/]+)\.json$}.freeze
 
         attr_reader :package, :path, :type, :locale
 
@@ -19,13 +21,16 @@ module Unicode
         end
 
         def read
-          json = JSON.parse(::File.read(path))
-          content = json[type][locale.code][Cldr::Inflector.camelize(package.id)]
+          json    = JSON.parse(::File.read(path))
+          key     = Cldr::Inflector.camelize(package.id)
+          content = json[type][locale.code][key]
           content = Cldr::Inflector.underscore_keys(content) unless content.nil?
 
           yield content
         end
+
       end
+
     end
   end
 end

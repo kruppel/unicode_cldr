@@ -1,53 +1,59 @@
 module Unicode
   module Cldr
-    module Importer
-      extend self
+    class Importer
 
       DESTINATION = File.expand_path('../../../config/locale', __dir__)
 
-      def read
-        data = {}
-
-        Package.all.each do |package|
-          package.files.each do |file|
-            locale = file.locale
-
-            next if locale.nil?
-
-            code = locale.code
-            data[code] ||= { 'cldr' => {} }
-
-            file.read do |content|
-              next if content.nil?
-
-              id = package.id
-              data[code]['cldr'][id] ||= {}
-              data[code]['cldr'][id].merge!(content)
-            end
-          end
-        end
-
-        yield data if block_given?
-
-        data
-      end
+      attr_reader :data
 
       def import
+        @data = {}
+
         FileUtils.mkdir_p(DESTINATION)
+        Package.all.each { |package| import_package(package) }
+        write
+      end
 
-        read do |data|
-          data.each do |code, content|
-            puts "Writing #{DESTINATION}/#{code}.yml..."
+      private
 
-            ::File.open("#{DESTINATION}/#{code}.yml", 'w') do |file|
-              translations       = {}
-              translations[code] = content
+      def import_file(file)
+        id   = file.package.id
+        code = file.locale.code
 
-              file.write(translations.to_yaml)
-            end
+        file.read do |content|
+          next if content.nil?
+
+          data[code]['cldr'][id].merge!(content)
+        end
+      end
+
+      def import_package(package)
+        package.files.each do |file|
+          locale = file.locale
+          code   = locale.code
+
+          next if file.locale.nil?
+
+          data[code] ||= { 'cldr' => {} }
+          data[code]['cldr'][id] ||= {}
+
+          import_file(file)
+        end
+      end
+
+      def write
+        data.each do |code, content|
+          puts "Writing #{DESTINATION}/#{code}.yml..."
+
+          ::File.open("#{DESTINATION}/#{code}.yml", 'w') do |file|
+            translations       = {}
+            translations[code] = content
+
+            file.write(translations.to_yaml)
           end
         end
       end
+
     end
   end
 end

@@ -12,6 +12,6 @@ namespace :cldr do
 
   desc 'Import CLDR'
   task :import do
-    Unicode::Cldr::Importer.import
+    Unicode::Cldr::Importer.new.import
   end
 end

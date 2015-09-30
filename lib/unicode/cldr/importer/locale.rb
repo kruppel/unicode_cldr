@@ -2,11 +2,14 @@ require 'yaml'
 
 module Unicode
   module Cldr
-    module Importer
+    class Importer
+
       class Locale
+
         attr_reader :name, :code
 
         class << self
+
           def languages
             @languages ||= YAML.load_file(
               ::File.expand_path('../../../../config/languages.yml', __dir__)
@@ -23,13 +26,16 @@ module Unicode
               cache[code] = new(metadata)
             end
           end
+
         end
 
         def initialize(metadata)
           @name = metadata['name']
           @code = metadata['unicode_code']
         end
+
       end
+
     end
   end
 end

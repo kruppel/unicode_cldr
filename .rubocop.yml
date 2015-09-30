@@ -20,3 +20,6 @@ Style/EmptyLinesAroundClassBody:
 Style/PercentLiteralDelimiters:
   PreferredDelimiters:
     '%i': '[]'
+
+Style/PerlBackrefs:
+  Enabled: false
