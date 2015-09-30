@@ -1,0 +1,5213 @@
+---
+ka:
+  cldr:
+    dates:
+      calendars:
+        gregorian:
+          months:
+            format:
+              abbreviated:
+                '1': "იან"
+                '2': "თებ"
+                '3': "მარ"
+                '4': "აპრ"
+                '5': "მაი"
+                '6': "ივნ"
+                '7': "ივლ"
+                '8': "აგვ"
+                '9': "სექ"
+                '10': "ოქტ"
+                '11': "ნოე"
+                '12': "დეკ"
+              narrow:
+                '1': "ი"
+                '2': "თ"
+                '3': "მ"
+                '4': "ა"
+                '5': "მ"
+                '6': "ი"
+                '7': "ი"
+                '8': "ა"
+                '9': "ს"
+                '10': "ო"
+                '11': "ნ"
+                '12': "დ"
+              wide:
+                '1': "იანვარი"
+                '2': "თებერვალი"
+                '3': "მარტი"
+                '4': "აპრილი"
+                '5': "მაისი"
+                '6': "ივნისი"
+                '7': "ივლისი"
+                '8': "აგვისტო"
+                '9': "სექტემბერი"
+                '10': "ოქტომბერი"
+                '11': "ნოემბერი"
+                '12': "დეკემბერი"
+            stand_alone:
+              abbreviated:
+                '1': "იან"
+                '2': "თებ"
+                '3': "მარ"
+                '4': "აპრ"
+                '5': "მაი"
+                '6': "ივნ"
+                '7': "ივლ"
+                '8': "აგვ"
+                '9': "სექ"
+                '10': "ოქტ"
+                '11': "ნოე"
+                '12': "დეკ"
+              narrow:
+                '1': "ი"
+                '2': "თ"
+                '3': "მ"
+                '4': "ა"
+                '5': "მ"
+                '6': "ი"
+                '7': "ი"
+                '8': "ა"
+                '9': "ს"
+                '10': "ო"
+                '11': "ნ"
+                '12': "დ"
+              wide:
+                '1': "იანვარი"
+                '2': "თებერვალი"
+                '3': "მარტი"
+                '4': "აპრილი"
+                '5': "მაისი"
+                '6': "ივნისი"
+                '7': "ივლისი"
+                '8': "აგვისტო"
+                '9': "სექტემბერი"
+                '10': "ოქტომბერი"
+                '11': "ნოემბერი"
+                '12': "დეკემბერი"
+          days:
+            format:
+              abbreviated:
+                sun: "კვი"
+                mon: "ორშ"
+                tue: "სამ"
+                wed: "ოთხ"
+                thu: "ხუთ"
+                fri: "პარ"
+                sat: "შაბ"
+              narrow:
+                sun: "კ"
+                mon: "ო"
+                tue: "ს"
+                wed: "ო"
+                thu: "ხ"
+                fri: "პ"
+                sat: "შ"
+              short:
+                sun: "კვ"
+                mon: "ორ"
+                tue: "სმ"
+                wed: "ოთ"
+                thu: "ხთ"
+                fri: "პრ"
+                sat: "შბ"
+              wide:
+                sun: "კვირა"
+                mon: "ორშაბათი"
+                tue: "სამშაბათი"
+                wed: "ოთხშაბათი"
+                thu: "ხუთშაბათი"
+                fri: "პარასკევი"
+                sat: "შაბათი"
+            stand_alone:
+              abbreviated:
+                sun: "კვი"
+                mon: "ორშ"
+                tue: "სამ"
+                wed: "ოთხ"
+                thu: "ხუთ"
+                fri: "პარ"
+                sat: "შაბ"
+              narrow:
+                sun: "კ"
+                mon: "ო"
+                tue: "ს"
+                wed: "ო"
+                thu: "ხ"
+                fri: "პ"
+                sat: "შ"
+              short:
+                sun: "კვ"
+                mon: "ორ"
+                tue: "სმ"
+                wed: "ოთ"
+                thu: "ხთ"
+                fri: "პრ"
+                sat: "შბ"
+              wide:
+                sun: "კვირა"
+                mon: "ორშაბათი"
+                tue: "სამშაბათი"
+                wed: "ოთხშაბათი"
+                thu: "ხუთშაბათი"
+                fri: "პარასკევი"
+                sat: "შაბათი"
+          quarters:
+            format:
+              abbreviated:
+                '1': I კვ.
+                '2': II კვ.
+                '3': III კვ.
+                '4': IV კვ.
+              narrow:
+                '1': '1'
+                '2': '2'
+                '3': '3'
+                '4': '4'
+              wide:
+                '1': I კვარტალი
+                '2': II კვარტალი
+                '3': III კვარტალი
+                '4': IV კვარტალი
+            stand_alone:
+              abbreviated:
+                '1': I კვ.
+                '2': II კვ.
+                '3': III კვ.
+                '4': IV კვ.
+              narrow:
+                '1': '1'
+                '2': '2'
+                '3': '3'
+                '4': '4'
+              wide:
+                '1': I კვარტალი
+                '2': II კვარტალი
+                '3': III კვარტალი
+                '4': IV კვარტალი
+          day_periods:
+            format:
+              abbreviated:
+                midnight: "შუაღამეს"
+                am: AM
+                noon: "შუადღ."
+                pm: PM
+                morning1: "დილ."
+                afternoon1: "ნაშუადღ."
+                evening1: "საღ."
+                night1: "ღამ."
+              narrow:
+                midnight: "შუაღამეს"
+                am: a
+                noon: "შუადღ."
+                pm: p
+                morning1: "დილას"
+                afternoon1: "ნაშუადღევს"
+                evening1: "საღამოს"
+                night1: "ღამით"
+              wide:
+                midnight: "შუაღამეს"
+                am: AM
+                noon: "შუადღეს"
+                pm: PM
+                morning1: "დილით"
+                afternoon1: "ნაშუადღევს"
+                evening1: "საღამოს"
+                night1: "ღამით"
+            stand_alone:
+              abbreviated:
+                midnight: "შუაღამე"
+                am: AM
+                noon: "შუადღე"
+                pm: PM
+                morning1: "დილა"
+                afternoon1: "ნაშუადღევი"
+                evening1: "საღამო"
+                night1: "ღამე"
+              narrow:
+                midnight: "შუაღამე"
+                am: a
+                noon: "შუადღე"
+                pm: p
+                morning1: "დილა"
+                afternoon1: "ნაშუადღევი"
+                evening1: "საღამო"
+                night1: "ღამე"
+              wide:
+                midnight: "შუაღამე"
+                am: "შუადღემდე"
+                noon: "შუადღე"
+                pm: "შუადღ. შემდეგ"
+                morning1: "დილა"
+                afternoon1: "ნაშუადღევი"
+                evening1: "საღამო"
+                night1: "ღამე"
+          eras:
+            era_names:
+              '0': "ძველი წელთაღრიცხვით"
+              0_alt_variant: "ჩვენს ერამდე"
+              '1': "ახალი წელთაღრიცხვით"
+              1_alt_variant: "ჩვენი ერა"
+            era_abbr:
+              '0': "ძვ. წ."
+              0_alt_variant: "ჩვ. ერამდე"
+              '1': "ახ. წ."
+              1_alt_variant: "ჩვ. ერა"
+            era_narrow:
+              '0': "ძვ. წ."
+              0_alt_variant: "ჩვ. ერამდე"
+              '1': "ახ. წ."
+              1_alt_variant: "ჩვ. ერა"
+          date_formats:
+            full: EEEE, dd MMMM, y
+            long: d MMMM, y
+            medium: d MMM. y
+            short: dd.MM.yy
+          time_formats:
+            full: HH:mm:ss zzzz
+            long: HH:mm:ss z
+            medium: HH:mm:ss
+            short: HH:mm
+          date_time_formats:
+            full: "{1}, {0}"
+            long: "{1}, {0}"
+            medium: "{1}, {0}"
+            short: "{1}, {0}"
+            available_formats:
+              d: d
+              e: ccc
+              ed: d E
+              ehm: E, h:mm a
+              e_hm: E, HH:mm
+              ehms: E, h:mm:ss a
+              e_hms: E, HH:mm:ss
+              gy: y G
+              gy_mmm: MMM. y G
+              gy_mm_md: d MMM. y G
+              gy_mmm_ed: E, d MMM. y G
+              h: HH
+              hm: HH:mm
+              hms: HH:mm:ss
+              hmsv: HH:mm:ss v
+              hmv: HH:mm v
+              m: L
+              md: d.M
+              m_ed: E, d.M
+              mmm: LLL
+              mm_md: d MMM
+              mmm_ed: E, d MMM
+              mmm_md: d MMMM
+              ms: mm:ss
+              y: y
+              y_m: M.y
+              y_md: d.M.y
+              y_m_ed: E, d.M.y
+              y_mmm: MMM. y
+              y_mm_md: d MMM. y
+              y_mmm_ed: E, d MMM. y
+              y_mmmm: MMMM, y
+              y_qqq: QQQ, y
+              y_qqqq: QQQQ, y
+            append_items:
+              day: "{0} ({2}: {1})"
+              day_of_week: "{0} {1}"
+              era: "{1} {0}"
+              hour: "{0} ({2}: {1})"
+              minute: "{0} ({2}: {1})"
+              month: "{0} ({2}: {1})"
+              quarter: "{0} ({2}: {1})"
+              second: "{0} ({2}: {1})"
+              timezone: "{0} {1}"
+              week: "{0} ({2}: {1})"
+              year: "{1} {0}"
+            interval_formats:
+              interval_format_fallback: "{0} – {1}"
+              d:
+                d: d–d
+              h:
+                h: HH–HH
+              hm:
+                h: HH:mm–HH:mm
+                m: HH:mm–HH:mm
+              hmv:
+                h: HH:mm–HH:mm v
+                m: HH:mm–HH:mm v
+              hv:
+                h: HH–HH v
+              m:
+                m: M–M
+              md:
+                d: dd.MM. – dd.MM.
+                m: dd.MM. – dd.MM.
+              m_ed:
+                d: E, dd.MM. – E, dd.MM.
+                m: E, dd.MM. – E, dd.MM.
+              mmm:
+                m: MMM–MMM
+              mm_md:
+                d: d–d MMM
+                m: d MMM – d MMM
+              mmm_ed:
+                d: E, d – E, d MMM
+                m: E, d MMM – E, d MMM
+              y:
+                y: y–y
+              y_m:
+                m: MM.y – MM.y
+                y: MM.y – MM.y
+              y_md:
+                d: dd.MM.y – dd.MM.y
+                m: dd.MM.y – dd.MM.y
+                y: dd.MM.y – dd.MM.y
+              y_m_ed:
+                d: E, dd.MM.y – E, dd.MM.y
+                m: E, dd.MM.y – E, dd.MM.y
+                y: E, dd.MM.y – E, dd.MM.y
+              y_mmm:
+                m: MMM–MMM y
+                y: MMM y – MMM y
+              y_mm_md:
+                d: d–d MMM, y
+                m: dd MMM. – dd MMM. y
+                y: dd MMM. y – d MMM. y
+              y_mmm_ed:
+                d: E, d MMM. – E, d MMM. y
+                m: E, d MMM. – E, d MMM. y
+                y: E, d MMM. y – E, d MMM. y
+              y_mmmm:
+                m: MMMM – MMMM, y
+                y: MMMM y – MMMM y
+      fields:
+        era:
+          display_name: "ეპოქა"
+        year:
+          display_name: "წელი"
+          relative_type__1: "გასულ წელს"
+          relative_type_0: "ამ წელს"
+          relative_type_1: "მომავალ წელს"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} წელიწადში"
+            relative_time_pattern_count_other: "{0} წელიწადში"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} წლის წინ"
+            relative_time_pattern_count_other: "{0} წლის წინ"
+        year_short:
+          display_name: "წ."
+          relative_type__1: "გასულ წელს"
+          relative_type_0: "ამ წელს"
+          relative_type_1: "მომავალ წელს"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} წელში"
+            relative_time_pattern_count_other: "{0} წელში"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} წლის წინ"
+            relative_time_pattern_count_other: "{0} წლის წინ"
+        year_narrow:
+          display_name: "წ."
+          relative_type__1: "გასულ წელს"
+          relative_type_0: "ამ წელს"
+          relative_type_1: "მომავალ წელს"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} წელში"
+            relative_time_pattern_count_other: "{0} წელში"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} წლის წინ"
+            relative_time_pattern_count_other: "{0} წლის წინ"
+        quarter:
+          display_name: "კვარტალი"
+          relative_type__1: last quarter
+          relative_type_0: this quarter
+          relative_type_1: next quarter
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} კვარტალში"
+            relative_time_pattern_count_other: "{0} კვარტალში"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} კვარტალის წინ"
+            relative_time_pattern_count_other: "{0} კვარტალის წინ"
+        quarter_short:
+          display_name: "კვარტ."
+          relative_type__1: last quarter
+          relative_type_0: this quarter
+          relative_type_1: next quarter
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} კვარტალში"
+            relative_time_pattern_count_other: "{0} კვარტალში"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} კვარტ. წინ"
+            relative_time_pattern_count_other: "{0} კვარტ. წინ"
+        quarter_narrow:
+          display_name: "კვარტ."
+          relative_type__1: last quarter
+          relative_type_0: this quarter
+          relative_type_1: next quarter
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} კვარტალში"
+            relative_time_pattern_count_other: "{0} კვარტალში"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} კვარტ. წინ"
+            relative_time_pattern_count_other: "{0} კვარტ. წინ"
+        month:
+          display_name: "თვე"
+          relative_type__1: "გასულ თვეს"
+          relative_type_0: "ამ თვეში"
+          relative_type_1: "მომავალ თვეს"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} თვეში"
+            relative_time_pattern_count_other: "{0} თვეში"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} თვის წინ"
+            relative_time_pattern_count_other: "{0} თვის წინ"
+        month_short:
+          display_name: "თვე"
+          relative_type__1: "გასულ თვეს"
+          relative_type_0: "ამ თვეში"
+          relative_type_1: "მომავალ თვეს"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} თვეში"
+            relative_time_pattern_count_other: "{0} თვეში"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} თვის წინ"
+            relative_time_pattern_count_other: "{0} თვის წინ"
+        month_narrow:
+          display_name: "თვე"
+          relative_type__1: "გასულ თვეს"
+          relative_type_0: "ამ თვეში"
+          relative_type_1: "მომავალ თვეს"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} თვეში"
+            relative_time_pattern_count_other: "{0} თვეში"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} თვის წინ"
+            relative_time_pattern_count_other: "{0} თვის წინ"
+        week:
+          display_name: "კვირა"
+          relative_type__1: "გასულ კვირაში"
+          relative_type_0: "ამ კვირაში"
+          relative_type_1: "მომავალ კვირაში"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} კვირაში"
+            relative_time_pattern_count_other: "{0} კვირაში"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} კვირის წინ"
+            relative_time_pattern_count_other: "{0} კვირის წინ"
+        week_short:
+          display_name: "კვ."
+          relative_type__1: "გასულ კვირაში"
+          relative_type_0: "ამ კვირაში"
+          relative_type_1: "მომავალ კვირაში"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} კვირაში"
+            relative_time_pattern_count_other: "{0} კვირაში"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} კვ. წინ"
+            relative_time_pattern_count_other: "{0} კვ. წინ"
+        week_narrow:
+          display_name: "კვ."
+          relative_type__1: "გასულ კვირაში"
+          relative_type_0: "ამ კვირაში"
+          relative_type_1: "მომავალ კვირაში"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} კვირაში"
+            relative_time_pattern_count_other: "{0} კვირაში"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} კვირის წინ"
+            relative_time_pattern_count_other: "{0} კვირის წინ"
+        day:
+          display_name: "დღე"
+          relative_type__2: "გუშინწინ"
+          relative_type__1: "გუშინ"
+          relative_type_0: "დღეს"
+          relative_type_1: "ხვალ"
+          relative_type_2: "ზეგ"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} დღეში"
+            relative_time_pattern_count_other: "{0} დღეში"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} დღის წინ"
+            relative_time_pattern_count_other: "{0} დღის წინ"
+        day_short:
+          display_name: "დღე"
+          relative_type__2: "გუშინწინ"
+          relative_type__1: "გუშინ"
+          relative_type_0: "დღეს"
+          relative_type_1: "ხვალ"
+          relative_type_2: "ზეგ"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} დღეში"
+            relative_time_pattern_count_other: "{0} დღეში"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} დღის წინ"
+            relative_time_pattern_count_other: "{0} დღის წინ"
+        day_narrow:
+          display_name: "დღე"
+          relative_type__2: "გუშინწინ"
+          relative_type__1: "გუშინ"
+          relative_type_0: "დღეს"
+          relative_type_1: "ხვალ"
+          relative_type_2: "ზეგ"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} დღეში"
+            relative_time_pattern_count_other: "{0} დღეში"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} დღის წინ"
+            relative_time_pattern_count_other: "{0} დღის წინ"
+        weekday:
+          display_name: "კვირის დღე"
+        sun:
+          relative_type__1: "გასულ კვირას"
+          relative_type_0: "ამ კვირას"
+          relative_type_1: "მომავალ კვირას"
+        sun_short:
+          relative_type__1: "გასულ კვირას"
+          relative_type_0: "ამ კვირას"
+          relative_type_1: "მომავალ კვირას"
+        sun_narrow:
+          relative_type__1: "გასულ კვირას"
+          relative_type_0: "ამ კვირას"
+          relative_type_1: "მომავალ კვირას"
+        mon:
+          relative_type__1: "გასულ ორშაბათს"
+          relative_type_0: "ამ ორშაბათს"
+          relative_type_1: "მომავალ ორშაბათს"
+        mon_short:
+          relative_type__1: "წინა ორშ."
+          relative_type_0: "ამ ორშ."
+          relative_type_1: "მომ. ორშ."
+        mon_narrow:
+          relative_type__1: "გას. ორ."
+          relative_type_0: "ამ ორ."
+          relative_type_1: "მომ. ორ."
+        tue:
+          relative_type__1: "გასულ სამშაბათს"
+          relative_type_0: "ამ სამშაბათს"
+          relative_type_1: "მომავალ სამშაბათს"
+        tue_short:
+          relative_type__1: "წინა სამ."
+          relative_type_0: "ამ სამ."
+          relative_type_1: "მომ. სამ."
+        tue_narrow:
+          relative_type__1: "წინ სა."
+          relative_type_0: "ამ სა."
+          relative_type_1: "მომმ სა."
+        wed:
+          relative_type__1: "გასულ ოთხშაბათს"
+          relative_type_0: "ამ ოთხშაბათს"
+          relative_type_1: "მომავალ ოთხშაბათს"
+        wed_short:
+          relative_type__1: "წინა ოთხ."
+          relative_type_0: "ამ ოთხ."
+          relative_type_1: "მომ. ოთხ."
+        wed_narrow:
+          relative_type__1: "წინა ოთ."
+          relative_type_0: "ამ ოთ."
+          relative_type_1: "მომ. ოთ."
+        thu:
+          relative_type__1: "გასულ ხუთშაბათს"
+          relative_type_0: "ამ ხუთშაბათს"
+          relative_type_1: "მომავალ ხუთშაბათს"
+        thu_short:
+          relative_type__1: "წინა ხუთ."
+          relative_type_0: "ამ ხუთ."
+          relative_type_1: "მომ. ხუთ."
+        thu_narrow:
+          relative_type__1: "წინა ხთ."
+          relative_type_0: "ამ ხთ."
+          relative_type_1: "მომ. ხთ."
+        fri:
+          relative_type__1: "გასულ პარასკევს"
+          relative_type_0: "ამ პარასკევს"
+          relative_type_1: "მომავალ პარასკევს"
+        fri_short:
+          relative_type__1: "წინა პარ."
+          relative_type_0: "ამ პარ."
+          relative_type_1: "მომ. პარ."
+        fri_narrow:
+          relative_type__1: "წინა პა."
+          relative_type_0: "ამ პა."
+          relative_type_1: "მომ. პა."
+        sat:
+          relative_type__1: "გასულ შაბათს"
+          relative_type_0: "ამ შაბათს"
+          relative_type_1: "მომავალ შაბათს"
+        sat_short:
+          relative_type__1: "წინა შაბ."
+          relative_type_0: "ამ შაბ."
+          relative_type_1: "მომ. შაბ."
+        sat_narrow:
+          relative_type__1: "წინა შბ."
+          relative_type_0: "ამ შა."
+          relative_type_1: "მომ. შბ."
+        dayperiod:
+          display_name: "დღის ნახევარი"
+        hour:
+          display_name: "საათი"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} საათში"
+            relative_time_pattern_count_other: "{0} საათში"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} საათის წინ"
+            relative_time_pattern_count_other: "{0} საათის წინ"
+        hour_short:
+          display_name: "სთ."
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} საათში"
+            relative_time_pattern_count_other: "{0} საათში"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} სთ წინ"
+            relative_time_pattern_count_other: "{0} სთ წინ"
+        hour_narrow:
+          display_name: "სთ."
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} საათში"
+            relative_time_pattern_count_other: "{0} საათში"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} სთ წინ"
+            relative_time_pattern_count_other: "{0} სთ წინ"
+        minute:
+          display_name: "წუთი"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} წუთში"
+            relative_time_pattern_count_other: "{0} წუთში"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} წუთის წინ"
+            relative_time_pattern_count_other: "{0} წუთის წინ"
+        minute_short:
+          display_name: "წთ."
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} წუთში"
+            relative_time_pattern_count_other: "{0} წუთში"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} წთ წინ"
+            relative_time_pattern_count_other: "{0} წთ წინ"
+        minute_narrow:
+          display_name: "წთ."
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} წუთში"
+            relative_time_pattern_count_other: "{0} წუთში"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} წთ წინ"
+            relative_time_pattern_count_other: "{0} წთ წინ"
+        second:
+          display_name: "წამი"
+          relative_type_0: "ახლა"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} წამში"
+            relative_time_pattern_count_other: "{0} წამში"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} წამის წინ"
+            relative_time_pattern_count_other: "{0} წამის წინ"
+        second_short:
+          display_name: "წმ."
+          relative_type_0: "ახლა"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} წამში"
+            relative_time_pattern_count_other: "{0} წამში"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} წმ წინ"
+            relative_time_pattern_count_other: "{0} წმ წინ"
+        second_narrow:
+          display_name: "წმ."
+          relative_type_0: "ახლა"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} წამში"
+            relative_time_pattern_count_other: "{0} წამში"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} წმ წინ"
+            relative_time_pattern_count_other: "{0} წმ წინ"
+        zone:
+          display_name: "დროის სარტყელი"
+      time_zone_names:
+        hour_format: "+HH:mm;-HH:mm"
+        gmt_format: GMT{0}
+        gmt_zero_format: GMT
+        region_format: "დრო: {0}"
+        region_format_type_daylight: "{0} ზაფხულის დრო"
+        region_format_type_standard: "{0} სტანდარტული დრო"
+        fallback_format: "{1} ({0})"
+        zone:
+          america:
+            adak:
+              exemplar_city: "ადაკი"
+            anchorage:
+              exemplar_city: "ენქორაჯი"
+            anguilla:
+              exemplar_city: "ანგილა"
+            antigua:
+              exemplar_city: "ანტიგუა"
+            araguaina:
+              exemplar_city: "არაგუაინა"
+            argentina:
+              rio_gallegos:
+                exemplar_city: "რიო გალეგოსი"
+              san_juan:
+                exemplar_city: "სან ხუანი"
+              ushuaia:
+                exemplar_city: "უშუაია"
+              la_rioja:
+                exemplar_city: "ლა რიოხა"
+              san_luis:
+                exemplar_city: "სან-ლუისი"
+              salta:
+                exemplar_city: "სალტა"
+              tucuman:
+                exemplar_city: "ტუკუმანი"
+            aruba:
+              exemplar_city: "არუბა"
+            asuncion:
+              exemplar_city: "ასუნსიონი"
+            bahia:
+              exemplar_city: "ბაია"
+            bahia_banderas:
+              exemplar_city: "ბაჰია ბანდერასი"
+            barbados:
+              exemplar_city: "ბარბადოსი"
+            belem:
+              exemplar_city: "ბელემი"
+            belize:
+              exemplar_city: "ბელიზი"
+            blanc_sablon:
+              exemplar_city: "ბლან-საბლონი"
+            boa_vista:
+              exemplar_city: "ბოა ვისტა"
+            bogota:
+              exemplar_city: "ბოგოტა"
+            boise:
+              exemplar_city: "ბუასი"
+            buenos_aires:
+              exemplar_city: "ბუენოს-აირესი"
+            cambridge_bay:
+              exemplar_city: "კემბრიჯ ბეი"
+            campo_grande:
+              exemplar_city: "კამპო გრანდე"
+            cancun:
+              exemplar_city: "კანკუნი"
+            caracas:
+              exemplar_city: "კარაკასი"
+            catamarca:
+              exemplar_city: "კატამარკა"
+            cayenne:
+              exemplar_city: "კაიენა"
+            cayman:
+              exemplar_city: "კაიმანი"
+            chicago:
+              exemplar_city: "ჩიკაგო"
+            chihuahua:
+              exemplar_city: "ჩიჰუაჰუა"
+            coral_harbour:
+              exemplar_city: "ატიკოკანი"
+            cordoba:
+              exemplar_city: "კორდობა"
+            costa_rica:
+              exemplar_city: "კოსტა-რიკა"
+            creston:
+              exemplar_city: "კრესტონი"
+            cuiaba:
+              exemplar_city: "კუიაბა"
+            curacao:
+              exemplar_city: "კიურასაო"
+            danmarkshavn:
+              exemplar_city: "დენმარკშავნი"
+            dawson:
+              exemplar_city: "დოუსონი"
+            dawson_creek:
+              exemplar_city: "დოუსონ ქრიკი"
+            denver:
+              exemplar_city: "დენვერი"
+            detroit:
+              exemplar_city: "დეტროიტი"
+            dominica:
+              exemplar_city: "დომინიკა"
+            edmonton:
+              exemplar_city: "ედმონტონი"
+            eirunepe:
+              exemplar_city: "ეირუნეპე"
+            el_salvador:
+              exemplar_city: "სალვადორი"
+            fortaleza:
+              exemplar_city: "ფორტალეზა"
+            glace_bay:
+              exemplar_city: "გლეის ბეი"
+            godthab:
+              exemplar_city: "გოდთები"
+            goose_bay:
+              exemplar_city: "გუზ ბეი"
+            grand_turk:
+              exemplar_city: "გრანდ-ტურკი"
+            grenada:
+              exemplar_city: "გრენადა"
+            guadeloupe:
+              exemplar_city: "გვადელუპე"
+            guatemala:
+              exemplar_city: "გვატემალა"
+            guayaquil:
+              exemplar_city: "გუაიაკილი"
+            guyana:
+              exemplar_city: "გაიანა"
+            halifax:
+              exemplar_city: "ჰალიფაქსი"
+            havana:
+              exemplar_city: "ჰავანა"
+            hermosillo:
+              exemplar_city: "ჰერმოსილო"
+            indiana:
+              vincennes:
+                exemplar_city: "ვინსენი, ინდიანა"
+              petersburg:
+                exemplar_city: "პიტერსბურგი, ინდიანა"
+              tell_city:
+                exemplar_city: "თელ სითი, ინდიანა"
+              knox:
+                exemplar_city: "ნოქსი, ინდიანა"
+              winamac:
+                exemplar_city: "უინემაკი, ინდიანა"
+              marengo:
+                exemplar_city: "მარენგო, ინდიანა"
+              vevay:
+                exemplar_city: "ვივეი, ინდიანა"
+            indianapolis:
+              exemplar_city: "ინდიანაპოლისი"
+            inuvik:
+              exemplar_city: "ინუვიკი"
+            iqaluit:
+              exemplar_city: "იქალუიტი"
+            jamaica:
+              exemplar_city: "იამაიკა"
+            jujuy:
+              exemplar_city: "ჯუჯუი"
+            juneau:
+              exemplar_city: "ჯუნო"
+            kentucky:
+              monticello:
+                exemplar_city: "მონტიჩელო, კენტუკი"
+            kralendijk:
+              exemplar_city: "კრალენდიიკი"
+            la_paz:
+              exemplar_city: "ლა-პაზი"
+            lima:
+              exemplar_city: "ლიმა"
+            los_angeles:
+              exemplar_city: "ლოს-ანჯელესი"
+            louisville:
+              exemplar_city: "ლუისვილი"
+            lower_princes:
+              exemplar_city: "ლოერ პრინც კვორტერი"
+            maceio:
+              exemplar_city: "მასეიო"
+            managua:
+              exemplar_city: "მანაგუა"
+            manaus:
+              exemplar_city: "მანაუსი"
+            marigot:
+              exemplar_city: "მარიგო"
+            martinique:
+              exemplar_city: "მარტინიკი"
+            matamoros:
+              exemplar_city: "მატამოროსი"
+            mazatlan:
+              exemplar_city: "მაზატლანი"
+            mendoza:
+              exemplar_city: "მენდოზა"
+            menominee:
+              exemplar_city: "მენომინი"
+            merida:
+              exemplar_city: "მერიდა"
+            metlakatla:
+              exemplar_city: "მეტლაკატლა"
+            mexico_city:
+              exemplar_city: "მეხიკო"
+            miquelon:
+              exemplar_city: "მიკელონი"
+            moncton:
+              exemplar_city: "მონქტონი"
+            monterrey:
+              exemplar_city: "მონტერეი"
+            montevideo:
+              exemplar_city: "მონტევიდეო"
+            montserrat:
+              exemplar_city: "მონსერატი"
+            nassau:
+              exemplar_city: "ნასაუ"
+            new_york:
+              exemplar_city: "ნიუ-იორკი"
+            nipigon:
+              exemplar_city: "ნიპიგონი"
+            nome:
+              exemplar_city: "ნომი"
+            noronha:
+              exemplar_city: "ნორონია"
+            north_dakota:
+              beulah:
+                exemplar_city: "ბიულა, ჩრდილოეთი დაკოტა"
+              new_salem:
+                exemplar_city: "ნიუ სალემი, ჩრდილოეთი დაკოტა"
+              center:
+                exemplar_city: "ცენტრი, ჩრდილოეთი დაკოტა"
+            ojinaga:
+              exemplar_city: "ოხინაგა"
+            panama:
+              exemplar_city: "პანამა"
+            pangnirtung:
+              exemplar_city: "პანგნირტუნგი"
+            paramaribo:
+              exemplar_city: "პარამარიბო"
+            phoenix:
+              exemplar_city: "ფენიქსი"
+            port_au_prince:
+              exemplar_city: "პორტ-ა-პრინსი"
+            port_of_spain:
+              exemplar_city: "პორტ-ოვ-სპეინი"
+            porto_velho:
+              exemplar_city: "პორტუ-ველიო"
+            puerto_rico:
+              exemplar_city: "პუერტო-რიკო"
+            rainy_river:
+              exemplar_city: "რეინი რივერი"
+            rankin_inlet:
+              exemplar_city: "რენკინ ინლეტი"
+            recife:
+              exemplar_city: "რეციფე"
+            regina:
+              exemplar_city: "რეჯინა"
+            resolute:
+              exemplar_city: "რეზოლუტე"
+            rio_branco:
+              exemplar_city: "რიო ბრანკო"
+            santa_isabel:
+              exemplar_city: "სანტა ისაბელი"
+            santarem:
+              exemplar_city: "სანტარემი"
+            santiago:
+              exemplar_city: "სანტიაგო"
+            santo_domingo:
+              exemplar_city: "სანტო-დომინგო"
+            sao_paulo:
+              exemplar_city: "სან-პაულუ"
+            scoresbysund:
+              exemplar_city: "სკორსბისუნდი"
+            sitka:
+              exemplar_city: "სიტკა"
+            st_barthelemy:
+              exemplar_city: "სენ-ბართელემი"
+            st_johns:
+              exemplar_city: "სენტ ჯონსი"
+            st_kitts:
+              exemplar_city: "სენტ-კიტსი"
+            st_lucia:
+              exemplar_city: "სენტ-ლუსია"
+            st_thomas:
+              exemplar_city: "სენ-ტომასი"
+            st_vincent:
+              exemplar_city: "სენ-ვინსენტი"
+            swift_current:
+              exemplar_city: "სვიფტ კარენტი"
+            tegucigalpa:
+              exemplar_city: "ტეგუჩიგალპა"
+            thule:
+              exemplar_city: "თულე"
+            thunder_bay:
+              exemplar_city: "თანდერ ბეი"
+            tijuana:
+              exemplar_city: "ტიხუანა"
+            toronto:
+              exemplar_city: "ტორონტო"
+            tortola:
+              exemplar_city: "ტორტოლა"
+            vancouver:
+              exemplar_city: "ვანკუვერი"
+            whitehorse:
+              exemplar_city: "უაითჰორსი"
+            winnipeg:
+              exemplar_city: "უინიპეგი"
+            yakutat:
+              exemplar_city: "იაკუტატი"
+            yellowknife:
+              exemplar_city: "იელოუნაიფი"
+          atlantic:
+            azores:
+              exemplar_city: "აზორის კუნძულები"
+            bermuda:
+              exemplar_city: "ბერმუდი"
+            canary:
+              exemplar_city: "კანარი"
+            cape_verde:
+              exemplar_city: "კაბო-ვერდე"
+            faeroe:
+              exemplar_city: "ფარერის კუნძულები"
+            madeira:
+              exemplar_city: "მადეირა"
+            reykjavik:
+              exemplar_city: "რეიკიავიკი"
+            south_georgia:
+              exemplar_city: "სამხრეთ ჯორჯია"
+            st_helena:
+              exemplar_city: "წმ. ელენეს კუნძული"
+            stanley:
+              exemplar_city: "სტენლი"
+          europe:
+            amsterdam:
+              exemplar_city: "ამსტერდამი"
+            andorra:
+              exemplar_city: "ანდორა"
+            athens:
+              exemplar_city: "ათენი"
+            belgrade:
+              exemplar_city: "ბელგრადი"
+            berlin:
+              exemplar_city: "ბერლინი"
+            bratislava:
+              exemplar_city: "ბრატისლავა"
+            brussels:
+              exemplar_city: "ბრიუსელი"
+            bucharest:
+              exemplar_city: "ბუხარესტი"
+            budapest:
+              exemplar_city: "ბუდაპეშტი"
+            busingen:
+              exemplar_city: "ბუსინგენი"
+            chisinau:
+              exemplar_city: "კიშინიოვი"
+            copenhagen:
+              exemplar_city: "კოპენჰაგენი"
+            dublin:
+              long:
+                daylight: "ირლანდიის სტანდარტული დრო"
+              exemplar_city: "დუბლინი"
+            gibraltar:
+              exemplar_city: "გიბრალტარი"
+            guernsey:
+              exemplar_city: "გერნსი"
+            helsinki:
+              exemplar_city: "ჰელსინკი"
+            isle_of_man:
+              exemplar_city: "მენის კუნძული"
+            istanbul:
+              exemplar_city: "სტამბოლი"
+            jersey:
+              exemplar_city: "ჯერსი"
+            kaliningrad:
+              exemplar_city: "კალინინგრადი"
+            kiev:
+              exemplar_city: "კიევი"
+            lisbon:
+              exemplar_city: "ლისაბონი"
+            ljubljana:
+              exemplar_city: "ლიუბლიანა"
+            london:
+              long:
+                daylight: "ბრიტანეთის ზაფხულის დრო"
+              exemplar_city: "ლონდონი"
+            luxembourg:
+              exemplar_city: "ლუქსემბურგი"
+            madrid:
+              exemplar_city: "მადრიდი"
+            malta:
+              exemplar_city: "მალტა"
+            mariehamn:
+              exemplar_city: "მარიჰამნი"
+            minsk:
+              exemplar_city: "მინსკი"
+            monaco:
+              exemplar_city: "მონაკო"
+            moscow:
+              exemplar_city: "მოსკოვი"
+            oslo:
+              exemplar_city: "ოსლო"
+            paris:
+              exemplar_city: "პარიზი"
+            podgorica:
+              exemplar_city: "პოდგორიცა"
+            prague:
+              exemplar_city: "პრაღა"
+            riga:
+              exemplar_city: "რიგა"
+            rome:
+              exemplar_city: "რომი"
+            samara:
+              exemplar_city: "სამარა"
+            san_marino:
+              exemplar_city: "სან-მარინო"
+            sarajevo:
+              exemplar_city: "სარაევო"
+            simferopol:
+              exemplar_city: "სიმფეროპოლი"
+            skopje:
+              exemplar_city: "სკოპიე"
+            sofia:
+              exemplar_city: "სოფია"
+            stockholm:
+              exemplar_city: "სტოკჰოლმი"
+            tallinn:
+              exemplar_city: "ტალინი"
+            tirane:
+              exemplar_city: "ტირანა"
+            uzhgorod:
+              exemplar_city: "უჟგოროდი"
+            vaduz:
+              exemplar_city: "ვადუზი"
+            vatican:
+              exemplar_city: "ვატიკანი"
+            vienna:
+              exemplar_city: "ვენა"
+            vilnius:
+              exemplar_city: "ვილნიუსი"
+            volgograd:
+              exemplar_city: "ვოლგოგრადი"
+            warsaw:
+              exemplar_city: "ვარშავა"
+            zagreb:
+              exemplar_city: "ზაგრები"
+            zaporozhye:
+              exemplar_city: "ზაპოროჟიე"
+            zurich:
+              exemplar_city: "ციურიხი"
+          africa:
+            abidjan:
+              exemplar_city: "აბიჯანი"
+            accra:
+              exemplar_city: "აკრა"
+            addis_ababa:
+              exemplar_city: "ადის-აბება"
+            algiers:
+              exemplar_city: "ალჟირი"
+            asmera:
+              exemplar_city: "ასმარა"
+            bamako:
+              exemplar_city: "ბამაკო"
+            bangui:
+              exemplar_city: "ბანგი"
+            banjul:
+              exemplar_city: "ბანჯული"
+            bissau:
+              exemplar_city: "ბისაუ"
+            blantyre:
+              exemplar_city: "ბლანტირი"
+            brazzaville:
+              exemplar_city: "ბრაზავილი"
+            bujumbura:
+              exemplar_city: "ბუჯუმბურა"
+            cairo:
+              exemplar_city: "კაირო"
+            casablanca:
+              exemplar_city: "კასაბლანკა"
+            ceuta:
+              exemplar_city: "სეუტა"
+            conakry:
+              exemplar_city: "კონაკრი"
+            dakar:
+              exemplar_city: "დაკარი"
+            dar_es_salaam:
+              exemplar_city: "დარ-ეს-სალამი"
+            djibouti:
+              exemplar_city: "ჯიბუტი"
+            douala:
+              exemplar_city: "დუალა"
+            el_aaiun:
+              exemplar_city: "ელ-ააიუნი"
+            freetown:
+              exemplar_city: "ფრიტაუნი"
+            gaborone:
+              exemplar_city: "გაბორონე"
+            harare:
+              exemplar_city: "ჰარარე"
+            johannesburg:
+              exemplar_city: "იოჰანესბურგი"
+            juba:
+              exemplar_city: "ჯუბა"
+            kampala:
+              exemplar_city: "კამპალა"
+            khartoum:
+              exemplar_city: "ხარტუმი"
+            kigali:
+              exemplar_city: "კიგალი"
+            kinshasa:
+              exemplar_city: "კინშასა"
+            lagos:
+              exemplar_city: "ლაგოსი"
+            libreville:
+              exemplar_city: "ლიბრევილი"
+            lome:
+              exemplar_city: "ლომე"
+            luanda:
+              exemplar_city: "ლუანდა"
+            lubumbashi:
+              exemplar_city: "ლუბუმბაში"
+            lusaka:
+              exemplar_city: "ლუსაკა"
+            malabo:
+              exemplar_city: "მალაბო"
+            maputo:
+              exemplar_city: "მაპუტო"
+            maseru:
+              exemplar_city: "მასერუ"
+            mbabane:
+              exemplar_city: "მბაბანე"
+            mogadishu:
+              exemplar_city: "მოგადიშუ"
+            monrovia:
+              exemplar_city: "მონროვია"
+            nairobi:
+              exemplar_city: "ნაირობი"
+            ndjamena:
+              exemplar_city: "ნჯამენა"
+            niamey:
+              exemplar_city: "ნიამეი"
+            nouakchott:
+              exemplar_city: "ნუაკშოტი"
+            ouagadougou:
+              exemplar_city: "უაგადუგუ"
+            porto_novo:
+              exemplar_city: "პორტო-ნოვო"
+            sao_tome:
+              exemplar_city: "სენ-ტომე"
+            tripoli:
+              exemplar_city: "ტრიპოლი"
+            tunis:
+              exemplar_city: "ტუნისი"
+            windhoek:
+              exemplar_city: "ვინდხუკი"
+          asia:
+            aden:
+              exemplar_city: "ადენი"
+            almaty:
+              exemplar_city: "ალმატი"
+            amman:
+              exemplar_city: "ამანი"
+            anadyr:
+              exemplar_city: "ანადირი"
+            aqtau:
+              exemplar_city: "აქტაუ"
+            aqtobe:
+              exemplar_city: "აქტობე"
+            ashgabat:
+              exemplar_city: "აშხაბადი"
+            baghdad:
+              exemplar_city: "ბაღდადი"
+            bahrain:
+              exemplar_city: "ბაჰრეინი"
+            baku:
+              exemplar_city: "ბაქო"
+            bangkok:
+              exemplar_city: "ბანგკოკი"
+            beirut:
+              exemplar_city: "ბეირუთი"
+            bishkek:
+              exemplar_city: "ბიშკეკი"
+            brunei:
+              exemplar_city: "ბრუნეი"
+            calcutta:
+              exemplar_city: "კალკუტა"
+            chita:
+              exemplar_city: "ჩიტა"
+            choibalsan:
+              exemplar_city: "ჩოიბალსანი"
+            colombo:
+              exemplar_city: "კოლომბო"
+            damascus:
+              exemplar_city: "დამასკი"
+            dhaka:
+              exemplar_city: "დაკა"
+            dili:
+              exemplar_city: "დილი"
+            dubai:
+              exemplar_city: "დუბაი"
+            dushanbe:
+              exemplar_city: "დუშანბე"
+            gaza:
+              exemplar_city: "გაზა"
+            hebron:
+              exemplar_city: "ჰებრონი"
+            hong_kong:
+              exemplar_city: "ჰონკონგი"
+            hovd:
+              exemplar_city: "ჰოვდი"
+            irkutsk:
+              exemplar_city: "ირკუტსკი"
+            jakarta:
+              exemplar_city: "ჯაკარტა"
+            jayapura:
+              exemplar_city: "ჯაიაპურა"
+            jerusalem:
+              exemplar_city: "იერუსალიმი"
+            kabul:
+              exemplar_city: "ქაბული"
+            kamchatka:
+              exemplar_city: "კამჩატკა"
+            karachi:
+              exemplar_city: "კარაჩი"
+            katmandu:
+              exemplar_city: "კატმანდუ"
+            khandyga:
+              exemplar_city: "ხანდიგა"
+            krasnoyarsk:
+              exemplar_city: "კრასნოიარსკი"
+            kuala_lumpur:
+              exemplar_city: "კუალა-ლუმპური"
+            kuching:
+              exemplar_city: "კუჩინგი"
+            kuwait:
+              exemplar_city: "ქუვეითი"
+            macau:
+              exemplar_city: "მაკაო"
+            magadan:
+              exemplar_city: "მაგადანი"
+            makassar:
+              exemplar_city: "მაკასარი"
+            manila:
+              exemplar_city: "მანილა"
+            muscat:
+              exemplar_city: "მუსკატი"
+            nicosia:
+              exemplar_city: "ნიკოსია"
+            novokuznetsk:
+              exemplar_city: "ნოვოკუზნეცკი"
+            novosibirsk:
+              exemplar_city: "ნოვოსიბირსკი"
+            omsk:
+              exemplar_city: "ომსკი"
+            oral:
+              exemplar_city: "ორალი"
+            phnom_penh:
+              exemplar_city: "პნომპენი"
+            pontianak:
+              exemplar_city: "პონტიანაკი"
+            pyongyang:
+              exemplar_city: "ფხენიანი"
+            qatar:
+              exemplar_city: "კატარი"
+            qyzylorda:
+              exemplar_city: "ყიზილორდა"
+            rangoon:
+              exemplar_city: "რანგუნი"
+            riyadh:
+              exemplar_city: "ერ-რიადი"
+            saigon:
+              exemplar_city: "ჰოჩიმინი"
+            sakhalin:
+              exemplar_city: "სახალინი"
+            samarkand:
+              exemplar_city: "სამარყანდი"
+            seoul:
+              exemplar_city: "სეული"
+            shanghai:
+              exemplar_city: "შანხაი"
+            singapore:
+              exemplar_city: "სინგაპური"
+            srednekolymsk:
+              exemplar_city: "სრედნეკოლიმსკი"
+            taipei:
+              exemplar_city: "ტაიპეი"
+            tashkent:
+              exemplar_city: "ტაშკენტი"
+            tbilisi:
+              exemplar_city: "თბილისი"
+            tehran:
+              exemplar_city: "თეირანი"
+            thimphu:
+              exemplar_city: "თხიმფხუ"
+            tokyo:
+              exemplar_city: "ტოკიო"
+            ulaanbaatar:
+              exemplar_city: "ულანბატარი"
+            urumqi:
+              exemplar_city: "ურუმქი"
+            ust_nera:
+              exemplar_city: "უსტ-ნერა"
+            vientiane:
+              exemplar_city: "ვიენტიანი"
+            vladivostok:
+              exemplar_city: "ვლადივოსტოკი"
+            yakutsk:
+              exemplar_city: "იაკუტსკი"
+            yekaterinburg:
+              exemplar_city: "ეკატერინბურგი"
+            yerevan:
+              exemplar_city: "ერევანი"
+          indian:
+            antananarivo:
+              exemplar_city: "ანტანანარივუ"
+            chagos:
+              exemplar_city: "ჩაგოსი"
+            christmas:
+              exemplar_city: "შობის კუნძული"
+            cocos:
+              exemplar_city: "ქოქოსი"
+            comoro:
+              exemplar_city: "კომორო"
+            kerguelen:
+              exemplar_city: "კერგელენი"
+            mahe:
+              exemplar_city: "მაჰე"
+            maldives:
+              exemplar_city: "მალდივები"
+            mauritius:
+              exemplar_city: "მავრიკი"
+            mayotte:
+              exemplar_city: "მაიოტი"
+            reunion:
+              exemplar_city: "რეიუნიონი"
+          australia:
+            adelaide:
+              exemplar_city: "ადელაიდა"
+            brisbane:
+              exemplar_city: "ბრისბეინი"
+            broken_hill:
+              exemplar_city: "ბროუკენ ჰილი"
+            currie:
+              exemplar_city: "ქური"
+            darwin:
+              exemplar_city: "დარვინი"
+            eucla:
+              exemplar_city: "ეუკლა"
+            hobart:
+              exemplar_city: "ჰობარტი"
+            lindeman:
+              exemplar_city: "ლინდმანი"
+            lord_howe:
+              exemplar_city: "ლორდ ჰოუი"
+            melbourne:
+              exemplar_city: "მელბურნი"
+            perth:
+              exemplar_city: "პერთი"
+            sydney:
+              exemplar_city: "სიდნეი"
+          pacific:
+            apia:
+              exemplar_city: "აპია"
+            auckland:
+              exemplar_city: "ოკლენდი"
+            bougainville:
+              exemplar_city: "ბუგენვილი"
+            chatham:
+              exemplar_city: "ჩათამი"
+            easter:
+              exemplar_city: "ისთერი"
+            efate:
+              exemplar_city: "ეფატე"
+            enderbury:
+              exemplar_city: "ენდერბური"
+            fakaofo:
+              exemplar_city: "ფაკაოფო"
+            fiji:
+              exemplar_city: "ფიჯი"
+            funafuti:
+              exemplar_city: "ფუნაფუტი"
+            galapagos:
+              exemplar_city: "გალაპაგოსი"
+            gambier:
+              exemplar_city: "გამბიერი"
+            guadalcanal:
+              exemplar_city: "გვადალკანალი"
+            guam:
+              exemplar_city: "გუამი"
+            honolulu:
+              exemplar_city: "ჰონოლულუ"
+            johnston:
+              exemplar_city: "ჯონსტონი"
+            kiritimati:
+              exemplar_city: "კირიტიმატი"
+            kosrae:
+              exemplar_city: "კოსრაე"
+            kwajalein:
+              exemplar_city: "კვაჯალეინი"
+            majuro:
+              exemplar_city: "მახურო"
+            marquesas:
+              exemplar_city: "მარკეზასი"
+            midway:
+              exemplar_city: "მიდუეი"
+            nauru:
+              exemplar_city: "ნაურუ"
+            niue:
+              exemplar_city: "ნიუე"
+            norfolk:
+              exemplar_city: "ნორფოლკი"
+            noumea:
+              exemplar_city: "ნუმეა"
+            pago_pago:
+              exemplar_city: "პაგო-პაგო"
+            palau:
+              exemplar_city: "პალაუ"
+            pitcairn:
+              exemplar_city: "პიტკერნი"
+            ponape:
+              exemplar_city: "პონპეი"
+            port_moresby:
+              exemplar_city: "პორტ მორსბი"
+            rarotonga:
+              exemplar_city: "რაროტონგა"
+            saipan:
+              exemplar_city: "საიპანი"
+            tahiti:
+              exemplar_city: "ტაიტი"
+            tarawa:
+              exemplar_city: "ტარაუა"
+            tongatapu:
+              exemplar_city: "ტონგატაპუ"
+            truk:
+              exemplar_city: "ჩუუკი"
+            wake:
+              exemplar_city: "უეიკი"
+            wallis:
+              exemplar_city: "ვალისი"
+          arctic:
+            longyearbyen:
+              exemplar_city: "ლონგირბიენი"
+          antarctica:
+            casey:
+              exemplar_city: "კეისი"
+            davis:
+              exemplar_city: "დევისი"
+            dumont_d_urville:
+              exemplar_city: "დიუმონ დ’ურვილი"
+            macquarie:
+              exemplar_city: "მექვორი"
+            mawson:
+              exemplar_city: "მოუსონი"
+            mc_murdo:
+              exemplar_city: "მაკმურდო"
+            palmer:
+              exemplar_city: "პალმერი"
+            rothera:
+              exemplar_city: "როთერა"
+            syowa:
+              exemplar_city: "სიოუა"
+            troll:
+              exemplar_city: "ტროლი"
+            vostok:
+              exemplar_city: "ვოსტოკი"
+          etc:
+            gmt:
+              exemplar_city: GMT
+            gmt1:
+              exemplar_city: GMT+1
+            gmt10:
+              exemplar_city: GMT+10
+            gmt11:
+              exemplar_city: GMT+11
+            gmt12:
+              exemplar_city: GMT+12
+            gmt2:
+              exemplar_city: GMT+2
+            gmt3:
+              exemplar_city: GMT+3
+            gmt4:
+              exemplar_city: GMT+4
+            gmt5:
+              exemplar_city: GMT+5
+            gmt6:
+              exemplar_city: GMT+6
+            gmt7:
+              exemplar_city: GMT+7
+            gmt8:
+              exemplar_city: GMT+8
+            gmt9:
+              exemplar_city: GMT+9
+            gmt_1:
+              exemplar_city: GMT-1
+            gmt_10:
+              exemplar_city: GMT-10
+            gmt_11:
+              exemplar_city: GMT-11
+            gmt_12:
+              exemplar_city: GMT-12
+            gmt_13:
+              exemplar_city: GMT-13
+            gmt_14:
+              exemplar_city: GMT-14
+            gmt_2:
+              exemplar_city: GMT-2
+            gmt_3:
+              exemplar_city: GMT-3
+            gmt_4:
+              exemplar_city: GMT-4
+            gmt_5:
+              exemplar_city: GMT-5
+            gmt_6:
+              exemplar_city: GMT-6
+            gmt_7:
+              exemplar_city: GMT-7
+            gmt_8:
+              exemplar_city: GMT-8
+            gmt_9:
+              exemplar_city: GMT-9
+            unknown:
+              exemplar_city: "უცნობი ქალაქი"
+        metazone:
+          afghanistan:
+            long:
+              standard: "ავღანეთის დრო"
+          africa_central:
+            long:
+              standard: "ცენტრალური აფრიკის დრო"
+          africa_eastern:
+            long:
+              standard: "აღმოსავლეთ აფრიკის დრო"
+          africa_southern:
+            long:
+              standard: "სამხრეთ აფრიკის დრო"
+          africa_western:
+            long:
+              generic: "დასავლეთ აფრიკის დრო"
+              standard: "დასავლეთ აფრიკის სტანდარტული დრო"
+              daylight: "დასავლეთ აფრიკის ზაფხულის დრო"
+          alaska:
+            long:
+              generic: "ალასკის დრო"
+              standard: "ალასკას სტანდარტული დრო"
+              daylight: "ალასკას ზაფხულის დრო"
+          amazon:
+            long:
+              generic: "ამაზონიის დრო"
+              standard: "ამაზონიის სტანდარტული დრო"
+              daylight: "ამაზონიის ზაფხულის დრო"
+          america_central:
+            long:
+              generic: "ჩრდილოეთ ამერიკის ცენტრალური დრო"
+              standard: "ჩრდილოეთ ამერიკის ცენტრალური სტანდარტული დრო"
+              daylight: "ჩრდილოეთ ამერიკის ცენტრალური ზაფხულის დრო"
+          america_eastern:
+            long:
+              generic: "ჩრდილოეთ ამერიკის აღმოსავლეთის დრო"
+              standard: "ჩრდილოეთ ამერიკის აღმოსავლეთის სტანდარტული დრო"
+              daylight: "ჩრდილოეთ ამერიკის აღმოსავლეთის ზაფხულის დრო"
+          america_mountain:
+            long:
+              generic: "ჩრდილოეთ ამერიკის მაუნთინის დრო"
+              standard: "ჩრდილოეთ ამერიკის მაუნთინის სტანდარტული დრო"
+              daylight: "ჩრდილოეთ ამერიკის მაუნთინის ზაფხულის დრო"
+          america_pacific:
+            long:
+              generic: "ჩრდილოეთ ამერიკის წყნარი ოკეანის დრო"
+              standard: "ჩრდილოეთ ამერიკის წყნარი ოკეანის სტანდარტული დრო"
+              daylight: "ჩრდილოეთ ამერიკის წყნარი ოკეანის ზაფხულის დრო"
+          apia:
+            long:
+              generic: "აპიას დრო"
+              standard: "აპიას სტანდარტული დრო"
+              daylight: "აპიას ზაფხულის დრო"
+          arabian:
+            long:
+              generic: "არაბეთის დრო"
+              standard: "არაბეთის სტანდარტული დრო"
+              daylight: "არაბეთის ზაფხულის დრო"
+          argentina:
+            long:
+              generic: "არგენტინის დრო"
+              standard: "არგენტინის სტანდარტული დრო"
+              daylight: "არგენტინის ზაფხულის დრო"
+          argentina_western:
+            long:
+              generic: "დასავლეთ არგენტინის დრო"
+              standard: "დასავლეთ არგენტინის სტანდარტული დრო"
+              daylight: "დასავლეთ არგენტინის ზაფხულის დრო"
+          armenia:
+            long:
+              generic: "სომხეთის დრო"
+              standard: "სომხეთის სტანდარტული დრო"
+              daylight: "სომხეთის ზაფხულის დრო"
+          atlantic:
+            long:
+              generic: "ატლანტიკის ოკეანის დრო"
+              standard: "ატლანტიკის ოკეანის სტანდარტული დრო"
+              daylight: "ატლანტიკის ოკეანის ზაფხულის დრო"
+          australia_central:
+            long:
+              generic: "ცენტრალური ავსტრალიის დრო"
+              standard: "ავსტრალიის ცენტრალური სტანდარტული დრო"
+              daylight: "ავსტრალიის ცენტრალური ზაფხულის დრო"
+          australia_central_western:
+            long:
+              generic: "ცენტრალური და დასავლეთ ავსტრალიის დრო"
+              standard: "ცენტრალური და დასავლეთ ავსტრალიის სტანდარტული დრო"
+              daylight: "ცენტრალური და დასავლეთ ავსტრალიის ზაფხულის დრო"
+          australia_eastern:
+            long:
+              generic: "აღმოსავლეთ ავსტრალიის დრო"
+              standard: "აღმოსავლეთ ავსტრალიის სტანდარტული დრო"
+              daylight: "აღმოსავლეთ ავსტრალიის ზაფხულის დრო"
+          australia_western:
+            long:
+              generic: "დასავლეთ ავსტრალიის დრო"
+              standard: "დასავლეთ ავსტრალიის სტანდარტული დრო"
+              daylight: "დასავლეთ ავსტრალიის ზაფხულის დრო"
+          azerbaijan:
+            long:
+              generic: "აზერბაიჯანის დრო"
+              standard: "აზერბაიჯანის სტანდარტული დრო"
+              daylight: "აზერბაიჯანის ზაფხულის დრო"
+          azores:
+            long:
+              generic: "აზორის კუნძულების დრო"
+              standard: "აზორის კუნძულების სტანდარტული დრო"
+              daylight: "აზორის კუნძულების ზაფხულის დრო"
+          bangladesh:
+            long:
+              generic: "ბანგლადეშის დრო"
+              standard: "ბანგლადეშის სტანდარტული დრო"
+              daylight: "ბანგლადეშის ზაფხულის დრო"
+          bhutan:
+            long:
+              standard: "ბუტანის დრო"
+          bolivia:
+            long:
+              standard: "ბოლივიის დრო"
+          brasilia:
+            long:
+              generic: "ბრაზილიის დრო"
+              standard: "ბრაზილიის სტანდარტული დრო"
+              daylight: "ბრაზილიის ზაფხულის დრო"
+          brunei:
+            long:
+              standard: "ბრუნეი-დარუსალამის დრო"
+          cape_verde:
+            long:
+              generic: "კაბო-ვერდეს დრო"
+              standard: "კაბო-ვერდეს სტანდარტული დრო"
+              daylight: "კაბო-ვერდეს ზაფხულის დრო"
+          chamorro:
+            long:
+              standard: "ჩამოროს დრო"
+          chatham:
+            long:
+              generic: "ჩატემის დრო"
+              standard: "ჩატემის სტანდარტული დრო"
+              daylight: "ჩატემის ზაფხულის დრო"
+          chile:
+            long:
+              generic: "ჩილეს დრო"
+              standard: "ჩილეს სტანდარტული დრო"
+              daylight: "ჩილეს ზაფხულის დრო"
+          china:
+            long:
+              generic: "ჩინეთის დრო"
+              standard: "ჩინეთის სტანდარტული დრო"
+              daylight: "ჩინეთის დროის სარტყელი"
+          choibalsan:
+            long:
+              generic: "ჩოიბალსანის დრო"
+              standard: "ჩოიბალსანის სტანდარტული დრო"
+              daylight: "ჩოიბალსანის ზაფხულის დრო"
+          christmas:
+            long:
+              standard: "შობის კუნძულის დრო"
+          cocos:
+            long:
+              standard: "ქოქოსის კუნძულების დრო"
+          colombia:
+            long:
+              generic: "კოლუმბიის დრო"
+              standard: "კოლუმბიის სტანდარტული დრო"
+              daylight: "კოლუმბიის ზაფხულის დრო"
+          cook:
+            long:
+              generic: "კუკის კუნძულების დრო"
+              standard: "კუკის კუნძულების სტანდარტული დრო"
+              daylight: "კუკის კუნძულების ნახევრად ზაფხულის დრო"
+          cuba:
+            long:
+              generic: "კუბის დრო"
+              standard: "კუბის სტანდარტული დრო"
+              daylight: "კუბის ზაფხულის დრო"
+          davis:
+            long:
+              standard: "დევისის დრო"
+          dumont_d_urville:
+            long:
+              standard: "დუმონ-დურვილის დრო"
+          east_timor:
+            long:
+              standard: "აღმოსავლეთ ტიმორის დრო"
+          easter:
+            long:
+              generic: "აღდგომის კუნძულის დრო"
+              standard: "აღდგომის კუნძულის სტანდარტული დრო"
+              daylight: "აღდგომის კუნძულის ზაფხულის დრო"
+          ecuador:
+            long:
+              standard: "ეკვადორის დრო"
+          europe_central:
+            long:
+              generic: "ცენტრალური ევროპის დრო"
+              standard: "ცენტრალური ევროპის სტანდარტული დრო"
+              daylight: "ცენტრალური ევროპის ზაფხულის დრო"
+          europe_eastern:
+            long:
+              generic: "აღმოსავლეთ ევროპის დრო"
+              standard: "აღმოსავლეთ ევროპის სტანდარტული დრო"
+              daylight: "აღმოსავლეთ ევროპის ზაფხულის დრო"
+          europe_further_eastern:
+            long:
+              standard: "შორეული აღმოსავლეთ ევროპის დრო"
+          europe_western:
+            long:
+              generic: "დასავლეთ ევროპის დრო"
+              standard: "დასავლეთ ევროპის სტანდარტული დრო"
+              daylight: "დასავლეთ ევროპის ზაფხულის დრო"
+          falkland:
+            long:
+              generic: "ფოლკლენდის კუნძულების დრო"
+              standard: "ფოლკლენდის კუნძულების სტანდარტული დრო"
+              daylight: "ფოლკლენდის კუნძულების ზაფხულის დრო"
+          fiji:
+            long:
+              generic: "ფიჯის დრო"
+              standard: "ფიჯის სტანდარტული დრო"
+              daylight: "ფიჯის ზაფხულის დრო"
+          french_guiana:
+            long:
+              standard: "საფრანგეთის გვიანის დრო"
+          french_southern:
+            long:
+              standard: "ფრანგული სამხრეთის და ანტარქტიკის დრო"
+          galapagos:
+            long:
+              standard: "გალაპაგოსის დრო"
+          gambier:
+            long:
+              standard: "გამბიერის დრო"
+          georgia:
+            long:
+              generic: "საქართველოს დრო"
+              standard: "საქართველოს სტანდარტული დრო"
+              daylight: "საქართველოს ზაფხულის დრო"
+          gilbert_islands:
+            long:
+              standard: "გილბერტის კუნძულების დრო"
+          gmt:
+            long:
+              standard: "გრინვიჩის საშუალო დრო"
+          greenland_eastern:
+            long:
+              generic: "აღმოსავლეთ გრენლანდიის დრო"
+              standard: "აღმოსავლეთ გრენლანდიის სტანდარტული დრო"
+              daylight: "აღმოსავლეთ გრენლანდიის ზაფხულის დრო"
+          greenland_western:
+            long:
+              generic: "დასავლეთ გრენლანდიის დრო"
+              standard: "დასავლეთ გრენლანდიის სტანდარტული დრო"
+              daylight: "დასავლეთ გრენლანდიის ზაფხულის დრო"
+          gulf:
+            long:
+              standard: "სპარსეთის ყურის სტანდარტული დრო"
+          guyana:
+            long:
+              standard: "გაიანის დრო"
+          hawaii_aleutian:
+            long:
+              generic: "ჰავაის და ალეუტის დრო"
+              standard: "ჰავაის და ალეუტის სტანდარტული დრო"
+              daylight: "ჰავაის და ალეუტის ზაფხულის დრო"
+          hong_kong:
+            long:
+              generic: "ჰონკონგის დრო"
+              standard: "ჰონკონგის სტანდარტული დრო"
+              daylight: "ჰონკონგის ზაფხულის დრო"
+          hovd:
+            long:
+              generic: "ჰოვდის დრო"
+              standard: "ჰოვდის სტანდარტული დრო"
+              daylight: "ჰოვდის ზაფხულის დრო"
+          india:
+            long:
+              standard: "ინდოეთის დრო"
+          indian_ocean:
+            long:
+              standard: "ინდოეთის ოკეანის კუნძულების დრო"
+          indochina:
+            long:
+              standard: "ინდოჩინეთის დრო"
+          indonesia_central:
+            long:
+              standard: "ცენტრალური ინდონეზიის დრო"
+          indonesia_eastern:
+            long:
+              standard: "აღმოსავლეთ ინდონეზიის დრო"
+          indonesia_western:
+            long:
+              standard: "დასავლეთ ინდონეზიის დრო"
+          iran:
+            long:
+              generic: "ირანის დრო"
+              standard: "ირანის სტანდარტული დრო"
+              daylight: "ირანის დროის სარტყელი"
+          irkutsk:
+            long:
+              generic: "ირკუტსკის დრო"
+              standard: "ირკუტსკის სტანდარტული დრო"
+              daylight: "ირკუტსკის ზაფხულის დრო"
+          israel:
+            long:
+              generic: "ისრაელის დრო"
+              standard: "ისრაელის სტანდარტული დრო"
+              daylight: "ისრაელის ზაფხულის დრო"
+          japan:
+            long:
+              generic: "იაპონიის დრო"
+              standard: "იაპონიის სტანდარტული დრო"
+              daylight: "იაპონიის ზაფხულის დრო"
+          kazakhstan_eastern:
+            long:
+              standard: "აღმოსავლეთ ყაზახეთის დრო"
+          kazakhstan_western:
+            long:
+              standard: "დასავლეთ ყაზახეთის დრო"
+          korea:
+            long:
+              generic: "კორეის დრო"
+              standard: "კორეის სტანდარტული დრო"
+              daylight: "კორეის ზაფხულის დრო"
+          kosrae:
+            long:
+              standard: "კოსრეს დრო"
+          krasnoyarsk:
+            long:
+              generic: "კრასნოიარსკის დრო"
+              standard: "კრასნოიარსკის სტანდარტული დრო"
+              daylight: "კრასნოიარსკის ზაფხულის დრო"
+          kyrgystan:
+            long:
+              standard: "ყირგიზეთის დრო"
+          line_islands:
+            long:
+              standard: "ლაინის კუნძულების დრო"
+          lord_howe:
+            long:
+              generic: "ლორდ-ჰაუს დრო"
+              standard: "ლორდ-ჰაუს სტანდარტული დრო"
+              daylight: "ლორდ-ჰაუს ზაფხულის დრო"
+          macquarie:
+            long:
+              standard: "მაქკუორის კუნძულის დრო"
+          magadan:
+            long:
+              generic: "მაგადანის დრო"
+              standard: "მაგადანის სტანდარტული დრო"
+              daylight: "მაგადანის ზაფხულის დრო"
+          malaysia:
+            long:
+              standard: "მალაიზიის დრო"
+          maldives:
+            long:
+              standard: "მალდივების დრო"
+          marquesas:
+            long:
+              standard: "მარკიზის კუნძულების დრო"
+          marshall_islands:
+            long:
+              standard: "მარშალის კუნძულების დრო"
+          mauritius:
+            long:
+              generic: "მავრიკის დრო"
+              standard: "მავრიკის სტანდარტული დრო"
+              daylight: "მავრიკის ზაფხულის დრო"
+          mawson:
+            long:
+              standard: "მოუსონის დრო"
+          mexico_northwest:
+            long:
+              generic: "ჩრდილო-აღმოსავლეთ მექსიკის დრო"
+              standard: "ჩრდილო-დასავლეთ მექსიკის დრო"
+              daylight: "ჩრდილო-დასავლეთ მექსიკის ზაფხულის დრო"
+          mexico_pacific:
+            long:
+              generic: "მექსიკის წყნარი ოკეანის დრო"
+              standard: "მექსიკის წყნარი ოკეანის სტანდარტული დრო"
+              daylight: "მექსიკის წყნარი ოკეანის ზაფხულის დრო"
+          mongolia:
+            long:
+              generic: "ულან-ბატორის დრო"
+              standard: "ულან-ბატორის სტანდარტული დრო"
+              daylight: "ულან-ბატორის ზაფხულის დრო"
+          moscow:
+            long:
+              generic: "მოსკოვის დრო"
+              standard: "მოსკოვის სტანდარტული დრო"
+              daylight: "მოსკოვის ზაფხულის დრო"
+          myanmar:
+            long:
+              standard: "მიანმარის დრო"
+          nauru:
+            long:
+              standard: "ნაურუს დრო"
+          nepal:
+            long:
+              standard: "ნეპალის დრო"
+          new_caledonia:
+            long:
+              generic: "ახალი კალედონიის დრო"
+              standard: "ახალი კალედონიის სტანდარტული დრო"
+              daylight: "ახალი კალედონიის ზაფხულის დრო"
+          new_zealand:
+            long:
+              generic: "ახალი ზელანდიის დრო"
+              standard: "ახალი ზელანდიის სტანდარტული დრო"
+              daylight: "ახალი ზელანდიის ზაფხულის დრო"
+          newfoundland:
+            long:
+              generic: "ნიუფაუნდლენდის დრო"
+              standard: "ნიუფაუნდლენდის სტანდარტული დრო"
+              daylight: "ნიუფაუნდლენდის ზაფხულის დრო"
+          niue:
+            long:
+              standard: "ნიუეს დრო"
+          norfolk:
+            long:
+              standard: "ნორფოლკის კუნძულის დრო"
+          noronha:
+            long:
+              generic: "ფერნანდო-დე-ნორონიას დრო"
+              standard: "ფერნანდო-დე-ნორონიას სტანდარტული დრო"
+              daylight: "ფერნანდო-დე-ნორონიას ზაფხულის დრო"
+          novosibirsk:
+            long:
+              generic: "ნოვოსიბირსკის დრო"
+              standard: "ნოვოსიბირსკის სტანდარტული დრო"
+              daylight: "ნოვოსიბირსკის ზაფხულის დრო"
+          omsk:
+            long:
+              generic: "ომსკის დრო"
+              standard: "ომსკის სტანდარტული დრო"
+              daylight: "ომსკის ზაფხულის დრო"
+          pakistan:
+            long:
+              generic: "პაკისტანის დრო"
+              standard: "პაკისტანის სტანდარტული დრო"
+              daylight: "პაკისტანის ზაფხულის დრო"
+          palau:
+            long:
+              standard: "პალაუს დრო"
+          papua_new_guinea:
+            long:
+              standard: "პაპუა-ახალი გვინეის დრო"
+          paraguay:
+            long:
+              generic: "პარაგვაის დრო"
+              standard: "პარაგვაის სტანდარტული დრო"
+              daylight: "პარაგვაის ზაფხულის დრო"
+          peru:
+            long:
+              generic: "პერუს დრო"
+              standard: "პერუს სტანდარტული დრო"
+              daylight: "პერუს ზაფხულის დრო"
+          philippines:
+            long:
+              generic: "ფილიპინების დრო"
+              standard: "ფილიპინების სტანდარტული დრო"
+              daylight: "ფილიპინების ზაფხულის დრო"
+          phoenix_islands:
+            long:
+              standard: "ფენიქსის კუნძულების დრო"
+          pierre_miquelon:
+            long:
+              generic: "სენ-პიერის და მიკელონის დრო"
+              standard: "სენ-პიერის და მიკელონის სტანდარტული დრო"
+              daylight: "სენ-პიერის და მიკელონის ზაფხულის დრო"
+          pitcairn:
+            long:
+              standard: "პიტკერნის დრო"
+          ponape:
+            long:
+              standard: "პონაპეს დრო"
+          reunion:
+            long:
+              standard: "რეიუნიონის დრო"
+          rothera:
+            long:
+              standard: "როთერის დრო"
+          sakhalin:
+            long:
+              generic: "სახალინის დრო"
+              standard: "სახალინის სტანდარტული დრო"
+              daylight: "სახალინის ზაფხულის დრო"
+          samoa:
+            long:
+              generic: "სამოას დრო"
+              standard: "სამოას სტანდარტული დრო"
+              daylight: "სამოას ზაფხულის დრო"
+          seychelles:
+            long:
+              standard: "სეიშელის კუნძულების დრო"
+          singapore:
+            long:
+              standard: "სინგაპურის დრო"
+          solomon:
+            long:
+              standard: "სოლომონის კუნძულების დრო"
+          south_georgia:
+            long:
+              standard: "სამხრეთ გეორგიის დრო"
+          suriname:
+            long:
+              standard: "სურინამის დრო"
+          syowa:
+            long:
+              standard: "სიოვას დრო"
+          tahiti:
+            long:
+              standard: "ტაიტის დრო"
+          taipei:
+            long:
+              generic: "ტაიბეის დრო"
+              standard: "ტაიბეის სტანდარტული დრო"
+              daylight: "ტაიბეის ზაფხულის დრო"
+          tajikistan:
+            long:
+              standard: "ტაჯიკეთის დრო"
+          tokelau:
+            long:
+              standard: "ტოკელაუს დრო"
+          tonga:
+            long:
+              generic: "ტონგის დრო"
+              standard: "ტონგის სტანდარტული დრო"
+              daylight: "ტონგის ზაფხულის დრო"
+          truk:
+            long:
+              standard: "ჩუუკის დრო"
+          turkmenistan:
+            long:
+              generic: "თურქმენეთის დრო"
+              standard: "თურქმენეთის სტანდარტული დრო"
+              daylight: "თურქმენეთის ზაფხულის დრო"
+          tuvalu:
+            long:
+              standard: "ტუვალუს დრო"
+          uruguay:
+            long:
+              generic: "ურუგვაის დრო"
+              standard: "ურუგვაის სტანდარტული დრო"
+              daylight: "ურუგვაის ზაფხულის დრო"
+          uzbekistan:
+            long:
+              generic: "უზბეკეთის დრო"
+              standard: "უზბეკეთის სტანდარტული დრო"
+              daylight: "უზბეკეთის ზაფხულის დრო"
+          vanuatu:
+            long:
+              generic: "ვანუატუს დრო"
+              standard: "ვანუატუს სტანდარტული დრო"
+              daylight: "ვანუატუს ზაფხულის დრო"
+          venezuela:
+            long:
+              standard: "ვენესუელის დრო"
+          vladivostok:
+            long:
+              generic: "ვლადივოსტოკის დრო"
+              standard: "ვლადივოსტოკის სტანდარტული დრო"
+              daylight: "ვლადივოსტოკის ზაფხულის დრო"
+          volgograd:
+            long:
+              generic: "ვოლგოგრადის დრო"
+              standard: "ვოლგოგრადის სტანდარტული დრო"
+              daylight: "ვოლგოგრადის ზაფხულის დრო"
+          vostok:
+            long:
+              standard: "ვოსტოკის დრო"
+          wake:
+            long:
+              standard: "ვეიკის კუნძულის დრო"
+          wallis:
+            long:
+              standard: "ვოლისი და ფუტუნას დრო"
+          yakutsk:
+            long:
+              generic: "იაკუტსკის დრო"
+              standard: "იაკუტსკის სტანდარტული დრო"
+              daylight: "იაკუტსკის ზაფხულის დრო"
+          yekaterinburg:
+            long:
+              generic: "ეკატერინბურგის დრო"
+              standard: "ეკატერინბურგის სტანდარტული დრო"
+              daylight: "ეკატერინბურგის ზაფხულის დრო"
+    locale_display_names:
+      languages:
+        aa: "აფარი"
+        ab: "აფხაზური"
+        ace: "აჩეხური"
+        ach: "აჩოლი"
+        ada: "ადანგმე"
+        ady: "ადიღეური"
+        ae: "ავესტური"
+        aeb: aeb
+        af: "აფრიკაანსი"
+        afh: afh
+        agq: "აღემი"
+        ain: "აინუური"
+        ak: "აკანი"
+        akk: "აქადური"
+        akz: akz
+        ale: "ალეუტური"
+        aln: aln
+        alt: "სამხრეთ ალთაური"
+        am: "ამჰარული"
+        an: "არაგონული"
+        ang: "ძველი ინგლისური"
+        anp: "ანგიკა"
+        ar: "არაბული"
+        ar_001: "თანამედროვე სტანდარტული არაბული"
+        arc: "არამეული"
+        arn: "მაპუდუნგუნი"
+        aro: aro
+        arp: "არაპაჰო"
+        arq: arq
+        arw: "არავაკი"
+        ary: ary
+        arz: arz
+        as: "ასამური"
+        asa: "ასუ"
+        ase: ase
+        ast: "ასტურიული"
+        av: av
+        avk: avk
+        awa: "ავადი"
+        ay: "აიმარა"
+        az: "აზერბაიჯანული"
+        az_alt_short: "აზერბაიჯანული"
+        ba: "ბაშკირული"
+        bal: "ბელუჯი"
+        ban: "ბალინური"
+        bar: bar
+        bas: "ბასა"
+        bax: "ბამუნი"
+        bbc: bbc
+        bbj: bbj
+        be: "ბელორუსული"
+        bej: "ბეჯა"
+        bem: "ბემბა"
+        bew: bew
+        bez: "ბენა"
+        bfd: bfd
+        bfq: bfq
+        bg: "ბულგარული"
+        bgn: "დასავლეთ ბელუჯი"
+        bho: "ბოჯპური"
+        bi: bi
+        bik: bik
+        bin: bin
+        bjn: bjn
+        bkm: bkm
+        bla: bla
+        bm: "ბამბარა"
+        bn: "ბენგალური"
+        bo: "ტიბეტური"
+        bpy: bpy
+        bqi: bqi
+        br: "ბრეტონული"
+        bra: "ბრაჯი"
+        brh: brh
+        brx: "ბოდო"
+        bs: "ბოსნიური"
+        bss: bss
+        bua: "ბურიატული"
+        bug: bug
+        bum: bum
+        byn: "ბილინი"
+        byv: byv
+        ca: "კატალანური"
+        cad: cad
+        car: car
+        cay: "კაიუგა"
+        cch: cch
+        ce: "ჩეჩნური"
+        ceb: ceb
+        cgg: "ჩიგა"
+        ch: ch
+        chb: "ჩიბჩა"
+        chg: chg
+        chk: chk
+        chm: "მარიული"
+        chn: chn
+        cho: cho
+        chp: chp
+        chr: "ჩეროკი"
+        chy: chy
+        ckb: "სორანი ქურთული"
+        co: "კორსიკული"
+        cop: "კოპტური"
+        cps: cps
+        cr: "კრი"
+        crh: "ყირიმულ-თურქული"
+        cs: "ჩეხური"
+        csb: "კაშუბური"
+        cu: "საეკლესიო სლავური"
+        cv: "ჩუვაშური"
+        cy: "უელსური"
+        da: "დანიური"
+        dak: "დაკოტა"
+        dar: "დარგუული"
+        dav: "ტაიტა"
+        de: "გერმანული"
+        de_at: "ავსტრიული გერმანული"
+        de_ch: "შვეიცარიული ზემოგერმანული"
+        del: "დელავარული"
+        den: den
+        dgr: "დოგრიბი"
+        din: "დინკა"
+        dje: "ზარმა"
+        doi: "დოგრი"
+        dsb: "ქვემოსორბული"
+        dtp: dtp
+        dua: "დუალა"
+        dum: dum
+        dv: "დივეჰი"
+        dyo: "დიოლა"
+        dyu: "დიულა"
+        dz: "ძონგკხა"
+        dzg: dzg
+        ebu: "ემბუ"
+        ee: "ევე"
+        efi: "ეფიკი"
+        egl: egl
+        egy: "ძველეგვიპტური"
+        eka: eka
+        el: "ბერძნული"
+        elx: elx
+        en: "ინგლისური"
+        en_au: "ავსტრალიური ინგლისური"
+        en_ca: "კანადური ინგლისური"
+        en_gb: "ბრიტანული ინგლისური"
+        en_gb_alt_short: "გართ. სამ. ინგლისური"
+        en_us: "ამერიკული ინგლისური"
+        en_us_alt_short: "აშშ ინგლისური"
+        enm: enm
+        eo: "ესპერანტო"
+        es: "ესპანური"
+        es_419: "ლათინურ ამერიკული ესპანური"
+        es_es: "ევროპული ესპანური"
+        es_mx: "მექსიკური ესპანური"
+        esu: esu
+        et: "ესტონური"
+        eu: "ბასკური"
+        ewo: "ევონდო"
+        ext: ext
+        fa: "სპარსული"
+        fan: fan
+        fat: fat
+        ff: ff
+        fi: "ფინური"
+        fil: "ფილიპინური"
+        fit: fit
+        fj: "ფიჯი"
+        fo: "ფარერული"
+        fon: "ფონი"
+        fr: "ფრანგული"
+        fr_ca: "კანადური ფრანგული"
+        fr_ch: "შვეიცარიული ფრანგული"
+        frc: frc
+        frm: frm
+        fro: "ძველი ფრანგული"
+        frp: frp
+        frr: "ჩრდილოფრიზიული"
+        frs: "აღმოსავლეთფრიზიული"
+        fur: "ფრიულური"
+        fy: "დასავლეთფრიზიული"
+        ga: "ირლანდიური"
+        gaa: gaa
+        gag: "გაგაუზური"
+        gan: gan
+        gay: gay
+        gba: "გბაია"
+        gbz: gbz
+        gd: "შოტლანდიური გელური"
+        gez: "გეეზი"
+        gil: gil
+        gl: "გალისიური"
+        glk: glk
+        gmh: gmh
+        gn: "გუარანი"
+        goh: "ძველი ზემოგერმანული"
+        gom: gom
+        gon: "გონდი"
+        gor: gor
+        got: "გოთური"
+        grb: grb
+        grc: "ძველი ბერძნული"
+        gsw: "შვეიცარიული გერმანული"
+        gu: "გუჯარათი"
+        guc: guc
+        gur: gur
+        guz: "გუსიი"
+        gv: "მენური"
+        gwi: gwi
+        ha: "ჰაუსა"
+        hai: hai
+        hak: hak
+        haw: "ჰავაიური"
+        he: "ებრაული"
+        hi: "ჰინდი"
+        hif: hif
+        hil: hil
+        hit: "ხეთური ენა"
+        hmn: hmn
+        ho: ho
+        hr: "ხორვატული"
+        hsb: "ზემოსორბული"
+        hsn: hsn
+        ht: "ჰაიტიური"
+        hu: "უნგრული"
+        hup: hup
+        hy: "სომხური"
+        hz: hz
+        ia: "ინტერლინგუალური"
+        iba: "იბანი"
+        ibb: "იბიბიო"
+        id: "ინდონეზიური"
+        ie: "ინტერლინგი"
+        ig: "იგბო"
+        ii: "სიჩუანის ი"
+        ik: ik
+        ilo: ilo
+        inh: "ინგუშური"
+        io: "იდო"
+        is: "ისლანდიური"
+        it: "იტალიური"
+        iu: "ინუკტიტუტი"
+        izh: izh
+        ja: "იაპონური"
+        jam: jam
+        jbo: "ლოჟბანი"
+        jgo: "ნგომბა"
+        jmc: "კიმაშამი"
+        jpr: "იუდეო-სპარსული"
+        jrb: "იუდეო-არაბული"
+        jut: jut
+        jv: "იავური"
+        ka: "ქართული"
+        kaa: "ყარაყალფახური"
+        kab: "კაბილური"
+        kac: "კაჩინი"
+        kaj: kaj
+        kam: "კამბა"
+        kaw: kaw
+        kbd: "ყაბარდოული"
+        kbl: kbl
+        kcg: kcg
+        kde: "მაკონდე"
+        kea: "კაბუვერდიანუ"
+        ken: ken
+        kfo: kfo
+        kg: "კონგო"
+        kgp: kgp
+        kha: kha
+        kho: kho
+        khq: "კოირა-ჩიინი"
+        khw: khw
+        ki: "კიკუიუ"
+        kiu: kiu
+        kj: kj
+        kk: "ყაზახური"
+        kkj: kkj
+        kl: "დასავლეთ გრენლანდიური"
+        kln: "კალენჯინი"
+        km: "ქმერული"
+        kmb: "კიმბუნდუ"
+        kn: "კანადა"
+        ko: "კორეული"
+        koi: "კომი-პერმიაკული"
+        kok: "კონკანი"
+        kos: kos
+        kpe: "კპელე"
+        kr: "კანური"
+        krc: "ყარაჩაულ-ბალყარული"
+        kri: kri
+        krj: krj
+        krl: "კარელიური"
+        kru: "კურუქი"
+        ks: "ქაშმირული"
+        ksb: "შამბალა"
+        ksf: "ბაფია"
+        ksh: ksh
+        ku: "ქურთული"
+        kum: "ყუმუხური"
+        kut: "კუტენაი"
+        kv: "კომი"
+        kw: "კორნული"
+        ky: "ყირგიზული"
+        la: "ლათინური"
+        lad: "ლადინო"
+        lag: "ლანგი"
+        lah: "ლანდა"
+        lam: "ლამბა"
+        lb: "ლუქსემბურგული"
+        lez: "ლეზგიური"
+        lfn: lfn
+        lg: "განდა"
+        li: "ლიმბურგული"
+        lij: lij
+        liv: liv
+        lkt: "ლაკოტა"
+        lmo: lmo
+        ln: "ლინგალა"
+        lo: "ლაოსური"
+        lol: "მონგო"
+        loz: "ლოზი"
+        lrc: "ჩრდილოეთ ლური"
+        lt: "ლიტვური"
+        ltg: ltg
+        lu: "ლუბა-კატანგა"
+        lua: lua
+        lui: "ლუისენიო"
+        lun: "ლუნდა"
+        luo: "ლუო"
+        lus: "მიზო"
+        luy: "ლუჰია"
+        lv: "ლატვიური"
+        lzh: lzh
+        lzz: lzz
+        mad: mad
+        maf: "მაფა"
+        mag: "მაგაჰი"
+        mai: "მაითილი"
+        mak: mak
+        man: man
+        mas: "მასაი"
+        mde: "მაბა"
+        mdf: "მოქშა"
+        mdh: mdh
+        mdr: mdr
+        men: "მენდე"
+        mer: "მერუ"
+        mfe: "მორისიენი"
+        mg: "მალაგასიური"
+        mga: mga
+        mgh: "მაქუვა-მეეტო"
+        mgo: "მეტა’ ენა"
+        mh: mh
+        mi: "მაორი"
+        mic: mic
+        min: min
+        mis: mis
+        mk: "მაკედონური"
+        ml: "მალაიალამური"
+        mn: "მონღოლური"
+        mnc: "მანჯურიული"
+        mni: "მანიპური"
+        moh: "მოჰაუკური"
+        mos: mos
+        mr: "მარათჰი"
+        mrj: mrj
+        ms: "მალაიური"
+        mt: "მალტური"
+        mua: "მუნდანგი"
+        mul: mul
+        mus: "კრიკი"
+        mwl: "მირანდული"
+        mwr: "მარვარი"
+        mwv: mwv
+        my: "ბირმული"
+        mye: "მიენე"
+        myv: "ერზია"
+        mzn: "მაზანდერანული"
+        na: "ნაურუ"
+        nan: nan
+        nap: "ნეაპოლიტანური"
+        naq: "ნამა"
+        nb: "ნორვეგიული ბუკმოლი"
+        nd: "ჩრდილოეთ ნდებელე"
+        nds: "ქვემოგერმანული"
+        nds_nl: "ქვემოსაქსონური"
+        ne: "ნეპალური"
+        new: "ნევარი"
+        ng: ng
+        nia: nia
+        niu: niu
+        njo: njo
+        nl: "ნიდერლანდური"
+        nl_be: "ფლამანდიური"
+        nmg: "კვასიო"
+        nn: "ნორვეგიული ნიუნორსკი"
+        nnh: nnh
+        'no': "ნორვეგიული"
+        nog: "ნოღაური"
+        non: "ძველსკანდინავიური"
+        nov: nov
+        nqo: "ნკო"
+        nr: nr
+        nso: nso
+        nus: "ნუერი"
+        nv: "ნავახო"
+        nwc: "კლასიკური ნევარული"
+        ny: "ნიანჯა"
+        nym: "ნიამვეზი"
+        nyn: "ნიანკოლე"
+        nyo: "ნიორო"
+        nzi: "ნზიმა"
+        oc: "ოქსიტანური"
+        oj: "ოჯიბვე"
+        om: "ორომო"
+        or: "ორია"
+        os: "ოსური"
+        osa: osa
+        ota: ota
+        pa: "პენჯაბური"
+        pag: pag
+        pal: "ფალაური"
+        pam: pam
+        pap: pap
+        pau: pau
+        pcd: pcd
+        pdc: pdc
+        pdt: pdt
+        peo: "ძველი სპარსული"
+        pfl: pfl
+        phn: "ფინიკიური"
+        pi: "პალი"
+        pl: "პოლონური"
+        pms: pms
+        pnt: pnt
+        pon: pon
+        prg: prg
+        pro: "ძველი პროვანსული"
+        ps: "პუშტუ"
+        pt: "პორტუგალიური"
+        pt_br: "ბრაზილიური პორტუგალიური"
+        pt_pt: "ევროპული პორტუგალიური"
+        qu: "კეჩუა"
+        quc: "კიჩე"
+        qug: qug
+        raj: "რაჯასთანი"
+        rap: "რაპანუი"
+        rar: "რაროტონგული"
+        rgn: rgn
+        rif: rif
+        rm: "რეტორომანული"
+        rn: "რუნდი"
+        ro: "რუმინული"
+        ro_md: "მოლდავური"
+        rof: "რომბო"
+        rom: "ბოშური"
+        root: root
+        rtm: rtm
+        ru: "რუსული"
+        rue: rue
+        rug: rug
+        rup: rup
+        rw: "კინიარუანდა"
+        rwk: "რუა"
+        sa: "სანსკრიტი"
+        sad: sad
+        sah: "იაკუტური"
+        sam: "სამარიულ-არამეული"
+        saq: "სამბურუ"
+        sas: sas
+        sat: sat
+        saz: saz
+        sba: sba
+        sbp: "სანგუ"
+        sc: "სარდინიული"
+        scn: "სიცილიური"
+        sco: sco
+        sd: "სინდჰური"
+        sdc: sdc
+        sdh: "სამხრეთ ქურთული"
+        se: "ჩრდილოეთ საამური"
+        see: "სენეკა"
+        seh: "სენა"
+        sei: sei
+        sel: "სელკუპური"
+        ses: "კოირაბორო-სენი"
+        sg: "სანგო"
+        sga: "ძველი ირლანდიური"
+        sgs: sgs
+        sh: "სერბულ-ხორვატული"
+        shi: "შილჰა"
+        shn: "შანი"
+        shu: "ჩადური არაბული"
+        si: "სინჰალური"
+        sid: sid
+        sk: "სლოვაკური"
+        sl: "სლოვენური"
+        sli: sli
+        sly: sly
+        sm: "სამოა"
+        sma: "სამხრეთ საამური"
+        smj: "ლულე-საამური"
+        smn: "ინარი-საამური"
+        sms: "სკოლტ-საამური"
+        sn: "შონა"
+        snk: snk
+        so: "სომალიური"
+        sog: sog
+        sq: "ალბანური"
+        sr: "სერბული"
+        srn: srn
+        srr: srr
+        ss: ss
+        ssy: ssy
+        st: "სამხრეთ სოთოს ენა"
+        stq: stq
+        su: "სუნდური"
+        suk: suk
+        sus: sus
+        sux: "შუმერული"
+        sv: "შვედური"
+        sw: "სუაჰილი"
+        swb: "კომორული"
+        swc: "კონგოს სუაჰილი"
+        syc: "კლასიკური სირიული"
+        syr: "სირიული"
+        szl: szl
+        ta: "ტამილური"
+        tcy: tcy
+        te: "ტელუგუ"
+        tem: tem
+        teo: "ტესო"
+        ter: ter
+        tet: tet
+        tg: "ტაჯიკური"
+        th: "ტაი"
+        ti: "თიგრინია"
+        tig: "თიგრე"
+        tiv: tiv
+        tk: "თურქმენული"
+        tkl: tkl
+        tkr: tkr
+        tl: tl
+        tlh: "კლინგონი"
+        tli: tli
+        tly: tly
+        tmh: tmh
+        tn: "ტსვანა"
+        to: "ტონგანური"
+        tog: tog
+        tpi: tpi
+        tr: "თურქული"
+        tru: tru
+        trv: trv
+        ts: ts
+        tsd: tsd
+        tsi: tsi
+        tt: "თათრული"
+        ttt: ttt
+        tum: tum
+        tvl: tvl
+        tw: "თუი"
+        twq: "ტასავაქი"
+        ty: ty
+        tyv: "ტუვა"
+        tzm: "ცენტრალური მოროკოს ტამაზიგხტი"
+        udm: "უდმურტული"
+        ug: "უიღურული"
+        uga: "უგარითული"
+        uk: "უკრაინული"
+        umb: umb
+        und: "უცნობი ენა"
+        ur: "ურდუ"
+        uz: "უზბეკური"
+        vai: "ვაი"
+        ve: ve
+        vec: vec
+        vep: vep
+        vi: "ვიეტნამური"
+        vls: vls
+        vmf: vmf
+        vo: vo
+        vot: vot
+        vro: vro
+        vun: "ვუნჯო"
+        wa: wa
+        wae: wae
+        wal: "ველაითა"
+        war: war
+        was: was
+        wbp: "ვალპირი"
+        wo: "ვოლოფური"
+        wuu: wuu
+        xal: "ყალმუხური"
+        xh: "ქჰოსა"
+        xmf: xmf
+        xog: "სოგა"
+        yao: yao
+        yap: yap
+        yav: yav
+        ybb: ybb
+        yi: "იდიში"
+        yo: "იორუბა"
+        yrl: yrl
+        yue: "კანტონური"
+        za: za
+        zap: zap
+        zbl: "ბლისსიმბოლოები"
+        zea: zea
+        zen: "ზენაგა"
+        zgh: "სტანდარტული მაროკოული ტამაზიგხტი"
+        zh: "ჩინური"
+        zh_hans: "გამარტივებული ჩინური"
+        zh_hant: "ტრადიციული ჩინური"
+        zu: "ზულუ"
+        zun: zun
+        zxx: "ლინგვისტური შიგთავსი არ არის"
+        zza: "ზაზაკი"
+      locale_display_pattern:
+        locale_pattern: "{0} ({1})"
+        locale_separator: "{0}, {1}"
+        locale_key_type_pattern: "{0}: {1}"
+      keys:
+        calendar: "კალენდარი"
+        cf: cf
+        collation: "დახარისხების თანმიმდევრობა"
+        currency: "ვალუტა"
+        hc: "დროის სისტემა (12 ან 24)"
+        lb: "სტრიქონის წყვეტის სტილი"
+        ms: "საზომი სისტემა"
+        numbers: "რიცხვები"
+      types:
+        calendar:
+          buddhist: "ბუდისტური კალენდარი"
+          chinese: "ჩინური კალენდარი"
+          coptic: coptic
+          dangi: "კალენდარი დანგი"
+          ethiopic: "ეთიოპიური კალენდარი"
+          ethiopic_amete_alem: ethiopic-amete-alem
+          gregorian: "გრიგორიანული კალენდარი"
+          hebrew: "ებრაული კალენდარი"
+          indian: "ინდოეთის ეროვნული კალენდარი"
+          islamic: "ისლამური კალენდარი"
+          islamic_civil: "ისლამური სამოქალაქო კალენდარი"
+          islamic_rgsa: islamic-rgsa
+          islamic_tbla: islamic-tbla
+          islamic_umalqura: islamic-umalqura
+          iso8601: ISO-8601 კალენდარი
+          japanese: "იაპონური კალენდარი"
+          persian: "სპარსული კალენდარი"
+          roc: "ჩინეთის რესპუბლიკის კალენდარი"
+        cf:
+          account: account
+          standard: standard
+        collation:
+          big5han: "ტრადიციული ჩინური"
+          compat: compat
+          dictionary: dictionary
+          ducet: "უნიკოდის ნაგულისხმევი დახარისხების თანმიმდევრობა"
+          emoji: emoji
+          eor: eor
+          gb2312han: "გამარტივებული ჩინური"
+          phonebook: phonebook
+          pinyin: pinyin
+          reformed: reformed
+          search: "ზოგადი დანიშნულების ძიება"
+          searchjl: searchjl
+          standard: "სტანდარტული დახარისხების თანმიმდევრობა"
+          stroke: stroke
+          traditional: "ტრადიციული"
+          unihan: unihan
+          zhuyin: zhuyin
+        hc:
+          h11: 12-საათიანი სისტემა (0-11)
+          h12: 12-საათიანი სისტემა (1-12)
+          h23: 24-საათიანი სისტემა (0-23)
+          h24: 24-საათიანი სისტემა (1-24)
+        lb:
+          loose: "სტრიქონის რბილი წყვეტის სტილი"
+          normal: "სტრიქონის ჩვეულებრივი წყვეტის სტილი"
+          strict: "სტრიქონის ზედმიწევნითი წყვეტის სტილი"
+        ms:
+          metric: "მეტრული სისტემა"
+          uksystem: "ბრიტანული საზომი სისტემა"
+          ussystem: "ამერიკული საზომი სისტემა"
+        numbers:
+          ahom: ahom
+          arab: "არაბულ-ინდური ციფრები"
+          arabext: "გაფართოებული არაბულ-ინდური ციფრები"
+          armn: "სომხური რიცხვები"
+          armnlow: "სომხური ქვედა რეგისტრის რიცხვები"
+          bali: bali
+          beng: "ბენგალური ციფრები"
+          brah: brah
+          cakm: cakm
+          cham: cham
+          cyrl: cyrl
+          deva: "დევანაგარის ციფრები"
+          ethi: "ეთიოპიური რიცხვები"
+          fullwide: "სრულსიგანიანი ციფრები"
+          geor: "ქართული რიცხვები"
+          grek: "ბერძნული რიცხვები"
+          greklow: "ბერძნული ქვედა რეგისტრის რიცხვები"
+          gujr: "გუჯარათული ციფრები"
+          guru: "გურმუხული ციფრები"
+          hanidec: "ჩინური ათობითი რიცხვები"
+          hans: "გამარტივებული ჩინური რიცხვები"
+          hansfin: "გამარტივებული ჩინური ფინანსური რიცხვები"
+          hant: "ტრადიციული ჩინური რიცხვები"
+          hantfin: "ტრადიციული ჩინური ფინანსური რიცხვები"
+          hebr: "ებრაული რიცხვები"
+          hmng: hmng
+          java: java
+          jpan: "იაპონური რიცხვები"
+          jpanfin: "იაპონური ფინანსური რიცხვები"
+          kali: kali
+          khmr: "ქხმერული ციფრები"
+          knda: "კანადური რიცხვები"
+          lana: lana
+          lanatham: lanatham
+          laoo: "ლაოსური ციფრები"
+          latn: "დასავლური ციფრები"
+          lepc: lepc
+          limb: "ლიმბური ციფრები"
+          mathbold: mathbold
+          mathdbl: mathdbl
+          mathmono: mathmono
+          mathsanb: mathsanb
+          mathsans: mathsans
+          mlym: "მალაიალამური ციფრები"
+          modi: modi
+          mong: "მონღოლური ციფრები"
+          mroo: mroo
+          mtei: mtei
+          mymr: "მიანმური ციფრები"
+          mymrshan: mymrshan
+          mymrtlng: mymrtlng
+          nkoo: nkoo
+          olck: olck
+          orya: "ორიული ციფრები"
+          osma: osma
+          roman: "რომაული ციფრები"
+          romanlow: "რომაული ქვედა რეგისტრის რიცხვები"
+          saur: "საურაშტრული ციფრები"
+          shrd: shrd
+          sind: sind
+          sinh: sinh
+          sora: sora
+          sund: "სუნდანური ციფრები"
+          takr: takr
+          talu: "ახალი ტაი ლიუსი ციფრები"
+          taml: "ტრადიციული ტამილური რიცხვები"
+          tamldec: "ტამილური ციფრები"
+          telu: "ტელუგუს ციფრები"
+          thai: "ტაილანდური ციფრები"
+          tibt: "ტიბეტური ციფრები"
+          tirh: tirh
+          vaii: vaii
+          wara: wara
+      code_patterns:
+        language: "ენა: {0}"
+        script: "დამწერლობა: {0}"
+        territory: "რეგიონი: {0}"
+      scripts:
+        afak: "აფაკა"
+        aghb: Aghb
+        ahom: Ahom
+        arab: "არაბული"
+        armi: "იმპერიული არამეული"
+        armn: "სომხური"
+        avst: "ავესტური"
+        bali: "ბალიური"
+        bamu: "ბამუმი"
+        bass: "ბასა ვაჰი"
+        batk: "ბატაკი"
+        beng: "ბენგალური"
+        blis: "ბლისსიმბოლოები"
+        bopo: "ბოპომოფო"
+        brah: "ბრაჰმი"
+        brai: "ბრაილი"
+        bugi: Bugi
+        buhd: "ბუჰიდი"
+        cakm: "ჩაკმა"
+        cans: Cans
+        cari: "კარიული"
+        cham: "ჩამი"
+        cher: "ჩეროკი"
+        cirt: "კირთი"
+        copt: "კოპტური"
+        cprt: "კვიპროსული"
+        cyrl: "კირილიცა"
+        cyrs: "ძველი სლავური კირილიცა"
+        deva: "დევანაგარი"
+        dsrt: "დეზერეტის"
+        dupl: "დუპლოის სტენოგრაფია"
+        egyd: "ეგვიპტური დემოტიკური"
+        egyh: "ეგვიპტური იერატიკული"
+        egyp: "ეგვიპტური იეროგლიფური"
+        elba: Elba
+        ethi: "ეთიოპიური"
+        geok: "ხუცური"
+        geor: "ქართული"
+        glag: "გლაგოლიცა"
+        goth: "გოთური"
+        gran: "გრანთა"
+        grek: "ბერძნული"
+        gujr: "გუჯარათული"
+        guru: "გურმუხი"
+        hang: "ჰანგული"
+        hani: "ჰანი"
+        hano: "ჰანუნოო"
+        hans: "გამარტივებული"
+        hans_alt_stand_alone: "გამარტივებული ჰანი"
+        hant: "ტრადიციული"
+        hant_alt_stand_alone: "ტრადიციული ჰანი"
+        hatr: Hatr
+        hebr: "ებრაული"
+        hira: "ჰირაგანა"
+        hluw: "ანატოლიური იეროგლიფური"
+        hmng: "ფაჰაუ-მონი"
+        hrkt: "იაპონური კანა"
+        hung: "ძველი უნგრული"
+        ital: Ital
+        java: "იავური"
+        jpan: "იაპონური"
+        jurc: "ჯურჯენული"
+        kali: "კაიაჰ-ლი"
+        kana: "კატაკანა"
+        khar: "ქაროშთი"
+        khmr: "ქმერული"
+        khoj: "ქოჯკი"
+        knda: "კანადა"
+        kore: "კორეული"
+        kpel: "კპელე"
+        kthi: "კაითი"
+        lana: Lana
+        laoo: "ლაოსური"
+        latg: "გელური ლათინური"
+        latn: "ლათინური"
+        lepc: Lepc
+        limb: "ლიმბუ"
+        lina: A-ხაზოვანი
+        linb: B-ხაზოვანი
+        lisu: Lisu
+        loma: "ლომა"
+        lyci: "ლიკიური"
+        lydi: "ლიდიური"
+        mahj: Mahj
+        mand: "მანდეური"
+        mani: "მანიქეური"
+        maya: "მაიას იეროგლიფები"
+        mend: "მენდე"
+        merc: "მეროიტული კურსივი"
+        mero: "მეროიტული"
+        mlym: "მალაიალამური"
+        modi: Modi
+        mong: "მონღოლური"
+        mroo: "მრო"
+        mtei: Mtei
+        mult: Mult
+        mymr: "მიანმური"
+        narb: "ძველი ჩრდილოეთ-არაბული"
+        nbat: "ნაბატეური"
+        nkoo: "ნკო"
+        nshu: "ნუშუ"
+        ogam: "ოღამი"
+        olck: "ოლ-ჩიკი"
+        orkh: "ორხონული"
+        orya: "ორია"
+        osma: "ოსმანია"
+        palm: "პალმირული"
+        pauc: Pauc
+        perm: "ძველი პერმული"
+        phag: "ფაგსპა"
+        phli: "მონუმენტური ფალაური"
+        phlp: "ფსალმუნური ფალაური"
+        phlv: "წიგნური ფალაური"
+        phnx: "ფინიკიური"
+        plrd: Plrd
+        prti: "მონუმენტური პართული"
+        qaaa: Qaaa
+        qaab: Qaab
+        qaac: Qaac
+        qaad: Qaad
+        qaae: Qaae
+        qaaf: Qaaf
+        qaag: Qaag
+        qaah: Qaah
+        qaaj: Qaaj
+        qaak: Qaak
+        qaal: Qaal
+        qaam: Qaam
+        qaan: Qaan
+        qaao: Qaao
+        qaap: Qaap
+        qaaq: Qaaq
+        qaar: Qaar
+        qaas: Qaas
+        qaat: Qaat
+        qaau: Qaau
+        qaav: Qaav
+        qaaw: Qaaw
+        qaax: Qaax
+        qaay: Qaay
+        qaaz: Qaaz
+        qaba: Qaba
+        qabb: Qabb
+        qabc: Qabc
+        qabd: Qabd
+        qabe: Qabe
+        qabf: Qabf
+        qabg: Qabg
+        qabh: Qabh
+        qabi: Qabi
+        qabj: Qabj
+        qabk: Qabk
+        qabl: Qabl
+        qabm: Qabm
+        qabn: Qabn
+        qabo: Qabo
+        qabp: Qabp
+        qabq: Qabq
+        qabr: Qabr
+        qabs: Qabs
+        qabt: Qabt
+        qabu: Qabu
+        qabv: Qabv
+        qabw: Qabw
+        qabx: Qabx
+        rjng: "რეჯანგი"
+        roro: "რონგორონგო"
+        runr: "რუნული"
+        samr: "სამარიული"
+        sara: "სარატი"
+        sarb: "ძველი სამხრეთ-არაბული"
+        saur: "საურაშტრა"
+        sgnw: "ჟესტთა"
+        shaw: Shaw
+        shrd: "შარადა"
+        sidd: Sidd
+        sind: "ქუდავადი"
+        sinh: "სინჰალური"
+        sora: "სორან-სომპენი"
+        sund: "სუნდანური"
+        sylo: "სილოტი ნაგრი"
+        syrc: "სირიული"
+        syre: "სირიული ესტრანგელო"
+        syrj: "დასავლეთი სირიული"
+        syrn: "აღმოსავლეთი სირიული"
+        tagb: "ტაგბანვა"
+        takr: "ტაკრი"
+        tale: "ტაი ლე"
+        talu: "ახალი ტაი ლიუ"
+        taml: "ტამილური"
+        tang: "ტანღუტური"
+        tavt: "ტაი-ვიეტი"
+        telu: "ტელუგუ"
+        teng: "ტენგვარი"
+        tfng: "ტიფინაღი"
+        tglg: Tglg
+        thaa: "თაანა"
+        thai: "ტაი"
+        tibt: "ტიბეტური"
+        tirh: "ტირჰუტა"
+        ugar: "უგარითული"
+        vaii: "ვაი"
+        visp: "ხილული მეტყველება"
+        wara: "ვარანგ-კშიტი"
+        wole: "ვოლეაი"
+        xpeo: "ძველი სპარსული"
+        xsux: "შუმერულ-აქადური ლურსმნული"
+        yiii: Yiii
+        zinh: "გადაღებული"
+        zmth: "მათემატიკური ნოტაცია"
+        zsym: "სიმბოლოები"
+        zxxx: "უმწერლობო"
+        zyyy: "ზოგადი"
+        zzzz: "უცნობი დამწერლობა"
+      territories:
+        '001': "მსოფლიო"
+        '002': "აფრიკა"
+        '003': "ჩრდილოეთი ამერიკა"
+        '005': "სამხრეთი ამერიკა"
+        009: "ოკეანეთი"
+        '011': "დასავლეთი აფრიკა"
+        '013': "ცენტრალური ამერიკა"
+        '014': "აღმოსავლეთი აფრიკა"
+        '015': "ჩრდილოეთი აფრიკა"
+        '017': "შუა აფრიკა"
+        018: "სამხრეთი აფრიკა"
+        019: "ამერიკები"
+        '021': "ამერიკის ჩრდილოეთი"
+        029: "კარიბის ზღვა"
+        '030': "აღმოსავლეთი აზია"
+        '034': "სამხრეთი აზია"
+        '035': "სამხრეთ-აღმოსავლეთი აზია"
+        039: "სამხრეთი ევროპა"
+        '053': "ავსტრალაზია"
+        '054': "მელანეზია"
+        '057': "მიკრონეზიის რეგიონი"
+        '061': "პოლინეზია"
+        '142': "აზია"
+        '143': "ცენტრალური აზია"
+        '145': "დასავლეთი აზია"
+        '150': "ევროპა"
+        '151': "აღმოსავლეთი ევროპა"
+        '154': "ჩრდილოეთი ევროპა"
+        '155': "დასავლეთი ევროპა"
+        '419': "ლათინური ამერიკა"
+        ac: "ამაღლების კუნძული"
+        ad: "ანდორა"
+        ae: "არაბთა გაერთიანებული საამიროები"
+        af: "ავღანეთი"
+        ag: "ანტიგუა და ბარბუდა"
+        ai: "ანგილია"
+        al: "ალბანეთი"
+        am: "სომხეთი"
+        an: "ნიდერლანდების ანტილები"
+        ao: "ანგოლა"
+        aq: "ანტარქტიკა"
+        ar: "არგენტინა"
+        as: "ამერიკის სამოა"
+        at: "ავსტრია"
+        au: "ავსტრალია"
+        aw: "არუბა"
+        ax: "ალანდის კუნძულები"
+        az: "აზერბაიჯანი"
+        ba: "ბოსნია და ჰერცეგოვინა"
+        bb: "ბარბადოსი"
+        bd: "ბანგლადეში"
+        be: "ბელგია"
+        bf: "ბურკინა-ფასო"
+        bg: "ბულგარეთი"
+        bh: "ბაჰრეინი"
+        bi: "ბურუნდი"
+        bj: "ბენინი"
+        bl: "სენ-ბართელმი"
+        bm: "ბერმუდი"
+        bn: "ბრუნეი"
+        bo: "ბოლივია"
+        bq: "კარიბის ნიდერლანდები"
+        br: "ბრაზილია"
+        bs: "ბაჰამის კუნძულები"
+        bt: "ბჰუტანი"
+        bv: "ბუვე"
+        bw: "ბოტსვანა"
+        by: "ბელარუსი"
+        bz: "ბელიზი"
+        ca: "კანადა"
+        cc: "ქოქოსის კუნძულები"
+        cd: "კონგო - კინშასა"
+        cd_alt_variant: "კონგო (კონგოს დემოკრატიული რესპუბლიკა)"
+        cf: "ცენტრალური აფრიკის რესპუბლიკა"
+        cg: "კონგო - ბრაზავილი"
+        cg_alt_variant: "კონგო (რესპუბლიკა)"
+        ch: "შვეიცარია"
+        ci: "კოტ-დივუარი"
+        ci_alt_variant: "სპილოს ძვლის სანაპირო"
+        ck: "კუკის კუნძულები"
+        cl: "ჩილე"
+        cm: "კამერუნი"
+        cn: "ჩინეთი"
+        co: "კოლუმბია"
+        cp: "კლიპერტონის კუნძული"
+        cr: "კოსტა-რიკა"
+        cu: "კუბა"
+        cv: "კაბო-ვერდე"
+        cw: "კიურასაო"
+        cx: "შობის კუნძული"
+        cy: "კვიპროსი"
+        cz: "ჩეხეთის რესპუბლიკა"
+        de: "გერმანია"
+        dg: "დიეგო-გარსია"
+        dj: "ჯიბუტი"
+        dk: "დანია"
+        dm: "დომინიკა"
+        do: "დომინიკელთა რესპუბლიკა"
+        dz: "ალჟირი"
+        ea: "სეუტა და მელილა"
+        ec: "ეკვადორი"
+        ee: "ესტონეთი"
+        eg: "ეგვიპტე"
+        eh: "დასავლეთი საჰარა"
+        er: "ერიტრეა"
+        es: "ესპანეთი"
+        et: "ეთიოპია"
+        eu: "ევროკავშირი"
+        fi: "ფინეთი"
+        fj: "ფიჯი"
+        fk: "ფოლკლენდის კუნძულები"
+        fk_alt_variant: "ფოლკლენდის კუნძულები (მალვინის კუნძულები)"
+        fm: "მიკრონეზია"
+        fo: "ფარერის კუნძულები"
+        fr: "საფრანგეთი"
+        ga: "გაბონი"
+        gb: "დიდი ბრიტანეთი"
+        gb_alt_short: "გაერთ.სამ."
+        gd: "გრენადა"
+        ge: "საქართველო"
+        gf: "საფრანგეთის გვიანა"
+        gg: "გერნსი"
+        gh: "განა"
+        gi: "გიბრალტარი"
+        gl: "გრენლანდია"
+        gm: "გამბია"
+        gn: "გვინეა"
+        gp: "გვადელუპა"
+        gq: "ეკვატორული გვინეა"
+        gr: "საბერძნეთი"
+        gs: "სამხრეთი გეორგია და სამხრეთ სენდვიჩის კუნძულები"
+        gt: "გვატემალა"
+        gu: "გუამი"
+        gw: "გვინეა-ბისაუ"
+        gy: "გაიანა"
+        hk: "ჰონკონგის სპეციალური ადმინისტრაციული რეგიონი ჩინეთი"
+        hk_alt_short: "ჰონკონგი"
+        hm: "ჰერდი და მაკდონალდის კუნძულები"
+        hn: "ჰონდურასი"
+        hr: "ხორვატია"
+        ht: "ჰაიტი"
+        hu: "უნგრეთი"
+        ic: "კანარის კუნძულები"
+        id: "ინდონეზია"
+        ie: "ირლანდია"
+        il: "ისრაელი"
+        im: "მენის კუნძული"
+        in: "ინდოეთი"
+        io: "ბრიტ. ტერიტ. ინდ. ოკეანეში"
+        iq: "ერაყი"
+        ir: "ირანი"
+        is: "ისლანდია"
+        it: "იტალია"
+        je: "ჯერსი"
+        jm: "იამაიკა"
+        jo: "იორდანია"
+        jp: "იაპონია"
+        ke: "კენია"
+        kg: "ყირგიზეთი"
+        kh: "კამბოჯა"
+        ki: "კირიბატი"
+        km: "კომორის კუნძულები"
+        kn: "სენტ-კიტსი და ნევისი"
+        kp: "ჩრდილოეთი კორეა"
+        kr: "სამხრეთი კორეა"
+        kw: "ქუვეითი"
+        ky: "კაიმანის კუნძულები"
+        kz: "ყაზახეთი"
+        la: "ლაოსი"
+        lb: "ლიბანი"
+        lc: "სენტ-ლუსია"
+        li: "ლიხტენშტაინი"
+        lk: "შრი-ლანკა"
+        lr: "ლიბერია"
+        ls: "ლესოთო"
+        lt: "ლიტვა"
+        lu: "ლუქსემბურგი"
+        lv: "ლატვია"
+        ly: "ლიბია"
+        ma: "მაროკო"
+        mc: "მონაკო"
+        md: "მოლდოვა"
+        me: "მონტენეგრო"
+        mf: "სენ-მარტენი"
+        mg: "მადაგასკარი"
+        mh: "მარშალის კუნძულები"
+        mk: "მაკედონია"
+        mk_alt_variant: "მაკედონია (ყოფილი იუგოსლავიის რესპუბლიკა მაკედონია)"
+        ml: "მალი"
+        mm: "მიანმარი (ბირმა)"
+        mn: "მონღოლეთი"
+        mo: "მაკაოს სპეციალური ადმინისტრაციული რეგიონი ჩინეთი"
+        mo_alt_short: "მაკაო"
+        mp: "ჩრდილოეთ მარიანას კუნძულები"
+        mq: "მარტინიკა"
+        mr: "მავრიტანია"
+        ms: "მონსერატი"
+        mt: "მალტა"
+        mu: "მავრიკი"
+        mv: "მალდივის რესპუბლიკა"
+        mw: "მალავი"
+        mx: "მექსიკა"
+        my: "მალაიზია"
+        mz: "მოზამბიკი"
+        na: "ნამიბია"
+        nc: "ახალი კალედონია"
+        ne: "ნიგერი"
+        nf: "ნორფოლკის კუნძული"
+        ng: "ნიგერია"
+        ni: "ნიკარაგუა"
+        nl: "ნიდერლანდები"
+        'no': "ნორვეგია"
+        np: "ნეპალი"
+        nr: "ნაურუ"
+        nu: "ნიუე"
+        nz: "ახალი ზელანდია"
+        om: "ომანი"
+        pa: "პანამა"
+        pe: "პერუ"
+        pf: "საფრანგეთის პოლინეზია"
+        pg: "პაპუა-ახალი გვინეა"
+        ph: "ფილიპინები"
+        pk: "პაკისტანი"
+        pl: "პოლონეთი"
+        pm: "სენ-პიერი და მიკელონი"
+        pn: "პიტკერნის კუნძულები"
+        pr: "პუერტო-რიკო"
+        ps: "პალესტინის ტერიტორიები"
+        ps_alt_short: "პალესტინა"
+        pt: "პორტუგალია"
+        pw: "პალაუ"
+        py: "პარაგვაი"
+        qa: "კატარი"
+        qo: "შორეული ოკეანეთი"
+        re: "რეუნიონი"
+        ro: "რუმინეთი"
+        rs: "სერბეთი"
+        ru: "რუსეთი"
+        rw: "რუანდა"
+        sa: "საუდის არაბეთი"
+        sb: "სოლომონის კუნძულები"
+        sc: "სეიშელის კუნძულები"
+        sd: "სუდანი"
+        se: "შვედეთი"
+        sg: "სინგაპური"
+        sh: "წმინდა ელენეს კუნძული"
+        si: "სლოვენია"
+        sj: "შპიცბერგენი და იან-მაიენი"
+        sk: "სლოვაკეთი"
+        sl: "სიერა-ლეონე"
+        sm: "სან-მარინო"
+        sn: "სენეგალი"
+        so: "სომალი"
+        sr: "სურინამი"
+        ss: "სამხრეთი სუდანი"
+        st: "სან-ტომე და პრინსიპი"
+        sv: "სალვადორი"
+        sx: "სინტ-მარტენი"
+        sy: "სირია"
+        sz: "სვაზილენდი"
+        ta: "ტრისტან-და-კუნია"
+        tc: "ტერქსისა და კაიკოსის კუნძულები"
+        td: "ჩადი"
+        tf: "ფრანგული სამხრეთის ტერიტორიები"
+        tg: "ტოგო"
+        th: "ტაილანდი"
+        tj: "ტაჯიკეთი"
+        tk: "ტოკელაუ"
+        tl: "აღმოსავლეთი ტიმორი"
+        tl_alt_variant: TL
+        tm: "თურქმენეთი"
+        tn: "ტუნისი"
+        to: "ტონგა"
+        tr: "თურქეთი"
+        tt: "ტრინიდადი და ტობაგო"
+        tv: "ტუვალუ"
+        tw: "ტაივანი"
+        tz: "ტანზანია"
+        ua: "უკრაინა"
+        ug: "უგანდა"
+        um: "აშშ-ის შორეული კუნძულები"
+        us: "ამერიკის შეერთებული შტატები"
+        us_alt_short: "აშშ"
+        uy: "ურუგვაი"
+        uz: "უზბეკეთი"
+        va: "ქალაქი ვატიკანი"
+        vc: "სენტ-ვინსენტი და გრენადინები"
+        ve: "ვენესუელა"
+        vg: "ბრიტანეთის ვირჯინის კუნძულები"
+        vi: "აშშ-ის ვირჯინის კუნძულები"
+        vn: "ვიეტნამი"
+        vu: "ვანუატუ"
+        wf: "უოლისი და ფუტუნა"
+        ws: "სამოა"
+        xk: "კოსოვო"
+        ye: "იემენი"
+        yt: "მაიოტა"
+        za: "სამხრეთ აფრიკის რესპუბლიკა"
+        zm: "ზამბია"
+        zw: "ზიმბაბვე"
+        zz: "უცნობი რეგიონი"
+      variants:
+        '1901': '1901'
+        '1994': '1994'
+        '1996': '1996'
+        1606_nict: 1606NICT
+        1694_acad: 1694ACAD
+        1959_acad: 1959ACAD
+        abl1943: ABL1943
+        alalc97: ALALC97
+        aluku: ALUKU
+        ao1990: AO1990
+        arevela: AREVELA
+        arevmda: AREVMDA
+        baku1926: BAKU1926
+        balanka: BALANKA
+        barla: BARLA
+        bauddha: BAUDDHA
+        biscayan: BISCAYAN
+        biske: BISKE
+        bohoric: BOHORIC
+        boont: BOONT
+        colb1945: COLB1945
+        dajnko: DAJNKO
+        ekavsk: EKAVSK
+        emodeng: EMODENG
+        fonipa: FONIPA
+        fonupa: FONUPA
+        fonxsamp: FONXSAMP
+        hepburn: HEPBURN
+        hognorsk: HOGNORSK
+        ijekavsk: IJEKAVSK
+        itihasa: ITIHASA
+        jauer: JAUER
+        jyutping: JYUTPING
+        kkcor: KKCOR
+        kociewie: KOCIEWIE
+        kscor: KSCOR
+        laukika: LAUKIKA
+        lipaw: LIPAW
+        luna1918: LUNA1918
+        metelko: METELKO
+        monoton: MONOTON
+        ndyuka: NDYUKA
+        nedis: NEDIS
+        njiva: NJIVA
+        nulik: NULIK
+        osojs: OSOJS
+        oxendict: OXENDICT
+        pamaka: PAMAKA
+        petr1708: PETR1708
+        pinyin: PINYIN
+        polyton: POLYTON
+        posix: POSIX
+        puter: PUTER
+        revised: REVISED
+        rigik: RIGIK
+        rozaj: ROZAJ
+        rumgr: RUMGR
+        saaho: SAAHO
+        scotland: SCOTLAND
+        scouse: SCOUSE
+        solba: SOLBA
+        sotav: SOTAV
+        surmiran: SURMIRAN
+        sursilv: SURSILV
+        sutsilv: SUTSILV
+        tarask: TARASK
+        uccor: UCCOR
+        ucrcor: UCRCOR
+        ulster: ULSTER
+        unifon: UNIFON
+        vaidika: VAIDIKA
+        valencia: VALENCIA
+        vallader: VALLADER
+        wadegile: WADEGILE
+    units:
+      long:
+        per:
+          compound_unit_pattern: "{0}/{1}"
+        acceleration_g_force:
+          display_name: "ინერციის ძალა"
+          unit_pattern_count_one: "{0} ინერციის ძალა"
+          unit_pattern_count_other: "{0} ინერციის ძალა"
+        acceleration_meter_per_second_squared:
+          display_name: "მეტრი კვადრატულ წამში"
+          unit_pattern_count_one: "{0} მ/წმ²"
+          unit_pattern_count_other: "{0} მ/წმ²"
+        angle_revolution:
+          display_name: "ბრუნვა"
+          unit_pattern_count_one: "{0} ბრუნვა"
+          unit_pattern_count_other: "{0} ბრუნვა"
+        angle_radian:
+          display_name: "რადიანი"
+          unit_pattern_count_one: "{0} რადიანი"
+          unit_pattern_count_other: "{0} რადიანი"
+        angle_degree:
+          display_name: "გრადუსი"
+          unit_pattern_count_one: "{0} გრადუსი"
+          unit_pattern_count_other: "{0} გრადუსი"
+        angle_arc_minute:
+          display_name: "მინუტი"
+          unit_pattern_count_one: "{0} მინუტი"
+          unit_pattern_count_other: "{0} მინუტი"
+        angle_arc_second:
+          display_name: "სეკუნდი"
+          unit_pattern_count_one: "{0} სეკუნდი"
+          unit_pattern_count_other: "{0} სეკუნდი"
+        area_square_kilometer:
+          display_name: "კვადრატული კილომეტრი"
+          unit_pattern_count_one: "{0} კვადრატული კილომეტრი"
+          unit_pattern_count_other: "{0} კვადრატული კილომეტრი"
+        area_hectare:
+          display_name: "ჰექტარი"
+          unit_pattern_count_one: "{0} ჰექტარი"
+          unit_pattern_count_other: "{0} ჰექტარი"
+        area_square_meter:
+          display_name: "კვადრატული მეტრი"
+          unit_pattern_count_one: "{0} კვადრატული მეტრი"
+          unit_pattern_count_other: "{0} კვადრატული მეტრი"
+          per_unit_pattern: "{0} კვადრატულ მეტრში"
+        area_square_centimeter:
+          display_name: "კვადრატული სანტიმეტრი"
+          unit_pattern_count_one: "{0} კვადრატული სანტიმეტრი"
+          unit_pattern_count_other: "{0} კვადრატული სანტიმეტრი"
+          per_unit_pattern: "{0} კვადრატულ სანტიმეტრში"
+        area_square_mile:
+          display_name: "კვადრატული მილი"
+          unit_pattern_count_one: "{0} კვადრატული მილი"
+          unit_pattern_count_other: "{0} კვადრატული მილი"
+        area_acre:
+          display_name: "აკრი"
+          unit_pattern_count_one: "{0} აკრი"
+          unit_pattern_count_other: "{0} აკრი"
+        area_square_yard:
+          display_name: "კვადრატული იარდი"
+          unit_pattern_count_one: "{0} კვადრატული იარდი"
+          unit_pattern_count_other: "{0} კვადრატული იარდი"
+        area_square_foot:
+          display_name: "კვადრატული ფუტი"
+          unit_pattern_count_one: "{0} კვადრატული ფუტი"
+          unit_pattern_count_other: "{0} კვადრატული ფუტი"
+        area_square_inch:
+          display_name: "კვადრატული დუიმი"
+          unit_pattern_count_one: "{0} კვადრატული დუიმი"
+          unit_pattern_count_other: "{0} კვადრატული დუიმი"
+          per_unit_pattern: "{0} კვადრატულ დუიმში"
+        consumption_liter_per_kilometer:
+          display_name: "ლიტრი კილომეტრზე"
+          unit_pattern_count_one: "{0} ლიტრი კილომეტრზე"
+          unit_pattern_count_other: "{0} ლიტრი კილომეტრზე"
+        consumption_liter_per_100kilometers:
+          display_name: "ლიტრი 100 კილომეტრში"
+          unit_pattern_count_one: "{0} ლიტრი 100 კილომეტრში"
+          unit_pattern_count_other: "{0} ლიტრი 100 კილომეტრში"
+        consumption_mile_per_gallon:
+          display_name: "მილი გალონზე"
+          unit_pattern_count_one: "{0} მილი გალონზე"
+          unit_pattern_count_other: "{0} მილი გალონზე"
+        digital_terabyte:
+          display_name: "ტერაბაიტი"
+          unit_pattern_count_one: "{0} ტერაბაიტი"
+          unit_pattern_count_other: "{0} ტერაბაიტი"
+        digital_terabit:
+          display_name: "ტერაბიტი"
+          unit_pattern_count_one: "{0} ტერაბიტი"
+          unit_pattern_count_other: "{0} ტერაბიტი"
+        digital_gigabyte:
+          display_name: "გიგაბაიტი"
+          unit_pattern_count_one: "{0} გიგაბაიტი"
+          unit_pattern_count_other: "{0} გიგაბაიტი"
+        digital_gigabit:
+          display_name: "გიგაბიტი"
+          unit_pattern_count_one: "{0} გიგაბიტი"
+          unit_pattern_count_other: "{0} გიგაბიტი"
+        digital_megabyte:
+          display_name: "მეგაბაიტი"
+          unit_pattern_count_one: "{0} მეგაბაიტი"
+          unit_pattern_count_other: "{0} მეგაბაიტი"
+        digital_megabit:
+          display_name: "მეგაბიტი"
+          unit_pattern_count_one: "{0} მეგაბიტი"
+          unit_pattern_count_other: "{0} მეგაბიტი"
+        digital_kilobyte:
+          display_name: "კილობაიტი"
+          unit_pattern_count_one: "{0} კილობაიტი"
+          unit_pattern_count_other: "{0} კილობაიტი"
+        digital_kilobit:
+          display_name: "კილობიტი"
+          unit_pattern_count_one: "{0} კილობიტი"
+          unit_pattern_count_other: "{0} კილობიტი"
+        digital_byte:
+          display_name: "ბაიტი"
+          unit_pattern_count_one: "{0} ბაიტი"
+          unit_pattern_count_other: "{0} ბაიტი"
+        digital_bit:
+          display_name: "ბიტი"
+          unit_pattern_count_one: "{0} ბიტი"
+          unit_pattern_count_other: "{0} ბიტი"
+        duration_century:
+          display_name: "საუკუნე"
+          unit_pattern_count_one: "{0} საუკუნე"
+          unit_pattern_count_other: "{0} საუკუნე"
+        duration_year:
+          display_name: "წელი"
+          unit_pattern_count_one: "{0} წელი"
+          unit_pattern_count_other: "{0} წელი"
+          per_unit_pattern: "{0} წელში"
+        duration_month:
+          display_name: "თვე"
+          unit_pattern_count_one: "{0} თვე"
+          unit_pattern_count_other: "{0} თვე"
+          per_unit_pattern: "{0} თვეში"
+        duration_week:
+          display_name: "კვირა"
+          unit_pattern_count_one: "{0} კვირა"
+          unit_pattern_count_other: "{0} კვირა"
+          per_unit_pattern: "{0} კვირაში"
+        duration_day:
+          display_name: "დღე"
+          unit_pattern_count_one: "{0} დღე"
+          unit_pattern_count_other: "{0} დღე"
+          per_unit_pattern: "{0} დღეში"
+        duration_hour:
+          display_name: "საათი"
+          unit_pattern_count_one: "{0} საათი"
+          unit_pattern_count_other: "{0} საათი"
+          per_unit_pattern: "{0} საათში"
+        duration_minute:
+          display_name: "წუთი"
+          unit_pattern_count_one: "{0} წუთი"
+          unit_pattern_count_other: "{0} წუთი"
+          per_unit_pattern: "{0} წუთში"
+        duration_second:
+          display_name: "წამი"
+          unit_pattern_count_one: "{0} წამი"
+          unit_pattern_count_other: "{0} წამი"
+          per_unit_pattern: "{0} წამში"
+        duration_millisecond:
+          display_name: "მილიწამი"
+          unit_pattern_count_one: "{0} მილიწამი"
+          unit_pattern_count_other: "{0} მილიწამი"
+        duration_microsecond:
+          display_name: "მიკროწამი"
+          unit_pattern_count_one: "{0} მიკროწამი"
+          unit_pattern_count_other: "{0} მიკროწამი"
+        duration_nanosecond:
+          display_name: "ნანოწამი"
+          unit_pattern_count_one: "{0} ნანოწამი"
+          unit_pattern_count_other: "{0} ნანოწამი"
+        electric_ampere:
+          display_name: "ამპერი"
+          unit_pattern_count_one: "{0} ა"
+          unit_pattern_count_other: "{0} ა"
+        electric_milliampere:
+          display_name: "მილიამპერი"
+          unit_pattern_count_one: "{0} მილიამპერი"
+          unit_pattern_count_other: "{0} მილიამპერი"
+        electric_ohm:
+          display_name: "ომი"
+          unit_pattern_count_one: "{0} ომი"
+          unit_pattern_count_other: "{0} ომი"
+        electric_volt:
+          display_name: "ვოლტი"
+          unit_pattern_count_one: "{0} ვოლტი"
+          unit_pattern_count_other: "{0} ვოლტი"
+        energy_kilocalorie:
+          display_name: "კილოკალორია"
+          unit_pattern_count_one: "{0} კილოკალორია"
+          unit_pattern_count_other: "{0} კილოკალორია"
+        energy_calorie:
+          display_name: "კალორია"
+          unit_pattern_count_one: "{0} კალორია"
+          unit_pattern_count_other: "{0} კალორია"
+        energy_foodcalorie:
+          display_name: "კალორია"
+          unit_pattern_count_one: "{0} კალორია"
+          unit_pattern_count_other: "{0} კალორია"
+        energy_kilojoule:
+          display_name: "კილოჯოული"
+          unit_pattern_count_one: "{0} კილოჯოული"
+          unit_pattern_count_other: "{0} კილოჯოული"
+        energy_joule:
+          display_name: "ჯოული"
+          unit_pattern_count_one: "{0} ჯოული"
+          unit_pattern_count_other: "{0} ჯოული"
+        energy_kilowatt_hour:
+          display_name: "კილოვატ-საათი"
+          unit_pattern_count_one: "{0} კილოვატ-საათი"
+          unit_pattern_count_other: "{0} კილოვატ-საათი"
+        frequency_gigahertz:
+          display_name: "გიგაჰერცი"
+          unit_pattern_count_one: "{0} გიგაჰერცი"
+          unit_pattern_count_other: "{0} გიგაჰერცი"
+        frequency_megahertz:
+          display_name: "მეგაჰერცი"
+          unit_pattern_count_one: "{0} მეგაჰერცი"
+          unit_pattern_count_other: "{0} მეგაჰერცი"
+        frequency_kilohertz:
+          display_name: "კილოჰერცი"
+          unit_pattern_count_one: "{0} კილოჰერცი"
+          unit_pattern_count_other: "{0} კილოჰერცი"
+        frequency_hertz:
+          display_name: "ჰერცი"
+          unit_pattern_count_one: "{0} ჰერცი"
+          unit_pattern_count_other: "{0} ჰერცი"
+        length_kilometer:
+          display_name: "კილომეტრი"
+          unit_pattern_count_one: "{0} კილომეტრი"
+          unit_pattern_count_other: "{0} კილომეტრი"
+          per_unit_pattern: "{0} კილომეტრში"
+        length_meter:
+          display_name: "მეტრი"
+          unit_pattern_count_one: "{0} მეტრი"
+          unit_pattern_count_other: "{0} მეტრი"
+          per_unit_pattern: "{0} მეტრში"
+        length_decimeter:
+          display_name: "დეციმეტრი"
+          unit_pattern_count_one: "{0} დეციმეტრი"
+          unit_pattern_count_other: "{0} დეციმეტრი"
+        length_centimeter:
+          display_name: "სანტიმეტრი"
+          unit_pattern_count_one: "{0} სანტიმეტრი"
+          unit_pattern_count_other: "{0} სანტიმეტრი"
+          per_unit_pattern: "{0} სანტიმეტრში"
+        length_millimeter:
+          display_name: "მილიმეტრი"
+          unit_pattern_count_one: "{0} მილიმეტრი"
+          unit_pattern_count_other: "{0} მილიმეტრი"
+        length_micrometer:
+          display_name: "მიკრომეტრი"
+          unit_pattern_count_one: "{0} მიკრომეტრი"
+          unit_pattern_count_other: "{0} მიკრომეტრი"
+        length_nanometer:
+          display_name: "ნანომეტრი"
+          unit_pattern_count_one: "{0} ნანომეტრი"
+          unit_pattern_count_other: "{0} ნანომეტრი"
+        length_picometer:
+          display_name: "პიკომეტრი"
+          unit_pattern_count_one: "{0} პიკომეტრი"
+          unit_pattern_count_other: "{0} პიკომეტრი"
+        length_mile:
+          display_name: "მილი"
+          unit_pattern_count_one: "{0} მილი"
+          unit_pattern_count_other: "{0} მილი"
+        length_yard:
+          display_name: "იარდი"
+          unit_pattern_count_one: "{0} იარდი"
+          unit_pattern_count_other: "{0} იარდი"
+        length_foot:
+          display_name: "ფუტი"
+          unit_pattern_count_one: "{0} ფუტი"
+          unit_pattern_count_other: "{0} ფუტი"
+          per_unit_pattern: "{0} ფუტში"
+        length_inch:
+          display_name: "დუიმი"
+          unit_pattern_count_one: "{0} დუიმი"
+          unit_pattern_count_other: "{0} დუიმი"
+          per_unit_pattern: "{0} დუიმში"
+        length_parsec:
+          display_name: "პარსეკი"
+          unit_pattern_count_one: "{0} პარსეკი"
+          unit_pattern_count_other: "{0} პარსეკი"
+        length_light_year:
+          display_name: "სინათლის წელი"
+          unit_pattern_count_one: "{0} სინათლის წელი"
+          unit_pattern_count_other: "{0} სინათლის წელი"
+        length_astronomical_unit:
+          display_name: "ასტრონომიული ერთეული"
+          unit_pattern_count_one: "{0} ასტრონომიული ერთეული"
+          unit_pattern_count_other: "{0} ასტრონომიული ერთეული"
+        length_furlong:
+          display_name: fur
+          unit_pattern_count_other: "{0} fur"
+        length_fathom:
+          display_name: fm
+          unit_pattern_count_other: "{0} fm"
+        length_nautical_mile:
+          display_name: "საზღვაო მილი"
+          unit_pattern_count_one: "{0} საზღვაო მილი"
+          unit_pattern_count_other: "{0} საზღვაო მილი"
+        length_mile_scandinavian:
+          display_name: "სკანდინავიური მილი"
+          unit_pattern_count_one: "{0} სკანდინავიური მილი"
+          unit_pattern_count_other: "{0} სკანდინავიური მილი"
+        light_lux:
+          display_name: "ლუქსი"
+          unit_pattern_count_one: "{0} ლუქსი"
+          unit_pattern_count_other: "{0} ლუქსი"
+        mass_metric_ton:
+          display_name: "მეტრული ტონა"
+          unit_pattern_count_one: "{0} მეტრული ტონა"
+          unit_pattern_count_other: "{0} მეტრული ტონა"
+        mass_kilogram:
+          display_name: "კილოგრამი"
+          unit_pattern_count_one: "{0} კილოგრამი"
+          unit_pattern_count_other: "{0} კილოგრამი"
+          per_unit_pattern: "{0} კილოგრამში"
+        mass_gram:
+          display_name: "გრამი"
+          unit_pattern_count_one: "{0} გრამი"
+          unit_pattern_count_other: "{0} გრამი"
+          per_unit_pattern: "{0} გრამში"
+        mass_milligram:
+          display_name: "მილიგრამი"
+          unit_pattern_count_one: "{0} მილიგრამი"
+          unit_pattern_count_other: "{0} მილიგრამი"
+        mass_microgram:
+          display_name: "მიკროგრამი"
+          unit_pattern_count_one: "მიკროგრამი"
+          unit_pattern_count_other: "{0} მიკროგრამი"
+        mass_ton:
+          display_name: "ტონა"
+          unit_pattern_count_one: "{0} ტონა"
+          unit_pattern_count_other: "{0} ტ"
+        mass_stone:
+          display_name: st
+          unit_pattern_count_other: "{0} st"
+        mass_pound:
+          display_name: "ფუნტი"
+          unit_pattern_count_one: "{0} ფუნტი"
+          unit_pattern_count_other: "{0} ფუნტი"
+          per_unit_pattern: "{0} ფუნტში"
+        mass_ounce:
+          display_name: "უნცია"
+          unit_pattern_count_one: "{0} უნცია"
+          unit_pattern_count_other: "{0} უნცია"
+          per_unit_pattern: "{0} უნციაში"
+        mass_ounce_troy:
+          display_name: "ტრუას უნცია"
+          unit_pattern_count_one: "{0} ტრუას უნცია"
+          unit_pattern_count_other: "{0} ტრუას უნცია"
+        mass_carat:
+          display_name: "კარატი"
+          unit_pattern_count_one: "{0} კარატი"
+          unit_pattern_count_other: "{0} კარატი"
+        power_gigawatt:
+          display_name: "გიგავატი"
+          unit_pattern_count_one: "{0} გიგავატი"
+          unit_pattern_count_other: "{0} გიგავატი"
+        power_megawatt:
+          display_name: "მეგავატი"
+          unit_pattern_count_one: "{0} მეგავატი"
+          unit_pattern_count_other: "{0} მეგავატი"
+        power_kilowatt:
+          display_name: "კილოვატი"
+          unit_pattern_count_one: "{0} კილოვატი"
+          unit_pattern_count_other: "{0} კილოვატი"
+        power_watt:
+          display_name: "ვატი"
+          unit_pattern_count_one: "{0} ვატი"
+          unit_pattern_count_other: "{0} ვატი"
+        power_milliwatt:
+          display_name: "მილივატი"
+          unit_pattern_count_one: "{0} მილივატი"
+          unit_pattern_count_other: "{0} მილივატი"
+        power_horsepower:
+          display_name: "ცხენის ძალა"
+          unit_pattern_count_one: "{0} ცხენის ძალა"
+          unit_pattern_count_other: "{0} ცხენის ძალა"
+        pressure_hectopascal:
+          display_name: "ჰექტოპასკალი"
+          unit_pattern_count_one: "{0} ჰექტოპასკალი"
+          unit_pattern_count_other: "{0} ჰექტოპასკალი"
+        pressure_millimeter_of_mercury:
+          display_name: "მილიმეტრი ვერცხლისწყლის სვეტისა"
+          unit_pattern_count_one: "{0} მილიმეტრი ვერცხლისწყლის სვეტისა"
+          unit_pattern_count_other: "{0} მილიმეტრი ვერცხლისწყლის სვეტისა"
+        pressure_pound_per_square_inch:
+          display_name: "ფუნტი კვადრატულ დუიმზე"
+          unit_pattern_count_one: "{0} ფუნტი კვადრატულ დუიმზე"
+          unit_pattern_count_other: "{0} ფუნტი კვადრატულ დუიმზე"
+        pressure_inch_hg:
+          display_name: "ვერცხლისწყლის დუიმი"
+          unit_pattern_count_one: "{0} ვერცხლისწყლის დუიმი"
+          unit_pattern_count_other: "{0} ვერცხლისწყლის დუიმი"
+        pressure_millibar:
+          display_name: "მილიბარი"
+          unit_pattern_count_one: "{0} მილიბარი"
+          unit_pattern_count_other: "{0} მილიბარი"
+        proportion_karat:
+          display_name: "კარატი"
+          unit_pattern_count_one: "{0} კარატი"
+          unit_pattern_count_other: "{0} კარატი"
+        speed_kilometer_per_hour:
+          display_name: "კილომეტრი საათში"
+          unit_pattern_count_one: "{0} კილომეტრი საათში"
+          unit_pattern_count_other: "{0} კილომეტრი საათში"
+        speed_meter_per_second:
+          display_name: "მეტრი წამში"
+          unit_pattern_count_one: "{0} მეტრი წამში"
+          unit_pattern_count_other: "{0} მეტრი წამში"
+        speed_mile_per_hour:
+          display_name: "მილი საათში"
+          unit_pattern_count_one: "{0} მილი საათში"
+          unit_pattern_count_other: "{0} მილი საათში"
+        speed_knot:
+          display_name: "კვანძი"
+          unit_pattern_count_one: "{0} კვანძი"
+          unit_pattern_count_other: "{0} კვანძი"
+        temperature_generic:
+          display_name: "°"
+          unit_pattern_count_one: "{0}°"
+          unit_pattern_count_other: "{0}°"
+        temperature_celsius:
+          display_name: "გრადუსი ცელსიუსით"
+          unit_pattern_count_one: "{0} გრადუსი ცელსიუსით"
+          unit_pattern_count_other: "{0} გრადუსი ცელსიუსით"
+        temperature_fahrenheit:
+          display_name: "გრადუსი ფარენჰეიტით"
+          unit_pattern_count_one: "{0} გრადუსი ფარენჰეიტით"
+          unit_pattern_count_other: "{0} გრადუსი ფარენჰეიტით"
+        temperature_kelvin:
+          display_name: "კელვინის გრადუსი"
+          unit_pattern_count_one: "{0} კელვინი"
+          unit_pattern_count_other: "{0} კელვინის გრადუსი"
+        volume_cubic_kilometer:
+          display_name: "კუბური კილომეტრი"
+          unit_pattern_count_one: "{0} კუბური კილომეტრი"
+          unit_pattern_count_other: "{0} კუბური კილომეტრი"
+        volume_cubic_meter:
+          display_name: "კუბური მეტრი"
+          unit_pattern_count_one: "{0} კუბური მეტრი"
+          unit_pattern_count_other: "{0} კუბური მეტრი"
+          per_unit_pattern: "{0} კუბურ მეტრში"
+        volume_cubic_centimeter:
+          display_name: "კუბური სანტიმენტრი"
+          unit_pattern_count_one: "{0} კუბური სანტიმენტრი"
+          unit_pattern_count_other: "{0} კუბური სანტიმენტრი"
+          per_unit_pattern: "{0} კუბურ სანტიმეტრში"
+        volume_cubic_mile:
+          display_name: "კუბური მილი"
+          unit_pattern_count_one: "{0} კუბური მილი"
+          unit_pattern_count_other: "{0} კუბური მილი"
+        volume_cubic_yard:
+          display_name: "კუბური იარდი"
+          unit_pattern_count_one: "{0} კუბური იარდი"
+          unit_pattern_count_other: "{0} კუბური იარდი"
+        volume_cubic_foot:
+          display_name: "კუბური ფუტი"
+          unit_pattern_count_one: "{0} კუბური ფუტი"
+          unit_pattern_count_other: "{0} კუბური ფუტი"
+        volume_cubic_inch:
+          display_name: "კუბური დუიმი"
+          unit_pattern_count_one: "{0} კუბური დუიმი"
+          unit_pattern_count_other: "{0} კუბური დუიმი"
+        volume_megaliter:
+          display_name: "მეგალიტრი"
+          unit_pattern_count_one: "{0} მეგალიტრი"
+          unit_pattern_count_other: "{0} მეგალიტრი"
+        volume_hectoliter:
+          display_name: "ჰექტოლიტრი"
+          unit_pattern_count_one: "{0} ჰექტოლიტრი"
+          unit_pattern_count_other: "{0} ჰექტოლიტრი"
+        volume_liter:
+          display_name: "ლიტრი"
+          unit_pattern_count_one: "{0} ლიტრი"
+          unit_pattern_count_other: "{0} ლიტრი"
+          per_unit_pattern: "{0} ლიტრში"
+        volume_deciliter:
+          display_name: "დეცილიტრი"
+          unit_pattern_count_one: "{0} დეცილიტრი"
+          unit_pattern_count_other: "{0} დეცილიტრი"
+        volume_centiliter:
+          display_name: "სანტილიტრი"
+          unit_pattern_count_one: "{0} სანტილიტრი"
+          unit_pattern_count_other: "{0} სანტილიტრი"
+        volume_milliliter:
+          display_name: "მილილიტრი"
+          unit_pattern_count_one: "{0} მილილიტრი"
+          unit_pattern_count_other: "{0} მილილიტრი"
+        volume_pint_metric:
+          display_name: "მეტრული პინტა"
+          unit_pattern_count_one: "{0} მეტრული პინტა"
+          unit_pattern_count_other: "{0} მეტრული პინტა"
+        volume_cup_metric:
+          display_name: "მეტრული ჭიქა"
+          unit_pattern_count_one: "{0} მეტრული ჭიქა"
+          unit_pattern_count_other: "{0} მეტრული ჭიქა"
+        volume_acre_foot:
+          display_name: "აკრი-ფუტი"
+          unit_pattern_count_one: "{0} აკრი-ფუტი"
+          unit_pattern_count_other: "{0} აკრი-ფუტი"
+        volume_bushel:
+          display_name: bu
+          unit_pattern_count_other: "{0} bu"
+        volume_gallon:
+          display_name: "გალონი"
+          unit_pattern_count_one: "{0} გალონი"
+          unit_pattern_count_other: "{0} გალონი"
+          per_unit_pattern: "{0} გალონში"
+        volume_quart:
+          display_name: "კვარტა"
+          unit_pattern_count_one: "{0} კვარტა"
+          unit_pattern_count_other: "{0} კვარტა"
+        volume_pint:
+          display_name: "პინტა"
+          unit_pattern_count_one: "{0} პინტა"
+          unit_pattern_count_other: "{0} პინტა"
+        volume_cup:
+          display_name: "ჭიქა"
+          unit_pattern_count_one: "{0} ჭიქა"
+          unit_pattern_count_other: "{0} ჭიქა"
+        volume_fluid_ounce:
+          display_name: "თხევადი უნცია"
+          unit_pattern_count_one: "{0} თხევადი უნცია"
+          unit_pattern_count_other: "{0} თხევადი უნცია"
+        volume_tablespoon:
+          display_name: "სუფრის კოვზი"
+          unit_pattern_count_one: "{0} სუფრის კოვზი"
+          unit_pattern_count_other: "{0} სუფრის კოვზი"
+        volume_teaspoon:
+          display_name: "ჩაის კოვზი"
+          unit_pattern_count_one: "{0} ჩაის კოვზი"
+          unit_pattern_count_other: "{0} ჩაის კოვზი"
+        coordinate_unit:
+          east: "{0} აღმოსავლეთით"
+          north: "{0} ჩრდილოეთით"
+          south: "{0} სამხრეთით"
+          west: "{0} დასავლეთით"
+      short:
+        per:
+          compound_unit_pattern: "{0}/{1}"
+        acceleration_g_force:
+          display_name: "ინ. ძ."
+          unit_pattern_count_one: "{0} ინ. ძ."
+          unit_pattern_count_other: "{0} ინ. ძ."
+        acceleration_meter_per_second_squared:
+          display_name: "მ/წმ²"
+          unit_pattern_count_one: "{0} მ/წმ²"
+          unit_pattern_count_other: "{0} მ/წმ²"
+        angle_revolution:
+          display_name: "ბრნ."
+          unit_pattern_count_one: "{0} ბრნ."
+          unit_pattern_count_other: "{0} ბრნ."
+        angle_radian:
+          display_name: "რადიანი"
+          unit_pattern_count_one: "{0} რად."
+          unit_pattern_count_other: "{0} რად."
+        angle_degree:
+          display_name: "გრადუსი"
+          unit_pattern_count_one: "{0}°"
+          unit_pattern_count_other: "{0}°"
+        angle_arc_minute:
+          display_name: "მინუტი"
+          unit_pattern_count_one: "{0} მინუტი"
+          unit_pattern_count_other: "{0} მინუტი"
+        angle_arc_second:
+          display_name: "სეკუნდი"
+          unit_pattern_count_one: "{0} სეკუნდი"
+          unit_pattern_count_other: "{0} სეკუნდი"
+        area_square_kilometer:
+          display_name: "კმ²"
+          unit_pattern_count_one: "{0} კმ²"
+          unit_pattern_count_other: "{0} კმ²"
+        area_hectare:
+          display_name: "ჰა"
+          unit_pattern_count_one: "{0} ჰა"
+          unit_pattern_count_other: "{0} ჰა"
+        area_square_meter:
+          display_name: "მ²"
+          unit_pattern_count_one: "{0} მ²"
+          unit_pattern_count_other: "{0} მ²"
+          per_unit_pattern: "{0}/მ²"
+        area_square_centimeter:
+          display_name: "სმ²"
+          unit_pattern_count_one: "{0} სმ²"
+          unit_pattern_count_other: "{0} სმ²"
+          per_unit_pattern: "{0}/სმ²"
+        area_square_mile:
+          display_name: "მილი²"
+          unit_pattern_count_one: "{0} მილი²"
+          unit_pattern_count_other: "{0} მილი²"
+        area_acre:
+          display_name: "აკრი"
+          unit_pattern_count_one: "{0} აკრი"
+          unit_pattern_count_other: "{0} აკრი"
+        area_square_yard:
+          display_name: "იარდი²"
+          unit_pattern_count_one: "{0} იარდი²"
+          unit_pattern_count_other: "{0} იარდი²"
+        area_square_foot:
+          display_name: "ფუტი²"
+          unit_pattern_count_one: "{0} ფტ²"
+          unit_pattern_count_other: "{0} ფტ²"
+        area_square_inch:
+          display_name: "დუიმი²"
+          unit_pattern_count_one: "{0} დუიმი²"
+          unit_pattern_count_other: "{0} დუიმი²"
+          per_unit_pattern: "{0}/დუიმი²"
+        consumption_liter_per_kilometer:
+          display_name: "ლიტრი/კმ"
+          unit_pattern_count_one: "{0} ლ/კმ"
+          unit_pattern_count_other: "{0} ლ/კმ"
+        consumption_liter_per_100kilometers:
+          display_name: "ლ/100კმ"
+          unit_pattern_count_one: "{0} ლ/100კმ"
+          unit_pattern_count_other: "{0} ლ/100კმ"
+        consumption_mile_per_gallon:
+          display_name: "მილი/გალ."
+          unit_pattern_count_one: "{0} მილი/გალ."
+          unit_pattern_count_other: "{0} მილი/გალ."
+        digital_terabyte:
+          display_name: "ტბაიტი"
+          unit_pattern_count_one: "{0} ტბაიტი"
+          unit_pattern_count_other: "{0} ტბაიტი"
+        digital_terabit:
+          display_name: "ტბიტი"
+          unit_pattern_count_one: "{0} ტბიტი"
+          unit_pattern_count_other: "{0} ტბიტი"
+        digital_gigabyte:
+          display_name: "გბაიტი"
+          unit_pattern_count_one: "{0} გბაიტი"
+          unit_pattern_count_other: "{0} გბაიტი"
+        digital_gigabit:
+          display_name: "გბიტი"
+          unit_pattern_count_one: "{0} გბიტი"
+          unit_pattern_count_other: "{0} გბიტი"
+        digital_megabyte:
+          display_name: "მბაიტი"
+          unit_pattern_count_one: "{0} მბაიტი"
+          unit_pattern_count_other: "{0} მბაიტი"
+        digital_megabit:
+          display_name: "მბიტი"
+          unit_pattern_count_one: "{0} მბიტი"
+          unit_pattern_count_other: "{0} მბიტი"
+        digital_kilobyte:
+          display_name: "კილობაიტი"
+          unit_pattern_count_one: "{0} კბაიტი"
+          unit_pattern_count_other: "{0} კბაიტი"
+        digital_kilobit:
+          display_name: "კბიტი"
+          unit_pattern_count_one: "{0} კბიტი"
+          unit_pattern_count_other: "{0} კბიტი"
+        digital_byte:
+          display_name: "ბაიტი"
+          unit_pattern_count_one: "{0} ბაიტი"
+          unit_pattern_count_other: "{0} ბაიტი"
+        digital_bit:
+          display_name: "ბიტი"
+          unit_pattern_count_one: "{0} ბიტი"
+          unit_pattern_count_other: "{0} ბიტი"
+        duration_century:
+          display_name: "ს."
+          unit_pattern_count_one: "{0} ს."
+          unit_pattern_count_other: "{0} ს."
+        duration_year:
+          display_name: "წ"
+          unit_pattern_count_one: "{0} წ"
+          unit_pattern_count_other: "{0} წ"
+          per_unit_pattern: "{0}/წ"
+        duration_month:
+          display_name: "თვე"
+          unit_pattern_count_one: "{0} თვე"
+          unit_pattern_count_other: "{0} თვე"
+          per_unit_pattern: "{0}/თვე"
+        duration_week:
+          display_name: "კვრ"
+          unit_pattern_count_one: "{0} კვრ"
+          unit_pattern_count_other: "{0} კვრ"
+          per_unit_pattern: "{0}/კვრ"
+        duration_day:
+          display_name: "დღე"
+          unit_pattern_count_one: "{0} დღე"
+          unit_pattern_count_other: "{0} დღე"
+          per_unit_pattern: "{0}/დღე"
+        duration_hour:
+          display_name: "სთ"
+          unit_pattern_count_one: "{0} სთ"
+          unit_pattern_count_other: "{0} სთ"
+          per_unit_pattern: "{0}/სთ"
+        duration_minute:
+          display_name: "წთ"
+          unit_pattern_count_one: "{0} წთ"
+          unit_pattern_count_other: "{0} წთ"
+          per_unit_pattern: "{0}/წთ"
+        duration_second:
+          display_name: "წმ"
+          unit_pattern_count_one: "{0} წმ"
+          unit_pattern_count_other: "{0} წმ"
+          per_unit_pattern: "{0}/წმ"
+        duration_millisecond:
+          display_name: "მწმ"
+          unit_pattern_count_one: "{0} მწმ"
+          unit_pattern_count_other: "{0} მწმ"
+        duration_microsecond:
+          display_name: "მკწმ"
+          unit_pattern_count_one: "{0} მკწმ"
+          unit_pattern_count_other: "{0} მკწმ"
+        duration_nanosecond:
+          display_name: "ნწმ"
+          unit_pattern_count_one: "{0} ნწმ"
+          unit_pattern_count_other: "{0} ნწმ"
+        electric_ampere:
+          display_name: "ამპ"
+          unit_pattern_count_one: "{0} ა"
+          unit_pattern_count_other: "{0} ა"
+        electric_milliampere:
+          display_name: "მილიამპ."
+          unit_pattern_count_one: "{0} მამპ."
+          unit_pattern_count_other: "{0} მამპ."
+        electric_ohm:
+          display_name: "ომი"
+          unit_pattern_count_one: "{0} ომ"
+          unit_pattern_count_other: "{0} ომ"
+        electric_volt:
+          display_name: "ვოლტი"
+          unit_pattern_count_one: "{0} ვ"
+          unit_pattern_count_other: "{0} ვ"
+        energy_kilocalorie:
+          display_name: "კკალ"
+          unit_pattern_count_one: "{0} კკალ"
+          unit_pattern_count_other: "{0} კკალ"
+        energy_calorie:
+          display_name: "კალ"
+          unit_pattern_count_one: "{0} კალ"
+          unit_pattern_count_other: "{0} კალ"
+        energy_foodcalorie:
+          display_name: "კალ"
+          unit_pattern_count_one: "{0} კალ"
+          unit_pattern_count_other: "{0} კალ"
+        energy_kilojoule:
+          display_name: "კჯ"
+          unit_pattern_count_one: "{0} კჯ"
+          unit_pattern_count_other: "{0} კჯ"
+        energy_joule:
+          display_name: "ჯოული"
+          unit_pattern_count_one: "{0} ჯ"
+          unit_pattern_count_other: "{0} ჯ"
+        energy_kilowatt_hour:
+          display_name: "კვტსთ"
+          unit_pattern_count_one: "{0} კვტსთ"
+          unit_pattern_count_other: "{0} კვტსთ"
+        frequency_gigahertz:
+          display_name: "გჰც."
+          unit_pattern_count_one: "{0} გჰც."
+          unit_pattern_count_other: "{0} გჰც."
+        frequency_megahertz:
+          display_name: "მჰც"
+          unit_pattern_count_one: "{0} მჰც"
+          unit_pattern_count_other: "{0} მჰც"
+        frequency_kilohertz:
+          display_name: "კჰც."
+          unit_pattern_count_one: "{0} კჰც."
+          unit_pattern_count_other: "{0} კჰც."
+        frequency_hertz:
+          display_name: "ჰც."
+          unit_pattern_count_one: "{0} ჰც."
+          unit_pattern_count_other: "{0} ჰც."
+        length_kilometer:
+          display_name: "კმ"
+          unit_pattern_count_one: "{0} კმ"
+          unit_pattern_count_other: "{0} კმ"
+          per_unit_pattern: "{0}/კმ"
+        length_meter:
+          display_name: "მ"
+          unit_pattern_count_one: "{0} მ"
+          unit_pattern_count_other: "{0} მ"
+          per_unit_pattern: "{0}/მ"
+        length_decimeter:
+          display_name: "დმ"
+          unit_pattern_count_one: "{0} დმ"
+          unit_pattern_count_other: "{0} დმ"
+        length_centimeter:
+          display_name: "სმ"
+          unit_pattern_count_one: "{0} სმ"
+          unit_pattern_count_other: "{0} სმ"
+          per_unit_pattern: "{0}/სმ"
+        length_millimeter:
+          display_name: "მმ"
+          unit_pattern_count_one: "{0} მმ"
+          unit_pattern_count_other: "{0} მმ"
+        length_micrometer:
+          display_name: "მკმ"
+          unit_pattern_count_one: "{0} მკმ"
+          unit_pattern_count_other: "{0} მკმ"
+        length_nanometer:
+          display_name: "ნმ"
+          unit_pattern_count_one: "{0} ნმ"
+          unit_pattern_count_other: "{0} ნმ"
+        length_picometer:
+          display_name: "პმ"
+          unit_pattern_count_one: "{0} პმ"
+          unit_pattern_count_other: "{0} პმ"
+        length_mile:
+          display_name: "მილი"
+          unit_pattern_count_one: "{0} მილი"
+          unit_pattern_count_other: "{0} მილი"
+        length_yard:
+          display_name: "იარდი"
+          unit_pattern_count_one: "{0} იარდი"
+          unit_pattern_count_other: "{0} იარდი"
+        length_foot:
+          display_name: "ფტ"
+          unit_pattern_count_one: "{0} ფტ"
+          unit_pattern_count_other: "{0} ფტ"
+          per_unit_pattern: "{0}/ფტ"
+        length_inch:
+          display_name: "დუიმი"
+          unit_pattern_count_one: "{0} დუიმი"
+          unit_pattern_count_other: "{0} დუიმი"
+          per_unit_pattern: "{0}/დუიმი"
+        length_parsec:
+          display_name: "პს"
+          unit_pattern_count_one: "{0} პს"
+          unit_pattern_count_other: "{0} პს"
+        length_light_year:
+          display_name: "სწ"
+          unit_pattern_count_one: "{0} სწ"
+          unit_pattern_count_other: "{0} სწ"
+        length_astronomical_unit:
+          display_name: "ა.ე."
+          unit_pattern_count_one: "{0} ა.ე."
+          unit_pattern_count_other: "{0} ა.ე."
+        length_furlong:
+          display_name: fur
+          unit_pattern_count_other: "{0} fur"
+        length_fathom:
+          display_name: fm
+          unit_pattern_count_other: "{0} fm"
+        length_nautical_mile:
+          display_name: "საზღვაო მილი"
+          unit_pattern_count_one: "{0} საზღვ. მილი"
+          unit_pattern_count_other: "{0} საზღვ. მილი"
+        length_mile_scandinavian:
+          display_name: "სკანდ. მილი"
+          unit_pattern_count_one: "{0} სკანდ. მილი"
+          unit_pattern_count_other: "{0} სკანდ. მილი"
+        light_lux:
+          display_name: "ლუქსი"
+          unit_pattern_count_one: "{0} ლუქსი"
+          unit_pattern_count_other: "{0} ლუქსი"
+        mass_metric_ton:
+          display_name: "მტ"
+          unit_pattern_count_one: "{0} მტ"
+          unit_pattern_count_other: "{0} მტ"
+        mass_kilogram:
+          display_name: "კილოგრამი"
+          unit_pattern_count_one: "{0} კგ"
+          unit_pattern_count_other: "{0} კგ"
+          per_unit_pattern: "{0}/კგ"
+        mass_gram:
+          display_name: "გრამი"
+          unit_pattern_count_one: "{0} გ"
+          unit_pattern_count_other: "{0} გ"
+          per_unit_pattern: "{0}/გ"
+        mass_milligram:
+          display_name: "მგ"
+          unit_pattern_count_one: "{0} მგ"
+          unit_pattern_count_other: "{0} მგ"
+        mass_microgram:
+          display_name: "მკგ"
+          unit_pattern_count_one: "{0} მკგ"
+          unit_pattern_count_other: "{0} მკგ"
+        mass_ton:
+          display_name: "ტონა"
+          unit_pattern_count_one: "{0} ტ"
+          unit_pattern_count_other: "{0} ტ"
+        mass_stone:
+          display_name: st
+          unit_pattern_count_other: "{0} st"
+        mass_pound:
+          display_name: "ფუნტი"
+          unit_pattern_count_one: "{0} ფნტ"
+          unit_pattern_count_other: "{0} ფნტ"
+          per_unit_pattern: "{0}/ფნტ"
+        mass_ounce:
+          display_name: "უნცია"
+          unit_pattern_count_one: "{0} უნც"
+          unit_pattern_count_other: "{0} უნც"
+          per_unit_pattern: "{0}/უნც"
+        mass_ounce_troy:
+          display_name: "ტრუას უნცია"
+          unit_pattern_count_one: "{0} ტრ. უნც."
+          unit_pattern_count_other: "{0} ტრ. უნც."
+        mass_carat:
+          display_name: "კარატი"
+          unit_pattern_count_one: "{0} კარ."
+          unit_pattern_count_other: "{0} კარ."
+        power_gigawatt:
+          display_name: "გვტ"
+          unit_pattern_count_one: "{0} გვტ"
+          unit_pattern_count_other: "{0} გვტ"
+        power_megawatt:
+          display_name: "მგვტ"
+          unit_pattern_count_one: "{0} მგვტ"
+          unit_pattern_count_other: "{0} მგვტ"
+        power_kilowatt:
+          display_name: "კვტ"
+          unit_pattern_count_one: "{0} კვტ"
+          unit_pattern_count_other: "{0} კვტ"
+        power_watt:
+          display_name: "ვტ"
+          unit_pattern_count_one: "{0} ვტ"
+          unit_pattern_count_other: "{0} ვტ"
+        power_milliwatt:
+          display_name: "მლვტ"
+          unit_pattern_count_one: "{0} მლვტ"
+          unit_pattern_count_other: "{0} მლვტ"
+        power_horsepower:
+          display_name: "ცხ. ძ."
+          unit_pattern_count_one: "{0} ცხ. ძ."
+          unit_pattern_count_other: "{0} ცხ. ძ."
+        pressure_hectopascal:
+          display_name: "ჰპა"
+          unit_pattern_count_one: "{0} ჰპა"
+          unit_pattern_count_other: "{0} ჰპა"
+        pressure_millimeter_of_mercury:
+          display_name: "მმ ვწყ. სვ."
+          unit_pattern_count_one: "{0} მმ ვწყ. სვ."
+          unit_pattern_count_other: "{0} მმ ვწყ. სვ."
+        pressure_pound_per_square_inch:
+          display_name: "ფნტ. კვ. დმ."
+          unit_pattern_count_one: "{0} ფნტ. კვ. დმ."
+          unit_pattern_count_other: "{0} ფნტ. კვ. დმ."
+        pressure_inch_hg:
+          display_name: "ვრც. დმ."
+          unit_pattern_count_one: "{0} ვრც. დმ."
+          unit_pattern_count_other: "{0} ვრც. დმ."
+        pressure_millibar:
+          display_name: "მბარი"
+          unit_pattern_count_one: "{0} მბარი"
+          unit_pattern_count_other: "{0} მბარი"
+        proportion_karat:
+          display_name: "კარატი"
+          unit_pattern_count_one: "{0} კარ."
+          unit_pattern_count_other: "{0} კარ."
+        speed_kilometer_per_hour:
+          display_name: "კმ/სთ"
+          unit_pattern_count_one: "{0} კმ/სთ"
+          unit_pattern_count_other: "{0} კმ/სთ"
+        speed_meter_per_second:
+          display_name: "მ/წმ"
+          unit_pattern_count_one: "{0} მ/წმ"
+          unit_pattern_count_other: "{0} მ/წმ"
+        speed_mile_per_hour:
+          display_name: "მილი/სთ"
+          unit_pattern_count_one: "{0} მილი/სთ"
+          unit_pattern_count_other: "{0} მილი/სთ"
+        speed_knot:
+          display_name: "კვძ."
+          unit_pattern_count_one: "{0} კვძ."
+          unit_pattern_count_other: "{0} კვძ."
+        temperature_generic:
+          display_name: "°"
+          unit_pattern_count_one: "{0}°"
+          unit_pattern_count_other: "{0}°"
+        temperature_celsius:
+          display_name: "°C"
+          unit_pattern_count_one: "{0}°C"
+          unit_pattern_count_other: "{0}°C"
+        temperature_fahrenheit:
+          display_name: "°F"
+          unit_pattern_count_one: "{0}°F"
+          unit_pattern_count_other: "{0}°F"
+        temperature_kelvin:
+          display_name: K
+          unit_pattern_count_one: "{0} K"
+          unit_pattern_count_other: "{0} K"
+        volume_cubic_kilometer:
+          display_name: "კუბური კილომეტრი"
+          unit_pattern_count_one: "{0} კმ³"
+          unit_pattern_count_other: "{0} კმ³"
+        volume_cubic_meter:
+          display_name: "მ³"
+          unit_pattern_count_one: "{0} მ³"
+          unit_pattern_count_other: "{0} მ³"
+          per_unit_pattern: "{0}/მ³"
+        volume_cubic_centimeter:
+          display_name: "სმ³"
+          unit_pattern_count_one: "{0} სმ³"
+          unit_pattern_count_other: "{0} სმ³"
+          per_unit_pattern: "{0}/სმ³"
+        volume_cubic_mile:
+          display_name: "კუბური მილი"
+          unit_pattern_count_one: "{0} მილი³"
+          unit_pattern_count_other: "{0} მილი³"
+        volume_cubic_yard:
+          display_name: "იარდი³"
+          unit_pattern_count_one: "{0} იარდი³"
+          unit_pattern_count_other: "{0} იარდი³"
+        volume_cubic_foot:
+          display_name: "ფუტი³"
+          unit_pattern_count_one: "{0} ფტ³"
+          unit_pattern_count_other: "{0} ფტ³"
+        volume_cubic_inch:
+          display_name: "დუიმი³"
+          unit_pattern_count_one: "{0} დუიმი³"
+          unit_pattern_count_other: "{0} დუიმი³"
+        volume_megaliter:
+          display_name: "მეგალ."
+          unit_pattern_count_one: "{0} მეგალ."
+          unit_pattern_count_other: "{0} მეგალ."
+        volume_hectoliter:
+          display_name: "ჰლ"
+          unit_pattern_count_one: "{0} ჰლ"
+          unit_pattern_count_other: "{0} ჰლ"
+        volume_liter:
+          display_name: "ლიტრი"
+          unit_pattern_count_one: "{0} ლ"
+          unit_pattern_count_other: "{0} ლ"
+          per_unit_pattern: "{0}/ლ"
+        volume_deciliter:
+          display_name: "დლ"
+          unit_pattern_count_one: "{0} დლ"
+          unit_pattern_count_other: "{0} დლ"
+        volume_centiliter:
+          display_name: "სლ"
+          unit_pattern_count_one: "{0} სლ"
+          unit_pattern_count_other: "{0} სლ"
+        volume_milliliter:
+          display_name: "მილილ."
+          unit_pattern_count_one: "{0} მილილ."
+          unit_pattern_count_other: "{0} მილილ."
+        volume_pint_metric:
+          display_name: "მეტრ. პინტა"
+          unit_pattern_count_one: "{0} მეტრ. პინტა"
+          unit_pattern_count_other: "{0} მეტრ. პინტა"
+        volume_cup_metric:
+          display_name: "მეტრ. ჭიქა"
+          unit_pattern_count_one: "{0} მეტრ. ჭიქა"
+          unit_pattern_count_other: "{0} მეტრ. ჭიქა"
+        volume_acre_foot:
+          display_name: "აკრ.ფტ."
+          unit_pattern_count_one: "{0} აკრ.ფტ."
+          unit_pattern_count_other: "{0} აკრ.ფტ."
+        volume_bushel:
+          display_name: bu
+          unit_pattern_count_other: "{0} bu"
+        volume_gallon:
+          display_name: "გალონი"
+          unit_pattern_count_one: "{0} გალონი"
+          unit_pattern_count_other: "{0} გალონი"
+          per_unit_pattern: "{0}/გალონი"
+        volume_quart:
+          display_name: "კვარტა"
+          unit_pattern_count_one: "{0} კვარტა"
+          unit_pattern_count_other: "{0} კვარტა"
+        volume_pint:
+          display_name: "პინტა"
+          unit_pattern_count_one: "{0} პინტა"
+          unit_pattern_count_other: "{0} პინტა"
+        volume_cup:
+          display_name: "ჭიქა"
+          unit_pattern_count_one: "{0} ჭიქა"
+          unit_pattern_count_other: "{0} ჭიქა"
+        volume_fluid_ounce:
+          display_name: "თხ. უნცია"
+          unit_pattern_count_one: "{0} თხ. უნცია"
+          unit_pattern_count_other: "{0} თხ. უნცია"
+        volume_tablespoon:
+          display_name: "ს. კოვზი"
+          unit_pattern_count_one: "{0} ს. კოვზი"
+          unit_pattern_count_other: "{0} ს. კოვზი"
+        volume_teaspoon:
+          display_name: "ჩ. კოვზი"
+          unit_pattern_count_one: "{0} ჩ. კოვზი"
+          unit_pattern_count_other: "{0} ჩ. კოვზი"
+        coordinate_unit:
+          east: "{0}აღმ."
+          north: "{0}ჩრდ."
+          south: "{0} სამხრ."
+          west: "{0} დას."
+      narrow:
+        per:
+          compound_unit_pattern: "{0}/{1}"
+        acceleration_g_force:
+          display_name: "ინ. ძ."
+          unit_pattern_count_one: "{0} ინ. ძ."
+          unit_pattern_count_other: "{0} ინ. ძ."
+        acceleration_meter_per_second_squared:
+          display_name: "მ/წმ²"
+          unit_pattern_count_one: "{0} მ/წმ²"
+          unit_pattern_count_other: "{0} მ/წმ²"
+        angle_revolution:
+          display_name: "ბრნ."
+          unit_pattern_count_one: "{0} ბრნ."
+          unit_pattern_count_other: "{0} ბრნ."
+        angle_radian:
+          display_name: "რადიანი"
+          unit_pattern_count_one: "{0} რად."
+          unit_pattern_count_other: "{0} რად."
+        angle_degree:
+          display_name: "გრადუსი"
+          unit_pattern_count_one: "{0}°"
+          unit_pattern_count_other: "{0}°"
+        angle_arc_minute:
+          display_name: "მინუტი"
+          unit_pattern_count_one: "{0} წთ"
+          unit_pattern_count_other: "{0} წთ"
+        angle_arc_second:
+          display_name: "სეკუნდი"
+          unit_pattern_count_one: "{0} წმ"
+          unit_pattern_count_other: "{0} წმ"
+        area_square_kilometer:
+          display_name: "კმ²"
+          unit_pattern_count_one: "{0} კმ²"
+          unit_pattern_count_other: "{0} კმ²"
+        area_hectare:
+          display_name: "ჰა"
+          unit_pattern_count_one: "{0} ჰა"
+          unit_pattern_count_other: "{0} ჰა"
+        area_square_meter:
+          display_name: "მ²"
+          unit_pattern_count_one: "{0} მ²"
+          unit_pattern_count_other: "{0} მ²"
+          per_unit_pattern: "{0}/მ²"
+        area_square_centimeter:
+          display_name: "სმ²"
+          unit_pattern_count_one: "{0} სმ²"
+          unit_pattern_count_other: "{0} სმ²"
+          per_unit_pattern: "{0}/სმ²"
+        area_square_mile:
+          display_name: "მილი²"
+          unit_pattern_count_one: "{0} მილი²"
+          unit_pattern_count_other: "{0} მილი²"
+        area_acre:
+          display_name: "აკრი"
+          unit_pattern_count_one: "{0} აკრი"
+          unit_pattern_count_other: "{0} აკრი"
+        area_square_yard:
+          display_name: "იარდი²"
+          unit_pattern_count_one: "{0} იარდი²"
+          unit_pattern_count_other: "{0} იარდი²"
+        area_square_foot:
+          display_name: "ფუტი²"
+          unit_pattern_count_one: "{0} ფტ²"
+          unit_pattern_count_other: "{0} ფტ²"
+        area_square_inch:
+          display_name: "დუიმი²"
+          unit_pattern_count_one: "{0} დუიმი²"
+          unit_pattern_count_other: "{0} დუიმი²"
+          per_unit_pattern: "{0}/დუიმი²"
+        consumption_liter_per_kilometer:
+          display_name: "ლიტრი/კმ"
+          unit_pattern_count_one: "{0} ლ/კმ"
+          unit_pattern_count_other: "{0} ლ/კმ"
+        consumption_liter_per_100kilometers:
+          display_name: "ლ/100კმ"
+          unit_pattern_count_one: "{0}ლ/100კმ"
+          unit_pattern_count_other: "{0}ლ/100კმ"
+        consumption_mile_per_gallon:
+          display_name: "მილი/გალ."
+          unit_pattern_count_one: "{0} მილი/გალ."
+          unit_pattern_count_other: "{0} მილი/გალ."
+        digital_terabyte:
+          display_name: "ტბაიტი"
+          unit_pattern_count_one: "{0} ტბაიტი"
+          unit_pattern_count_other: "{0} ტბაიტი"
+        digital_terabit:
+          display_name: "ტბიტი"
+          unit_pattern_count_one: "{0} ტბიტი"
+          unit_pattern_count_other: "{0} ტბიტი"
+        digital_gigabyte:
+          display_name: "გბაიტი"
+          unit_pattern_count_one: "{0} გბაიტი"
+          unit_pattern_count_other: "{0} გბაიტი"
+        digital_gigabit:
+          display_name: "გბიტი"
+          unit_pattern_count_one: "{0} გბიტი"
+          unit_pattern_count_other: "{0} გბიტი"
+        digital_megabyte:
+          display_name: "მბაიტი"
+          unit_pattern_count_one: "{0} მბაიტი"
+          unit_pattern_count_other: "{0} მბაიტი"
+        digital_megabit:
+          display_name: "მბიტი"
+          unit_pattern_count_one: "{0} მბიტი"
+          unit_pattern_count_other: "{0} მბიტი"
+        digital_kilobyte:
+          display_name: "კილობაიტი"
+          unit_pattern_count_one: "{0} კბაიტი"
+          unit_pattern_count_other: "{0} კბაიტი"
+        digital_kilobit:
+          display_name: "კბიტი"
+          unit_pattern_count_one: "{0} კბიტი"
+          unit_pattern_count_other: "{0} კბიტი"
+        digital_byte:
+          display_name: "ბაიტი"
+          unit_pattern_count_one: "{0} ბაიტი"
+          unit_pattern_count_other: "{0} ბაიტი"
+        digital_bit:
+          display_name: "ბიტი"
+          unit_pattern_count_one: "{0} ბიტი"
+          unit_pattern_count_other: "{0} ბიტი"
+        duration_century:
+          display_name: "ს."
+          unit_pattern_count_one: "{0} ს."
+          unit_pattern_count_other: "{0} ს."
+        duration_year:
+          display_name: "წ"
+          unit_pattern_count_one: "{0} წ"
+          unit_pattern_count_other: "{0} წ"
+          per_unit_pattern: "{0}/წ"
+        duration_month:
+          display_name: "თვე"
+          unit_pattern_count_one: "{0} თვე"
+          unit_pattern_count_other: "{0} თვე"
+          per_unit_pattern: "{0}/თვე"
+        duration_week:
+          display_name: "კვრ"
+          unit_pattern_count_one: "{0} კვრ"
+          unit_pattern_count_other: "{0} კვრ"
+          per_unit_pattern: "{0}/კვრ"
+        duration_day:
+          display_name: "დღე"
+          unit_pattern_count_one: "{0} დღე"
+          unit_pattern_count_other: "{0} დღე"
+          per_unit_pattern: "{0}/დღე"
+        duration_hour:
+          display_name: "საათი"
+          unit_pattern_count_one: "{0}სთ"
+          unit_pattern_count_other: "{0}სთ"
+          per_unit_pattern: "{0}/სთ"
+        duration_minute:
+          display_name: "წთ"
+          unit_pattern_count_one: "{0}წთ"
+          unit_pattern_count_other: "{0}წთ"
+          per_unit_pattern: "{0}/წთ"
+        duration_second:
+          display_name: "წმ"
+          unit_pattern_count_one: "{0}წმ"
+          unit_pattern_count_other: "{0}წმ"
+          per_unit_pattern: "{0}/წმ"
+        duration_millisecond:
+          display_name: "მწმ"
+          unit_pattern_count_one: "{0} მწმ"
+          unit_pattern_count_other: "{0} მწმ"
+        duration_microsecond:
+          display_name: "მკწმ"
+          unit_pattern_count_one: "{0} მკწმ"
+          unit_pattern_count_other: "{0} მკწმ"
+        duration_nanosecond:
+          display_name: "ნწმ"
+          unit_pattern_count_one: "{0} ნწმ"
+          unit_pattern_count_other: "{0} ნწმ"
+        electric_ampere:
+          display_name: "ამპ"
+          unit_pattern_count_one: "{0} ა"
+          unit_pattern_count_other: "{0} ა"
+        electric_milliampere:
+          display_name: "მილიამპ."
+          unit_pattern_count_one: "{0} მამპ."
+          unit_pattern_count_other: "{0} მამპ."
+        electric_ohm:
+          display_name: "ომი"
+          unit_pattern_count_one: "{0} ომ"
+          unit_pattern_count_other: "{0} ომ"
+        electric_volt:
+          display_name: "ვოლტი"
+          unit_pattern_count_one: "{0} ვ"
+          unit_pattern_count_other: "{0} ვ"
+        energy_kilocalorie:
+          display_name: "კკალ"
+          unit_pattern_count_one: "{0} კკალ"
+          unit_pattern_count_other: "{0} კკალ"
+        energy_calorie:
+          display_name: "კალ"
+          unit_pattern_count_one: "{0} კალ"
+          unit_pattern_count_other: "{0} კალ"
+        energy_foodcalorie:
+          display_name: "კალ"
+          unit_pattern_count_one: "{0} კალ"
+          unit_pattern_count_other: "{0} კალ"
+        energy_kilojoule:
+          display_name: "კჯ"
+          unit_pattern_count_one: "{0} კჯ"
+          unit_pattern_count_other: "{0} კჯ"
+        energy_joule:
+          display_name: "ჯოული"
+          unit_pattern_count_one: "{0} ჯ"
+          unit_pattern_count_other: "{0} ჯ"
+        energy_kilowatt_hour:
+          display_name: "კვტსთ"
+          unit_pattern_count_one: "{0} კვტსთ"
+          unit_pattern_count_other: "{0} კვტსთ"
+        frequency_gigahertz:
+          display_name: "გჰც."
+          unit_pattern_count_one: "{0} გჰც."
+          unit_pattern_count_other: "{0} გჰც."
+        frequency_megahertz:
+          display_name: "მჰც"
+          unit_pattern_count_one: "{0} მჰც"
+          unit_pattern_count_other: "{0} მჰც"
+        frequency_kilohertz:
+          display_name: "კჰც."
+          unit_pattern_count_one: "{0} კჰც."
+          unit_pattern_count_other: "{0} კჰც."
+        frequency_hertz:
+          display_name: "ჰც."
+          unit_pattern_count_one: "{0} ჰც."
+          unit_pattern_count_other: "{0} ჰც."
+        length_kilometer:
+          display_name: "კმ"
+          unit_pattern_count_one: "{0} კმ"
+          unit_pattern_count_other: "{0} კმ"
+          per_unit_pattern: "{0}/კმ"
+        length_meter:
+          display_name: "მ"
+          unit_pattern_count_one: "{0}მ"
+          unit_pattern_count_other: "{0}მ"
+          per_unit_pattern: "{0}/მ"
+        length_decimeter:
+          display_name: "დმ"
+          unit_pattern_count_one: "{0} დმ"
+          unit_pattern_count_other: "{0} დმ"
+        length_centimeter:
+          display_name: "სმ"
+          unit_pattern_count_one: "{0} სმ"
+          unit_pattern_count_other: "{0} სმ"
+          per_unit_pattern: "{0}/სმ"
+        length_millimeter:
+          display_name: "მმ"
+          unit_pattern_count_one: "{0} მმ"
+          unit_pattern_count_other: "{0} მმ"
+        length_micrometer:
+          display_name: "მკმ"
+          unit_pattern_count_one: "{0} მკმ"
+          unit_pattern_count_other: "{0} მკმ"
+        length_nanometer:
+          display_name: "ნმ"
+          unit_pattern_count_one: "{0} ნმ"
+          unit_pattern_count_other: "{0} ნმ"
+        length_picometer:
+          display_name: "პმ"
+          unit_pattern_count_one: "{0} პმ"
+          unit_pattern_count_other: "{0} პმ"
+        length_mile:
+          display_name: "მილი"
+          unit_pattern_count_one: "{0} მილი"
+          unit_pattern_count_other: "{0} მილი"
+        length_yard:
+          display_name: "იარდი"
+          unit_pattern_count_one: "{0} იარდი"
+          unit_pattern_count_other: "{0} იარდი"
+        length_foot:
+          display_name: "ფტ"
+          unit_pattern_count_one: "{0} ფტ"
+          unit_pattern_count_other: "{0} ფტ"
+          per_unit_pattern: "{0}/ფტ"
+        length_inch:
+          display_name: "დუიმი"
+          unit_pattern_count_one: "{0} დმ"
+          unit_pattern_count_other: "{0} დმ"
+          per_unit_pattern: "{0}/დუიმი"
+        length_parsec:
+          display_name: "პს"
+          unit_pattern_count_one: "{0} პს"
+          unit_pattern_count_other: "{0} პს"
+        length_light_year:
+          display_name: "სწ"
+          unit_pattern_count_one: "{0} სწ"
+          unit_pattern_count_other: "{0} სწ"
+        length_astronomical_unit:
+          display_name: "ა.ე."
+          unit_pattern_count_one: "{0} ა.ე."
+          unit_pattern_count_other: "{0} ა.ე."
+        length_furlong:
+          display_name: fur
+          unit_pattern_count_other: "{0} fur"
+        length_fathom:
+          display_name: fm
+          unit_pattern_count_other: "{0} fm"
+        length_nautical_mile:
+          display_name: "საზღვაო მილი"
+          unit_pattern_count_one: "{0} საზღვ. მილი"
+          unit_pattern_count_other: "{0} საზღვ. მილი"
+        length_mile_scandinavian:
+          display_name: "სკანდ. მილი"
+          unit_pattern_count_one: "{0} სკანდ. მილი"
+          unit_pattern_count_other: "{0} სკანდ. მილი"
+        light_lux:
+          display_name: "ლუქსი"
+          unit_pattern_count_one: "{0} ლუქსი"
+          unit_pattern_count_other: "{0} ლუქსი"
+        mass_metric_ton:
+          display_name: "მტ"
+          unit_pattern_count_one: "{0} მტ"
+          unit_pattern_count_other: "{0} მტ"
+        mass_kilogram:
+          display_name: "კგ"
+          unit_pattern_count_one: "{0}კგ"
+          unit_pattern_count_other: "{0}კგ"
+          per_unit_pattern: "{0}/კგ"
+        mass_gram:
+          display_name: "გრამი"
+          unit_pattern_count_one: "{0}გ"
+          unit_pattern_count_other: "{0}გ"
+          per_unit_pattern: "{0}/გ"
+        mass_milligram:
+          display_name: "მგ"
+          unit_pattern_count_one: "{0} მგ"
+          unit_pattern_count_other: "{0} მგ"
+        mass_microgram:
+          display_name: "მკგ"
+          unit_pattern_count_one: "{0} მკგ"
+          unit_pattern_count_other: "{0} მკგ"
+        mass_ton:
+          display_name: "ტონა"
+          unit_pattern_count_one: "{0} ტ"
+          unit_pattern_count_other: "{0} ტ"
+        mass_stone:
+          display_name: st
+          unit_pattern_count_other: "{0} st"
+        mass_pound:
+          display_name: "ფუნტი"
+          unit_pattern_count_one: "{0} ფნტ"
+          unit_pattern_count_other: "{0} ფნტ"
+          per_unit_pattern: "{0}/ფნტ"
+        mass_ounce:
+          display_name: "უნცია"
+          unit_pattern_count_one: "{0} უნც"
+          unit_pattern_count_other: "{0} უნც"
+          per_unit_pattern: "{0}/უნც"
+        mass_ounce_troy:
+          display_name: "ტრუას უნცია"
+          unit_pattern_count_one: "{0} ტრ. უნც."
+          unit_pattern_count_other: "{0} ტრ. უნც."
+        mass_carat:
+          display_name: "კარატი"
+          unit_pattern_count_one: "{0} კარ."
+          unit_pattern_count_other: "{0} კარ."
+        power_gigawatt:
+          display_name: "გვტ"
+          unit_pattern_count_one: "{0} გვტ"
+          unit_pattern_count_other: "{0} გვტ"
+        power_megawatt:
+          display_name: "მგვტ"
+          unit_pattern_count_one: "{0} მგვტ"
+          unit_pattern_count_other: "{0} მგვტ"
+        power_kilowatt:
+          display_name: "კვტ"
+          unit_pattern_count_one: "{0} კვტ"
+          unit_pattern_count_other: "{0} კვტ"
+        power_watt:
+          display_name: "ვტ"
+          unit_pattern_count_one: "{0} ვტ"
+          unit_pattern_count_other: "{0} ვტ"
+        power_milliwatt:
+          display_name: "მლვტ"
+          unit_pattern_count_one: "{0} მლვტ"
+          unit_pattern_count_other: "{0} მლვტ"
+        power_horsepower:
+          display_name: "ცხ. ძ."
+          unit_pattern_count_one: "{0}ცხ.ძ."
+          unit_pattern_count_other: "{0}ცხ.ძ."
+        pressure_hectopascal:
+          display_name: "ჰპა"
+          unit_pattern_count_one: "{0} ჰპა"
+          unit_pattern_count_other: "{0} ჰპა"
+        pressure_millimeter_of_mercury:
+          display_name: "მმ ვწყ. სვ."
+          unit_pattern_count_one: "{0} მმ ვწყ. სვ."
+          unit_pattern_count_other: "{0} მმ ვწყ. სვ."
+        pressure_pound_per_square_inch:
+          display_name: "ფნტ. კვ. დმ."
+          unit_pattern_count_one: "{0} ფნტ. კვ. დმ."
+          unit_pattern_count_other: "{0} ფნტ. კვ. დმ."
+        pressure_inch_hg:
+          display_name: "ვრც. დმ."
+          unit_pattern_count_one: "{0} ვრც. დმ."
+          unit_pattern_count_other: "{0} ვრც. დმ."
+        pressure_millibar:
+          display_name: "მბარი"
+          unit_pattern_count_one: "{0} მბრ"
+          unit_pattern_count_other: "{0} მბრ"
+        proportion_karat:
+          display_name: "კარატი"
+          unit_pattern_count_one: "{0} კარ."
+          unit_pattern_count_other: "{0} კარ."
+        speed_kilometer_per_hour:
+          display_name: "კმ/სთ"
+          unit_pattern_count_one: "{0} კმ/სთ"
+          unit_pattern_count_other: "{0} კმ/სთ"
+        speed_meter_per_second:
+          display_name: "მ/წმ"
+          unit_pattern_count_one: "{0} მ/წმ"
+          unit_pattern_count_other: "{0} მ/წმ"
+        speed_mile_per_hour:
+          display_name: "მილი/სთ"
+          unit_pattern_count_one: "{0} მილი/სთ"
+          unit_pattern_count_other: "{0} მილი/სთ"
+        speed_knot:
+          display_name: "კვძ."
+          unit_pattern_count_one: "{0} კვძ."
+          unit_pattern_count_other: "{0} კვძ."
+        temperature_generic:
+          display_name: "°"
+          unit_pattern_count_one: "{0}°"
+          unit_pattern_count_other: "{0}°"
+        temperature_celsius:
+          display_name: "°C"
+          unit_pattern_count_one: "{0}°C"
+          unit_pattern_count_other: "{0}°C"
+        temperature_fahrenheit:
+          display_name: "°F"
+          unit_pattern_count_one: "{0}°F"
+          unit_pattern_count_other: "{0}°F"
+        temperature_kelvin:
+          display_name: K
+          unit_pattern_count_one: "{0} K"
+          unit_pattern_count_other: "{0} K"
+        volume_cubic_kilometer:
+          display_name: "კუბური კილომეტრი"
+          unit_pattern_count_one: "{0} კმ³"
+          unit_pattern_count_other: "{0} კმ³"
+        volume_cubic_meter:
+          display_name: "მ³"
+          unit_pattern_count_one: "{0} მ³"
+          unit_pattern_count_other: "{0} მ³"
+          per_unit_pattern: "{0}/მ³"
+        volume_cubic_centimeter:
+          display_name: "სმ³"
+          unit_pattern_count_one: "{0} სმ³"
+          unit_pattern_count_other: "{0} სმ³"
+          per_unit_pattern: "{0}/სმ³"
+        volume_cubic_mile:
+          display_name: "კუბური მილი"
+          unit_pattern_count_one: "{0} მილი³"
+          unit_pattern_count_other: "{0} მილი³"
+        volume_cubic_yard:
+          display_name: "იარდი³"
+          unit_pattern_count_one: "{0} იარდი³"
+          unit_pattern_count_other: "{0} იარდი³"
+        volume_cubic_foot:
+          display_name: "ფუტი³"
+          unit_pattern_count_one: "{0} ფტ³"
+          unit_pattern_count_other: "{0} ფტ³"
+        volume_cubic_inch:
+          display_name: "დუიმი³"
+          unit_pattern_count_one: "{0} დუიმი³"
+          unit_pattern_count_other: "{0} დუიმი³"
+        volume_megaliter:
+          display_name: "მეგალ."
+          unit_pattern_count_one: "{0} მეგალ."
+          unit_pattern_count_other: "{0} მეგალ."
+        volume_hectoliter:
+          display_name: "ჰლ"
+          unit_pattern_count_one: "{0} ჰლ"
+          unit_pattern_count_other: "{0} ჰლ"
+        volume_liter:
+          display_name: "ლიტრი"
+          unit_pattern_count_one: "{0}ლ"
+          unit_pattern_count_other: "{0}ლ"
+          per_unit_pattern: "{0}/ლ"
+        volume_deciliter:
+          display_name: "დლ"
+          unit_pattern_count_one: "{0} დლ"
+          unit_pattern_count_other: "{0} დლ"
+        volume_centiliter:
+          display_name: "სლ"
+          unit_pattern_count_one: "{0} სლ"
+          unit_pattern_count_other: "{0} სლ"
+        volume_milliliter:
+          display_name: "მილილ."
+          unit_pattern_count_one: "{0} მილილ."
+          unit_pattern_count_other: "{0} მილილ."
+        volume_pint_metric:
+          display_name: "მეტრ. პინტა"
+          unit_pattern_count_one: "{0} მეტრ. პინტა"
+          unit_pattern_count_other: "{0} მეტრ. პინტა"
+        volume_cup_metric:
+          display_name: "მეტრ. ჭიქა"
+          unit_pattern_count_one: "{0} მეტრ. ჭიქა"
+          unit_pattern_count_other: "{0} მეტრ. ჭიქა"
+        volume_acre_foot:
+          display_name: "აკრ.ფტ."
+          unit_pattern_count_one: "{0} აკრ.ფტ."
+          unit_pattern_count_other: "{0} აკრ.ფტ."
+        volume_bushel:
+          display_name: bu
+          unit_pattern_count_other: "{0} bu"
+        volume_gallon:
+          display_name: "გალონი"
+          unit_pattern_count_one: "{0} გალონი"
+          unit_pattern_count_other: "{0} გალონი"
+          per_unit_pattern: "{0}/გალონი"
+        volume_quart:
+          display_name: "კვარტა"
+          unit_pattern_count_one: "{0} კვარტა"
+          unit_pattern_count_other: "{0} კვარტა"
+        volume_pint:
+          display_name: "პინტა"
+          unit_pattern_count_one: "{0} პინტა"
+          unit_pattern_count_other: "{0} პინტა"
+        volume_cup:
+          display_name: "ჭიქა"
+          unit_pattern_count_one: "{0} ჭიქა"
+          unit_pattern_count_other: "{0} ჭიქა"
+        volume_fluid_ounce:
+          display_name: "თხ. უნცია"
+          unit_pattern_count_one: "{0} თხ. უნცია"
+          unit_pattern_count_other: "{0} თხ. უნცია"
+        volume_tablespoon:
+          display_name: "ს. კოვზი"
+          unit_pattern_count_one: "{0} ს. კოვზი"
+          unit_pattern_count_other: "{0} ს. კოვზი"
+        volume_teaspoon:
+          display_name: "ჩ. კოვზი"
+          unit_pattern_count_one: "{0} ჩ. კოვზი"
+          unit_pattern_count_other: "{0} ჩ. კოვზი"
+        coordinate_unit:
+          east: "{0}აღმ."
+          north: "{0}ჩრდ."
+          south: "{0} სამხრ."
+          west: "{0} დას."
+      duration_unit_type_hm:
+        duration_unit_pattern: h:mm
+      duration_unit_type_hms:
+        duration_unit_pattern: h:mm:ss
+      duration_unit_type_ms:
+        duration_unit_pattern: m:ss

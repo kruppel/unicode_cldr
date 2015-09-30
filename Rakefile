@@ -1,0 +1,1 @@
+require 'unicode/cldr/tasks'

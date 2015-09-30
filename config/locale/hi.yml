@@ -1,0 +1,5281 @@
+---
+hi:
+  cldr:
+    dates:
+      calendars:
+        gregorian:
+          months:
+            format:
+              abbreviated:
+                '1': "जन॰"
+                '2': "फ़र॰"
+                '3': "मार्च"
+                '4': "अप्रैल"
+                '5': "मई"
+                '6': "जून"
+                '7': "जुल॰"
+                '8': "अग॰"
+                '9': "सित॰"
+                '10': "अक्तू॰"
+                '11': "नव॰"
+                '12': "दिस॰"
+              narrow:
+                '1': "ज"
+                '2': "फ़"
+                '3': "मा"
+                '4': "अ"
+                '5': "म"
+                '6': "जू"
+                '7': "जु"
+                '8': "अ"
+                '9': "सि"
+                '10': "अ"
+                '11': "न"
+                '12': "दि"
+              wide:
+                '1': "जनवरी"
+                '2': "फ़रवरी"
+                '3': "मार्च"
+                '4': "अप्रैल"
+                '5': "मई"
+                '6': "जून"
+                '7': "जुलाई"
+                '8': "अगस्त"
+                '9': "सितंबर"
+                '10': "अक्तूबर"
+                '11': "नवंबर"
+                '12': "दिसंबर"
+            stand_alone:
+              abbreviated:
+                '1': "जन॰"
+                '2': "फ़र॰"
+                '3': "मार्च"
+                '4': "अप्रैल"
+                '5': "मई"
+                '6': "जून"
+                '7': "जुल॰"
+                '8': "अग॰"
+                '9': "सित॰"
+                '10': "अक्तू॰"
+                '11': "नव॰"
+                '12': "दिस॰"
+              narrow:
+                '1': "ज"
+                '2': "फ़"
+                '3': "मा"
+                '4': "अ"
+                '5': "म"
+                '6': "जू"
+                '7': "जु"
+                '8': "अ"
+                '9': "सि"
+                '10': "अ"
+                '11': "न"
+                '12': "दि"
+              wide:
+                '1': "जनवरी"
+                '2': "फ़रवरी"
+                '3': "मार्च"
+                '4': "अप्रैल"
+                '5': "मई"
+                '6': "जून"
+                '7': "जुलाई"
+                '8': "अगस्त"
+                '9': "सितंबर"
+                '10': "अक्तूबर"
+                '11': "नवंबर"
+                '12': "दिसंबर"
+          days:
+            format:
+              abbreviated:
+                sun: "रवि"
+                mon: "सोम"
+                tue: "मंगल"
+                wed: "बुध"
+                thu: "गुरु"
+                fri: "शुक्र"
+                sat: "शनि"
+              narrow:
+                sun: "र"
+                mon: "सो"
+                tue: "मं"
+                wed: "बु"
+                thu: "गु"
+                fri: "शु"
+                sat: "श"
+              short:
+                sun: "र"
+                mon: "सो"
+                tue: "मं"
+                wed: "बु"
+                thu: "गु"
+                fri: "शु"
+                sat: "श"
+              wide:
+                sun: "रविवार"
+                mon: "सोमवार"
+                tue: "मंगलवार"
+                wed: "बुधवार"
+                thu: "गुरुवार"
+                fri: "शुक्रवार"
+                sat: "शनिवार"
+            stand_alone:
+              abbreviated:
+                sun: "रवि"
+                mon: "सोम"
+                tue: "मंगल"
+                wed: "बुध"
+                thu: "गुरु"
+                fri: "शुक्र"
+                sat: "शनि"
+              narrow:
+                sun: "र"
+                mon: "सो"
+                tue: "मं"
+                wed: "बु"
+                thu: "गु"
+                fri: "शु"
+                sat: "श"
+              short:
+                sun: "र"
+                mon: "सो"
+                tue: "मं"
+                wed: "बु"
+                thu: "गु"
+                fri: "शु"
+                sat: "श"
+              wide:
+                sun: "रविवार"
+                mon: "सोमवार"
+                tue: "मंगलवार"
+                wed: "बुधवार"
+                thu: "गुरुवार"
+                fri: "शुक्रवार"
+                sat: "शनिवार"
+          quarters:
+            format:
+              abbreviated:
+                '1': "ति1"
+                '2': "ति2"
+                '3': "ति3"
+                '4': "ति4"
+              narrow:
+                '1': '1'
+                '2': '2'
+                '3': '3'
+                '4': '4'
+              wide:
+                '1': "पहली तिमाही"
+                '2': "दूसरी तिमाही"
+                '3': "तीसरी तिमाही"
+                '4': "चौथी तिमाही"
+            stand_alone:
+              abbreviated:
+                '1': "ति1"
+                '2': "ति2"
+                '3': "ति3"
+                '4': "ति4"
+              narrow:
+                '1': '1'
+                '2': '2'
+                '3': '3'
+                '4': '4'
+              wide:
+                '1': "पहली तिमाही"
+                '2': "दूसरी तिमाही"
+                '3': "तीसरी तिमाही"
+                '4': "चौथी तिमाही"
+          day_periods:
+            format:
+              abbreviated:
+                midnight: "मध्यरात्रि"
+                am: "पूर्व"
+                pm: "अपर"
+                morning1: "सुबह"
+                afternoon1: "अपराह्न"
+                evening1: "शाम"
+                night1: "रात"
+              narrow:
+                midnight: "आधी रात"
+                am: "पू"
+                pm: "अ"
+                morning1: "सुबह"
+                afternoon1: "अपराह्न"
+                evening1: "शाम"
+                night1: "शाम"
+              wide:
+                midnight: "मध्यरात्रि"
+                am: "पूर्वाह्न"
+                pm: "अपराह्न"
+                morning1: "सुबह"
+                afternoon1: "अपराह्न"
+                evening1: "शाम"
+                night1: "रात"
+            stand_alone:
+              abbreviated:
+                midnight: "मध्यरात्रि"
+                am: "पूर्व"
+                pm: "अपर"
+                morning1: "सुबह"
+                afternoon1: "अपराह्न"
+                evening1: "शाम"
+                night1: "रात"
+              narrow:
+                midnight: "आधी रात"
+                am: "पू"
+                pm: "अ"
+                morning1: "सुबह"
+                afternoon1: "अपराह्न"
+                evening1: "शाम"
+                night1: "रात"
+              wide:
+                midnight: "आधी रात"
+                am: "पूर्वाह्न"
+                pm: "अपराह्न"
+                morning1: "सुबह"
+                afternoon1: "दोपहर"
+                evening1: "शाम"
+                night1: "रात"
+          eras:
+            era_names:
+              '0': "ईसा-पूर्व"
+              0_alt_variant: "ईसवी पूर्व"
+              '1': "ईसवी सन"
+              1_alt_variant: "ईसवी"
+            era_abbr:
+              '0': "ईसा-पूर्व"
+              0_alt_variant: "ईसवी पूर्व"
+              '1': "ईस्वी"
+              1_alt_variant: "ईसवी"
+            era_narrow:
+              '0': "ईसा-पूर्व"
+              0_alt_variant: "ईसवी पूर्व"
+              '1': "ईस्वी"
+              1_alt_variant: "ईसवी"
+          date_formats:
+            full: EEEE, d MMMM y
+            long: d MMMM y
+            medium: dd/MM/y
+            short: d/M/yy
+          time_formats:
+            full: h:mm:ss a zzzz
+            long: h:mm:ss a z
+            medium: h:mm:ss a
+            short: h:mm a
+          date_time_formats:
+            full: "{1} को {0}"
+            long: "{1} को {0}"
+            medium: "{1}, {0}"
+            short: "{1}, {0}"
+            available_formats:
+              d: d
+              e: ccc
+              ed: E d
+              ehm: E h:mm a
+              e_hm: E HH:mm
+              ehms: E h:mm:ss a
+              e_hms: E HH:mm:ss
+              gy: y G
+              gy_mmm: MMM G y
+              gy_mm_md: d MMM y G
+              gy_mmm_ed: E, d MMM y G
+              h: HH
+              hm: HH:mm
+              hms: HH:mm:ss
+              hmsv: HH:mm:ss v
+              hmv: HH:mm v
+              m: L
+              md: d/M
+              m_ed: E, d/M
+              m_mdd: dd/MM
+              mmm: LLL
+              mm_md: d MMM
+              mmm_ed: E, d MMM
+              mmm_md: d MMMM
+              mmmm_ed: E, d MMMM
+              ms: mm:ss
+              y: y
+              y_m: M/y
+              y_md: d/M/y
+              y_m_ed: E, d/M/y
+              y_mm: MM/y
+              y_m_mdd: dd/MM/y
+              y_mmm: MMM y
+              y_mm_md: d MMM y
+              y_mmm_ed: E, d MMM y
+              y_mmmm: MMMM y
+              y_qqq: QQQ y
+              y_qqqq: QQQQ y
+            append_items:
+              day: "{0} ({2}: {1})"
+              day_of_week: "{0} {1}"
+              era: "{1} {0}"
+              hour: "{0} ({2}: {1})"
+              minute: "{0} ({2}: {1})"
+              month: "{0} ({2}: {1})"
+              quarter: "{0} ({2}: {1})"
+              second: "{0} ({2}: {1})"
+              timezone: "{0} {1}"
+              week: "{0} ({2}: {1})"
+              year: "{1} {0}"
+            interval_formats:
+              interval_format_fallback: "{0} – {1}"
+              d:
+                d: d–d
+              h:
+                h: HH–HH
+              hm:
+                h: HH:mm–HH:mm
+                m: HH:mm–HH:mm
+              hmv:
+                h: HH:mm–HH:mm v
+                m: HH:mm–HH:mm v
+              hv:
+                h: HH–HH v
+              m:
+                m: M–M
+              md:
+                d: d/M – d/M
+                m: d/M – d/M
+              m_ed:
+                d: E, d/M – E, d/M
+                m: E, d/M – E, d/M
+              mmm:
+                m: MMM–MMM
+              mm_md:
+                d: d MMM–d
+                m: d MMM – d MMM
+              mmm_ed:
+                d: E, d MMM – E, d MMM
+                m: E, d MMM – E, d MMM
+              y:
+                y: y–y
+              y_m:
+                m: M/y – M/y
+                y: M/y – M/y
+              y_md:
+                d: d/M/y – d/M/y
+                m: d/M/y – d/M/y
+                y: d/M/y – d/M/y
+              y_m_ed:
+                d: E, d/M/y – E, d/M/y
+                m: E, d/M/y – E, d/M/y
+                y: E, d/M/y – E, d/M/y
+              y_mmm:
+                m: MMM–MMM y
+                y: MMM y – MMM y
+              y_mm_md:
+                d: d–d MMM y
+                m: d MMM – d MMM y
+                y: d MMM y – d MMM y
+              y_mmm_ed:
+                d: E, d MMM – E, d MMM y
+                m: E, d MMM – E, d MMM y
+                y: E, d MMM y – E, d MMM y
+              y_mmmm:
+                m: MMMM – MMMM y
+                y: MMMM y – MMMM y
+      fields:
+        era:
+          display_name: "युग"
+        year:
+          display_name: "वर्ष"
+          relative_type__1: "पिछला वर्ष"
+          relative_type_0: "इस वर्ष"
+          relative_type_1: "अगला वर्ष"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} वर्ष में"
+            relative_time_pattern_count_other: "{0} वर्ष में"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} वर्ष पहले"
+            relative_time_pattern_count_other: "{0} वर्ष पहले"
+        year_short:
+          display_name: "वर्ष"
+          relative_type__1: "पिछला वर्ष"
+          relative_type_0: "इस वर्ष"
+          relative_type_1: "अगला वर्ष"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} वर्ष में"
+            relative_time_pattern_count_other: "{0} वर्ष में"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} वर्ष पहले"
+            relative_time_pattern_count_other: "{0} वर्ष पहले"
+        year_narrow:
+          display_name: "वर्ष"
+          relative_type__1: "पिछला वर्ष"
+          relative_type_0: "इस वर्ष"
+          relative_type_1: "अगला वर्ष"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} वर्ष में"
+            relative_time_pattern_count_other: "{0} वर्ष में"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} वर्ष पहले"
+            relative_time_pattern_count_other: "{0} वर्ष पहले"
+        quarter:
+          display_name: "तिमाही"
+          relative_type__1: "अंतिम तिमाही"
+          relative_type_0: "इस तिमाही"
+          relative_type_1: "अगली तिमाही"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} तिमाही में"
+            relative_time_pattern_count_other: "{0} तिमाहियों में"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} तिमाही पहले"
+            relative_time_pattern_count_other: "{0} तिमाही पहले"
+        quarter_short:
+          display_name: "तिमाही"
+          relative_type__1: "अंतिम तिमाही"
+          relative_type_0: "इस तिमाही"
+          relative_type_1: "अगली तिमाही"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} तिमाही में"
+            relative_time_pattern_count_other: "{0} तिमाहियों में"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} तिमाही पहले"
+            relative_time_pattern_count_other: "{0} तिमाहियों पहले"
+        quarter_narrow:
+          display_name: "तिमाही"
+          relative_type__1: "अंतिम तिमाही"
+          relative_type_0: "इस तिमाही"
+          relative_type_1: "अगली तिमाही"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} ति. में"
+            relative_time_pattern_count_other: "{0} ति. में"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} ति. पहले"
+            relative_time_pattern_count_other: "{0} ति. पहले"
+        month:
+          display_name: "माह"
+          relative_type__1: "पिछला माह"
+          relative_type_0: "इस माह"
+          relative_type_1: "अगला माह"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} माह में"
+            relative_time_pattern_count_other: "{0} माह में"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} माह पहले"
+            relative_time_pattern_count_other: "{0} माह पहले"
+        month_short:
+          display_name: "माह"
+          relative_type__1: "पिछला माह"
+          relative_type_0: "इस माह"
+          relative_type_1: "अगला माह"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} माह में"
+            relative_time_pattern_count_other: "{0} माह में"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} माह पहले"
+            relative_time_pattern_count_other: "{0} माह पहले"
+        month_narrow:
+          display_name: "माह"
+          relative_type__1: "पिछला माह"
+          relative_type_0: "इस माह"
+          relative_type_1: "अगला माह"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} माह में"
+            relative_time_pattern_count_other: "{0} माह में"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} माह पहले"
+            relative_time_pattern_count_other: "{0} माह पहले"
+        week:
+          display_name: "सप्ताह"
+          relative_type__1: "पिछला सप्ताह"
+          relative_type_0: "इस सप्ताह"
+          relative_type_1: "अगला सप्ताह"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} सप्ताह में"
+            relative_time_pattern_count_other: "{0} सप्ताह में"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} सप्ताह पहले"
+            relative_time_pattern_count_other: "{0} सप्ताह पहले"
+        week_short:
+          display_name: "सप्ताह"
+          relative_type__1: "पिछला सप्ताह"
+          relative_type_0: "इस सप्ताह"
+          relative_type_1: "अगला सप्ताह"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} सप्ताह में"
+            relative_time_pattern_count_other: "{0} सप्ताह में"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} सप्ताह पहले"
+            relative_time_pattern_count_other: "{0} सप्ताह पहले"
+        week_narrow:
+          display_name: "सप्ताह"
+          relative_type__1: "पिछला सप्ताह"
+          relative_type_0: "इस सप्ताह"
+          relative_type_1: "अगला सप्ताह"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} सप्ताह में"
+            relative_time_pattern_count_other: "{0} सप्ताह में"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} सप्ताह पहले"
+            relative_time_pattern_count_other: "{0} सप्ताह पहले"
+        day:
+          display_name: "दिन"
+          relative_type__2: "बीता परसों"
+          relative_type__1: "कल"
+          relative_type_0: "आज"
+          relative_type_1: "कल"
+          relative_type_2: "परसों"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} दिन में"
+            relative_time_pattern_count_other: "{0} दिन में"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} दिन पहले"
+            relative_time_pattern_count_other: "{0} दिन पहले"
+        day_short:
+          display_name: "दिन"
+          relative_type__2: "बीता परसों"
+          relative_type__1: "कल"
+          relative_type_0: "आज"
+          relative_type_1: "कल"
+          relative_type_2: "परसों"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} दिन में"
+            relative_time_pattern_count_other: "{0} दिन में"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} दिन पहले"
+            relative_time_pattern_count_other: "{0} दिन पहले"
+        day_narrow:
+          display_name: "दिन"
+          relative_type__2: "बीता परसों"
+          relative_type__1: "कल"
+          relative_type_0: "आज"
+          relative_type_1: "कल"
+          relative_type_2: "परसों"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} दिन में"
+            relative_time_pattern_count_other: "{0} दिन में"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} दिन पहले"
+            relative_time_pattern_count_other: "{0} दिन पहले"
+        weekday:
+          display_name: "सप्ताह का दिन"
+        sun:
+          relative_type__1: "पिछला रविवार"
+          relative_type_0: "इस रविवार"
+          relative_type_1: "अगला रविवार"
+        sun_short:
+          relative_type__1: "पिछला रवि."
+          relative_type_0: "इस रवि."
+          relative_type_1: "अगला रवि."
+        sun_narrow:
+          relative_type__1: "पिछला रवि."
+          relative_type_0: "इस रवि."
+          relative_type_1: "अगला रवि."
+        mon:
+          relative_type__1: "पिछला सोमवार"
+          relative_type_0: "इस सोमवार"
+          relative_type_1: "अगला सोमवार"
+        mon_short:
+          relative_type__1: "पिछला सोम."
+          relative_type_0: "इस सोम."
+          relative_type_1: "अगला सोम."
+        mon_narrow:
+          relative_type__1: "पिछला सोम."
+          relative_type_0: "इस सोम."
+          relative_type_1: "अगला सोम."
+        tue:
+          relative_type__1: "पिछला मंगलवार"
+          relative_type_0: "इस मंगलवार"
+          relative_type_1: "अगला मंगलवार"
+        tue_short:
+          relative_type__1: "पिछला मंगल."
+          relative_type_0: "इस मंगल."
+          relative_type_1: "अगला मंगल."
+        tue_narrow:
+          relative_type__1: "पिछला मंगल."
+          relative_type_0: "इस मंगल."
+          relative_type_1: "अगला मंगल."
+        wed:
+          relative_type__1: "पिछला बुधवार"
+          relative_type_0: "इस बुधवार"
+          relative_type_1: "अगला बुधवार"
+        wed_short:
+          relative_type__1: "पिछला बुध."
+          relative_type_0: "इस बुध."
+          relative_type_1: "अगला बुध."
+        wed_narrow:
+          relative_type__1: "पिछला बुध."
+          relative_type_0: "इस बुध."
+          relative_type_1: "अगला बुध."
+        thu:
+          relative_type__1: "पिछला गुरुवार"
+          relative_type_0: "इस गुरुवार"
+          relative_type_1: "अगला गुरुवार"
+        thu_short:
+          relative_type__1: "पिछला गुरु."
+          relative_type_0: "इस गुरु."
+          relative_type_1: "अगला गुरु."
+        thu_narrow:
+          relative_type__1: "पिछला गुरु."
+          relative_type_0: "इस गुरु."
+          relative_type_1: "अगला गुरु."
+        fri:
+          relative_type__1: "पिछला शुक्रवार"
+          relative_type_0: "इस शुक्रवार"
+          relative_type_1: "अगला शुक्रवार"
+        fri_short:
+          relative_type__1: "पिछला शुक्र."
+          relative_type_0: "इस शुक्र."
+          relative_type_1: "अगला शुक्र."
+        fri_narrow:
+          relative_type__1: "पिछला शुक्र."
+          relative_type_0: "इस शुक्र."
+          relative_type_1: "अगला शुक्र."
+        sat:
+          relative_type__1: "पिछला शनिवार"
+          relative_type_0: "इस शनिवार"
+          relative_type_1: "अगला शनिवार"
+        sat_short:
+          relative_type__1: "पिछला शनि."
+          relative_type_0: "इस शनि."
+          relative_type_1: "अगला शनि."
+        sat_narrow:
+          relative_type__1: "पिछला शनि."
+          relative_type_0: "इस शनि."
+          relative_type_1: "अगला शनि."
+        dayperiod:
+          display_name: "पूर्वाह्न/अपराह्न"
+        hour:
+          display_name: "घंटा"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} घंटे में"
+            relative_time_pattern_count_other: "{0} घंटे में"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} घंटे पहले"
+            relative_time_pattern_count_other: "{0} घंटे पहले"
+        hour_short:
+          display_name: "घं."
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} घं. में"
+            relative_time_pattern_count_other: "{0} घं. में"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} घं. पहले"
+            relative_time_pattern_count_other: "{0} घं. पहले"
+        hour_narrow:
+          display_name: "घं."
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} घं. में"
+            relative_time_pattern_count_other: "{0} घं. में"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} घं. पहले"
+            relative_time_pattern_count_other: "{0} घं. पहले"
+        minute:
+          display_name: "मिनट"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} मिनट में"
+            relative_time_pattern_count_other: "{0} मिनट में"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} मिनट पहले"
+            relative_time_pattern_count_other: "{0} मिनट पहले"
+        minute_short:
+          display_name: "मि."
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} मि. में"
+            relative_time_pattern_count_other: "{0} मि. में"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} मि. पहले"
+            relative_time_pattern_count_other: "{0} मि. पहले"
+        minute_narrow:
+          display_name: "मि."
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} मि. में"
+            relative_time_pattern_count_other: "{0} मि. में"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} मि. पहले"
+            relative_time_pattern_count_other: "{0} मि. पहले"
+        second:
+          display_name: "सेकंड"
+          relative_type_0: "अब"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} सेकंड में"
+            relative_time_pattern_count_other: "{0} सेकंड में"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} सेकंड पहले"
+            relative_time_pattern_count_other: "{0} सेकंड पहले"
+        second_short:
+          display_name: "से."
+          relative_type_0: "अब"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} से. में"
+            relative_time_pattern_count_other: "{0} से. में"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} से. पहले"
+            relative_time_pattern_count_other: "{0} से. पहले"
+        second_narrow:
+          display_name: "से."
+          relative_type_0: "अब"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} से. में"
+            relative_time_pattern_count_other: "{0} से. में"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} से. पहले"
+            relative_time_pattern_count_other: "{0} से. पहले"
+        zone:
+          display_name: "समय क्षेत्र"
+      time_zone_names:
+        hour_format: "+HH:mm;-HH:mm"
+        gmt_format: GMT{0}
+        gmt_zero_format: GMT
+        region_format: "{0} समय"
+        region_format_type_daylight: "{0} डेलाइट समय"
+        region_format_type_standard: "{0} मानक समय"
+        fallback_format: "{1} ({0})"
+        zone:
+          america:
+            adak:
+              exemplar_city: "अडक"
+            anchorage:
+              exemplar_city: "एंकरेज"
+            anguilla:
+              exemplar_city: "एंग्विला"
+            antigua:
+              exemplar_city: "एंटीगुआ"
+            araguaina:
+              exemplar_city: "आराग्वेना"
+            argentina:
+              rio_gallegos:
+                exemplar_city: "रियो गालेगोस"
+              san_juan:
+                exemplar_city: "सान जुआन"
+              ushuaia:
+                exemplar_city: "उशुआइया"
+              la_rioja:
+                exemplar_city: "ला रिओजा"
+              san_luis:
+                exemplar_city: "सान लुईस"
+              salta:
+                exemplar_city: "साल्टा"
+              tucuman:
+                exemplar_city: "टोकूमन"
+            aruba:
+              exemplar_city: "अरुबा"
+            asuncion:
+              exemplar_city: "एसनशियॉन"
+            bahia:
+              exemplar_city: "बहिया"
+            bahia_banderas:
+              exemplar_city: "बेहिया बांडेरास"
+            barbados:
+              exemplar_city: "बारबाडोस"
+            belem:
+              exemplar_city: "बेलेम"
+            belize:
+              exemplar_city: "बेलीज़"
+            blanc_sablon:
+              exemplar_city: "ब्लांक-सेबलोन"
+            boa_vista:
+              exemplar_city: "बोआ विस्ता"
+            bogota:
+              exemplar_city: "बोगोटा"
+            boise:
+              exemplar_city: "बॉइस"
+            buenos_aires:
+              exemplar_city: "ब्यूनस आयरस"
+            cambridge_bay:
+              exemplar_city: "कैम्ब्रिज खाड़ी"
+            campo_grande:
+              exemplar_city: "कैंपो ग्रांडे"
+            cancun:
+              exemplar_city: "कैनकुन"
+            caracas:
+              exemplar_city: "काराकस"
+            catamarca:
+              exemplar_city: "काटामार्का"
+            cayenne:
+              exemplar_city: "कायेन"
+            cayman:
+              exemplar_city: "कैमेन"
+            chicago:
+              exemplar_city: "शिकागो"
+            chihuahua:
+              exemplar_city: "चिहुआहुआ"
+            coral_harbour:
+              exemplar_city: "अटिकोकान"
+            cordoba:
+              exemplar_city: "कोर्डोबा"
+            costa_rica:
+              exemplar_city: "कोस्टा रिका"
+            creston:
+              exemplar_city: "क्रेस्टन"
+            cuiaba:
+              exemplar_city: "क्यूआबा"
+            curacao:
+              exemplar_city: "कुराकाओ"
+            danmarkshavn:
+              exemplar_city: "डेनमार्कशॉन"
+            dawson:
+              exemplar_city: "डॉसन"
+            dawson_creek:
+              exemplar_city: "डॉसन क्रीक"
+            denver:
+              exemplar_city: "डेनवर"
+            detroit:
+              exemplar_city: "डेट्रॉयट"
+            dominica:
+              exemplar_city: "डोमिनिका"
+            edmonton:
+              exemplar_city: "एडमंटन"
+            eirunepe:
+              exemplar_city: "ईरुनेपे"
+            el_salvador:
+              exemplar_city: "अल सल्वाडोर"
+            fortaleza:
+              exemplar_city: "फ़ोर्टालेज़ा"
+            glace_bay:
+              exemplar_city: "ग्लेस खा़ड़ी"
+            godthab:
+              exemplar_city: "नुक"
+            goose_bay:
+              exemplar_city: "गूस खा़ड़ी"
+            grand_turk:
+              exemplar_city: "ग्रांड टर्क"
+            grenada:
+              exemplar_city: "ग्रेनाडा"
+            guadeloupe:
+              exemplar_city: "ग्वाडेलोप"
+            guatemala:
+              exemplar_city: "ग्वाटेमाला"
+            guayaquil:
+              exemplar_city: "ग्वायाकील"
+            guyana:
+              exemplar_city: "गयाना"
+            halifax:
+              exemplar_city: "हेलिफ़ैक्स"
+            havana:
+              exemplar_city: "हवाना"
+            hermosillo:
+              exemplar_city: "हर्मोसिल्लो"
+            indiana:
+              vincennes:
+                exemplar_city: "विंसेनेस, इंडियाना"
+              petersburg:
+                exemplar_city: "पीटर्सबर्ग, इंडियाना"
+              tell_city:
+                exemplar_city: "टेल सिटी, इंडियाना"
+              knox:
+                exemplar_city: "नौक्स, इंडियाना"
+              winamac:
+                exemplar_city: "विनामेक, इंडियाना"
+              marengo:
+                exemplar_city: "मारेंगो, इंडियाना"
+              vevay:
+                exemplar_city: "वेवे, इंडियाना"
+            indianapolis:
+              exemplar_city: "इंडियानापोलिस"
+            inuvik:
+              exemplar_city: "इनूविक"
+            iqaluit:
+              exemplar_city: "इकालुईट"
+            jamaica:
+              exemplar_city: "जमैका"
+            jujuy:
+              exemplar_city: "जुजोए"
+            juneau:
+              exemplar_city: "ज्यूनाउ"
+            kentucky:
+              monticello:
+                exemplar_city: "मोंटीसेलो, केंटकी"
+            kralendijk:
+              exemplar_city: "क्रालैंडिजिक"
+            la_paz:
+              exemplar_city: "ला पाज़"
+            lima:
+              exemplar_city: "लीमा"
+            los_angeles:
+              exemplar_city: "लॉस एंजिल्स"
+            louisville:
+              exemplar_city: "लुइसविले"
+            lower_princes:
+              exemplar_city: "लोअर प्रिंसेस क्वार्टर"
+            maceio:
+              exemplar_city: "मेसीओ"
+            managua:
+              exemplar_city: "मानागुआ"
+            manaus:
+              exemplar_city: "मनौस"
+            marigot:
+              exemplar_city: "मैरीगोट"
+            martinique:
+              exemplar_city: "मार्टिनिक"
+            matamoros:
+              exemplar_city: "माटामोरोस"
+            mazatlan:
+              exemplar_city: "माज़ाटलान"
+            mendoza:
+              exemplar_city: "मेंडोज़ा"
+            menominee:
+              exemplar_city: "मेनोमिनी"
+            merida:
+              exemplar_city: "मेरिडा"
+            metlakatla:
+              exemplar_city: "मेट्लेकाट्ला"
+            mexico_city:
+              exemplar_city: "मेक्सिको सिटी"
+            miquelon:
+              exemplar_city: "मिकेलॉन"
+            moncton:
+              exemplar_city: "मोंकटन"
+            monterrey:
+              exemplar_city: "मोंटेरेरी"
+            montevideo:
+              exemplar_city: "मोंटेवीडियो"
+            montserrat:
+              exemplar_city: "मोंटसेरात"
+            nassau:
+              exemplar_city: "नासाउ"
+            new_york:
+              exemplar_city: "न्यूयॉर्क"
+            nipigon:
+              exemplar_city: "निपिगन"
+            nome:
+              exemplar_city: "नोम"
+            noronha:
+              exemplar_city: "नोरोन्हा"
+            north_dakota:
+              beulah:
+                exemplar_city: "ब्यूला, उत्तरी डकोटा"
+              new_salem:
+                exemplar_city: "न्यू सालेम, उत्तरी डकोटा"
+              center:
+                exemplar_city: "मध्य, उत्तरी दाकोता"
+            ojinaga:
+              exemplar_city: "ओखाजीनागा"
+            panama:
+              exemplar_city: "पनामा"
+            pangnirtung:
+              exemplar_city: "पांगनिर्टंग"
+            paramaribo:
+              exemplar_city: "पारामारिबो"
+            phoenix:
+              exemplar_city: "फ़ीनिक्स"
+            port_au_prince:
+              exemplar_city: "पोर्ट-ऑ-प्रिंस"
+            port_of_spain:
+              exemplar_city: "पोर्ट ऑफ़ स्पेन"
+            porto_velho:
+              exemplar_city: "पोर्टो वेल्हो"
+            puerto_rico:
+              exemplar_city: "पोर्टो रिको"
+            rainy_river:
+              exemplar_city: "रेनी नदी"
+            rankin_inlet:
+              exemplar_city: "रेंकिन इनलेट"
+            recife:
+              exemplar_city: "रेसाइफ़"
+            regina:
+              exemplar_city: "रेजिना"
+            resolute:
+              exemplar_city: "रिसोल्यूट"
+            rio_branco:
+              exemplar_city: "रियो ब्रांको"
+            santa_isabel:
+              exemplar_city: "सांता इसाबेल"
+            santarem:
+              exemplar_city: "सैंटारेम"
+            santiago:
+              exemplar_city: "सैंटियागो"
+            santo_domingo:
+              exemplar_city: "सेंटो डोमिंगो"
+            sao_paulo:
+              exemplar_city: "साओ पाउलो"
+            scoresbysund:
+              exemplar_city: "इटोकोर्टोरमियाट"
+            sitka:
+              exemplar_city: "सिट्का"
+            st_barthelemy:
+              exemplar_city: "सेंट बार्थेलेमी"
+            st_johns:
+              exemplar_city: "सेंट जोंस"
+            st_kitts:
+              exemplar_city: "सेंट किट्स"
+            st_lucia:
+              exemplar_city: "सेंट लूसिया"
+            st_thomas:
+              exemplar_city: "सेंट थॉमस"
+            st_vincent:
+              exemplar_city: "सेंट विंसेंट"
+            swift_current:
+              exemplar_city: "स्विफ़्ट करंट"
+            tegucigalpa:
+              exemplar_city: "टेगुसिगल्पा"
+            thule:
+              exemplar_city: "थ्यूले"
+            thunder_bay:
+              exemplar_city: "थंडर खाड़ी"
+            tijuana:
+              exemplar_city: "तिजुआना"
+            toronto:
+              exemplar_city: "टोरंटो"
+            tortola:
+              exemplar_city: "टोर्टोला"
+            vancouver:
+              exemplar_city: "वैंकूवर"
+            whitehorse:
+              exemplar_city: "व्हाइटहोर्स"
+            winnipeg:
+              exemplar_city: "विनीपेग"
+            yakutat:
+              exemplar_city: "याकूटाट"
+            yellowknife:
+              exemplar_city: "येलोनाइफ़"
+          atlantic:
+            azores:
+              exemplar_city: "अज़ोरेस"
+            bermuda:
+              exemplar_city: "बरमूडा"
+            canary:
+              exemplar_city: "कैनेरी"
+            cape_verde:
+              exemplar_city: "केप वर्ड"
+            faeroe:
+              exemplar_city: "फ़ैरो"
+            madeira:
+              exemplar_city: "मडेरा"
+            reykjavik:
+              exemplar_city: "रेक्याविक"
+            south_georgia:
+              exemplar_city: "दक्षिण जॉर्जिया"
+            st_helena:
+              exemplar_city: "सेंट हेलेना"
+            stanley:
+              exemplar_city: "स्टैनली"
+          europe:
+            amsterdam:
+              exemplar_city: "एम्स्टर्डम"
+            andorra:
+              exemplar_city: "अंडोरा"
+            athens:
+              exemplar_city: "एथेंस"
+            belgrade:
+              exemplar_city: "बेलग्रेड"
+            berlin:
+              exemplar_city: "बर्लिन"
+            bratislava:
+              exemplar_city: "ब्रातिस्लावा"
+            brussels:
+              exemplar_city: "ब्रूसेल्स"
+            bucharest:
+              exemplar_city: "बुख़ारेस्ट"
+            budapest:
+              exemplar_city: "बुडापेस्ट"
+            busingen:
+              exemplar_city: "ब्यूसिनजेन"
+            chisinau:
+              exemplar_city: "चिसीनाउ"
+            copenhagen:
+              exemplar_city: "कोपेनहेगन"
+            dublin:
+              long:
+                daylight: "आइरिश मानक समय"
+              exemplar_city: "डबलिन"
+            gibraltar:
+              exemplar_city: "जिब्राल्टर"
+            guernsey:
+              exemplar_city: "गर्नसी"
+            helsinki:
+              exemplar_city: "हेलसिंकी"
+            isle_of_man:
+              exemplar_city: "आइल ऑफ़ मैन"
+            istanbul:
+              exemplar_city: "इस्तांबुल"
+            jersey:
+              exemplar_city: "जर्सी"
+            kaliningrad:
+              exemplar_city: "कालीनिनग्राड"
+            kiev:
+              exemplar_city: "कीव"
+            lisbon:
+              exemplar_city: "लिस्बन"
+            ljubljana:
+              exemplar_city: "ल्यूबेलजाना"
+            london:
+              long:
+                daylight: "ब्रिटिश ग्रीष्मकालीन समय"
+              exemplar_city: "लंदन"
+            luxembourg:
+              exemplar_city: "लक्ज़मबर्ग"
+            madrid:
+              exemplar_city: "मैड्रिड"
+            malta:
+              exemplar_city: "माल्टा"
+            mariehamn:
+              exemplar_city: "मारियाहैम"
+            minsk:
+              exemplar_city: "मिंस्क"
+            monaco:
+              exemplar_city: "मोनाको"
+            moscow:
+              exemplar_city: "मॉस्को"
+            oslo:
+              exemplar_city: "ओस्लो"
+            paris:
+              exemplar_city: "पेरिस"
+            podgorica:
+              exemplar_city: "पोड्गोरिका"
+            prague:
+              exemplar_city: "प्राग"
+            riga:
+              exemplar_city: "रीगा"
+            rome:
+              exemplar_city: "रोम"
+            samara:
+              exemplar_city: "समारा"
+            san_marino:
+              exemplar_city: "सैन मारीनो"
+            sarajevo:
+              exemplar_city: "साराजेवो"
+            simferopol:
+              exemplar_city: "सिम्फ़ेरोपोल"
+            skopje:
+              exemplar_city: "स्कोप्जे"
+            sofia:
+              exemplar_city: "सोफ़िया"
+            stockholm:
+              exemplar_city: "स्टॉकहोम"
+            tallinn:
+              exemplar_city: "तेलिन"
+            tirane:
+              exemplar_city: "टाइरेन"
+            uzhgorod:
+              exemplar_city: "अज़्गोरोद"
+            vaduz:
+              exemplar_city: "वादुज़"
+            vatican:
+              exemplar_city: "वेटिकन"
+            vienna:
+              exemplar_city: "विएना"
+            vilnius:
+              exemplar_city: "विल्नियस"
+            volgograd:
+              exemplar_city: "वोल्गोग्राड"
+            warsaw:
+              exemplar_city: "वॉरसॉ"
+            zagreb:
+              exemplar_city: "ज़ाग्रेब"
+            zaporozhye:
+              exemplar_city: "ज़ैपोरोज़ाई"
+            zurich:
+              exemplar_city: "ज़्यूरिख़"
+          africa:
+            abidjan:
+              exemplar_city: "अबिदजान"
+            accra:
+              exemplar_city: "एक्रा"
+            addis_ababa:
+              exemplar_city: "अदीस अबाबा"
+            algiers:
+              exemplar_city: "अल्जीयर्स"
+            asmera:
+              exemplar_city: "अस्मारा"
+            bamako:
+              exemplar_city: "बामाको"
+            bangui:
+              exemplar_city: "बांगुइ"
+            banjul:
+              exemplar_city: "बैंजुल"
+            bissau:
+              exemplar_city: "बिसाऊ"
+            blantyre:
+              exemplar_city: "ब्लांटायर"
+            brazzaville:
+              exemplar_city: "ब्राज़ाविले"
+            bujumbura:
+              exemplar_city: "बुजुंबूरा"
+            cairo:
+              exemplar_city: "कायरो"
+            casablanca:
+              exemplar_city: "कासाब्लांका"
+            ceuta:
+              exemplar_city: "सेउटा"
+            conakry:
+              exemplar_city: "कोनाक्री"
+            dakar:
+              exemplar_city: "डकार"
+            dar_es_salaam:
+              exemplar_city: "दार अस सलाम"
+            djibouti:
+              exemplar_city: "जिबूती"
+            douala:
+              exemplar_city: "डूआला"
+            el_aaiun:
+              exemplar_city: "अल आइयून"
+            freetown:
+              exemplar_city: "फ़्रीटाउन"
+            gaborone:
+              exemplar_city: "गाबोरोन"
+            harare:
+              exemplar_city: "हरारे"
+            johannesburg:
+              exemplar_city: "जोहांसबर्ग"
+            juba:
+              exemplar_city: "जुबा"
+            kampala:
+              exemplar_city: "कंपाला"
+            khartoum:
+              exemplar_city: "खार्तूम"
+            kigali:
+              exemplar_city: "किगाली"
+            kinshasa:
+              exemplar_city: "किंशासा"
+            lagos:
+              exemplar_city: "लागोस"
+            libreville:
+              exemplar_city: "लिब्रेविले"
+            lome:
+              exemplar_city: "लोम"
+            luanda:
+              exemplar_city: "लुआंडा"
+            lubumbashi:
+              exemplar_city: "लुबुमबाशी"
+            lusaka:
+              exemplar_city: "लुसाका"
+            malabo:
+              exemplar_city: "मलाबो"
+            maputo:
+              exemplar_city: "मापुटो"
+            maseru:
+              exemplar_city: "मासेरू"
+            mbabane:
+              exemplar_city: "एमबाबेन"
+            mogadishu:
+              exemplar_city: "मोगादिशु"
+            monrovia:
+              exemplar_city: "मोनरोविया"
+            nairobi:
+              exemplar_city: "नैरोबी"
+            ndjamena:
+              exemplar_city: "नेद्जामीना"
+            niamey:
+              exemplar_city: "नियामी"
+            nouakchott:
+              exemplar_city: "नौआकशॉट"
+            ouagadougou:
+              exemplar_city: "औगाडोगू"
+            porto_novo:
+              exemplar_city: "पोर्टो-नोवो"
+            sao_tome:
+              exemplar_city: "साओ टोम"
+            tripoli:
+              exemplar_city: "त्रिपोली"
+            tunis:
+              exemplar_city: "ट्यूनिस"
+            windhoek:
+              exemplar_city: "विंडहोक"
+          asia:
+            aden:
+              exemplar_city: "आदेन"
+            almaty:
+              exemplar_city: "अल्माटी"
+            amman:
+              exemplar_city: "अम्मान"
+            anadyr:
+              exemplar_city: "अनाडिर"
+            aqtau:
+              exemplar_city: "अक्ताउ"
+            aqtobe:
+              exemplar_city: "अक्तोब"
+            ashgabat:
+              exemplar_city: "अश्गाबात"
+            baghdad:
+              exemplar_city: "बगदाद"
+            bahrain:
+              exemplar_city: "बहरीन"
+            baku:
+              exemplar_city: "बाकु"
+            bangkok:
+              exemplar_city: "बैंकॉक"
+            beirut:
+              exemplar_city: "बेरुत"
+            bishkek:
+              exemplar_city: "बिश्केक"
+            brunei:
+              exemplar_city: "ब्रूनेई"
+            calcutta:
+              exemplar_city: "कोलकाता"
+            chita:
+              exemplar_city: "त्शिता"
+            choibalsan:
+              exemplar_city: "चोइबालसन"
+            colombo:
+              exemplar_city: "कोलंबो"
+            damascus:
+              exemplar_city: "दमास्कस"
+            dhaka:
+              exemplar_city: "ढाका"
+            dili:
+              exemplar_city: "डिलि"
+            dubai:
+              exemplar_city: "दुबई"
+            dushanbe:
+              exemplar_city: "दुशांबे"
+            gaza:
+              exemplar_city: "गाज़ा"
+            hebron:
+              exemplar_city: "हेब्रोन"
+            hong_kong:
+              exemplar_city: "हाँग काँग"
+            hovd:
+              exemplar_city: "होव्ड"
+            irkutsk:
+              exemplar_city: "इर्कुत्स्क"
+            jakarta:
+              exemplar_city: "जकार्ता"
+            jayapura:
+              exemplar_city: "जयापुरा"
+            jerusalem:
+              exemplar_city: "यरूशलम"
+            kabul:
+              exemplar_city: "काबुल"
+            kamchatka:
+              exemplar_city: "कमचत्का"
+            karachi:
+              exemplar_city: "कराची"
+            katmandu:
+              exemplar_city: "काठमांडू"
+            khandyga:
+              exemplar_city: "खांडिगा"
+            krasnoyarsk:
+              exemplar_city: "क्रास्नोयार्स्क"
+            kuala_lumpur:
+              exemplar_city: "कुआलालंपुर"
+            kuching:
+              exemplar_city: "कूचिंग"
+            kuwait:
+              exemplar_city: "कुवैत"
+            macau:
+              exemplar_city: "मकाउ"
+            magadan:
+              exemplar_city: "मागादान"
+            makassar:
+              exemplar_city: "मकस्सर"
+            manila:
+              exemplar_city: "मनीला"
+            muscat:
+              exemplar_city: "मस्कट"
+            nicosia:
+              exemplar_city: "निकोसिया"
+            novokuznetsk:
+              exemplar_city: "नोवोकुज़्नेत्स्क"
+            novosibirsk:
+              exemplar_city: "नोवोसिबिर्स्क"
+            omsk:
+              exemplar_city: "ओम्स्क"
+            oral:
+              exemplar_city: "ओरल"
+            phnom_penh:
+              exemplar_city: "नॉम पेन्ह"
+            pontianak:
+              exemplar_city: "पोंटीयांक"
+            pyongyang:
+              exemplar_city: "प्योंगयांग"
+            qatar:
+              exemplar_city: "कतर"
+            qyzylorda:
+              exemplar_city: "केज़ेलोर्डा"
+            rangoon:
+              exemplar_city: "रंगून"
+            riyadh:
+              exemplar_city: "रियाद"
+            saigon:
+              exemplar_city: "हो ची मिन्ह सिटी"
+            sakhalin:
+              exemplar_city: "सखालिन"
+            samarkand:
+              exemplar_city: "समरकंद"
+            seoul:
+              exemplar_city: "सिओल"
+            shanghai:
+              exemplar_city: "शंघाई"
+            singapore:
+              exemplar_city: "सिंगापुर"
+            srednekolymsk:
+              exemplar_city: "स्रेद्निकोलिमस्क"
+            taipei:
+              exemplar_city: "ताईपेई"
+            tashkent:
+              exemplar_city: "ताशकंद"
+            tbilisi:
+              exemplar_city: "टबिलिसी"
+            tehran:
+              exemplar_city: "तेहरान"
+            thimphu:
+              exemplar_city: "थिंपू"
+            tokyo:
+              exemplar_city: "टोक्यो"
+            ulaanbaatar:
+              exemplar_city: "उलानबातर"
+            urumqi:
+              exemplar_city: "उरूम्की"
+            ust_nera:
+              exemplar_city: "यूस्ट–नेरा"
+            vientiane:
+              exemplar_city: "विएनतियान"
+            vladivostok:
+              exemplar_city: "व्लादिवोस्तोक"
+            yakutsk:
+              exemplar_city: "याकूत्स्क"
+            yekaterinburg:
+              exemplar_city: "येकातेरिनबर्ग"
+            yerevan:
+              exemplar_city: "येरेवान"
+          indian:
+            antananarivo:
+              exemplar_city: "एंटानानरीवो"
+            chagos:
+              exemplar_city: "शागोस"
+            christmas:
+              exemplar_city: "क्रिसमस"
+            cocos:
+              exemplar_city: "कोकोस"
+            comoro:
+              exemplar_city: "कोमोरो"
+            kerguelen:
+              exemplar_city: "करगुलेन"
+            mahe:
+              exemplar_city: "माहे"
+            maldives:
+              exemplar_city: "मालदीव"
+            mauritius:
+              exemplar_city: "मॉरीशस"
+            mayotte:
+              exemplar_city: "मायोत्ते"
+            reunion:
+              exemplar_city: "रीयूनियन"
+          australia:
+            adelaide:
+              exemplar_city: "एडिलेड"
+            brisbane:
+              exemplar_city: "ब्रिस्बन"
+            broken_hill:
+              exemplar_city: "ब्रोकन हिल"
+            currie:
+              exemplar_city: "क्यूरी"
+            darwin:
+              exemplar_city: "डार्विन"
+            eucla:
+              exemplar_city: "यूक्ला"
+            hobart:
+              exemplar_city: "होबार्ट"
+            lindeman:
+              exemplar_city: "लिंडेमान"
+            lord_howe:
+              exemplar_city: "लॉर्ड होवे"
+            melbourne:
+              exemplar_city: "मेलबोर्न"
+            perth:
+              exemplar_city: "पर्थ"
+            sydney:
+              exemplar_city: "सिडनी"
+          pacific:
+            apia:
+              exemplar_city: "एपिया"
+            auckland:
+              exemplar_city: "ऑकलैंड"
+            bougainville:
+              exemplar_city: "बोगनविल"
+            chatham:
+              exemplar_city: "चाथम"
+            easter:
+              exemplar_city: "ईस्टर"
+            efate:
+              exemplar_city: "एफ़ेट"
+            enderbury:
+              exemplar_city: "एंडरबरी"
+            fakaofo:
+              exemplar_city: "फ़ाकाओफ़ो"
+            fiji:
+              exemplar_city: "फ़िजी"
+            funafuti:
+              exemplar_city: "फ़्यूनाफ़ुटी"
+            galapagos:
+              exemplar_city: "गेलापागोस"
+            gambier:
+              exemplar_city: "गैंबियर"
+            guadalcanal:
+              exemplar_city: "ग्वाडलकनाल"
+            guam:
+              exemplar_city: "गुआम"
+            honolulu:
+              exemplar_city: "होनोलुलु"
+            johnston:
+              exemplar_city: "जॉनस्टन"
+            kiritimati:
+              exemplar_city: "किरीतिमाति"
+            kosrae:
+              exemplar_city: "कोसराए"
+            kwajalein:
+              exemplar_city: "क्वाज़ालीन"
+            majuro:
+              exemplar_city: "माजुरो"
+            marquesas:
+              exemplar_city: "मार्केसस"
+            midway:
+              exemplar_city: "मिडवे"
+            nauru:
+              exemplar_city: "नौरु"
+            niue:
+              exemplar_city: "नीयू"
+            norfolk:
+              exemplar_city: "नॉरफ़ॉक"
+            noumea:
+              exemplar_city: "नौमिया"
+            pago_pago:
+              exemplar_city: "पागो पागो"
+            palau:
+              exemplar_city: "पालाऊ"
+            pitcairn:
+              exemplar_city: "पिटकैर्न"
+            ponape:
+              exemplar_city: "पोनपेई"
+            port_moresby:
+              exemplar_city: "पोर्ट मोरेस्बी"
+            rarotonga:
+              exemplar_city: "रारोटोंगा"
+            saipan:
+              exemplar_city: "सायपान"
+            tahiti:
+              exemplar_city: "ताहिती"
+            tarawa:
+              exemplar_city: "टारावा"
+            tongatapu:
+              exemplar_city: "टोंगाटापू"
+            truk:
+              exemplar_city: "चक"
+            wake:
+              exemplar_city: "वेक"
+            wallis:
+              exemplar_city: "वालिस"
+          arctic:
+            longyearbyen:
+              exemplar_city: "लॉन्गईयरबायेन"
+          antarctica:
+            casey:
+              exemplar_city: "केसी"
+            davis:
+              exemplar_city: "डेविस"
+            dumont_d_urville:
+              exemplar_city: "ड्यूमोंट डी अर्विले"
+            macquarie:
+              exemplar_city: "मक्वारी"
+            mawson:
+              exemplar_city: "मॉसन"
+            mc_murdo:
+              exemplar_city: "मैकमुर्डो"
+            palmer:
+              exemplar_city: "पॉमर"
+            rothera:
+              exemplar_city: "रोथेरा"
+            syowa:
+              exemplar_city: "स्योवा"
+            troll:
+              exemplar_city: "ट्रोल"
+            vostok:
+              exemplar_city: "वोस्तोक"
+          etc:
+            gmt:
+              exemplar_city: GMT
+            gmt1:
+              exemplar_city: GMT+1
+            gmt10:
+              exemplar_city: GMT+10
+            gmt11:
+              exemplar_city: GMT+11
+            gmt12:
+              exemplar_city: GMT+12
+            gmt2:
+              exemplar_city: GMT+2
+            gmt3:
+              exemplar_city: GMT+3
+            gmt4:
+              exemplar_city: GMT+4
+            gmt5:
+              exemplar_city: GMT+5
+            gmt6:
+              exemplar_city: GMT+6
+            gmt7:
+              exemplar_city: GMT+7
+            gmt8:
+              exemplar_city: GMT+8
+            gmt9:
+              exemplar_city: GMT+9
+            gmt_1:
+              exemplar_city: GMT-1
+            gmt_10:
+              exemplar_city: GMT-10
+            gmt_11:
+              exemplar_city: GMT-11
+            gmt_12:
+              exemplar_city: GMT-12
+            gmt_13:
+              exemplar_city: GMT-13
+            gmt_14:
+              exemplar_city: GMT-14
+            gmt_2:
+              exemplar_city: GMT-2
+            gmt_3:
+              exemplar_city: GMT-3
+            gmt_4:
+              exemplar_city: GMT-4
+            gmt_5:
+              exemplar_city: GMT-5
+            gmt_6:
+              exemplar_city: GMT-6
+            gmt_7:
+              exemplar_city: GMT-7
+            gmt_8:
+              exemplar_city: GMT-8
+            gmt_9:
+              exemplar_city: GMT-9
+            unknown:
+              exemplar_city: "अज्ञात शहर"
+        metazone:
+          afghanistan:
+            long:
+              standard: "अफ़गानिस्तान समय"
+          africa_central:
+            long:
+              standard: "मध्य अफ़्रीका समय"
+          africa_eastern:
+            long:
+              standard: "पूर्वी अफ़्रीका समय"
+          africa_southern:
+            long:
+              standard: "दक्षिण अफ़्रीका समय"
+          africa_western:
+            long:
+              generic: "पश्चिम अफ़्रीका समय"
+              standard: "पश्चिम अफ़्रीका मानक समय"
+              daylight: "पश्चिम अफ़्रीका ग्रीष्मकालीन समय"
+          alaska:
+            long:
+              generic: "अलास्का समय"
+              standard: "अलास्‍का मानक समय"
+              daylight: "अलास्‍का डेलाइट समय"
+          amazon:
+            long:
+              generic: "अमेज़न समय"
+              standard: "अमेज़न मानक समय"
+              daylight: "अमेज़न ग्रीष्मकालीन समय"
+          america_central:
+            long:
+              generic: "उत्तरी अमेरिकी केंद्रीय समय"
+              standard: "उत्तरी अमेरिकी केंद्रीय मानक समय"
+              daylight: "उत्तरी अमेरिकी केंद्रीय डेलाइट समय"
+          america_eastern:
+            long:
+              generic: "उत्तरी अमेरिकी पूर्वी समय"
+              standard: "उत्तरी अमेरिकी पूर्वी मानक समय"
+              daylight: "उत्तरी अमेरिकी पूर्वी डेलाइट समय"
+          america_mountain:
+            long:
+              generic: "उत्तरी अमेरिकी माउंटेन समय"
+              standard: "उत्तरी अमेरिकी माउंटेन मानक समय"
+              daylight: "उत्तरी अमेरिकी माउंटेन डेलाइट समय"
+          america_pacific:
+            long:
+              generic: "उत्तरी अमेरिकी प्रशांत समय"
+              standard: "उत्तरी अमेरिकी प्रशांत मानक समय"
+              daylight: "उत्तरी अमेरिकी प्रशांत डेलाइट समय"
+          anadyr:
+            long:
+              generic: "एनाडीयर समय"
+              standard: "एनाडीयर मानक समय"
+              daylight: "एनाडीयर ग्रीष्मकालीन समय"
+          apia:
+            long:
+              generic: "एपिआ समय"
+              standard: "एपिआ मानक समय"
+              daylight: "एपिआ डेलाइट समय"
+          arabian:
+            long:
+              generic: "अरब समय"
+              standard: "अरब मानक समय"
+              daylight: "अरब डेलाइट समय"
+          argentina:
+            long:
+              generic: "अर्जेंटीना समय"
+              standard: "अर्जेंटीना मानक समय"
+              daylight: "अर्जेंटीना ग्रीष्मकालीन समय"
+          argentina_western:
+            long:
+              generic: "पश्चिमी अर्जेंटीना समय"
+              standard: "पश्चिमी अर्जेंटीना मानक समय"
+              daylight: "पश्चिमी अर्जेंटीना ग्रीष्मकालीन समय"
+          armenia:
+            long:
+              generic: "आर्मेनिया समय"
+              standard: "आर्मेनिया मानक समय"
+              daylight: "आर्मेनिया ग्रीष्मकालीन समय"
+          atlantic:
+            long:
+              generic: "अटलांटिक समय"
+              standard: "अटलांटिक मानक समय"
+              daylight: "अटलांटिक डेलाइट समय"
+          australia_central:
+            long:
+              generic: "मध्य ऑस्ट्रेलियाई समय"
+              standard: "ऑस्‍ट्रेलियाई केंद्रीय मानक समय"
+              daylight: "ऑस्‍ट्रेलियाई केंद्रीय डेलाइट समय"
+          australia_central_western:
+            long:
+              generic: "ऑस्‍ट्रेलियाई केंद्रीय पश्चिमी समय"
+              standard: "ऑस्‍ट्रेलियाई केंद्रीय पश्चिमी मानक समय"
+              daylight: "ऑस्‍ट्रेलियाई केंद्रीय पश्चिमी डेलाइट समय"
+          australia_eastern:
+            long:
+              generic: "पूर्वी ऑस्ट्रेलिया समय"
+              standard: "ऑस्‍ट्रेलियाई पूर्वी मानक समय"
+              daylight: "ऑस्‍ट्रेलियाई पूर्वी डेलाइट समय"
+          australia_western:
+            long:
+              generic: "पश्चिमी ऑस्ट्रेलिया समय"
+              standard: "ऑस्ट्रेलियाई पश्चिमी मानक समय"
+              daylight: "ऑस्ट्रेलियाई पश्चिमी डेलाइट समय"
+          azerbaijan:
+            long:
+              generic: "अज़रबैजान समय"
+              standard: "अज़रबैजान मानक समय"
+              daylight: "अज़रबैजान ग्रीष्मकालीन समय"
+          azores:
+            long:
+              generic: "अज़ोरेस समय"
+              standard: "अज़ोरेस मानक समय"
+              daylight: "अज़ोरेस ग्रीष्मकालीन समय"
+          bangladesh:
+            long:
+              generic: "बांग्लादेश समय"
+              standard: "बांग्लादेश मानक समय"
+              daylight: "बांग्लादेश ग्रीष्मकालीन समय"
+          bhutan:
+            long:
+              standard: "भूटान समय"
+          bolivia:
+            long:
+              standard: "बोलीविया समय"
+          brasilia:
+            long:
+              generic: "ब्राजीलिया समय"
+              standard: "ब्राजीलिया मानक समय"
+              daylight: "ब्राजीलिया ग्रीष्मकालीन समय"
+          brunei:
+            long:
+              standard: "ब्रूनेई दारूस्सलाम समय"
+          cape_verde:
+            long:
+              generic: "केप वर्ड समय"
+              standard: "केप वर्ड मानक समय"
+              daylight: "केप वर्ड ग्रीष्मकालीन समय"
+          chamorro:
+            long:
+              standard: "चामोरो मानक समय"
+          chatham:
+            long:
+              generic: "चैथम समय"
+              standard: "चैथम मानक समय"
+              daylight: "चैथम डेलाइट समय"
+          chile:
+            long:
+              generic: "चिली समय"
+              standard: "चिली मानक समय"
+              daylight: "चिली ग्रीष्मकालीन समय"
+          china:
+            long:
+              generic: "चीन समय"
+              standard: "चीन मानक समय"
+              daylight: "चीन डेलाइट समय"
+          choibalsan:
+            long:
+              generic: "कॉइबाल्सन समय"
+              standard: "कॉइबाल्सन मानक समय"
+              daylight: "कॉइबाल्सन ग्रीष्मकालीन समय"
+          christmas:
+            long:
+              standard: "क्रिसमस द्वीप समय"
+          cocos:
+            long:
+              standard: "कोकोस द्वीपसमूह समय"
+          colombia:
+            long:
+              generic: "कोलंबिया समय"
+              standard: "कोलंबिया मानक समय"
+              daylight: "कोलंबिया ग्रीष्मकालीन समय"
+          cook:
+            long:
+              generic: "कुक द्वीपसमूह समय"
+              standard: "कुक द्वीपसमूह मानक समय"
+              daylight: "कुक द्वीपसमूह अर्द्ध ग्रीष्मकालीन समय"
+          cuba:
+            long:
+              generic: "क्यूबा समय"
+              standard: "क्यूबा मानक समय"
+              daylight: "क्यूबा डेलाइट समय"
+          davis:
+            long:
+              standard: "डेविस समय"
+          dumont_d_urville:
+            long:
+              standard: "ड्यूमोंट डर्विल समय"
+          east_timor:
+            long:
+              standard: "पूर्वी तिमोर समय"
+          easter:
+            long:
+              generic: "ईस्टर द्वीप समय"
+              standard: "ईस्टर द्वीप मानक समय"
+              daylight: "ईस्टर द्वीप ग्रीष्मकालीन समय"
+          ecuador:
+            long:
+              standard: "इक्वाडोर समय"
+          europe_central:
+            long:
+              generic: "मध्य यूरोपीय समय"
+              standard: "मध्य यूरोपीय मानक समय"
+              daylight: "मध्‍य यूरोपीय ग्रीष्‍मकालीन समय"
+          europe_eastern:
+            long:
+              generic: "पूर्वी यूरोपीय समय"
+              standard: "पूर्वी यूरोपीय मानक समय"
+              daylight: "पूर्वी यूरोपीय ग्रीष्मकालीन समय"
+          europe_further_eastern:
+            long:
+              standard: "अग्र पूर्वी यूरोपीय समय"
+          europe_western:
+            long:
+              generic: "पश्चिमी यूरोपीय समय"
+              standard: "पश्चिमी यूरोपीय मानक समय"
+              daylight: "पश्चिमी यूरोपीय ग्रीष्‍मकालीन समय"
+          falkland:
+            long:
+              generic: "फ़ॉकलैंड द्वीपसमूह समय"
+              standard: "फ़ॉकलैंड द्वीपसमूह मानक समय"
+              daylight: "फ़ॉकलैंड द्वीपसमूह ग्रीष्मकालीन समय"
+          fiji:
+            long:
+              generic: "फ़िजी समय"
+              standard: "फ़िजी मानक समय"
+              daylight: "फ़िजी ग्रीष्मकालीन समय"
+          french_guiana:
+            long:
+              standard: "फ़्रेंच गुयाना समय"
+          french_southern:
+            long:
+              standard: "दक्षिणी फ़्रांस और अंटार्कटिक समय"
+          galapagos:
+            long:
+              standard: "गैलापेगोस का समय"
+          gambier:
+            long:
+              standard: "गैंबियर समय"
+          georgia:
+            long:
+              generic: "जॉर्जिया समय"
+              standard: "जॉर्जिया मानक समय"
+              daylight: "जॉर्जिया ग्रीष्मकालीन समय"
+          gilbert_islands:
+            long:
+              standard: "गिल्बर्ट द्वीपसमूह समय"
+          gmt:
+            long:
+              standard: "ग्रीनविच मीन टाइम"
+          greenland_eastern:
+            long:
+              generic: "पूर्वी ग्रीनलैंड समय"
+              standard: "पूर्वी ग्रीनलैंड मानक समय"
+              daylight: "पूर्वी ग्रीनलैंड ग्रीष्मकालीन समय"
+          greenland_western:
+            long:
+              generic: "पश्चिमी ग्रीनलैंड समय"
+              standard: "पश्चिमी ग्रीनलैंड मानक समय"
+              daylight: "पश्चिमी ग्रीनलैंड ग्रीष्मकालीन समय"
+          gulf:
+            long:
+              standard: "खाड़ी मानक समय"
+          guyana:
+            long:
+              standard: "गुयाना समय"
+          hawaii_aleutian:
+            long:
+              generic: "हवाई–आल्यूशन समय"
+              standard: "हवाई–आल्यूशन मानक समय"
+              daylight: "हवाई–आल्यूशन डेलाइट समय"
+          hong_kong:
+            long:
+              generic: "हाँग काँग समय"
+              standard: "हाँग काँग मानक समय"
+              daylight: "हाँग काँग ग्रीष्मकालीन समय"
+          hovd:
+            long:
+              generic: "होव्ड समय"
+              standard: "होव्ड मानक समय"
+              daylight: "होव्ड ग्रीष्मकालीन समय"
+          india:
+            long:
+              standard: "भारतीय मानक समय"
+            short:
+              standard: IST
+          indian_ocean:
+            long:
+              standard: "हिंद महासागर समय"
+          indochina:
+            long:
+              standard: "इंडोचाइना समय"
+          indonesia_central:
+            long:
+              standard: "मध्य इंडोनेशिया समय"
+          indonesia_eastern:
+            long:
+              standard: "पूर्वी इंडोनेशिया समय"
+          indonesia_western:
+            long:
+              standard: "पश्चिमी इंडोनेशिया समय"
+          iran:
+            long:
+              generic: "ईरान समय"
+              standard: "ईरान मानक समय"
+              daylight: "ईरान डेलाइट समय"
+          irkutsk:
+            long:
+              generic: "इर्कुत्स्क समय"
+              standard: "इर्कुत्स्क मानक समय"
+              daylight: "इर्कुत्स्क ग्रीष्मकालीन समय"
+          israel:
+            long:
+              generic: "इज़राइल समय"
+              standard: "इज़राइल मानक समय"
+              daylight: "इज़राइल डेलाइट समय"
+          japan:
+            long:
+              generic: "जापान समय"
+              standard: "जापान मानक समय"
+              daylight: "जापान डेलाइट समय"
+          kamchatka:
+            long:
+              generic: "पेट्रोपेवलास्क-कैमचात्सकी समय"
+              standard: "पेट्रोपेवलास्क-कैमचात्सकी मानक समय"
+              daylight: "पेट्रोपेवलास्क-कैमचात्सकी ग्रीष्मकालीन समय"
+          kazakhstan_eastern:
+            long:
+              standard: "पूर्व कज़ाखस्तान समय"
+          kazakhstan_western:
+            long:
+              standard: "पश्चिम कज़ाखस्तान समय"
+          korea:
+            long:
+              generic: "कोरियाई समय"
+              standard: "कोरियाई मानक समय"
+              daylight: "कोरियाई डेलाइट समय"
+          kosrae:
+            long:
+              standard: "कोसराए समय"
+          krasnoyarsk:
+            long:
+              generic: "क्रास्नोयार्स्क समय"
+              standard: "क्रास्नोयार्स्क मानक समय"
+              daylight: "क्रास्नोयार्स्क ग्रीष्मकालीन समय"
+          kyrgystan:
+            long:
+              standard: "किर्गिस्‍तान समय"
+          line_islands:
+            long:
+              standard: "लाइन द्वीपसमूह समय"
+          lord_howe:
+            long:
+              generic: "लॉर्ड होवे समय"
+              standard: "लॉर्ड होवे मानक समय"
+              daylight: "लॉर्ड होवे डेलाइट समय"
+          macquarie:
+            long:
+              standard: "मक्वारी द्वीप समय"
+          magadan:
+            long:
+              generic: "मागादान समय"
+              standard: "मागादान मानक समय"
+              daylight: "मागादान ग्रीष्मकालीन समय"
+          malaysia:
+            long:
+              standard: "मलेशिया समय"
+          maldives:
+            long:
+              standard: "मालदीव समय"
+          marquesas:
+            long:
+              standard: "मार्केसस समय"
+          marshall_islands:
+            long:
+              standard: "मार्शल द्वीपसमूह समय"
+          mauritius:
+            long:
+              generic: "मॉरीशस समय"
+              standard: "मॉरीशस मानक समय"
+              daylight: "मॉरीशस ग्रीष्मकालीन समय"
+          mawson:
+            long:
+              standard: "माव्सन समय"
+          mexico_northwest:
+            long:
+              generic: "उत्तर पश्चिमी मेक्सिको समय"
+              standard: "उत्तर पश्चिमी मेक्सिको मानक समय"
+              daylight: "उत्तर पश्चिमी मेक्सिको डेलाइट समय"
+          mexico_pacific:
+            long:
+              generic: "मेक्सिकन प्रशांत समय"
+              standard: "मेक्सिकन प्रशांत मानक समय"
+              daylight: "मेक्सिकन प्रशांत डेलाइट समय"
+          mongolia:
+            long:
+              generic: "उलान बटोर समय"
+              standard: "उलान बटोर मानक समय"
+              daylight: "उलान बटोर ग्रीष्मकालीन समय"
+          moscow:
+            long:
+              generic: "मॉस्को समय"
+              standard: "मॉस्को मानक समय"
+              daylight: "मॉस्को ग्रीष्मकालीन समय"
+          myanmar:
+            long:
+              standard: "म्यांमार समय"
+          nauru:
+            long:
+              standard: "नौरू समय"
+          nepal:
+            long:
+              standard: "नेपाल समय"
+          new_caledonia:
+            long:
+              generic: "न्यू कैलेडोनिया समय"
+              standard: "न्यू कैलेडोनिया मानक समय"
+              daylight: "न्यू कैलेडोनिया ग्रीष्मकालीन समय"
+          new_zealand:
+            long:
+              generic: "न्यूज़ीलैंड समय"
+              standard: "न्यूज़ीलैंड मानक समय"
+              daylight: "न्यूज़ीलैंड डेलाइट समय"
+          newfoundland:
+            long:
+              generic: "न्यूफ़ाउंडलैंड समय"
+              standard: "न्यूफ़ाउंडलैंड मानक समय"
+              daylight: "न्यूफ़ाउंडलैंड डेलाइट समय"
+          niue:
+            long:
+              standard: "नीयू समय"
+          norfolk:
+            long:
+              standard: "नॉरफ़ॉक द्वीप समय"
+          noronha:
+            long:
+              generic: "फ़र्नांर्डो डे नोरोन्हा समय"
+              standard: "फ़र्नांर्डो डे नोरोन्हा मानक समय"
+              daylight: "फ़र्नांर्डो डे नोरोन्हा ग्रीष्मकालीन समय"
+          novosibirsk:
+            long:
+              generic: "नोवोसिबिर्स्क समय"
+              standard: "नोवोसिबिर्स्क मानक समय"
+              daylight: "नोवोसिबिर्स्क ग्रीष्मकालीन समय"
+          omsk:
+            long:
+              generic: "ओम्स्क समय"
+              standard: "ओम्स्क मानक समय"
+              daylight: "ओम्स्क ग्रीष्मकालीन समय"
+          pakistan:
+            long:
+              generic: "पाकिस्तान समय"
+              standard: "पाकिस्तान मानक समय"
+              daylight: "पाकिस्तान ग्रीष्मकालीन समय"
+          palau:
+            long:
+              standard: "पलाउ समय"
+          papua_new_guinea:
+            long:
+              standard: "पापुआ न्यू गिनी समय"
+          paraguay:
+            long:
+              generic: "पैराग्वे समय"
+              standard: "पैराग्वे मानक समय"
+              daylight: "पैराग्वे ग्रीष्मकालीन समय"
+          peru:
+            long:
+              generic: "पेरू समय"
+              standard: "पेरू मानक समय"
+              daylight: "पेरू ग्रीष्मकालीन समय"
+          philippines:
+            long:
+              generic: "फ़िलिपीन समय"
+              standard: "फ़िलिपीन मानक समय"
+              daylight: "फ़िलिपीन ग्रीष्मकालीन समय"
+          phoenix_islands:
+            long:
+              standard: "फ़ीनिक्स द्वीपसमूह समय"
+          pierre_miquelon:
+            long:
+              generic: "सेंट पियरे और मिकेलान समय"
+              standard: "सेंट पियरे और मिकेलान मानक समय"
+              daylight: "सेंट पियरे और मिकेलान डेलाइट समय"
+          pitcairn:
+            long:
+              standard: "पिटकैर्न समय"
+          ponape:
+            long:
+              standard: "पोनापे समय"
+          reunion:
+            long:
+              standard: "रीयूनियन समय"
+          rothera:
+            long:
+              standard: "रोथेरा समय"
+          sakhalin:
+            long:
+              generic: "सखालिन समय"
+              standard: "सखालिन मानक समय"
+              daylight: "सखालिन ग्रीष्मकालीन समय"
+          samara:
+            long:
+              generic: "समारा समय"
+              standard: "समारा मानक समय"
+              daylight: "समारा ग्रीष्मकालीन समय"
+          samoa:
+            long:
+              generic: "समोआ समय"
+              standard: "समोआ मानक समय"
+              daylight: "समोआ डेलाइट समय"
+          seychelles:
+            long:
+              standard: "सेशल्स समय"
+          singapore:
+            long:
+              standard: "सिंगापुर समय"
+          solomon:
+            long:
+              standard: "सोलोमन द्वीपसमूह समय"
+          south_georgia:
+            long:
+              standard: "दक्षिणी जॉर्जिया समय"
+          suriname:
+            long:
+              standard: "सूरीनाम समय"
+          syowa:
+            long:
+              standard: "स्योवा समय"
+          tahiti:
+            long:
+              standard: "ताहिती समय"
+          taipei:
+            long:
+              generic: "ताइपे समय"
+              standard: "ताइपे मानक समय"
+              daylight: "ताइपे डेलाइट समय"
+          tajikistan:
+            long:
+              standard: "ताजिकिस्तान समय"
+          tokelau:
+            long:
+              standard: "टोकेलाऊ समय"
+          tonga:
+            long:
+              generic: "टोंगा समय"
+              standard: "टोंगा मानक समय"
+              daylight: "टोंगा ग्रीष्मकालीन समय"
+          truk:
+            long:
+              standard: "चूक समय"
+          turkmenistan:
+            long:
+              generic: "तुर्कमेनिस्तान समय"
+              standard: "तुर्कमेनिस्तान मानक समय"
+              daylight: "तुर्कमेनिस्तान ग्रीष्मकालीन समय"
+          tuvalu:
+            long:
+              standard: "तुवालू समय"
+          uruguay:
+            long:
+              generic: "उरुग्वे समय"
+              standard: "उरुग्वे मानक समय"
+              daylight: "उरुग्वे ग्रीष्मकालीन समय"
+          uzbekistan:
+            long:
+              generic: "उज़्बेकिस्तान समय"
+              standard: "उज़्बेकिस्तान मानक समय"
+              daylight: "उज़्बेकिस्तान ग्रीष्मकालीन समय"
+          vanuatu:
+            long:
+              generic: "वनुआतू समय"
+              standard: "वनुआतू मानक समय"
+              daylight: "वनुआतू ग्रीष्मकालीन समय"
+          venezuela:
+            long:
+              standard: "वेनेज़ुएला समय"
+          vladivostok:
+            long:
+              generic: "व्लादिवोस्तोक समय"
+              standard: "व्लादिवोस्तोक मानक समय"
+              daylight: "व्लादिवोस्तोक ग्रीष्मकालीन समय"
+          volgograd:
+            long:
+              generic: "वोल्गोग्राड समय"
+              standard: "वोल्गोग्राड मानक समय"
+              daylight: "वोल्गोग्राड ग्रीष्मकालीन समय"
+          vostok:
+            long:
+              standard: "वोस्तोक समय"
+          wake:
+            long:
+              standard: "वेक द्वीप समय"
+          wallis:
+            long:
+              standard: "वालिस और फ़्यूचूना समय"
+          yakutsk:
+            long:
+              generic: "याकुत्स्क समय"
+              standard: "याकुत्स्क मानक समय"
+              daylight: "याकुत्स्क ग्रीष्मकालीन समय"
+          yekaterinburg:
+            long:
+              generic: "येकातेरिनबर्ग समय"
+              standard: "येकातेरिनबर्ग मानक समय"
+              daylight: "येकातेरिनबर्ग ग्रीष्मकालीन समय"
+    locale_display_names:
+      languages:
+        aa: "अफ़ार"
+        ab: "अब्ख़ाज़ियन"
+        ace: "अचाइनीस"
+        ach: "अकोली"
+        ada: "अदान्गमे"
+        ady: "अदिघे"
+        ae: "अवस्ताई"
+        aeb: aeb
+        af: "अफ़्रीकी"
+        afh: "अफ्रिहिली"
+        agq: "अग्हेम"
+        ain: "ऐनू"
+        ak: "अकन"
+        akk: "अक्कादी"
+        akz: akz
+        ale: "अलेउत"
+        aln: aln
+        alt: "दक्षिणी अल्ताई"
+        am: "अम्हेरी"
+        an: "अर्गोनी"
+        ang: "पुरानी अंग्रेज़ी"
+        anp: "अंगिका"
+        ar: "अरबी"
+        ar_001: "आधुनिक मानक अरबी"
+        arc: "ऐरेमेक"
+        arn: "मापूचे"
+        aro: aro
+        arp: "अराफाओ"
+        arq: arq
+        arw: "अरावक"
+        ary: ary
+        arz: arz
+        as: "असमिया"
+        asa: "असु"
+        ase: ase
+        ast: "अस्तुरियन"
+        av: "अवेरिक"
+        avk: avk
+        awa: "अवधी"
+        ay: "आयमारा"
+        az: "अज़रबैजानी"
+        az_alt_short: "अज़ेरी"
+        ba: "बशख़िर"
+        bal: "बलूची"
+        ban: "बालिनीस"
+        bar: bar
+        bas: "बसा"
+        bax: bax
+        bbc: bbc
+        bbj: bbj
+        be: "बेलारूसी"
+        bej: "बेजा"
+        bem: "बेम्बा"
+        bew: bew
+        bez: "बेना"
+        bfd: bfd
+        bfq: bfq
+        bg: "बुल्गारियाई"
+        bgn: "पश्चिमी बलोची"
+        bho: "भोजपुरी"
+        bi: "बिस्लामा"
+        bik: "बिकोल"
+        bin: "बिनी"
+        bjn: bjn
+        bkm: bkm
+        bla: "सिक्सिका"
+        bm: "बाम्बारा"
+        bn: "बंगाली"
+        bo: "तिब्बती"
+        bpy: bpy
+        bqi: bqi
+        br: "ब्रेटन"
+        bra: "ब्रज"
+        brh: brh
+        brx: "बोडो"
+        bs: "बोस्नियाई"
+        bss: bss
+        bua: "बुरियात"
+        bug: "बगिनीस"
+        bum: bum
+        byn: "ब्लिन"
+        byv: byv
+        ca: "कातालान"
+        cad: "कैड्डो"
+        car: "कैरिब"
+        cay: cay
+        cch: "अत्सम"
+        ce: "चेचन"
+        ceb: "सिबुआनो"
+        cgg: "शिगा"
+        ch: "कमोरो"
+        chb: "चिब्चा"
+        chg: "छगाताई"
+        chk: "चूकीस"
+        chm: "मारी"
+        chn: "चिनूक जारगॉन"
+        cho: "चोक्तौ"
+        chp: "शिपेव्यान"
+        chr: "शेरोकी"
+        chy: "शेयेन्न"
+        ckb: "सोरानी कुर्दिश"
+        co: "कोर्सीकन"
+        cop: "कॉप्टिक"
+        cps: cps
+        cr: "क्री"
+        crh: "क्रीमीन तुर्की"
+        cs: "चेक"
+        csb: "काशुबियन"
+        cu: "चर्च साल्विक"
+        cv: "चूवाश"
+        cy: "वेल्श"
+        da: "डेनिश"
+        dak: "दाकोता"
+        dar: "दार्गवा"
+        dav: "तैता"
+        de: "जर्मन"
+        de_at: "ऑस्ट्रियाई जर्मन"
+        de_ch: "स्विस उच्च जर्मन"
+        del: "डिलैवेयर"
+        den: "स्लेव"
+        dgr: "डोग्रिब"
+        din: "दिन्का"
+        dje: "झार्मा"
+        doi: "डोग्री"
+        dsb: "निचला सॉर्बियन"
+        dtp: dtp
+        dua: "दुआला"
+        dum: "मध्य पुर्तगाली"
+        dv: "दिवेही"
+        dyo: "जोला-फोंई"
+        dyu: "ड्युला"
+        dz: "ज़ोन्गखा"
+        dzg: dzg
+        ebu: "एम्बु"
+        ee: "ईवे"
+        efi: "एफिक"
+        egl: egl
+        egy: "प्राचीन मिस्री"
+        eka: "एकाजुक"
+        el: "यूनानी"
+        elx: "एलामाइट"
+        en: "अंग्रेज़ी"
+        en_au: "ऑस्ट्रेलियाई अंग्रेज़ी"
+        en_ca: "कनाडाई अंग्रेज़ी"
+        en_gb: "ब्रिटिश अंग्रेज़ी"
+        en_gb_alt_short: "यू.के. अंग्रेज़ी"
+        en_us: "अमेरिकी अंग्रेज़ी"
+        en_us_alt_short: "अमेरिकी अंग्रेज़ी"
+        enm: "मध्यकालीन अंग्रेज़ी"
+        eo: "एस्पेरेंतो"
+        es: "स्पेनी"
+        es_419: "लैटिन अमेरिकी स्पेनी"
+        es_es: "यूरोपीय स्पेनिश"
+        es_mx: "मैक्सिकन स्पेनिश"
+        esu: esu
+        et: "एस्टोनियाई"
+        eu: "बास्क"
+        ewo: "इवोन्डो"
+        ext: ext
+        fa: "फ़ारसी"
+        fan: "फैन्ग"
+        fat: "फन्टी"
+        ff: "फुलाह"
+        fi: "फ़िनिश"
+        fil: "फ़िलिपीनो"
+        fit: fit
+        fj: "फ़ीजी"
+        fo: "फ़ैरोइज़"
+        fon: "फॉन"
+        fr: "फ़्रेंच"
+        fr_ca: "कनाडाई फ़्रेंच"
+        fr_ch: "स्विस फ़्रेंच"
+        frc: frc
+        frm: "मध्यकालीन फ़्रांसीसी"
+        fro: "पुरातन फ़्रांसीसी"
+        frp: frp
+        frr: "उत्तरी फ्रीसीयन"
+        frs: "पूर्वी फ्रीसीयन"
+        fur: "फ्रीयुलीयान"
+        fy: "पश्चिमी फ़्रिसियाई"
+        ga: "आइरिश"
+        gaa: "गा"
+        gag: "गागौज़"
+        gan: gan
+        gay: "गायो"
+        gba: "ग्बाया"
+        gbz: gbz
+        gd: "स्काट्स् गायेलिक्"
+        gez: "गीज़"
+        gil: "गिल्बरतीस"
+        gl: "गैलिशियन"
+        glk: glk
+        gmh: "मध्यकालीन हाइ जर्मन"
+        gn: "गुआरानी"
+        goh: "पुरातन हाइ जर्मन"
+        gom: gom
+        gon: "गाँडी"
+        gor: "गोरोन्तालो"
+        got: "गॉथिक"
+        grb: "ग्रेबो"
+        grc: "प्राचीन यूनानी"
+        gsw: "स्विस जर्मन"
+        gu: "गुजराती"
+        guc: guc
+        gur: gur
+        guz: "गुसी"
+        gv: "मैंक्स"
+        gwi: "ग्विच’इन"
+        ha: "हौसा"
+        hai: "हैडा"
+        hak: hak
+        haw: "हवाई"
+        he: "हिब्रू"
+        hi: "हिन्दी"
+        hif: hif
+        hil: "हिलिगेनन"
+        hit: "हिताइत"
+        hmn: "ह्मॉंग"
+        ho: "हिरी मोटू"
+        hr: "क्रोएशियाई"
+        hsb: "ऊपरी सॉर्बियन"
+        hsn: hsn
+        ht: "हैतियाई"
+        hu: "हंगेरियाई"
+        hup: "हूपा"
+        hy: "आर्मेनियाई"
+        hz: "हरैरो"
+        ia: "ईन्टरलिंगुआ"
+        iba: "इबान"
+        ibb: ibb
+        id: "इंडोनेशियाई"
+        ie: "ईन्टरलिंगुइ"
+        ig: "ईग्बो"
+        ii: "सिचुआन यी"
+        ik: "इनुपियाक्"
+        ilo: "इलोको"
+        inh: "इंगुश"
+        io: "इडौ"
+        is: "आइसलैंडिक"
+        it: "इतालवी"
+        iu: "इनूकीटूत्"
+        izh: izh
+        ja: "जापानी"
+        jam: jam
+        jbo: "लोज्बान"
+        jgo: "नगोंबा"
+        jmc: "मैकहैमे"
+        jpr: "जुदेओ-पर्शियन"
+        jrb: "जुदेओ-अरेबिक"
+        jut: jut
+        jv: "जावानीज़"
+        ka: "जॉर्जियाई"
+        kaa: "कारा-कल्पक"
+        kab: "कबाइल"
+        kac: "काचिन"
+        kaj: "ज्जु"
+        kam: "कम्बा"
+        kaw: "कावी"
+        kbd: "कबार्डियन"
+        kbl: kbl
+        kcg: "त्याप"
+        kde: "मैकोंड"
+        kea: "काबुवेर्दियानु"
+        ken: ken
+        kfo: "कोरो"
+        kg: "कोंगो"
+        kgp: kgp
+        kha: "खासी"
+        kho: "खोतानीस"
+        khq: "कोयरा चीनी"
+        khw: khw
+        ki: "किकुयू"
+        kiu: kiu
+        kj: "क्वान्यामा"
+        kk: "कज़ाख़"
+        kkj: kkj
+        kl: "कलालीसुत"
+        kln: "कलेंजिन"
+        km: "खमेर"
+        kmb: "किम्बन्दु"
+        kn: "कन्नड़"
+        ko: "कोरियाई"
+        koi: "कोमी-पर्मयाक"
+        kok: "कोंकणी"
+        kos: "कोसरैन"
+        kpe: "क्पेल्लै"
+        kr: "कनुरी"
+        krc: "कराचय-बल्कार"
+        kri: kri
+        krj: krj
+        krl: "करेलियन"
+        kru: "कुरूख"
+        ks: "कश्मीरी"
+        ksb: "शम्बाला"
+        ksf: "बफिआ"
+        ksh: ksh
+        ku: "कुर्दिश"
+        kum: "कुमीक"
+        kut: "कुतेनाई"
+        kv: "कोमी"
+        kw: "कोर्निश"
+        ky: "किर्गीज़"
+        la: "लैटिन"
+        lad: "लादीनो"
+        lag: "लांगि"
+        lah: "लाह्न्डा"
+        lam: "लाम्बा"
+        lb: "लग्ज़मबर्गी"
+        lez: "लेज़्घीयन"
+        lfn: lfn
+        lg: "गांडा"
+        li: "लिंबर्गिश"
+        lij: lij
+        liv: liv
+        lkt: "लैकोटा"
+        lmo: lmo
+        ln: "लिंगाला"
+        lo: "लाओ"
+        lol: "मोंगो"
+        loz: "लोज़ी"
+        lrc: "उत्तरी लूरी"
+        lt: "लिथुआनियाई"
+        ltg: ltg
+        lu: "ल्यूबा-कटांगा"
+        lua: "ल्यूबा-लुलुआ"
+        lui: "लुइसेनो"
+        lun: "लुन्डा"
+        luo: "ल्युओ"
+        lus: "लुशाई"
+        luy: "ल्युईआ"
+        lv: "लातवियाई"
+        lzh: lzh
+        lzz: lzz
+        mad: "मादुरीस"
+        maf: maf
+        mag: "मगाही"
+        mai: "मैथिली"
+        mak: "मकासर"
+        man: "मन्डिन्गो"
+        mas: "मसाई"
+        mde: mde
+        mdf: "मोक्ष"
+        mdh: mdh
+        mdr: "मंधार"
+        men: "मेन्डे"
+        mer: "मेरु"
+        mfe: "मोरीस्येन"
+        mg: "मालागासी"
+        mga: "मध्यकाल आइरिश"
+        mgh: "मैखुवा-मीट्टो"
+        mgo: "मेटा"
+        mh: "मार्शलीज़"
+        mi: "माओरी"
+        mic: "मिकमैक"
+        min: "मिनांग्काबाउ"
+        mis: mis
+        mk: "मैसिडोनियाई"
+        ml: "मलयालम"
+        mn: "मंगोलीयाई"
+        mnc: "मन्चु"
+        mni: "मणिपूरी"
+        moh: "मोहौक"
+        mos: "मोस्सी"
+        mr: "मराठी"
+        mrj: mrj
+        ms: "मलय"
+        mt: "माल्टीज़"
+        mua: "मुंडैंग"
+        mul: "विविध भाषाएँ"
+        mus: "क्रीक"
+        mwl: "मिरांडी"
+        mwr: "मारवाड़ी"
+        mwv: mwv
+        my: "बर्मीज़"
+        mye: mye
+        myv: "एर्ज़या"
+        mzn: "माज़न्देरानी"
+        na: "नाउरू"
+        nan: nan
+        nap: "नीपोलिटन"
+        naq: "नामा"
+        nb: "नॉर्वेजियाई बोकमाल"
+        nd: "उत्तरी देबेल"
+        nds: "निचला जर्मन"
+        nds_nl: "निचली सैक्सन"
+        ne: "नेपाली"
+        new: "नेवाड़ी"
+        ng: "डोन्गा"
+        nia: "नियास"
+        niu: "नियुआन"
+        njo: njo
+        nl: "डच"
+        nl_be: "फ़्लेमिश"
+        nmg: "क्वासिओ"
+        nn: "नॉर्वेजियाई नॉयनॉर्स्क"
+        nnh: nnh
+        'no': "नॉर्वेजियाई"
+        nog: "नोगाई"
+        non: "पुराना नॉर्स"
+        nov: nov
+        nqo: "एन्को"
+        nr: "दक्षिण देबेल"
+        nso: "उत्तरी सोथो"
+        nus: "नुएर"
+        nv: "नावाजो"
+        nwc: "पारम्परिक नेवारी"
+        ny: "न्यानजा"
+        nym: "न्यामवेज़ी"
+        nyn: "न्यानकोल"
+        nyo: "न्योरो"
+        nzi: "न्ज़ीमा"
+        oc: "ओसीटान"
+        oj: "ओजिब्वा"
+        om: "ओरोमो"
+        or: "उड़िया"
+        os: "ओस्सेटिक"
+        osa: "ओसेज"
+        ota: "ओटोमान तुर्किश"
+        pa: "पंजाबी"
+        pag: "पंगासीनान"
+        pal: "पाह्लावी"
+        pam: "पाम्पान्गा"
+        pap: "पापियामेन्टो"
+        pau: "पलोउआन"
+        pcd: pcd
+        pdc: pdc
+        pdt: pdt
+        peo: "पुरानी फारसी"
+        pfl: pfl
+        phn: "फोएनिशियन"
+        pi: "पाली"
+        pl: "पोलिश"
+        pms: pms
+        pnt: pnt
+        pon: "पोह्नपिएन"
+        prg: prg
+        pro: "पुरानी प्रोवेन्सल"
+        ps: "पश्तो"
+        ps_alt_variant: "पुश्तो"
+        pt: "पुर्तगाली"
+        pt_br: "ब्राज़ीली पुर्तगाली"
+        pt_pt: "यूरोपीय पुर्तगाली"
+        qu: "क्वेचुआ"
+        quc: "किश"
+        qug: qug
+        raj: "राजस्थानी"
+        rap: "रापानुई"
+        rar: "रारोतोंगन"
+        rgn: rgn
+        rif: rif
+        rm: "रोमान्श"
+        rn: "रुन्दी"
+        ro: "रोमानियाई"
+        ro_md: "मोलडावियन"
+        rof: "रोम्बो"
+        rom: "रोमानी"
+        root: "रूट"
+        rtm: rtm
+        ru: "रूसी"
+        rue: rue
+        rug: rug
+        rup: "अरोमानियन"
+        rw: "किन्यारवांडा"
+        rwk: "रवा"
+        sa: "संस्कृत"
+        sad: "सन्डावे"
+        sah: "याकूत"
+        sam: "सामैरिटन अरैमिक"
+        saq: "सैम्बुरु"
+        sas: "सासाक"
+        sat: "संताली"
+        saz: saz
+        sba: sba
+        sbp: "सैंगु"
+        sc: "सार्दिनियन"
+        scn: "सिसिलियन"
+        sco: "स्कॉट्स"
+        sd: "सिंधी"
+        sdc: sdc
+        sdh: "दक्षिणी कार्डिश"
+        se: "नॉर्दन सामी"
+        see: see
+        seh: "सेना"
+        sei: sei
+        sel: "सेल्कप"
+        ses: "कोयराबोरो सेन्नी"
+        sg: "सांगो"
+        sga: "पुरानी आइरिश"
+        sgs: sgs
+        sh: "सेर्बो-क्रोएशन्"
+        shi: "तैचेल्हित"
+        shn: "शैन"
+        shu: shu
+        si: "सिंहली"
+        sid: "सिदामो"
+        sk: "स्लोवाक"
+        sl: "स्लोवेनियाई"
+        sli: sli
+        sly: sly
+        sm: "सामोन"
+        sma: "दक्षिण सामी"
+        smj: "ल्युल सामी"
+        smn: "इनारी सामी"
+        sms: "स्कोल्ट सामी"
+        sn: "शोणा"
+        snk: "सोनिन्के"
+        so: "सोमाली"
+        sog: "सोग्डिएन"
+        sq: "अल्बानियाई"
+        sr: "सर्बियाई"
+        srn: "स्रानान टॉन्गो"
+        srr: "सेरेर"
+        ss: "स्वाती"
+        ssy: ssy
+        st: "सेसोथो"
+        stq: stq
+        su: "सुंडानी"
+        suk: "सुकुमा"
+        sus: "सुसु"
+        sux: "सुमेरियन"
+        sv: "स्वीडिश"
+        sw: "स्वाहिली"
+        swb: swb
+        swc: "कांगो स्वाहिली"
+        syc: "क्लासिकल सिरिएक"
+        syr: "सिरिएक"
+        szl: szl
+        ta: "तमिल"
+        tcy: tcy
+        te: "तेलुगू"
+        tem: "टिम्ने"
+        teo: "टेसो"
+        ter: "तेरेनो"
+        tet: "तेतुम"
+        tg: "ताजिक"
+        th: "थाई"
+        ti: "तिग्रीन्या"
+        tig: "टाइग्रे"
+        tiv: "तिव"
+        tk: "तुर्कमेन"
+        tkl: "तोकेलाऊ"
+        tkr: tkr
+        tl: "तागालोग"
+        tlh: "क्लिंगन"
+        tli: "त्लिंगित"
+        tly: tly
+        tmh: "तामाशेक"
+        tn: "सेत्स्वाना"
+        to: "टोंगन"
+        tog: "न्यासा टोन्गा"
+        tpi: "टोक पिसिन"
+        tr: "तुर्की"
+        tru: tru
+        trv: trv
+        ts: "सोंगा"
+        tsd: tsd
+        tsi: "त्सिमीशियन"
+        tt: "तातार"
+        ttt: ttt
+        tum: "तम्बूका"
+        tvl: "तुवालु"
+        tw: "ट्वी"
+        twq: "टासवाक"
+        ty: "ताहितियन"
+        tyv: "तुवीनियन"
+        tzm: "मध्य एटलस तमाज़ित"
+        udm: "उदमुर्त"
+        ug: "विघुर"
+        uga: "युगैरिटिक"
+        uk: "यूक्रेनियाई"
+        umb: "उम्बुन्डु"
+        und: "अज्ञात भाषा"
+        ur: "उर्दू"
+        uz: "उज़्बेक"
+        vai: "वाई"
+        ve: "वेन्दा"
+        vec: vec
+        vep: vep
+        vi: "वियतनामी"
+        vls: vls
+        vmf: vmf
+        vo: "वोलापुक"
+        vot: "वॉटिक"
+        vro: vro
+        vun: "वुंजो"
+        wa: "वाल्लून"
+        wae: wae
+        wal: "वलामो"
+        war: "वारै"
+        was: "वाशो"
+        wbp: "वॉल्पेरी"
+        wo: "वोलोफ़"
+        wuu: wuu
+        xal: "काल्मिक"
+        xh: "ख़ोसा"
+        xmf: xmf
+        xog: "सोगा"
+        yao: "याओ"
+        yap: "यापीस"
+        yav: yav
+        ybb: ybb
+        yi: "येहुदी"
+        yo: "योरूबा"
+        yrl: yrl
+        yue: "कैंटोनीज़"
+        za: "ज़ुआंग"
+        zap: "ज़ेपोटेक"
+        zbl: "ब्लिसिम्बॉल्स"
+        zea: zea
+        zen: "ज़ेनान्गा"
+        zgh: "मानक मोरक्कन तामाज़ाइट"
+        zh: "चीनी"
+        zh_hans: "सरलीकृत चीनी"
+        zh_hant: "पारंपरिक चीनी"
+        zu: "ज़ुलू"
+        zun: "ज़ूनी"
+        zxx: "कोई भाषा सामग्री नहीं"
+        zza: "ज़ाज़ा"
+      locale_display_pattern:
+        locale_pattern: "{0} ({1})"
+        locale_separator: "{0}, {1}"
+        locale_key_type_pattern: "{0}: {1}"
+      keys:
+        calendar: "कैलेंडर"
+        cf: cf
+        col_alternate: "चिह्न वर्गीकरण पर ध्यान न दें"
+        col_backwards: "विपरीत उच्‍चारण वर्गीकरण"
+        col_case_first: "अपरकेस/लोअरकेस क्रमांकन"
+        col_case_level: "केस संवेदी वर्गीकरण"
+        col_hiragana_quaternary: "काना वर्गीकरण"
+        collation: "सॉर्ट क्रम"
+        col_normalization: "सामान्यीकृत वर्गीकरण"
+        col_numeric: "संख्यात्मक वर्गीकरण"
+        col_strength: "वर्गीकरण सशक्तता"
+        currency: "मुद्रा"
+        hc: "घंटों का चक्र (12 बनाम 24)"
+        lb: "पंक्ति विच्छेद शैली"
+        ms: "मापन प्रणाली"
+        numbers: "संख्याएँ"
+        timezone: "समय क्षेत्र"
+        va: "स्थानीय प्रकार"
+        variable_top: "चिह्न के रूप में क्रमित करें"
+        x: "निजी-उपयोग"
+      types:
+        calendar:
+          buddhist: "बौद्ध पंचांग"
+          chinese: "चीनी पंचांग"
+          coptic: "कोप्टिक कैलेंडर"
+          dangi: "दांगी कैलेंडर"
+          ethiopic: "इथियोपिक कैलेंडर"
+          ethiopic_amete_alem: "इथियोपिक अमेते अलेम कैलेंडर"
+          gregorian: "ग्रेगोरियन कैलेंडर"
+          hebrew: "हिब्रू पंचांग"
+          indian: "भारतीय राष्ट्रीय कैलेंडर"
+          islamic: "इस्लामी पंचांग"
+          islamic_civil: "इस्लामी नागरिक पंचांग"
+          islamic_rgsa: islamic-rgsa
+          islamic_tbla: islamic-tbla
+          islamic_umalqura: islamic-umalqura
+          iso8601: "आईएसओ-8601 कैलेंडर"
+          japanese: "जापानी पंचांग"
+          persian: "फ़ारसी कैलेंडर"
+          roc: "चीनी गणतंत्र पंचांग"
+        cf:
+          account: account
+          standard: standard
+        col_alternate:
+          non_ignorable: "प्रतीकों को क्रमित करें"
+          shifted: "प्रतीकों पर ध्यान न देकर क्रमित करें"
+        col_backwards:
+          'no': "उच्‍चारणों को सामान्‍य रूप से क्रमित करें"
+          'yes': "उच्‍चारण के उलट क्रमित करें"
+        col_case_first:
+          lower: "पहले लोअरकेस क्रमित करें"
+          'no': "सामान्‍य केस क्रम में क्रमित करें"
+          upper: "पहले अपरकेस क्रमित करें"
+        col_case_level:
+          'no': "केस असंवेदी क्रमित करें"
+          'yes': "केस संवेदी को क्रमित करें"
+        col_hiragana_quaternary:
+          'no': "काना को अलग से क्रमित करें"
+          'yes': "काना को भिन्‍न रूप में क्रमित करें"
+        collation:
+          big5han: "पारम्पारिक चीनी वर्गीकरण"
+          compat: compat
+          dictionary: "शब्दकोश क्रम विन्यास"
+          ducet: "डिफ़ॉल्ट यूनिकोड सॉर्ट क्रम"
+          emoji: emoji
+          eor: eor
+          gb2312han: "सरलीकृत चीनी वर्गीकरण"
+          phonebook: "दूरभाष निर्देशिका वर्गीकरण"
+          phonetic: "ध्‍वन्यात्मक क्रमित करने का क्रम"
+          pinyin: "पिनयीन वर्गीकरण"
+          reformed: "पुनर्निर्मित क्रम विन्यास"
+          search: "सामान्य-उद्देश्य खोज"
+          searchjl: "हांगुल आरंभिक व्‍यंजन द्वारा खोजें"
+          standard: "मानक सॉर्ट क्रम"
+          stroke: "स्ट्रोक वर्गीकरण"
+          traditional: "पारम्पारिक वर्गीकरण"
+          unihan: "रेडिकल-स्ट्रोक क्रम विन्यास"
+          zhuyin: zhuyin
+        col_normalization:
+          'no': "बिना सामान्‍यीकरण के क्रमित करें"
+          'yes': "यूनिकोड सामान्‍यीकृत क्रमित करें"
+        col_numeric:
+          'no': "अंको को अलग-अलग क्रमित करें"
+          'yes': "अंकों को अंकीय रूप से क्रमित करें"
+        col_strength:
+          identical: "सभी क्रमित करें"
+          primary: "केवल आधार अक्षरों को क्रमित करें"
+          quaternary: "उच्‍चारणों/केस/चौड़ाई/काना क्रमित करें"
+          secondary: "उच्‍चारण क्रमित करें"
+          tertiary: "उच्‍चारणों/केस/चौड़ाई क्रमित करें"
+        hc:
+          h11: 12 घंटों की प्रणाली (0–11)
+          h12: 12 घंटों की प्रणाली (1–12)
+          h23: 24 घंटों की प्रणाली (0–23)
+          h24: 24 घंटों की प्रणाली (1–24)
+        lb:
+          loose: "ढीली पंक्ति विच्छेद शैली"
+          normal: "सामान्य पंक्ति विच्छेद शैली"
+          strict: "सख्त पंक्ति विच्छेद शैली"
+        ms:
+          metric: "मीट्रिक"
+          uksystem: "इम्पीरियल मापन प्रणाली"
+          ussystem: "अमेरिकी मापन प्रणाली"
+        numbers:
+          ahom: ahom
+          arab: "अरबी-भारतीय अंक"
+          arabext: "विस्तृत अरबी-भारतीय अंक"
+          armn: "आर्मेनियाई संख्याएँ"
+          armnlow: "आर्मेनियाई लोअरकेस संख्याएँ"
+          bali: bali
+          beng: "बंगाली अंक"
+          brah: brah
+          cakm: cakm
+          cham: cham
+          cyrl: cyrl
+          deva: "देवनागरी अंक"
+          ethi: "इथियोपिक संख्याएँ"
+          finance: "वित्तीय अंक"
+          fullwide: "पूर्ण चौड़ाई अंक"
+          geor: "जॉर्जियन संख्याएँ"
+          grek: "यूनानी संख्याएँ"
+          greklow: "यूनानी लोअरकेस संख्याएँ"
+          gujr: "गुजराती अंक"
+          guru: "गुरमुखी अंक"
+          hanidec: "चीनी दशमलव संख्याएँ"
+          hans: "सरलीकृत चीनी संख्याएँ"
+          hansfin: "सरलीकृत चीनी वित्तीय संख्याएँ"
+          hant: "पारंपरिक चीनी संख्याएँ"
+          hantfin: "पारंपरिक चीनी वित्तीय संख्याएँ"
+          hebr: "हिब्रू संख्याएँ"
+          hmng: hmng
+          java: java
+          jpan: "जापानी संख्याएँ"
+          jpanfin: "जापानी वित्तीय संख्याएँ"
+          kali: kali
+          khmr: "खमेर अंक"
+          knda: "कन्नड़ अंक"
+          lana: lana
+          lanatham: lanatham
+          laoo: "लाओ अंक"
+          latn: "पश्चिमी अंक"
+          lepc: lepc
+          limb: limb
+          mathbold: mathbold
+          mathdbl: mathdbl
+          mathmono: mathmono
+          mathsanb: mathsanb
+          mathsans: mathsans
+          mlym: "मलयालम अंक"
+          modi: modi
+          mong: "मंगोलियाई अंक"
+          mroo: mroo
+          mtei: mtei
+          mymr: "म्यांमार अंक"
+          mymrshan: mymrshan
+          mymrtlng: mymrtlng
+          native: "स्थानीय अंक"
+          nkoo: nkoo
+          olck: olck
+          orya: "उड़िया अंक"
+          osma: osma
+          roman: "रोमन संख्याएँ"
+          romanlow: "रोमन लोअरकेस संख्याएँ"
+          saur: saur
+          shrd: shrd
+          sind: sind
+          sinh: sinh
+          sora: sora
+          sund: sund
+          takr: takr
+          talu: talu
+          taml: "पारंपरिक तमिल संख्याएँ"
+          tamldec: "तमिल अंक"
+          telu: "तेलुगू अंक"
+          thai: "थाई अंक"
+          tibt: "तिब्बती अंक"
+          tirh: tirh
+          traditional: "परंपरागत अंक"
+          vaii: "वाई अंक"
+          wara: wara
+      code_patterns:
+        language: "भाषा: {0}"
+        script: "लिपि: {0}"
+        territory: "क्षेत्र: {0}"
+      scripts:
+        aghb: Aghb
+        ahom: Ahom
+        arab: "अरबी"
+        arab_alt_variant: "फ़ारसी-अरबी"
+        armi: "इम्पिरियल आर्मेनिक"
+        armn: "आर्मेनियाई"
+        avst: "अवेस्तन"
+        bali: "बाली"
+        bamu: Bamu
+        bass: Bass
+        batk: "बटकी"
+        beng: "बंगाली"
+        blis: "ब्लिसिम्बॉल्स"
+        bopo: "बोपोमोफ़ो"
+        brah: "ब्रह्मी"
+        brai: "ब्रेल"
+        bugi: "बगिनीस"
+        buhd: "बुहिद"
+        cakm: "चकमा"
+        cans: "युनिफाइड कैनेडियन एबोरिजनल सिलेबिक्स"
+        cari: "करैन"
+        cham: "चाम"
+        cher: "चेरोकी"
+        cirt: "किर्थ"
+        copt: "कॉप्टिक"
+        cprt: "काइप्रायट"
+        cyrl: "सिरिलिक"
+        cyrs: "ओल्ड चर्च स्लावोनिक सिरिलिक"
+        deva: "देवनागरी"
+        dsrt: "डेसरेट"
+        dupl: Dupl
+        egyd: "इजिप्शियन डेमोटिक"
+        egyh: "इजिप्शियन हाइरेटिक"
+        egyp: "इजिप्शियन हाइरोग्लिफ्स"
+        elba: Elba
+        ethi: "इथियोपियाई"
+        geok: "जॉर्जियन खुतसुरी"
+        geor: "जॉर्जियन"
+        glag: "ग्लेगोलिटिक"
+        goth: "गोथिक"
+        gran: "ग्रन्थ"
+        grek: "यूनानी"
+        gujr: "गुजराती"
+        guru: "गुरमुखी"
+        hang: "हंगुल"
+        hani: "हान"
+        hano: "हनुनू"
+        hans: "सरलीकृत"
+        hans_alt_stand_alone: "सरलीकृत हान"
+        hant: "पारंपरिक"
+        hant_alt_stand_alone: "पारंपरिक हान"
+        hatr: Hatr
+        hebr: "हिब्रू"
+        hira: "हिरागाना"
+        hluw: Hluw
+        hmng: "पाहो ह्मोन्ग"
+        hrkt: "कचाकना और हिरागना"
+        hung: "ऑल्ड हंगेरियन"
+        inds: "सिन्धु"
+        ital: "पुरानी इटली"
+        java: "जावानीस"
+        jpan: "जापानी"
+        kali: "कायाह ली"
+        kana: "काताकाना"
+        khar: "खारोशथी"
+        khmr: "खमेर"
+        khoj: Khoj
+        knda: "कन्नड़"
+        kore: "कोरियाई"
+        kthi: "कैथी"
+        lana: "लाना"
+        laoo: "लाओ"
+        latf: "फ़्रैक्टुर लातिनी"
+        latg: "गेली लातिनी"
+        latn: "लैटिन"
+        lepc: "लेपचा"
+        limb: "लिम्बू"
+        lina: "लीनियर A"
+        linb: "लीनियर बी"
+        lisu: Lisu
+        lyci: "लिशियन"
+        lydi: "लिडियन"
+        mahj: Mahj
+        mand: "मनडेन"
+        mani: "मनीशीन"
+        maya: "मयान हाइरोग्लिफ्स"
+        mend: Mend
+        merc: Merc
+        mero: "मेरोइटिक"
+        mlym: "मलयालम"
+        modi: Modi
+        mong: "मंगोलियाई"
+        moon: "मून"
+        mroo: Mroo
+        mtei: "मेइतेइ मायेक"
+        mult: Mult
+        mymr: "म्यांमार"
+        narb: Narb
+        nbat: Nbat
+        nkoo: "एन्‘को"
+        ogam: "ओगम"
+        olck: "ऑल चिकी"
+        orkh: "ओरखोन"
+        orya: "उड़िया"
+        osma: "ओस्मान्या"
+        palm: Palm
+        pauc: Pauc
+        perm: "ओल्ड परमिक"
+        phag: "फाग्स-पा"
+        phli: "इंस्क्रिपश्नल पाहलवी"
+        phlp: "सॉल्टर पाहलवी"
+        phlv: "बुक पाहलवी"
+        phnx: "फोनिशियन"
+        plrd: "पॉलार्ड फोनेटिक"
+        prti: "इंस्क्रिपश्नल पार्थियन"
+        qaaa: Qaaa
+        qaab: Qaab
+        qaac: Qaac
+        qaad: Qaad
+        qaae: Qaae
+        qaaf: Qaaf
+        qaag: Qaag
+        qaah: Qaah
+        qaaj: Qaaj
+        qaak: Qaak
+        qaal: Qaal
+        qaam: Qaam
+        qaan: Qaan
+        qaao: Qaao
+        qaap: Qaap
+        qaaq: Qaaq
+        qaar: Qaar
+        qaas: Qaas
+        qaat: Qaat
+        qaau: Qaau
+        qaav: Qaav
+        qaaw: Qaaw
+        qaax: Qaax
+        qaay: Qaay
+        qaaz: Qaaz
+        qaba: Qaba
+        qabb: Qabb
+        qabc: Qabc
+        qabd: Qabd
+        qabe: Qabe
+        qabf: Qabf
+        qabg: Qabg
+        qabh: Qabh
+        qabi: Qabi
+        qabj: Qabj
+        qabk: Qabk
+        qabl: Qabl
+        qabm: Qabm
+        qabn: Qabn
+        qabo: Qabo
+        qabp: Qabp
+        qabq: Qabq
+        qabr: Qabr
+        qabs: Qabs
+        qabt: Qabt
+        qabu: Qabu
+        qabv: Qabv
+        qabw: Qabw
+        qabx: Qabx
+        rjng: "रीजांग"
+        roro: "रोन्गोरोन्गो"
+        runr: "रूनिक"
+        samr: "समरिटन"
+        sara: "सराती"
+        sarb: Sarb
+        saur: "सौराष्ट्र"
+        sgnw: "सांकेतिक लेख"
+        shaw: "शावियान"
+        shrd: Shrd
+        sidd: Sidd
+        sind: Sind
+        sinh: "सिंहली"
+        sora: Sora
+        sund: "सूडानी"
+        sylo: "सिलोती नागरी"
+        syrc: "सिरियेक"
+        syre: "एस्त्रेन्जेलो सिरिएक"
+        syrj: "पश्चिम सिरिएक"
+        syrn: "पूर्व सिरिएक"
+        tagb: "तगबन्वा"
+        takr: Takr
+        tale: "ताई ली"
+        talu: "नया ताई लु"
+        taml: "तमिल"
+        tavt: "ताई विएत"
+        telu: "तेलुगू"
+        teng: "तेन्गवार"
+        tfng: "तिफिनाघ"
+        tglg: "टैगालोग"
+        thaa: "थाना"
+        thai: "थाई"
+        tibt: "तिब्बती"
+        tirh: Tirh
+        ugar: "युगारिटिक"
+        vaii: "वाई"
+        visp: "विसिबल स्पीच"
+        wara: Wara
+        xpeo: "पुरानी फारसी"
+        xsux: "सुमेरो अक्कादियन सुनिफॉर्म"
+        yiii: "यी"
+        zinh: "विरासत"
+        zmth: "गणितीय संकेतन"
+        zsym: "चिह्न"
+        zxxx: "अलिखित"
+        zyyy: "सामान्य"
+        zzzz: "अज्ञात लिपि"
+      territories:
+        '001': "विश्व"
+        '002': "अफ़्रीका"
+        '003': "उत्तर अमेरिका"
+        '005': "दक्षिण अमेरिका"
+        009: "ओशिआनिया"
+        '011': "पश्चिमी अफ़्रीका"
+        '013': "मध्य अमेरिका"
+        '014': "पूर्वी अफ़्रीका"
+        '015': "उत्तरी अफ़्रीका"
+        '017': "मध्य अफ़्रीका"
+        018: "दक्षिणी अफ़्रीका"
+        019: "अमेरिकाज़"
+        '021': "उत्तरी अमेरिका"
+        029: "कैरिबियन"
+        '030': "पूर्वी एशिया"
+        '034': "दक्षिणी एशिया"
+        '035': "दक्षिण-पूर्व एशिया"
+        039: "दक्षिणी यूरोप"
+        '053': "ऑस्ट्रेलेशिया"
+        '054': "मेलानेशिया"
+        '057': "माइक्रोनेशियाई क्षेत्र"
+        '061': "पोलीनेशिया"
+        '142': "एशिया"
+        '143': "मध्य एशिया"
+        '145': "पश्चिमी एशिया"
+        '150': "यूरोप"
+        '151': "पूर्वी यूरोप"
+        '154': "उत्तरी यूरोप"
+        '155': "पश्चिमी यूरोप"
+        '419': "लैटिन अमेरिका"
+        ac: "असेंशन द्वीप"
+        ad: "एंडोरा"
+        ae: "संयुक्त अरब अमीरात"
+        af: "अफ़गानिस्तान"
+        ag: "एंटिगुआ और बरबुडा"
+        ai: "एंग्विला"
+        al: "अल्बानिया"
+        am: "आर्मेनिया"
+        an: "नीदरलैंडी ऐंटील"
+        ao: "अंगोला"
+        aq: "अंटार्कटिका"
+        ar: "अर्जेंटीना"
+        as: "अमेरिकी समोआ"
+        at: "ऑस्ट्रिया"
+        au: "ऑस्ट्रेलिया"
+        aw: "अरूबा"
+        ax: "एलैंड द्वीपसमूह"
+        az: "अज़रबैजान"
+        ba: "बोस्निया और हर्ज़ेगोविना"
+        bb: "बारबाडोस"
+        bd: "बांग्लादेश"
+        be: "बेल्जियम"
+        bf: "बुर्किना फ़ासो"
+        bg: "बुल्गारिया"
+        bh: "बहरीन"
+        bi: "बुरुंडी"
+        bj: "बेनिन"
+        bl: "सेंट बार्थेलेमी"
+        bm: "बरमूडा"
+        bn: "ब्रूनेई"
+        bo: "बोलीविया"
+        bq: "कैरिबियन नीदरलैंड"
+        br: "ब्राज़ील"
+        bs: "बहामास"
+        bt: "भूटान"
+        bv: "बोवेत द्वीप"
+        bw: "बोत्स्वाना"
+        by: "बेलारूस"
+        bz: "बेलीज़"
+        ca: "कनाडा"
+        cc: "कोकोस (कीलिंग) द्वीपसमूह"
+        cd: "कांगो - किंशासा"
+        cd_alt_variant: "कांगो (डीआरसी)"
+        cf: "मध्य अफ़्रीकी गणराज्य"
+        cg: "कांगो – ब्राज़ाविल"
+        cg_alt_variant: "कांगो (गणराज्य)"
+        ch: "स्विट्ज़रलैंड"
+        ci: "कोट डी आइवर"
+        ci_alt_variant: "आइवरी कोस्ट"
+        ck: "कुक द्वीपसमूह"
+        cl: "चिली"
+        cm: "कैमरून"
+        cn: "चीन"
+        co: "कोलंबिया"
+        cp: "क्लिपर्टन द्वीप"
+        cr: "कोस्टारिका"
+        cu: "क्यूबा"
+        cv: "केप वर्ड"
+        cw: "क्यूरासाओ"
+        cx: "क्रिसमस द्वीप"
+        cy: "साइप्रस"
+        cz: "चेक गणराज्य"
+        de: "जर्मनी"
+        dg: "डिएगो गार्सिया"
+        dj: "जिबूती"
+        dk: "डेनमार्क"
+        dm: "डोमिनिका"
+        do: "डोमिनिकन गणराज्य"
+        dz: "अल्जीरिया"
+        ea: "सेउटा और मेलिला"
+        ec: "इक्वाडोर"
+        ee: "एस्टोनिया"
+        eg: "मिस्र"
+        eh: "पश्चिमी सहारा"
+        er: "इरिट्रिया"
+        es: "स्पेन"
+        et: "इथियोपिया"
+        eu: "यूरोपीय संघ"
+        fi: "फ़िनलैंड"
+        fj: "फ़िजी"
+        fk: "फ़ॉकलैंड द्वीपसमूह"
+        fk_alt_variant: "फ़ॉकलैंड द्वीपसमूह (इज़्लास माल्विनास)"
+        fm: "माइक्रोनेशिया"
+        fo: "फ़ेरो द्वीपसमूह"
+        fr: "फ़्रांस"
+        ga: "गैबॉन"
+        gb: "यूनाइटेड किंगडम"
+        gb_alt_short: "यू.के."
+        gd: "ग्रेनाडा"
+        ge: "जॉर्जिया"
+        gf: "फ़्रेंच गयाना"
+        gg: "गर्नसी"
+        gh: "घाना"
+        gi: "जिब्राल्टर"
+        gl: "ग्रीनलैंड"
+        gm: "गाम्बिया"
+        gn: "गिनी"
+        gp: "ग्वाडेलूप"
+        gq: "इक्वेटोरियल गिनी"
+        gr: "यूनान"
+        gs: "दक्षिण जॉर्जिया और दक्षिण सैंडविच द्वीपसमूह"
+        gt: "ग्वाटेमाला"
+        gu: "गुआम"
+        gw: "गिनी-बिसाउ"
+        gy: "गयाना"
+        hk: "हाँग काँग (चीन विशेष प्रशासनिक क्षेत्र)"
+        hk_alt_short: "हाँग काँग"
+        hm: "हर्ड द्वीप और मैकडोनॉल्ड द्वीपसमूह"
+        hn: "होंडूरास"
+        hr: "क्रोएशिया"
+        ht: "हैती"
+        hu: "हंगरी"
+        ic: "कैनेरी द्वीपसमूह"
+        id: "इंडोनेशिया"
+        ie: "आयरलैंड"
+        il: "इसराइल"
+        im: "आइल ऑफ़ मैन"
+        in: "भारत"
+        io: "ब्रिटिश हिंद महासागरीय क्षेत्र"
+        iq: "इराक"
+        ir: "ईरान"
+        is: "आइसलैंड"
+        it: "इटली"
+        je: "जर्सी"
+        jm: "जमैका"
+        jo: "जॉर्डन"
+        jp: "जापान"
+        ke: "केन्या"
+        kg: "किर्गिज़स्तान"
+        kh: "कंबोडिया"
+        ki: "किरिबाती"
+        km: "कोमोरोस"
+        kn: "सेंट किट्स और नेविस"
+        kp: "उत्तर कोरिया"
+        kr: "दक्षिण कोरिया"
+        kw: "कुवैत"
+        ky: "केमैन द्वीपसमूह"
+        kz: "कज़ाखस्तान"
+        la: "लाओस"
+        lb: "लेबनान"
+        lc: "सेंट लूसिया"
+        li: "लिचेंस्टीन"
+        lk: "श्रीलंका"
+        lr: "लाइबेरिया"
+        ls: "लेसोथो"
+        lt: "लिथुआनिया"
+        lu: "लग्ज़मबर्ग"
+        lv: "लातविया"
+        ly: "लीबिया"
+        ma: "मोरक्को"
+        mc: "मोनाको"
+        md: "मॉल्डोवा"
+        me: "मोंटेनेग्रो"
+        mf: "सेंट मार्टिन"
+        mg: "मेडागास्कर"
+        mh: "मार्शल द्वीपसमूह"
+        mk: "मैसिडोनिया"
+        mk_alt_variant: "मैसिडोनिया (FYROM)"
+        ml: "माली"
+        mm: "म्यांमार (बर्मा)"
+        mn: "मंगोलिया"
+        mo: "मकाऊ (विशेष प्रशासनिक क्षेत्र चीन)"
+        mo_alt_short: "मकाऊ"
+        mp: "उत्तरी मारियाना द्वीपसमूह"
+        mq: "मार्टीनिक"
+        mr: "मॉरिटानिया"
+        ms: "मोंटसेरात"
+        mt: "माल्टा"
+        mu: "मॉरिशस"
+        mv: "मालदीव"
+        mw: "मलावी"
+        mx: "मैक्सिको"
+        my: "मलेशिया"
+        mz: "मोज़ांबिक"
+        na: "नामीबिया"
+        nc: "न्यू कैलेडोनिया"
+        ne: "नाइजर"
+        nf: "नॉरफ़ॉक द्वीप"
+        ng: "नाइजीरिया"
+        ni: "निकारागुआ"
+        nl: "नीदरलैंड"
+        'no': "नॉर्वे"
+        np: "नेपाल"
+        nr: "नाउरु"
+        nu: "नीयू"
+        nz: "न्यूज़ीलैंड"
+        om: "ओमान"
+        pa: "पनामा"
+        pe: "पेरू"
+        pf: "फ़्रेंच पोलिनेशिया"
+        pg: "पापुआ न्यू गिनी"
+        ph: "फ़िलिपींस"
+        pk: "पाकिस्तान"
+        pl: "पोलैंड"
+        pm: "सेंट पिएरे और मिक्वेलान"
+        pn: "पिटकैर्न द्वीपसमूह"
+        pr: "पोर्टो रिको"
+        ps: "फ़िलिस्तीनी क्षेत्र"
+        ps_alt_short: "फ़िलिस्तीन"
+        pt: "पुर्तगाल"
+        pw: "पलाऊ"
+        py: "पेराग्वे"
+        qa: "क़तर"
+        qo: "आउटलाइंग ओशिनिया"
+        re: "रियूनियन"
+        ro: "रोमानिया"
+        rs: "सर्बिया"
+        ru: "रूस"
+        rw: "रवांडा"
+        sa: "सऊदी अरब"
+        sb: "सोलोमन द्वीपसमूह"
+        sc: "सेशेल्स"
+        sd: "सूडान"
+        se: "स्वीडन"
+        sg: "सिंगापुर"
+        sh: "सेंट हेलेना"
+        si: "स्लोवेनिया"
+        sj: "स्वालबार्ड और जान मायेन"
+        sk: "स्लोवाकिया"
+        sl: "सिएरा लियोन"
+        sm: "सैन मेरीनो"
+        sn: "सेनेगल"
+        so: "सोमालिया"
+        sr: "सूरीनाम"
+        ss: "दक्षिण सूडान"
+        st: "साओ टोम और प्रिंसिपे"
+        sv: "अल सल्वाडोर"
+        sx: "सिंट मार्टिन"
+        sy: "सीरिया"
+        sz: "स्वाज़ीलैंड"
+        ta: "त्रिस्टान डा कुना"
+        tc: "तुर्क और कैकोज़ द्वीपसमूह"
+        td: "चाड"
+        tf: "फ़्रांसीसी दक्षिणी क्षेत्र"
+        tg: "टोगो"
+        th: "थाईलैंड"
+        tj: "ताजिकिस्तान"
+        tk: "तोकेलाउ"
+        tl: "तिमोर-लेस्त"
+        tl_alt_variant: "पूर्वी तिमोर"
+        tm: "तुर्कमेनिस्तान"
+        tn: "ट्यूनीशिया"
+        to: "टोंगा"
+        tr: "तुर्की"
+        tt: "त्रिनिदाद और टोबैगो"
+        tv: "तुवालू"
+        tw: "ताइवान"
+        tz: "तंज़ानिया"
+        ua: "यूक्रेन"
+        ug: "युगांडा"
+        um: "यू.एस. आउटलाइंग द्वीपसमूह"
+        us: "संयुक्त राज्य"
+        us_alt_short: "अमेरिका"
+        uy: "उरूग्वे"
+        uz: "उज़्बेकिस्तान"
+        va: "वेटिकन सिटी"
+        vc: "सेंट विंसेंट और ग्रेनाडाइंस"
+        ve: "वेनेज़ुएला"
+        vg: "ब्रिटिश वर्जिन द्वीपसमूह"
+        vi: "यू.एस. वर्जिन द्वीपसमूह"
+        vn: "वियतनाम"
+        vu: "वनुआतू"
+        wf: "वालिस और फ़्यूचूना"
+        ws: "समोआ"
+        xk: "कोसोवो"
+        ye: "यमन"
+        yt: "मायोते"
+        za: "दक्षिण अफ़्रीका"
+        zm: "ज़ाम्बिया"
+        zw: "ज़िम्बाब्वे"
+        zz: "अज्ञात क्षेत्र"
+      transform_names:
+        bgn: BGN
+        numeric: "सांख्यिक"
+        tone: "स्वर"
+        ungegn: UNGEGN
+        x_accents: "स्वराघात"
+        x_fullwidth: "पूर्ण-चौड़ाई"
+        x_halfwidth: "आधी-चौड़ाई"
+        x_jamo: "जामो"
+        x_pinyin: "पिनयिन"
+        x_publishing: "प्रकाशन"
+      variants:
+        '1901': "पारम्पारिक जर्मन वर्तनी"
+        '1994': '1994'
+        '1996': "जर्मेनी की 1996 वर्तनी"
+        1606_nict: 1606NICT
+        1694_acad: 1694ACAD
+        1959_acad: 1959ACAD
+        abl1943: ABL1943
+        alalc97: ALALC97
+        aluku: ALUKU
+        ao1990: AO1990
+        arevela: "पूर्वी अर्मेनियाई"
+        arevmda: AREVMDA
+        baku1926: BAKU1926
+        balanka: BALANKA
+        barla: BARLA
+        bauddha: BAUDDHA
+        biscayan: BISCAYAN
+        biske: BISKE
+        bohoric: BOHORIC
+        boont: BOONT
+        colb1945: COLB1945
+        dajnko: DAJNKO
+        ekavsk: EKAVSK
+        emodeng: EMODENG
+        fonipa: FONIPA
+        fonupa: FONUPA
+        fonxsamp: FONXSAMP
+        hepburn: HEPBURN
+        hognorsk: HOGNORSK
+        ijekavsk: IJEKAVSK
+        itihasa: ITIHASA
+        jauer: JAUER
+        jyutping: JYUTPING
+        kkcor: KKCOR
+        kociewie: KOCIEWIE
+        kscor: KSCOR
+        laukika: LAUKIKA
+        lipaw: LIPAW
+        luna1918: LUNA1918
+        metelko: METELKO
+        monoton: "एकस्वरीय"
+        ndyuka: NDYUKA
+        nedis: NEDIS
+        njiva: "जीवा बोली"
+        nulik: NULIK
+        osojs: OSOJS
+        oxendict: OXENDICT
+        pamaka: PAMAKA
+        petr1708: PETR1708
+        pinyin: PINYIN
+        polyton: "बहुस्वरीय"
+        posix: "कम्प्यूटर"
+        puter: PUTER
+        revised: "संशोधित वर्तनी"
+        rigik: RIGIK
+        rozaj: ROZAJ
+        rumgr: RUMGR
+        saaho: SAAHO
+        scotland: SCOTLAND
+        scouse: SCOUSE
+        solba: SOLBA
+        sotav: SOTAV
+        surmiran: SURMIRAN
+        sursilv: SURSILV
+        sutsilv: SUTSILV
+        tarask: TARASK
+        uccor: UCCOR
+        ucrcor: UCRCOR
+        ulster: ULSTER
+        unifon: UNIFON
+        vaidika: VAIDIKA
+        valencia: VALENCIA
+        vallader: VALLADER
+        wadegile: WADEGILE
+    units:
+      long:
+        per:
+          compound_unit_pattern: "{0} प्रति {1}"
+        acceleration_g_force:
+          display_name: "गुरुत्व बल"
+          unit_pattern_count_one: "{0} गु–बल"
+          unit_pattern_count_other: "{0} गु–बल"
+        acceleration_meter_per_second_squared:
+          display_name: "मीटर प्रति सेकंड वर्ग"
+          unit_pattern_count_one: "{0} मीटर प्रति सेकंड वर्ग"
+          unit_pattern_count_other: "{0} मीटर प्रति सेकंड वर्ग"
+        angle_revolution:
+          display_name: "घूर्णन"
+          unit_pattern_count_one: "{0} घूर्णन"
+          unit_pattern_count_other: "{0} घूर्णन"
+        angle_radian:
+          display_name: "रेडियन"
+          unit_pattern_count_one: "{0} रेडियन"
+          unit_pattern_count_other: "{0} रेडियन"
+        angle_degree:
+          display_name: "अंश"
+          unit_pattern_count_one: "{0} अंश"
+          unit_pattern_count_other: "{0} अंश"
+        angle_arc_minute:
+          display_name: "आर्क मिनट"
+          unit_pattern_count_one: "{0} आर्क मिनट"
+          unit_pattern_count_other: "{0} आर्क मिनट"
+        angle_arc_second:
+          display_name: "आर्क सेकंड"
+          unit_pattern_count_one: "{0} आर्क सेकंड"
+          unit_pattern_count_other: "{0} आर्क सेकंड"
+        area_square_kilometer:
+          display_name: "वर्ग किलोमीटर"
+          unit_pattern_count_one: "{0} वर्ग किलोमीटर"
+          unit_pattern_count_other: "{0} वर्ग किलोमीटर"
+        area_hectare:
+          display_name: "हेक्टेयर"
+          unit_pattern_count_one: "{0} हेक्टेयर"
+          unit_pattern_count_other: "{0} हेक्टेयर"
+        area_square_meter:
+          display_name: "वर्ग मीटर"
+          unit_pattern_count_one: "{0} वर्ग मीटर"
+          unit_pattern_count_other: "{0} वर्ग मीटर"
+          per_unit_pattern: "{0}/वर्ग मीटर"
+        area_square_centimeter:
+          display_name: "वर्ग सेंटीमीटर"
+          unit_pattern_count_one: "{0} वर्ग सेंटीमीटर"
+          unit_pattern_count_other: "{0} वर्ग सेंटीमीटर"
+          per_unit_pattern: "{0}/वर्ग सेंटीमीटर"
+        area_square_mile:
+          display_name: "वर्ग मील"
+          unit_pattern_count_one: "{0} वर्ग मील"
+          unit_pattern_count_other: "{0} वर्ग मील"
+        area_acre:
+          display_name: "एकड़"
+          unit_pattern_count_one: "{0} एकड़"
+          unit_pattern_count_other: "{0} एकड़"
+        area_square_yard:
+          display_name: "वर्ग यार्ड"
+          unit_pattern_count_one: "{0} वर्ग यार्ड"
+          unit_pattern_count_other: "{0} वर्ग यार्ड"
+        area_square_foot:
+          display_name: "वर्गफ़ीट"
+          unit_pattern_count_one: "{0} वर्गफ़ुट"
+          unit_pattern_count_other: "{0} वर्गफ़ीट"
+        area_square_inch:
+          display_name: "वर्ग इंच"
+          unit_pattern_count_one: "{0} वर्ग इंच"
+          unit_pattern_count_other: "{0} वर्ग इंच"
+          per_unit_pattern: "{0}/वर्ग इंच"
+        consumption_liter_per_kilometer:
+          display_name: "लीटर प्रति किलोमीटर"
+          unit_pattern_count_one: "{0} लीटर प्रति किलोमीटर"
+          unit_pattern_count_other: "{0} लीटर प्रति किलोमीटर"
+        consumption_liter_per_100kilometers:
+          display_name: "लीटर प्रति 100 किलोमीटर"
+          unit_pattern_count_one: "{0} लीटर प्रति 100 किलोमीटर"
+          unit_pattern_count_other: "{0} लीटर प्रति 100 किलोमीटर"
+        consumption_mile_per_gallon:
+          display_name: "मील प्रति गैलन"
+          unit_pattern_count_one: "{0} मील प्रति गैलन"
+          unit_pattern_count_other: "{0} मील प्रति गैलन"
+        digital_terabyte:
+          display_name: "टेराबाइट"
+          unit_pattern_count_one: "{0} टेराबाइट"
+          unit_pattern_count_other: "{0} टेराबाइट"
+        digital_terabit:
+          display_name: "टेराबिट"
+          unit_pattern_count_one: "{0} टेराबिट"
+          unit_pattern_count_other: "{0} टेराबिट"
+        digital_gigabyte:
+          display_name: "गीगाबाइट"
+          unit_pattern_count_one: "{0} गीगाबाइट"
+          unit_pattern_count_other: "{0} गीगाबाइट"
+        digital_gigabit:
+          display_name: "गीगाबिट"
+          unit_pattern_count_one: "{0} गीगाबिट"
+          unit_pattern_count_other: "{0} गीगाबिट"
+        digital_megabyte:
+          display_name: "मेगाबाइट"
+          unit_pattern_count_one: "{0} मेगाबाइट"
+          unit_pattern_count_other: "{0} मेगाबाइट"
+        digital_megabit:
+          display_name: "मेगाबिट"
+          unit_pattern_count_one: "{0} मेगाबिट"
+          unit_pattern_count_other: "{0} मेगाबिट"
+        digital_kilobyte:
+          display_name: "किलोबाइट"
+          unit_pattern_count_one: "{0} किलोबाइट"
+          unit_pattern_count_other: "{0} किलोबाइट"
+        digital_kilobit:
+          display_name: "किलोबिट"
+          unit_pattern_count_one: "{0} किलोबिट"
+          unit_pattern_count_other: "{0} किलोबिट"
+        digital_byte:
+          display_name: "बाइट"
+          unit_pattern_count_one: "{0} बाइट"
+          unit_pattern_count_other: "{0} बाइट"
+        digital_bit:
+          display_name: "बिट"
+          unit_pattern_count_one: "{0} बिट"
+          unit_pattern_count_other: "{0} बिट"
+        duration_century:
+          display_name: "शताब्दियाँ"
+          unit_pattern_count_one: "{0} शताब्दी"
+          unit_pattern_count_other: "{0} शताब्दियाँ"
+        duration_year:
+          display_name: "वर्ष"
+          unit_pattern_count_one: "{0} वर्ष"
+          unit_pattern_count_other: "{0} वर्ष"
+          per_unit_pattern: "{0}/वर्ष"
+        duration_month:
+          display_name: "माह"
+          unit_pattern_count_one: "{0} माह"
+          unit_pattern_count_other: "{0} माह"
+          per_unit_pattern: "{0}/माह"
+        duration_week:
+          display_name: "सप्ताह"
+          unit_pattern_count_one: "{0} सप्ताह"
+          unit_pattern_count_other: "{0} सप्ताह"
+          per_unit_pattern: "{0}/सप्ताह"
+        duration_day:
+          display_name: "दिन"
+          unit_pattern_count_one: "{0} दिन"
+          unit_pattern_count_other: "{0} दिन"
+          per_unit_pattern: "{0}/दिन"
+        duration_hour:
+          display_name: "घंटे"
+          unit_pattern_count_one: "{0} घंटा"
+          unit_pattern_count_other: "{0} घंटे"
+          per_unit_pattern: "{0} प्रति घंटा"
+        duration_minute:
+          display_name: "मिनट"
+          unit_pattern_count_one: "{0} मिनट"
+          unit_pattern_count_other: "{0} मिनट"
+          per_unit_pattern: "{0}/मिनट"
+        duration_second:
+          display_name: "सेकंड"
+          unit_pattern_count_one: "{0} सेकंड"
+          unit_pattern_count_other: "{0} सेकंड"
+          per_unit_pattern: "{0} प्रति सेकंड"
+        duration_millisecond:
+          display_name: "मिलीसेकंड"
+          unit_pattern_count_one: "{0} मिलीसेकंड"
+          unit_pattern_count_other: "{0} मिलीसेकंड"
+        duration_microsecond:
+          display_name: "माइक्रोसेकंड"
+          unit_pattern_count_one: "{0} माइक्रोसेकंड"
+          unit_pattern_count_other: "{0} माइक्रोसेकंड"
+        duration_nanosecond:
+          display_name: "नैनो सेकंड"
+          unit_pattern_count_one: "{0} नैनो सेकंड"
+          unit_pattern_count_other: "{0} नैनो सेकंड"
+        electric_ampere:
+          display_name: "एम्पीयर"
+          unit_pattern_count_one: "{0} एम्पीयर"
+          unit_pattern_count_other: "{0} एम्पीयर"
+        electric_milliampere:
+          display_name: "मिली एम्‍पीयर"
+          unit_pattern_count_one: "{0} मिली एम्‍पीयर"
+          unit_pattern_count_other: "{0} मिली एम्‍पीयर"
+        electric_ohm:
+          display_name: "ओम"
+          unit_pattern_count_one: "{0} ओम"
+          unit_pattern_count_other: "{0} ओम"
+        electric_volt:
+          display_name: "वोल्ट्स"
+          unit_pattern_count_one: "{0} वोल्ट"
+          unit_pattern_count_other: "{0} वोल्ट्स"
+        energy_kilocalorie:
+          display_name: "किलो कैलोरी"
+          unit_pattern_count_one: "{0} किलो कैलोरी"
+          unit_pattern_count_other: "{0} किलो कैलोरी"
+        energy_calorie:
+          display_name: "कैलोरी"
+          unit_pattern_count_one: "{0} कैलोरी"
+          unit_pattern_count_other: "{0} कैलोरी"
+        energy_foodcalorie:
+          display_name: "कैलोरी"
+          unit_pattern_count_one: "{0} कैलोरी"
+          unit_pattern_count_other: "{0} कैलोरी"
+        energy_kilojoule:
+          display_name: "किलो जूल"
+          unit_pattern_count_one: "{0} किलो जूल"
+          unit_pattern_count_other: "{0} किलो जूल"
+        energy_joule:
+          display_name: "जूल"
+          unit_pattern_count_one: "{0} जूल"
+          unit_pattern_count_other: "{0} जूल"
+        energy_kilowatt_hour:
+          display_name: "किलोवॉट घंटे"
+          unit_pattern_count_one: "{0} किलोवॉट घंटा"
+          unit_pattern_count_other: "{0} किलोवॉट घंटे"
+        frequency_gigahertz:
+          display_name: "गीगाहर्ट्ज़"
+          unit_pattern_count_one: "{0} गीगाहर्ट्ज़"
+          unit_pattern_count_other: "{0} गीगाहर्ट्ज़"
+        frequency_megahertz:
+          display_name: "मेगाहर्ट्ज़"
+          unit_pattern_count_one: "{0} मेगाहर्ट्ज़"
+          unit_pattern_count_other: "{0} मेगाहर्ट्ज़"
+        frequency_kilohertz:
+          display_name: "किलोहर्ट्ज़"
+          unit_pattern_count_one: "{0} किलोहर्ट्ज़"
+          unit_pattern_count_other: "{0} किलोहर्ट्ज़"
+        frequency_hertz:
+          display_name: "हर्ट्ज़"
+          unit_pattern_count_one: "{0} हर्ट्ज़"
+          unit_pattern_count_other: "{0} हर्ट्ज़"
+        length_kilometer:
+          display_name: "किलोमीटर"
+          unit_pattern_count_one: "{0} किलोमीटर"
+          unit_pattern_count_other: "{0} किलोमीटर"
+          per_unit_pattern: "{0}/किलोमीटर"
+        length_meter:
+          display_name: "मीटर"
+          unit_pattern_count_one: "{0} मीटर"
+          unit_pattern_count_other: "{0} मीटर"
+          per_unit_pattern: "{0}/मीटर"
+        length_decimeter:
+          display_name: "डेसीमीटर"
+          unit_pattern_count_one: "{0} डेसीमीटर"
+          unit_pattern_count_other: "{0} डेसीमीटर"
+        length_centimeter:
+          display_name: "सेंटीमीटर"
+          unit_pattern_count_one: "{0} सेंटीमीटर"
+          unit_pattern_count_other: "{0} सेंटीमीटर"
+          per_unit_pattern: "{0}/सेंटीमीटर"
+        length_millimeter:
+          display_name: "मिलीमीटर"
+          unit_pattern_count_one: "{0} मिलीमीटर"
+          unit_pattern_count_other: "{0} मिलीमीटर"
+        length_micrometer:
+          display_name: "माइक्रोमीटर"
+          unit_pattern_count_one: "{0} माइक्रोमीटर"
+          unit_pattern_count_other: "{0} माइक्रोमीटर"
+        length_nanometer:
+          display_name: "नैनोमीटर"
+          unit_pattern_count_one: "{0} नैनोमीटर"
+          unit_pattern_count_other: "{0} नैनोमीटर"
+        length_picometer:
+          display_name: "पिकोमीटर"
+          unit_pattern_count_one: "{0} पिकोमीटर"
+          unit_pattern_count_other: "{0} पिकोमीटर"
+        length_mile:
+          display_name: "मील"
+          unit_pattern_count_one: "{0} मील"
+          unit_pattern_count_other: "{0} मील"
+        length_yard:
+          display_name: "यार्ड"
+          unit_pattern_count_one: "{0} यार्ड"
+          unit_pattern_count_other: "{0} यार्ड"
+        length_foot:
+          display_name: "फ़ीट"
+          unit_pattern_count_one: "{0} फ़ुट"
+          unit_pattern_count_other: "{0} फ़ीट"
+          per_unit_pattern: "{0}/फ़ीट"
+        length_inch:
+          display_name: "इंच"
+          unit_pattern_count_one: "{0} इंच"
+          unit_pattern_count_other: "{0} इंच"
+          per_unit_pattern: "{0}/इंच"
+        length_parsec:
+          display_name: "पार्सेक"
+          unit_pattern_count_one: "{0} पार्सेक"
+          unit_pattern_count_other: "{0} पार्सेक"
+        length_light_year:
+          display_name: "प्रकाश वर्ष"
+          unit_pattern_count_one: "{0} प्रकाश वर्ष"
+          unit_pattern_count_other: "{0} प्रकाश वर्ष"
+        length_astronomical_unit:
+          display_name: "खगोलीय इकाईयां"
+          unit_pattern_count_one: "{0} खगोलीय इकाई"
+          unit_pattern_count_other: "{0} खगोलीय इकाईयां"
+        length_furlong:
+          display_name: fur
+          unit_pattern_count_other: "{0} fur"
+        length_fathom:
+          display_name: fm
+          unit_pattern_count_other: "{0} fm"
+        length_nautical_mile:
+          display_name: "नॉटिकल मील"
+          unit_pattern_count_one: "{0} नॉटिकल मील"
+          unit_pattern_count_other: "{0} नॉटिकल मील"
+        length_mile_scandinavian:
+          display_name: "मील-स्कैण्डिनेवियन"
+          unit_pattern_count_one: "{0} मील-स्कैण्डिनेवियन"
+          unit_pattern_count_other: "{0} मील-स्कैण्डिनेवियन"
+        light_lux:
+          display_name: "लक्स"
+          unit_pattern_count_one: "{0} लक्स"
+          unit_pattern_count_other: "{0} लक्स"
+        mass_metric_ton:
+          display_name: "मीट्रिक टन"
+          unit_pattern_count_one: "{0} मीट्रिक टन"
+          unit_pattern_count_other: "{0} मीट्रिक टन"
+        mass_kilogram:
+          display_name: "किलोग्राम"
+          unit_pattern_count_one: "{0} किलोग्राम"
+          unit_pattern_count_other: "{0} किलोग्राम"
+          per_unit_pattern: "{0}/किलोग्राम"
+        mass_gram:
+          display_name: "ग्राम"
+          unit_pattern_count_one: "{0} ग्राम"
+          unit_pattern_count_other: "{0} ग्राम"
+          per_unit_pattern: "{0}/ग्राम"
+        mass_milligram:
+          display_name: "मिलीग्राम"
+          unit_pattern_count_one: "{0} मिलीग्राम"
+          unit_pattern_count_other: "{0} मिलीग्राम"
+        mass_microgram:
+          display_name: "माइक्रोग्राम"
+          unit_pattern_count_one: "{0} माइक्रोग्राम"
+          unit_pattern_count_other: "{0} माइक्रोग्राम"
+        mass_ton:
+          display_name: "टन"
+          unit_pattern_count_one: "{0} टन"
+          unit_pattern_count_other: "{0} टन"
+        mass_stone:
+          display_name: st
+          unit_pattern_count_other: "{0} st"
+        mass_pound:
+          display_name: "पौंड"
+          unit_pattern_count_one: "{0} पौंड"
+          unit_pattern_count_other: "{0} पौंड"
+          per_unit_pattern: "{0}/पौंड"
+        mass_ounce:
+          display_name: "औंस"
+          unit_pattern_count_one: "{0} औंस"
+          unit_pattern_count_other: "{0} औंस"
+          per_unit_pattern: "{0}/औंस"
+        mass_ounce_troy:
+          display_name: "ट्राई औंस"
+          unit_pattern_count_one: "{0} ट्राई औंस"
+          unit_pattern_count_other: "{0} ट्राई औंस"
+        mass_carat:
+          display_name: "कैरेट"
+          unit_pattern_count_one: "{0} कैरेट"
+          unit_pattern_count_other: "{0} कैरेट"
+        power_gigawatt:
+          display_name: "गिगावॉट"
+          unit_pattern_count_one: "{0} गिगावॉट"
+          unit_pattern_count_other: "{0} गिगावॉट"
+        power_megawatt:
+          display_name: "मेगावॉट"
+          unit_pattern_count_one: "{0} मेगावॉट"
+          unit_pattern_count_other: "{0} मेगावॉट"
+        power_kilowatt:
+          display_name: "किलोवॉट"
+          unit_pattern_count_one: "{0} किलोवॉट"
+          unit_pattern_count_other: "{0} किलोवॉट"
+        power_watt:
+          display_name: "वॉट"
+          unit_pattern_count_one: "{0} वॉट"
+          unit_pattern_count_other: "{0} वॉट"
+        power_milliwatt:
+          display_name: "मिलीवॉट"
+          unit_pattern_count_one: "{0} मिलीवॉट"
+          unit_pattern_count_other: "{0} मिलीवॉट"
+        power_horsepower:
+          display_name: "अश्वशक्ति"
+          unit_pattern_count_one: "{0} अश्वशक्ति"
+          unit_pattern_count_other: "{0} अश्वशक्ति"
+        pressure_hectopascal:
+          display_name: "हैक्टोपास्कल"
+          unit_pattern_count_one: "{0} हैक्टोपास्कल"
+          unit_pattern_count_other: "{0} हैक्टोपास्कल"
+        pressure_millimeter_of_mercury:
+          display_name: "मर्क्यूरी मिलीमीटर"
+          unit_pattern_count_one: "{0} मर्क्यूरी मिलीमीटर"
+          unit_pattern_count_other: "{0} मर्क्यूरी मिलीमीटर"
+        pressure_pound_per_square_inch:
+          display_name: "पाउंड प्रति वर्ग इंच"
+          unit_pattern_count_one: "{0} पाउंड प्रति वर्ग इंच"
+          unit_pattern_count_other: "{0} पाउंड प्रति वर्ग इंच"
+        pressure_inch_hg:
+          display_name: "मर्करी इंच"
+          unit_pattern_count_one: "{0} मर्करी इंच"
+          unit_pattern_count_other: "{0} मर्करी इंच"
+        pressure_millibar:
+          display_name: "मिलीबार"
+          unit_pattern_count_one: "{0} मिलीबार"
+          unit_pattern_count_other: "{0} मिलीबार"
+        proportion_karat:
+          display_name: "कैरट"
+          unit_pattern_count_one: "{0} कैरट"
+          unit_pattern_count_other: "{0} कैरट"
+        speed_kilometer_per_hour:
+          display_name: "किलोमीटर प्रति घंटा"
+          unit_pattern_count_one: "{0} किलोमीटर प्रति घंटा"
+          unit_pattern_count_other: "{0} किलोमीटर प्रति घंटा"
+        speed_meter_per_second:
+          display_name: "मीटर प्रति सेकंड"
+          unit_pattern_count_one: "{0} मीटर प्रति सेकंड"
+          unit_pattern_count_other: "{0} मीटर प्रति सेकंड"
+        speed_mile_per_hour:
+          display_name: "मील प्रति घंटा"
+          unit_pattern_count_one: "{0} मील प्रति घंटा"
+          unit_pattern_count_other: "{0} मील प्रति घंटा"
+        speed_knot:
+          display_name: "नॉट"
+          unit_pattern_count_one: "{0} नॉट"
+          unit_pattern_count_other: "{0} नॉट"
+        temperature_generic:
+          display_name: "°"
+          unit_pattern_count_one: "{0}°"
+          unit_pattern_count_other: "{0}°"
+        temperature_celsius:
+          display_name: "डिग्री सेल्सियस"
+          unit_pattern_count_one: "{0} डिग्री सेल्सियस"
+          unit_pattern_count_other: "{0} डिग्री सेल्सियस"
+        temperature_fahrenheit:
+          display_name: "डिग्री फ़ेरनहाइट"
+          unit_pattern_count_one: "{0} डिग्री फ़ेरनहाइट"
+          unit_pattern_count_other: "{0} डिग्री फ़ेरनहाइट"
+        temperature_kelvin:
+          display_name: "केल्विन"
+          unit_pattern_count_one: "{0} केल्विन"
+          unit_pattern_count_other: "{0} केल्विन"
+        volume_cubic_kilometer:
+          display_name: "घन किलोमीटर"
+          unit_pattern_count_one: "{0} घन किलोमीटर"
+          unit_pattern_count_other: "{0} घन किलोमीटर"
+        volume_cubic_meter:
+          display_name: "घन मीटर"
+          unit_pattern_count_one: "{0} घन मीटर"
+          unit_pattern_count_other: "{0} घन मीटर"
+          per_unit_pattern: "{0}/घन मीटर"
+        volume_cubic_centimeter:
+          display_name: "घन सेंटीमीटर"
+          unit_pattern_count_one: "{0} घन सेंटीमीटर"
+          unit_pattern_count_other: "{0} घन सेंटीमीटर"
+          per_unit_pattern: "{0}/घन सेंटीमीटर"
+        volume_cubic_mile:
+          display_name: "घन मील"
+          unit_pattern_count_one: "{0} घन मील"
+          unit_pattern_count_other: "{0} घन मील"
+        volume_cubic_yard:
+          display_name: "घन यार्ड"
+          unit_pattern_count_one: "{0} घन यार्ड"
+          unit_pattern_count_other: "{0} घन यार्ड"
+        volume_cubic_foot:
+          display_name: "घन फ़ीट"
+          unit_pattern_count_one: "{0} घन फ़ीट"
+          unit_pattern_count_other: "{0} घन फ़ीट"
+        volume_cubic_inch:
+          display_name: "घन इंच"
+          unit_pattern_count_one: "{0} घन इंच"
+          unit_pattern_count_other: "{0} घन इंच"
+        volume_megaliter:
+          display_name: "मेगालीटर"
+          unit_pattern_count_one: "{0} मेगालीटर"
+          unit_pattern_count_other: "{0} मेगालीटर"
+        volume_hectoliter:
+          display_name: "हैक्टोलीटर"
+          unit_pattern_count_one: "{0} हैक्टोलीटर"
+          unit_pattern_count_other: "{0} हैक्टोलीटर"
+        volume_liter:
+          display_name: "लीटर"
+          unit_pattern_count_one: "{0} लीटर"
+          unit_pattern_count_other: "{0} लीटर"
+          per_unit_pattern: "{0}/लीटर"
+        volume_deciliter:
+          display_name: "डेसीलीटर"
+          unit_pattern_count_one: "{0} डेसीलीटर"
+          unit_pattern_count_other: "{0} डेसीलीटर"
+        volume_centiliter:
+          display_name: "सेंटीलीटर"
+          unit_pattern_count_one: "{0} सेंटीलीटर"
+          unit_pattern_count_other: "{0} सेंटीलीटर"
+        volume_milliliter:
+          display_name: "मिलीलीटर"
+          unit_pattern_count_one: "{0} मिलीलीटर"
+          unit_pattern_count_other: "{0} मिलीलीटर"
+        volume_pint_metric:
+          display_name: "मीट्रिक पिंट"
+          unit_pattern_count_one: "{0} मीट्रिक पिंट"
+          unit_pattern_count_other: "{0} मीट्रिक पिंट"
+        volume_cup_metric:
+          display_name: "मीट्रिक कप"
+          unit_pattern_count_one: "{0} मीट्रिक कप"
+          unit_pattern_count_other: "{0} मीट्रिक कप"
+        volume_acre_foot:
+          display_name: "एकड़ फ़ीट"
+          unit_pattern_count_one: "{0} एकड़ फ़ूट"
+          unit_pattern_count_other: "{0} एकड़ फ़ीट"
+        volume_bushel:
+          display_name: bu
+          unit_pattern_count_other: "{0} bu"
+        volume_gallon:
+          display_name: "गैलन"
+          unit_pattern_count_one: "{0} गैलन"
+          unit_pattern_count_other: "{0} गैलन"
+          per_unit_pattern: "{0}/गैलन"
+        volume_quart:
+          display_name: "क्वार्ट"
+          unit_pattern_count_one: "{0} क्वार्ट"
+          unit_pattern_count_other: "{0} क्वार्ट"
+        volume_pint:
+          display_name: "पिंट"
+          unit_pattern_count_one: "{0} पिंट"
+          unit_pattern_count_other: "{0} पिंट"
+        volume_cup:
+          display_name: "कप"
+          unit_pattern_count_one: "{0} कप"
+          unit_pattern_count_other: "{0} कप"
+        volume_fluid_ounce:
+          display_name: "फ़्लूइड आउंस"
+          unit_pattern_count_one: "{0} फ़्लूइड आउंस"
+          unit_pattern_count_other: "{0} फ़्लूइड आउंस"
+        volume_tablespoon:
+          display_name: "टेबलस्पून"
+          unit_pattern_count_one: "{0} टेबलस्पून"
+          unit_pattern_count_other: "{0} टेबलस्पून"
+        volume_teaspoon:
+          display_name: "टी स्पून"
+          unit_pattern_count_one: "{0} टी स्पून"
+          unit_pattern_count_other: "{0} टी स्पून"
+        coordinate_unit:
+          east: "{0}E"
+          north: "{0}N"
+          south: "{0}S"
+          west: "{0}W"
+      short:
+        per:
+          compound_unit_pattern: "{0}/{1}"
+        acceleration_g_force:
+          display_name: "गु–बल"
+          unit_pattern_count_one: "{0} गु."
+          unit_pattern_count_other: "{0} गु."
+        acceleration_meter_per_second_squared:
+          display_name: "मीटर/से²"
+          unit_pattern_count_one: "{0} मीटर/से²"
+          unit_pattern_count_other: "{0} m/s²"
+        angle_revolution:
+          display_name: "घूर्णन"
+          unit_pattern_count_one: "{0} घूर्णन"
+          unit_pattern_count_other: "{0} घूर्णन"
+        angle_radian:
+          display_name: "रेडियन"
+          unit_pattern_count_one: "{0} रेडियन"
+          unit_pattern_count_other: "{0} रेडियन"
+        angle_degree:
+          display_name: "अंश"
+          unit_pattern_count_one: "{0} अंश"
+          unit_pattern_count_other: "{0} अंश"
+        angle_arc_minute:
+          display_name: "आर्क मिनट"
+          unit_pattern_count_one: "{0} आर्क मिनट"
+          unit_pattern_count_other: "{0} आर्क मिनट"
+        angle_arc_second:
+          display_name: "आर्क सेकंड"
+          unit_pattern_count_one: "{0} आर्क से."
+          unit_pattern_count_other: "{0} आर्क से."
+        area_square_kilometer:
+          display_name: "वर्ग कि.मी."
+          unit_pattern_count_one: "{0} वर्ग कि.मी."
+          unit_pattern_count_other: "{0} वर्ग कि.मी."
+        area_hectare:
+          display_name: "हेक्टेयर"
+          unit_pattern_count_one: "{0} हे."
+          unit_pattern_count_other: "{0} हे."
+        area_square_meter:
+          display_name: "वर्ग मीटर"
+          unit_pattern_count_one: "{0} वर्ग मी."
+          unit_pattern_count_other: "{0} वर्ग मी."
+          per_unit_pattern: "{0}/वर्ग मीटर"
+        area_square_centimeter:
+          display_name: "वर्ग सें."
+          unit_pattern_count_one: "{0} व. सें."
+          unit_pattern_count_other: "{0} व. सें."
+          per_unit_pattern: "{0}/वर्ग सें. मी."
+        area_square_mile:
+          display_name: "वर्ग मील"
+          unit_pattern_count_one: "{0} वर्ग मील"
+          unit_pattern_count_other: "{0} वर्ग मील"
+        area_acre:
+          display_name: "एकड़"
+          unit_pattern_count_one: "{0} एकड़"
+          unit_pattern_count_other: "{0} एकड़"
+        area_square_yard:
+          display_name: "व. या."
+          unit_pattern_count_one: "{0} व. या."
+          unit_pattern_count_other: "{0} व. या."
+        area_square_foot:
+          display_name: "व.फ़ी."
+          unit_pattern_count_one: "{0} व.फ़ी."
+          unit_pattern_count_other: "{0} व.फ़ी."
+        area_square_inch:
+          display_name: "व. इं."
+          unit_pattern_count_one: "{0} व. इं."
+          unit_pattern_count_other: "{0} व. इं."
+          per_unit_pattern: "{0}/वर्ग इंच"
+        consumption_liter_per_kilometer:
+          display_name: "लीटर/किमी"
+          unit_pattern_count_one: "{0} ली/किमी"
+          unit_pattern_count_other: "{0} ली/किमी"
+        consumption_liter_per_100kilometers:
+          display_name: "ली./100 कि.मी."
+          unit_pattern_count_one: "{0} ली./100 कि.मी."
+          unit_pattern_count_other: "{0} ली./100 कि.मी."
+        consumption_mile_per_gallon:
+          display_name: "मील/गैलन"
+          unit_pattern_count_one: "{0} mpg"
+          unit_pattern_count_other: "{0} mpg"
+        digital_terabyte:
+          display_name: TB
+          unit_pattern_count_one: "{0} TB"
+          unit_pattern_count_other: "{0} TB"
+        digital_terabit:
+          display_name: Tb
+          unit_pattern_count_one: "{0} Tb"
+          unit_pattern_count_other: "{0} Tb"
+        digital_gigabyte:
+          display_name: GB
+          unit_pattern_count_one: "{0} GB"
+          unit_pattern_count_other: "{0} GB"
+        digital_gigabit:
+          display_name: Gb
+          unit_pattern_count_one: "{0} Gb"
+          unit_pattern_count_other: "{0} Gb"
+        digital_megabyte:
+          display_name: MB
+          unit_pattern_count_one: "{0} MB"
+          unit_pattern_count_other: "{0} MB"
+        digital_megabit:
+          display_name: Mb
+          unit_pattern_count_one: "{0} Mb"
+          unit_pattern_count_other: "{0} Mb"
+        digital_kilobyte:
+          display_name: kB
+          unit_pattern_count_one: "{0} kB"
+          unit_pattern_count_other: "{0} kB"
+        digital_kilobit:
+          display_name: kb
+          unit_pattern_count_one: "{0} kb"
+          unit_pattern_count_other: "{0} kb"
+        digital_byte:
+          display_name: "बाइट"
+          unit_pattern_count_one: "{0} बाइट"
+          unit_pattern_count_other: "{0} बाइट"
+        digital_bit:
+          display_name: "बिट"
+          unit_pattern_count_one: "{0} बिट"
+          unit_pattern_count_other: "{0} बिट"
+        duration_century:
+          display_name: "शता"
+          unit_pattern_count_one: "{0} शता"
+          unit_pattern_count_other: "{0} शता"
+        duration_year:
+          display_name: "वर्ष"
+          unit_pattern_count_one: "{0} वर्ष"
+          unit_pattern_count_other: "{0} वर्ष"
+          per_unit_pattern: "{0}/वर्ष"
+        duration_month:
+          display_name: "माह"
+          unit_pattern_count_one: "{0} माह"
+          unit_pattern_count_other: "{0} माह"
+          per_unit_pattern: "{0}/माह"
+        duration_week:
+          display_name: "सप्ताह"
+          unit_pattern_count_one: "{0} सप्ताह"
+          unit_pattern_count_other: "{0} सप्ताह"
+          per_unit_pattern: "{0}/सप्ताह"
+        duration_day:
+          display_name: "दिन"
+          unit_pattern_count_one: "{0} दिन"
+          unit_pattern_count_other: "{0} दिन"
+          per_unit_pattern: "{0}/दिन"
+        duration_hour:
+          display_name: "घंटे"
+          unit_pattern_count_one: "{0} घं."
+          unit_pattern_count_other: "{0} घं."
+          per_unit_pattern: "{0} प्र. घं."
+        duration_minute:
+          display_name: "मिनट"
+          unit_pattern_count_one: "{0} मि."
+          unit_pattern_count_other: "{0} मि."
+          per_unit_pattern: "{0}/मिनट"
+        duration_second:
+          display_name: "सेकंड"
+          unit_pattern_count_one: "{0} सेक."
+          unit_pattern_count_other: "{0} सेक."
+          per_unit_pattern: "{0} प्र. से."
+        duration_millisecond:
+          display_name: "मिलीसेकंड"
+          unit_pattern_count_one: "{0} मि.से."
+          unit_pattern_count_other: "{0} मि.से."
+        duration_microsecond:
+          display_name: "मा॰ सेक॰"
+          unit_pattern_count_one: "{0} मा॰ से॰"
+          unit_pattern_count_other: "{0} मा॰ से॰"
+        duration_nanosecond:
+          display_name: "नैनो से."
+          unit_pattern_count_one: "{0} नैनो से."
+          unit_pattern_count_other: "{0} नैनो से."
+        electric_ampere:
+          display_name: "एम्पी॰"
+          unit_pattern_count_one: "{0} ए॰"
+          unit_pattern_count_other: "{0} ए॰"
+        electric_milliampere:
+          display_name: "मि॰ ए॰"
+          unit_pattern_count_one: "{0} मि॰ ए॰"
+          unit_pattern_count_other: "{0} मि॰ ए॰"
+        electric_ohm:
+          display_name: "ओम"
+          unit_pattern_count_one: "{0} Ω"
+          unit_pattern_count_other: "{0} Ω"
+        electric_volt:
+          display_name: "वोल्ट"
+          unit_pattern_count_one: "{0} V"
+          unit_pattern_count_other: "{0} V"
+        energy_kilocalorie:
+          display_name: kcal
+          unit_pattern_count_one: "{0} kcal"
+          unit_pattern_count_other: "{0} kcal"
+        energy_calorie:
+          display_name: cal
+          unit_pattern_count_one: "{0} cal"
+          unit_pattern_count_other: "{0} cal"
+        energy_foodcalorie:
+          display_name: Cal
+          unit_pattern_count_one: "{0} Cal"
+          unit_pattern_count_other: "{0} Cal"
+        energy_kilojoule:
+          display_name: "किलो जूल"
+          unit_pattern_count_one: "{0} kJ"
+          unit_pattern_count_other: "{0} kJ"
+        energy_joule:
+          display_name: "जूल"
+          unit_pattern_count_one: "{0} J"
+          unit_pattern_count_other: "{0} J"
+        energy_kilowatt_hour:
+          display_name: kWh
+          unit_pattern_count_one: "{0} kWh"
+          unit_pattern_count_other: "{0} kWh"
+        frequency_gigahertz:
+          display_name: GHz
+          unit_pattern_count_one: "{0} GHz"
+          unit_pattern_count_other: "{0} GHz"
+        frequency_megahertz:
+          display_name: MHz
+          unit_pattern_count_one: "{0} MHz"
+          unit_pattern_count_other: "{0} MHz"
+        frequency_kilohertz:
+          display_name: kHz
+          unit_pattern_count_one: "{0} kHz"
+          unit_pattern_count_other: "{0} kHz"
+        frequency_hertz:
+          display_name: Hz
+          unit_pattern_count_one: "{0} Hz"
+          unit_pattern_count_other: "{0} Hz"
+        length_kilometer:
+          display_name: "कि.मी."
+          unit_pattern_count_one: "{0} कि.मी."
+          unit_pattern_count_other: "{0} कि.मी."
+          per_unit_pattern: "{0}/कि.मी."
+        length_meter:
+          display_name: "मीटर"
+          unit_pattern_count_one: "{0} मी"
+          unit_pattern_count_other: "{0} मी"
+          per_unit_pattern: "{0}/मी"
+        length_decimeter:
+          display_name: "डे.मी."
+          unit_pattern_count_one: "{0} डे.मी."
+          unit_pattern_count_other: "{0} डे.मी."
+        length_centimeter:
+          display_name: "सें.मी."
+          unit_pattern_count_one: "{0} सें.मी."
+          unit_pattern_count_other: "{0} सें.मी."
+          per_unit_pattern: "{0}/सें.मी."
+        length_millimeter:
+          display_name: "मि.मी."
+          unit_pattern_count_one: "{0} मि.मी."
+          unit_pattern_count_other: "{0} मि.मी."
+        length_micrometer:
+          display_name: "µ मा.मी."
+          unit_pattern_count_one: "{0} µ मा.मी."
+          unit_pattern_count_other: "{0} µ मा.मी."
+        length_nanometer:
+          display_name: "नै.मी."
+          unit_pattern_count_one: "{0} नै.मी."
+          unit_pattern_count_other: "{0} नै.मी."
+        length_picometer:
+          display_name: "पि.मी."
+          unit_pattern_count_one: "{0} पि.मी."
+          unit_pattern_count_other: "{0} पि.मी."
+        length_mile:
+          display_name: "मील"
+          unit_pattern_count_one: "{0} मील"
+          unit_pattern_count_other: "{0} मील"
+        length_yard:
+          display_name: "यार्ड"
+          unit_pattern_count_one: "{0} यार्ड"
+          unit_pattern_count_other: "{0} यार्ड"
+        length_foot:
+          display_name: "फ़ीट"
+          unit_pattern_count_one: "{0} फ़ीट"
+          unit_pattern_count_other: "{0} फ़ीट"
+          per_unit_pattern: "{0}/फ़ीट"
+        length_inch:
+          display_name: "इंच"
+          unit_pattern_count_one: "{0} इंच"
+          unit_pattern_count_other: "{0} इंच"
+          per_unit_pattern: "{0}/इंच"
+        length_parsec:
+          display_name: "पार्सेक"
+          unit_pattern_count_one: "{0} पार्सेक"
+          unit_pattern_count_other: "{0} पार्सेक"
+        length_light_year:
+          display_name: "प्रकाश वर्ष"
+          unit_pattern_count_one: "{0} प्र.व."
+          unit_pattern_count_other: "{0} प्र.व."
+        length_astronomical_unit:
+          display_name: "खगो. इका."
+          unit_pattern_count_one: "{0} खगो. इका."
+          unit_pattern_count_other: "{0} खगो. इका."
+        length_furlong:
+          display_name: fur
+          unit_pattern_count_other: "{0} fur"
+        length_fathom:
+          display_name: fm
+          unit_pattern_count_other: "{0} fm"
+        length_nautical_mile:
+          display_name: "नॉ. मी."
+          unit_pattern_count_one: "{0} नॉ. मी."
+          unit_pattern_count_other: "{0} नॉ. मी."
+        length_mile_scandinavian:
+          display_name: smi
+          unit_pattern_count_one: "{0} smi"
+          unit_pattern_count_other: "{0} smi"
+        light_lux:
+          display_name: "लक्स"
+          unit_pattern_count_one: "{0} lx"
+          unit_pattern_count_other: "{0} lx"
+        mass_metric_ton:
+          display_name: "मीट्रिक टन"
+          unit_pattern_count_one: "{0} मीट्रिक टन"
+          unit_pattern_count_other: "{0} मीट्रिक टन"
+        mass_kilogram:
+          display_name: "कि.ग्रा."
+          unit_pattern_count_one: "{0} कि.ग्रा."
+          unit_pattern_count_other: "{0} कि.ग्रा."
+          per_unit_pattern: "{0}/कि.ग्रा."
+        mass_gram:
+          display_name: "ग्राम"
+          unit_pattern_count_one: "{0} ग्रा."
+          unit_pattern_count_other: "{0} ग्रा."
+          per_unit_pattern: "{0}/ग्रा."
+        mass_milligram:
+          display_name: "मि.ग्रा."
+          unit_pattern_count_one: "{0} मि.ग्रा."
+          unit_pattern_count_other: "{0} मि.ग्रा."
+        mass_microgram:
+          display_name: "मा॰ग्रा॰"
+          unit_pattern_count_one: "{0} मा॰ग्रा॰"
+          unit_pattern_count_other: "{0} मा॰ग्रा॰"
+        mass_ton:
+          display_name: "टन"
+          unit_pattern_count_one: "{0} टन"
+          unit_pattern_count_other: "{0} टन"
+        mass_stone:
+          display_name: st
+          unit_pattern_count_other: "{0} st"
+        mass_pound:
+          display_name: "पौंड"
+          unit_pattern_count_one: "{0} पौंड"
+          unit_pattern_count_other: "{0} पौंड"
+          per_unit_pattern: "{0}/पौंड"
+        mass_ounce:
+          display_name: "औंस"
+          unit_pattern_count_one: "{0} औं."
+          unit_pattern_count_other: "{0} औं."
+          per_unit_pattern: "{0}/औंस"
+        mass_ounce_troy:
+          display_name: "ट्राई औंस"
+          unit_pattern_count_one: "{0} ट्राई औंस"
+          unit_pattern_count_other: "{0} ट्राई औंस"
+        mass_carat:
+          display_name: "कै॰"
+          unit_pattern_count_one: "{0} कै."
+          unit_pattern_count_other: "{0} कै."
+        power_gigawatt:
+          display_name: GW
+          unit_pattern_count_one: "{0} GW"
+          unit_pattern_count_other: "{0} GW"
+        power_megawatt:
+          display_name: MW
+          unit_pattern_count_one: "{0} MW"
+          unit_pattern_count_other: "{0} MW"
+        power_kilowatt:
+          display_name: kW
+          unit_pattern_count_one: "{0} kW"
+          unit_pattern_count_other: "{0} kW"
+        power_watt:
+          display_name: "वॉट"
+          unit_pattern_count_one: "{0} W"
+          unit_pattern_count_other: "{0} W"
+        power_milliwatt:
+          display_name: mW
+          unit_pattern_count_one: "{0} mW"
+          unit_pattern_count_other: "{0} mW"
+        power_horsepower:
+          display_name: hp
+          unit_pattern_count_one: "{0} hp"
+          unit_pattern_count_other: "{0} hp"
+        pressure_hectopascal:
+          display_name: hPa
+          unit_pattern_count_one: "{0} hPa"
+          unit_pattern_count_other: "{0} hPa"
+        pressure_millimeter_of_mercury:
+          display_name: mm Hg
+          unit_pattern_count_one: "{0} mm Hg"
+          unit_pattern_count_other: "{0} mm Hg"
+        pressure_pound_per_square_inch:
+          display_name: psi
+          unit_pattern_count_one: "{0} psi"
+          unit_pattern_count_other: "{0} psi"
+        pressure_inch_hg:
+          display_name: inHg
+          unit_pattern_count_one: "{0} inHg"
+          unit_pattern_count_other: "{0} inHg"
+        pressure_millibar:
+          display_name: mbar
+          unit_pattern_count_one: "{0} mbar"
+          unit_pattern_count_other: "{0} mbar"
+        proportion_karat:
+          display_name: "कैरट"
+          unit_pattern_count_one: "{0} kt"
+          unit_pattern_count_other: "{0} kt"
+        speed_kilometer_per_hour:
+          display_name: "कि.मी./घं."
+          unit_pattern_count_one: "{0} कि.मी. प्रति घं."
+          unit_pattern_count_other: "{0} कि.मी. प्रति घं."
+        speed_meter_per_second:
+          display_name: "मी./से."
+          unit_pattern_count_one: "{0} मी./से."
+          unit_pattern_count_other: "{0} मी./से."
+        speed_mile_per_hour:
+          display_name: "मील/घं."
+          unit_pattern_count_one: "{0} मी.प्र.घं."
+          unit_pattern_count_other: "{0} मी.प्र.घं."
+        speed_knot:
+          display_name: "नॉट"
+          unit_pattern_count_one: "{0} नॉट"
+          unit_pattern_count_other: "{0} नॉट"
+        temperature_generic:
+          display_name: "°"
+          unit_pattern_count_one: "{0}°"
+          unit_pattern_count_other: "{0}°"
+        temperature_celsius:
+          display_name: "डिग्री सेल्सियस"
+          unit_pattern_count_one: "{0}°से."
+          unit_pattern_count_other: "{0}°से."
+        temperature_fahrenheit:
+          display_name: "डिग्री फ़ेरनहाइट"
+          unit_pattern_count_one: "{0}°फेरन."
+          unit_pattern_count_other: "{0}°फेरन."
+        temperature_kelvin:
+          display_name: K
+          unit_pattern_count_one: "{0} K"
+          unit_pattern_count_other: "{0} K"
+        volume_cubic_kilometer:
+          display_name: "घन कि.मी."
+          unit_pattern_count_one: "{0} घन कि.मी."
+          unit_pattern_count_other: "{0} घन कि.मी."
+        volume_cubic_meter:
+          display_name: "घन मी."
+          unit_pattern_count_one: "{0} घन मी."
+          unit_pattern_count_other: "{0} घन मी."
+          per_unit_pattern: "{0}/घन मी."
+        volume_cubic_centimeter:
+          display_name: "घन सें. मी."
+          unit_pattern_count_one: "{0} घन सें. मी."
+          unit_pattern_count_other: "{0} घन सें. मी."
+          per_unit_pattern: "{0}/घन सें. मी."
+        volume_cubic_mile:
+          display_name: "घन मील"
+          unit_pattern_count_one: "{0} घन मील"
+          unit_pattern_count_other: "{0} घन मील"
+        volume_cubic_yard:
+          display_name: "घन या."
+          unit_pattern_count_one: "{0} घन या."
+          unit_pattern_count_other: "{0} घन या."
+        volume_cubic_foot:
+          display_name: "घ. फ़ी."
+          unit_pattern_count_one: "{0} घ. फ़ी."
+          unit_pattern_count_other: "{0} घ. फ़ी."
+        volume_cubic_inch:
+          display_name: "घन इंच"
+          unit_pattern_count_one: "{0} घन इंच"
+          unit_pattern_count_other: "{0} घन इंच"
+        volume_megaliter:
+          display_name: "मे. ली."
+          unit_pattern_count_one: "{0} मे. ली."
+          unit_pattern_count_other: "{0} मे. ली."
+        volume_hectoliter:
+          display_name: "है.ली."
+          unit_pattern_count_one: "{0} है.ली."
+          unit_pattern_count_other: "{0} है.ली."
+        volume_liter:
+          display_name: "लीटर"
+          unit_pattern_count_one: "{0} ली."
+          unit_pattern_count_other: "{0} ली."
+          per_unit_pattern: "{0}/ली."
+        volume_deciliter:
+          display_name: "डे.ली."
+          unit_pattern_count_one: "{0} डे.ली."
+          unit_pattern_count_other: "{0} डे.ली."
+        volume_centiliter:
+          display_name: "सें.ली."
+          unit_pattern_count_one: "{0} सें.ली."
+          unit_pattern_count_other: "{0} सें.ली."
+        volume_milliliter:
+          display_name: "मि. ली."
+          unit_pattern_count_one: "{0} मि. ली."
+          unit_pattern_count_other: "{0} मि. ली."
+        volume_pint_metric:
+          display_name: "मीट्रिक पिंट"
+          unit_pattern_count_one: "{0} मीट्रिक पिंट"
+          unit_pattern_count_other: "{0} मीट्रिक पिंट"
+        volume_cup_metric:
+          display_name: "मीट्रिक कप"
+          unit_pattern_count_one: "{0} मीट्रिक कप"
+          unit_pattern_count_other: "{0} मीट्रिक कप"
+        volume_acre_foot:
+          display_name: "एकड़ फ़ीट"
+          unit_pattern_count_one: "{0} ए.फ़ी."
+          unit_pattern_count_other: "{0} ए.फ़ी."
+        volume_bushel:
+          display_name: bu
+          unit_pattern_count_other: "{0} bu"
+        volume_gallon:
+          display_name: "गैलन"
+          unit_pattern_count_one: "{0} गैलन"
+          unit_pattern_count_other: "{0} गैलन"
+          per_unit_pattern: "{0}/गैलन"
+        volume_quart:
+          display_name: "क्वार्ट"
+          unit_pattern_count_one: "{0} क्वार्ट"
+          unit_pattern_count_other: "{0} क्वार्ट"
+        volume_pint:
+          display_name: "पिंट"
+          unit_pattern_count_one: "{0} पिंट"
+          unit_pattern_count_other: "{0} पिंट"
+        volume_cup:
+          display_name: "कप"
+          unit_pattern_count_one: "{0} कप"
+          unit_pattern_count_other: "{0} कप"
+        volume_fluid_ounce:
+          display_name: "फ़्लूइड आउंस"
+          unit_pattern_count_one: "{0} फ़्लूइड आउंस"
+          unit_pattern_count_other: "{0} फ़्लूइड आउंस"
+        volume_tablespoon:
+          display_name: "टे. स्पून"
+          unit_pattern_count_one: "{0} टे. स्पून"
+          unit_pattern_count_other: "{0} टे. स्पून"
+        volume_teaspoon:
+          display_name: "टी स्पून"
+          unit_pattern_count_one: "{0} टी स्पून"
+          unit_pattern_count_other: "{0} टी स्पून"
+        coordinate_unit:
+          east: "{0}E"
+          north: "{0}N"
+          south: "{0}S"
+          west: "{0}W"
+      narrow:
+        per:
+          compound_unit_pattern: "{0}/{1}"
+        acceleration_g_force:
+          display_name: "गु–बल"
+          unit_pattern_count_one: "{0}गु."
+          unit_pattern_count_other: "{0}गु."
+        acceleration_meter_per_second_squared:
+          display_name: "मीटर/से²"
+          unit_pattern_count_one: "{0} m/s²"
+          unit_pattern_count_other: "{0} m/s²"
+        angle_revolution:
+          display_name: "घूर्णन"
+          unit_pattern_count_one: "{0} घूर्णन"
+          unit_pattern_count_other: "{0} घूर्णन"
+        angle_radian:
+          display_name: "रेडियन"
+          unit_pattern_count_one: "{0} रेडियन"
+          unit_pattern_count_other: "{0} रेडियन"
+        angle_degree:
+          display_name: "अंश"
+          unit_pattern_count_one: "{0}°"
+          unit_pattern_count_other: "{0}°"
+        angle_arc_minute:
+          display_name: "आर्क मिनट"
+          unit_pattern_count_one: "{0}′"
+          unit_pattern_count_other: "{0}′"
+        angle_arc_second:
+          display_name: "आर्क सेकंड"
+          unit_pattern_count_one: "{0}″"
+          unit_pattern_count_other: "{0}″"
+        area_square_kilometer:
+          display_name: "वर्ग कि.मी."
+          unit_pattern_count_one: "{0} km²"
+          unit_pattern_count_other: "{0} km²"
+        area_hectare:
+          display_name: "हेक्टेयर"
+          unit_pattern_count_one: "{0}हे."
+          unit_pattern_count_other: "{0}हे."
+        area_square_meter:
+          display_name: "वर्ग मीटर"
+          unit_pattern_count_one: "{0} वर्ग मी."
+          unit_pattern_count_other: "{0} वर्ग मी."
+          per_unit_pattern: "{0}/वर्ग मीटर"
+        area_square_centimeter:
+          display_name: "वर्ग सें."
+          unit_pattern_count_one: "{0} व. सें."
+          unit_pattern_count_other: "{0} व. सें."
+          per_unit_pattern: "{0}/वर्ग सें. मी."
+        area_square_mile:
+          display_name: "वर्ग मील"
+          unit_pattern_count_one: "{0}वर्ग मील"
+          unit_pattern_count_other: "{0}वर्ग मील"
+        area_acre:
+          display_name: "एकड़"
+          unit_pattern_count_one: "{0}एकड़"
+          unit_pattern_count_other: "{0}एकड़"
+        area_square_yard:
+          display_name: "व. या."
+          unit_pattern_count_one: "{0} व. या."
+          unit_pattern_count_other: "{0} व. या."
+        area_square_foot:
+          display_name: "व.फ़ी."
+          unit_pattern_count_one: "{0}ft²"
+          unit_pattern_count_other: "{0}ft²"
+        area_square_inch:
+          display_name: "व. इं."
+          unit_pattern_count_one: "{0} व. इं."
+          unit_pattern_count_other: "{0} व. इं."
+          per_unit_pattern: "{0}/वर्ग इंच"
+        consumption_liter_per_kilometer:
+          display_name: "लीटर/किमी"
+          unit_pattern_count_one: "{0} ली/किमी"
+          unit_pattern_count_other: "{0} ली/किमी"
+        consumption_liter_per_100kilometers:
+          display_name: "ली./100 कि.मी."
+          unit_pattern_count_one: "{0}ली/100कि"
+          unit_pattern_count_other: "{0}ली/100कि"
+        consumption_mile_per_gallon:
+          display_name: "मील/गैलन"
+          unit_pattern_count_one: "{0} mpg"
+          unit_pattern_count_other: "{0} mpg"
+        digital_terabyte:
+          display_name: TB
+          unit_pattern_count_one: "{0} TB"
+          unit_pattern_count_other: "{0} TB"
+        digital_terabit:
+          display_name: Tb
+          unit_pattern_count_one: "{0} Tb"
+          unit_pattern_count_other: "{0} Tb"
+        digital_gigabyte:
+          display_name: GB
+          unit_pattern_count_one: "{0} GB"
+          unit_pattern_count_other: "{0} GB"
+        digital_gigabit:
+          display_name: Gb
+          unit_pattern_count_one: "{0} Gb"
+          unit_pattern_count_other: "{0} Gb"
+        digital_megabyte:
+          display_name: MB
+          unit_pattern_count_one: "{0} MB"
+          unit_pattern_count_other: "{0} MB"
+        digital_megabit:
+          display_name: Mb
+          unit_pattern_count_one: "{0} Mb"
+          unit_pattern_count_other: "{0} Mb"
+        digital_kilobyte:
+          display_name: kB
+          unit_pattern_count_one: "{0} kB"
+          unit_pattern_count_other: "{0} kB"
+        digital_kilobit:
+          display_name: kb
+          unit_pattern_count_one: "{0} kb"
+          unit_pattern_count_other: "{0} kb"
+        digital_byte:
+          display_name: "बाइट"
+          unit_pattern_count_one: "{0} बाइट"
+          unit_pattern_count_other: "{0} बाइट"
+        digital_bit:
+          display_name: "बिट"
+          unit_pattern_count_one: "{0} बिट"
+          unit_pattern_count_other: "{0} बिट"
+        duration_century:
+          display_name: "शता"
+          unit_pattern_count_one: "{0} शता"
+          unit_pattern_count_other: "{0} शता"
+        duration_year:
+          display_name: "वर्ष"
+          unit_pattern_count_one: "{0}वर्ष"
+          unit_pattern_count_other: "{0}वर्ष"
+          per_unit_pattern: "{0}/वर्ष"
+        duration_month:
+          display_name: "माह"
+          unit_pattern_count_one: "{0}माह"
+          unit_pattern_count_other: "{0}माह"
+          per_unit_pattern: "{0}/माह"
+        duration_week:
+          display_name: "सप्ताह"
+          unit_pattern_count_one: "{0} सप्ताह"
+          unit_pattern_count_other: "{0} सप्ताह"
+          per_unit_pattern: "{0}/सप्ताह"
+        duration_day:
+          display_name: "दिन"
+          unit_pattern_count_one: "{0}दिन"
+          unit_pattern_count_other: "{0}दिन"
+          per_unit_pattern: "{0}/दिन"
+        duration_hour:
+          display_name: "घंटा"
+          unit_pattern_count_one: "{0}घं."
+          unit_pattern_count_other: "{0}घं."
+          per_unit_pattern: "{0} प्र. घं."
+        duration_minute:
+          display_name: "मिनट"
+          unit_pattern_count_one: "{0}मि."
+          unit_pattern_count_other: "{0}मि."
+          per_unit_pattern: "{0}/मिनट"
+        duration_second:
+          display_name: "सेकंड"
+          unit_pattern_count_one: "{0}से."
+          unit_pattern_count_other: "{0}से."
+          per_unit_pattern: "{0} प्र. से."
+        duration_millisecond:
+          display_name: "मि.से."
+          unit_pattern_count_one: "{0} मि.से."
+          unit_pattern_count_other: "{0} मि.से."
+        duration_microsecond:
+          display_name: "मा॰ सेक॰"
+          unit_pattern_count_one: "{0} मा॰ से॰"
+          unit_pattern_count_other: "{0} मा॰ से॰"
+        duration_nanosecond:
+          display_name: "नैनो से."
+          unit_pattern_count_one: "{0} नैनो से."
+          unit_pattern_count_other: "{0} नैनो से."
+        electric_ampere:
+          display_name: "एम्पी॰"
+          unit_pattern_count_one: "{0} ए॰"
+          unit_pattern_count_other: "{0} ए॰"
+        electric_milliampere:
+          display_name: "मि॰ ए॰"
+          unit_pattern_count_one: "{0} मि॰ ए॰"
+          unit_pattern_count_other: "{0} मि॰ ए॰"
+        electric_ohm:
+          display_name: "ओम"
+          unit_pattern_count_one: "{0} Ω"
+          unit_pattern_count_other: "{0} Ω"
+        electric_volt:
+          display_name: "वोल्ट"
+          unit_pattern_count_one: "{0} V"
+          unit_pattern_count_other: "{0} V"
+        energy_kilocalorie:
+          display_name: kcal
+          unit_pattern_count_one: "{0} kcal"
+          unit_pattern_count_other: "{0} kcal"
+        energy_calorie:
+          display_name: cal
+          unit_pattern_count_one: "{0} cal"
+          unit_pattern_count_other: "{0} cal"
+        energy_foodcalorie:
+          display_name: Cal
+          unit_pattern_count_one: "{0} Cal"
+          unit_pattern_count_other: "{0} Cal"
+        energy_kilojoule:
+          display_name: "किलो जूल"
+          unit_pattern_count_one: "{0} kJ"
+          unit_pattern_count_other: "{0} kJ"
+        energy_joule:
+          display_name: "जूल"
+          unit_pattern_count_one: "{0} J"
+          unit_pattern_count_other: "{0} J"
+        energy_kilowatt_hour:
+          display_name: kWh
+          unit_pattern_count_one: "{0} kWh"
+          unit_pattern_count_other: "{0} kWh"
+        frequency_gigahertz:
+          display_name: GHz
+          unit_pattern_count_one: "{0} GHz"
+          unit_pattern_count_other: "{0} GHz"
+        frequency_megahertz:
+          display_name: MHz
+          unit_pattern_count_one: "{0} MHz"
+          unit_pattern_count_other: "{0} MHz"
+        frequency_kilohertz:
+          display_name: kHz
+          unit_pattern_count_one: "{0} kHz"
+          unit_pattern_count_other: "{0} kHz"
+        frequency_hertz:
+          display_name: Hz
+          unit_pattern_count_one: "{0} Hz"
+          unit_pattern_count_other: "{0} Hz"
+        length_kilometer:
+          display_name: "कि.मी."
+          unit_pattern_count_one: "{0} कि.मी."
+          unit_pattern_count_other: "{0} कि.मी."
+          per_unit_pattern: "{0}/कि.मी."
+        length_meter:
+          display_name: "मीटर"
+          unit_pattern_count_one: "{0}मी"
+          unit_pattern_count_other: "{0}मी"
+          per_unit_pattern: "{0}/मी"
+        length_decimeter:
+          display_name: "डे.मी."
+          unit_pattern_count_one: "{0} डे.मी."
+          unit_pattern_count_other: "{0} डे.मी."
+        length_centimeter:
+          display_name: "सें.मी."
+          unit_pattern_count_one: "{0} सें.मी."
+          unit_pattern_count_other: "{0} सें.मी."
+          per_unit_pattern: "{0}/सें.मी."
+        length_millimeter:
+          display_name: "मि.मी."
+          unit_pattern_count_one: "{0} मि.मी."
+          unit_pattern_count_other: "{0} मि.मी."
+        length_micrometer:
+          display_name: "µ मा.मी."
+          unit_pattern_count_one: "{0} µ मा.मी."
+          unit_pattern_count_other: "{0} µ मा.मी."
+        length_nanometer:
+          display_name: "नै.मी."
+          unit_pattern_count_one: "{0} नै.मी."
+          unit_pattern_count_other: "{0} नै.मी."
+        length_picometer:
+          display_name: "पि.मी."
+          unit_pattern_count_one: "{0}पि.मी."
+          unit_pattern_count_other: "{0}पि.मी."
+        length_mile:
+          display_name: "मील"
+          unit_pattern_count_one: "{0}मील"
+          unit_pattern_count_other: "{0}मील"
+        length_yard:
+          display_name: "यार्ड"
+          unit_pattern_count_one: "{0}गज"
+          unit_pattern_count_other: "{0}गज"
+        length_foot:
+          display_name: "फ़ीट"
+          unit_pattern_count_one: "{0}′"
+          unit_pattern_count_other: "{0}′"
+          per_unit_pattern: "{0}/फ़ीट"
+        length_inch:
+          display_name: "इंच"
+          unit_pattern_count_one: "{0}″"
+          unit_pattern_count_other: "{0}″"
+          per_unit_pattern: "{0}/इंच"
+        length_parsec:
+          display_name: "पार्सेक"
+          unit_pattern_count_one: "{0} पार्सेक"
+          unit_pattern_count_other: "{0} पार्सेक"
+        length_light_year:
+          display_name: "प्रकाश वर्ष"
+          unit_pattern_count_one: "{0}प्र.व."
+          unit_pattern_count_other: "{0}प्र.व."
+        length_astronomical_unit:
+          display_name: "खगो. इका."
+          unit_pattern_count_one: "{0} खगो. इका."
+          unit_pattern_count_other: "{0} खगो. इका."
+        length_furlong:
+          display_name: fur
+          unit_pattern_count_other: "{0} fur"
+        length_fathom:
+          display_name: fm
+          unit_pattern_count_other: "{0} fm"
+        length_nautical_mile:
+          display_name: "नॉ. मी."
+          unit_pattern_count_one: "{0} नॉ. मी."
+          unit_pattern_count_other: "{0} नॉ. मी."
+        length_mile_scandinavian:
+          display_name: smi
+          unit_pattern_count_one: "{0} smi"
+          unit_pattern_count_other: "{0} smi"
+        light_lux:
+          display_name: "लक्स"
+          unit_pattern_count_one: "{0} lx"
+          unit_pattern_count_other: "{0} lx"
+        mass_metric_ton:
+          display_name: "मीट्रिक टन"
+          unit_pattern_count_one: "{0} मीट्रिक टन"
+          unit_pattern_count_other: "{0} मीट्रिक टन"
+        mass_kilogram:
+          display_name: "कि.ग्रा."
+          unit_pattern_count_one: "{0} कि.ग्रा."
+          unit_pattern_count_other: "{0} कि.ग्रा."
+          per_unit_pattern: "{0}/कि.ग्रा."
+        mass_gram:
+          display_name: "ग्राम"
+          unit_pattern_count_one: "{0} ग्रा."
+          unit_pattern_count_other: "{0} ग्रा."
+          per_unit_pattern: "{0}/ग्रा."
+        mass_milligram:
+          display_name: "मि.ग्रा."
+          unit_pattern_count_one: "{0} मि.ग्रा."
+          unit_pattern_count_other: "{0} मि.ग्रा."
+        mass_microgram:
+          display_name: "मा॰ग्रा॰"
+          unit_pattern_count_one: "{0} मा॰ग्रा॰"
+          unit_pattern_count_other: "{0} मा॰ग्रा॰"
+        mass_ton:
+          display_name: "टन"
+          unit_pattern_count_one: "{0} टन"
+          unit_pattern_count_other: "{0} टन"
+        mass_stone:
+          display_name: st
+          unit_pattern_count_other: "{0} st"
+        mass_pound:
+          display_name: "पौंड"
+          unit_pattern_count_one: "{0}#"
+          unit_pattern_count_other: "{0}#"
+          per_unit_pattern: "{0}/पौंड"
+        mass_ounce:
+          display_name: "औंस"
+          unit_pattern_count_one: "{0}औं."
+          unit_pattern_count_other: "{0}औं."
+          per_unit_pattern: "{0}/औंस"
+        mass_ounce_troy:
+          display_name: "ट्राई औंस"
+          unit_pattern_count_one: "{0} ट्राई औंस"
+          unit_pattern_count_other: "{0} ट्राई औंस"
+        mass_carat:
+          display_name: "कै॰"
+          unit_pattern_count_one: "{0} कै."
+          unit_pattern_count_other: "{0} कै."
+        power_gigawatt:
+          display_name: GW
+          unit_pattern_count_one: "{0} GW"
+          unit_pattern_count_other: "{0} GW"
+        power_megawatt:
+          display_name: MW
+          unit_pattern_count_one: "{0} MW"
+          unit_pattern_count_other: "{0} MW"
+        power_kilowatt:
+          display_name: kW
+          unit_pattern_count_one: "{0}कि.वॉ."
+          unit_pattern_count_other: "{0}कि.वॉ."
+        power_watt:
+          display_name: "वॉट"
+          unit_pattern_count_one: "{0}वॉ"
+          unit_pattern_count_other: "{0}वॉ"
+        power_milliwatt:
+          display_name: mW
+          unit_pattern_count_one: "{0} mW"
+          unit_pattern_count_other: "{0} mW"
+        power_horsepower:
+          display_name: hp
+          unit_pattern_count_one: "{0}एचपी"
+          unit_pattern_count_other: "{0}एचपी"
+        pressure_hectopascal:
+          display_name: hPa
+          unit_pattern_count_one: "{0}hPa"
+          unit_pattern_count_other: "{0}hPa"
+        pressure_millimeter_of_mercury:
+          display_name: mm Hg
+          unit_pattern_count_one: "{0} mm Hg"
+          unit_pattern_count_other: "{0} mm Hg"
+        pressure_pound_per_square_inch:
+          display_name: psi
+          unit_pattern_count_one: "{0} psi"
+          unit_pattern_count_other: "{0} psi"
+        pressure_inch_hg:
+          display_name: inHg
+          unit_pattern_count_one: '{0}\" Hg'
+          unit_pattern_count_other: '{0}\" Hg'
+        pressure_millibar:
+          display_name: mbar
+          unit_pattern_count_one: "{0}mb"
+          unit_pattern_count_other: "{0}mb"
+        proportion_karat:
+          display_name: "कैरट"
+          unit_pattern_count_one: "{0} kt"
+          unit_pattern_count_other: "{0} kt"
+        speed_kilometer_per_hour:
+          display_name: "कि.मी./घं."
+          unit_pattern_count_one: "{0}कि॰/घं॰"
+          unit_pattern_count_other: "{0}कि॰/घं॰"
+        speed_meter_per_second:
+          display_name: "मी./से."
+          unit_pattern_count_one: "{0}मी./से."
+          unit_pattern_count_other: "{0}मी./से."
+        speed_mile_per_hour:
+          display_name: "मील/घं."
+          unit_pattern_count_one: "{0}mph"
+          unit_pattern_count_other: "{0}mph"
+        speed_knot:
+          display_name: "नॉट"
+          unit_pattern_count_one: "{0} नॉट"
+          unit_pattern_count_other: "{0} नॉट"
+        temperature_generic:
+          display_name: "°"
+          unit_pattern_count_one: "{0}°"
+          unit_pattern_count_other: "{0}°"
+        temperature_celsius:
+          display_name: "°से."
+          unit_pattern_count_one: "{0}°से."
+          unit_pattern_count_other: "{0}°से."
+        temperature_fahrenheit:
+          display_name: "डिग्री फ़ेरनहाइट"
+          unit_pattern_count_one: "{0}°F"
+          unit_pattern_count_other: "{0}°F"
+        temperature_kelvin:
+          display_name: K
+          unit_pattern_count_one: "{0} K"
+          unit_pattern_count_other: "{0} K"
+        volume_cubic_kilometer:
+          display_name: "घन कि.मी."
+          unit_pattern_count_one: "{0}घन किमी"
+          unit_pattern_count_other: "{0}घन किमी"
+        volume_cubic_meter:
+          display_name: "घन मी."
+          unit_pattern_count_one: "{0} घन मी."
+          unit_pattern_count_other: "{0} घन मी."
+          per_unit_pattern: "{0}/घन मी."
+        volume_cubic_centimeter:
+          display_name: "घन सें. मी."
+          unit_pattern_count_one: "{0} घन सें. मी."
+          unit_pattern_count_other: "{0} घन सें. मी."
+          per_unit_pattern: "{0}/घन सें. मी."
+        volume_cubic_mile:
+          display_name: "घन मील"
+          unit_pattern_count_one: "{0}घन मील"
+          unit_pattern_count_other: "{0}घन मील"
+        volume_cubic_yard:
+          display_name: "घन या."
+          unit_pattern_count_one: "{0} घन या."
+          unit_pattern_count_other: "{0} घन या."
+        volume_cubic_foot:
+          display_name: "घ. फ़ी."
+          unit_pattern_count_one: "{0} घ. फ़ी."
+          unit_pattern_count_other: "{0} घ. फ़ी."
+        volume_cubic_inch:
+          display_name: "घन इंच"
+          unit_pattern_count_one: "{0} घन इंच"
+          unit_pattern_count_other: "{0} घन इंच"
+        volume_megaliter:
+          display_name: "मे. ली."
+          unit_pattern_count_one: "{0} मे. ली."
+          unit_pattern_count_other: "{0} मे. ली."
+        volume_hectoliter:
+          display_name: "है.ली."
+          unit_pattern_count_one: "{0} है.ली."
+          unit_pattern_count_other: "{0} है.ली."
+        volume_liter:
+          display_name: "लीटर"
+          unit_pattern_count_one: "{0}ली."
+          unit_pattern_count_other: "{0}ली."
+          per_unit_pattern: "{0}/ली."
+        volume_deciliter:
+          display_name: "डे.ली."
+          unit_pattern_count_one: "{0} डे.ली."
+          unit_pattern_count_other: "{0} डे.ली."
+        volume_centiliter:
+          display_name: "सें.ली."
+          unit_pattern_count_one: "{0} सें.ली."
+          unit_pattern_count_other: "{0} सें.ली."
+        volume_milliliter:
+          display_name: "मि. ली."
+          unit_pattern_count_one: "{0} मि. ली."
+          unit_pattern_count_other: "{0} मि. ली."
+        volume_pint_metric:
+          display_name: "मीट्रिक पिंट"
+          unit_pattern_count_one: "{0} मीट्रिक पिंट"
+          unit_pattern_count_other: "{0} मीट्रिक पिंट"
+        volume_cup_metric:
+          display_name: "मीट्रिक कप"
+          unit_pattern_count_one: "{0} मीट्रिक कप"
+          unit_pattern_count_other: "{0} मीट्रिक कप"
+        volume_acre_foot:
+          display_name: "एकड़ फ़ीट"
+          unit_pattern_count_one: "{0} ए.फ़ी."
+          unit_pattern_count_other: "{0} ए.फ़ी."
+        volume_bushel:
+          display_name: bu
+          unit_pattern_count_other: "{0} bu"
+        volume_gallon:
+          display_name: "गैलन"
+          unit_pattern_count_one: "{0} गैलन"
+          unit_pattern_count_other: "{0} गैलन"
+          per_unit_pattern: "{0}/गैलन"
+        volume_quart:
+          display_name: "क्वार्ट"
+          unit_pattern_count_one: "{0} क्वार्ट"
+          unit_pattern_count_other: "{0} क्वार्ट"
+        volume_pint:
+          display_name: "पिंट"
+          unit_pattern_count_one: "{0} पिंट"
+          unit_pattern_count_other: "{0} पिंट"
+        volume_cup:
+          display_name: "कप"
+          unit_pattern_count_one: "{0} कप"
+          unit_pattern_count_other: "{0} कप"
+        volume_fluid_ounce:
+          display_name: "फ़्लूइड आउंस"
+          unit_pattern_count_one: "{0} फ़्लूइड आउंस"
+          unit_pattern_count_other: "{0} फ़्लूइड आउंस"
+        volume_tablespoon:
+          display_name: "टे. स्पून"
+          unit_pattern_count_one: "{0} टे. स्पून"
+          unit_pattern_count_other: "{0} टे. स्पून"
+        volume_teaspoon:
+          display_name: "टी स्पून"
+          unit_pattern_count_one: "{0} टी स्पून"
+          unit_pattern_count_other: "{0} टी स्पून"
+        coordinate_unit:
+          east: "{0}E"
+          north: "{0}N"
+          south: "{0}S"
+          west: "{0}W"
+      duration_unit_type_hm:
+        duration_unit_pattern: h:mm
+      duration_unit_type_hms:
+        duration_unit_pattern: h:mm:ss
+      duration_unit_type_ms:
+        duration_unit_pattern: m:ss

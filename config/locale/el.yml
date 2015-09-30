@@ -1,0 +1,5294 @@
+---
+el:
+  cldr:
+    dates:
+      calendars:
+        gregorian:
+          months:
+            format:
+              abbreviated:
+                '1': "Ιαν"
+                '2': "Φεβ"
+                '3': "Μαρ"
+                '4': "Απρ"
+                '5': "Μαΐ"
+                '6': "Ιουν"
+                '7': "Ιουλ"
+                '8': "Αυγ"
+                '9': "Σεπ"
+                '10': "Οκτ"
+                '11': "Νοε"
+                '12': "Δεκ"
+              narrow:
+                '1': "Ι"
+                '2': "Φ"
+                '3': "Μ"
+                '4': "Α"
+                '5': "Μ"
+                '6': "Ι"
+                '7': "Ι"
+                '8': "Α"
+                '9': "Σ"
+                '10': "Ο"
+                '11': "Ν"
+                '12': "Δ"
+              wide:
+                '1': "Ιανουαρίου"
+                '2': "Φεβρουαρίου"
+                '3': "Μαρτίου"
+                '4': "Απριλίου"
+                '5': "Μαΐου"
+                '6': "Ιουνίου"
+                '7': "Ιουλίου"
+                '8': "Αυγούστου"
+                '9': "Σεπτεμβρίου"
+                '10': "Οκτωβρίου"
+                '11': "Νοεμβρίου"
+                '12': "Δεκεμβρίου"
+            stand_alone:
+              abbreviated:
+                '1': "Ιαν"
+                '2': "Φεβ"
+                '3': "Μάρ"
+                '4': "Απρ"
+                '5': "Μάι"
+                '6': "Ιούν"
+                '7': "Ιούλ"
+                '8': "Αύγ"
+                '9': "Σεπ"
+                '10': "Οκτ"
+                '11': "Νοέ"
+                '12': "Δεκ"
+              narrow:
+                '1': "Ι"
+                '2': "Φ"
+                '3': "Μ"
+                '4': "Α"
+                '5': "Μ"
+                '6': "Ι"
+                '7': "Ι"
+                '8': "Α"
+                '9': "Σ"
+                '10': "Ο"
+                '11': "Ν"
+                '12': "Δ"
+              wide:
+                '1': "Ιανουάριος"
+                '2': "Φεβρουάριος"
+                '3': "Μάρτιος"
+                '4': "Απρίλιος"
+                '5': "Μάιος"
+                '6': "Ιούνιος"
+                '7': "Ιούλιος"
+                '8': "Αύγουστος"
+                '9': "Σεπτέμβριος"
+                '10': "Οκτώβριος"
+                '11': "Νοέμβριος"
+                '12': "Δεκέμβριος"
+          days:
+            format:
+              abbreviated:
+                sun: "Κυρ"
+                mon: "Δευ"
+                tue: "Τρί"
+                wed: "Τετ"
+                thu: "Πέμ"
+                fri: "Παρ"
+                sat: "Σάβ"
+              narrow:
+                sun: "Κ"
+                mon: "Δ"
+                tue: "Τ"
+                wed: "Τ"
+                thu: "Π"
+                fri: "Π"
+                sat: "Σ"
+              short:
+                sun: "Κυ"
+                mon: "Δε"
+                tue: "Τρ"
+                wed: "Τε"
+                thu: "Πέ"
+                fri: "Πα"
+                sat: "Σά"
+              wide:
+                sun: "Κυριακή"
+                mon: "Δευτέρα"
+                tue: "Τρίτη"
+                wed: "Τετάρτη"
+                thu: "Πέμπτη"
+                fri: "Παρασκευή"
+                sat: "Σάββατο"
+            stand_alone:
+              abbreviated:
+                sun: "Κυρ"
+                mon: "Δευ"
+                tue: "Τρί"
+                wed: "Τετ"
+                thu: "Πέμ"
+                fri: "Παρ"
+                sat: "Σάβ"
+              narrow:
+                sun: "Κ"
+                mon: "Δ"
+                tue: "Τ"
+                wed: "Τ"
+                thu: "Π"
+                fri: "Π"
+                sat: "Σ"
+              short:
+                sun: "Κυ"
+                mon: "Δε"
+                tue: "Τρ"
+                wed: "Τε"
+                thu: "Πέ"
+                fri: "Πα"
+                sat: "Σά"
+              wide:
+                sun: "Κυριακή"
+                mon: "Δευτέρα"
+                tue: "Τρίτη"
+                wed: "Τετάρτη"
+                thu: "Πέμπτη"
+                fri: "Παρασκευή"
+                sat: "Σάββατο"
+          quarters:
+            format:
+              abbreviated:
+                '1': "Τ1"
+                '2': "Τ2"
+                '3': "Τ3"
+                '4': "Τ4"
+              narrow:
+                '1': '1'
+                '2': '2'
+                '3': '3'
+                '4': '4'
+              wide:
+                '1': 1ο τρίμηνο
+                '2': 2ο τρίμηνο
+                '3': 3ο τρίμηνο
+                '4': 4ο τρίμηνο
+            stand_alone:
+              abbreviated:
+                '1': "Τ1"
+                '2': "Τ2"
+                '3': "Τ3"
+                '4': "Τ4"
+              narrow:
+                '1': '1'
+                '2': '2'
+                '3': '3'
+                '4': '4'
+              wide:
+                '1': 1ο τρίμηνο
+                '2': 2ο τρίμηνο
+                '3': 3ο τρίμηνο
+                '4': 4ο τρίμηνο
+          day_periods:
+            format:
+              abbreviated:
+                am: "π.μ."
+                pm: "μ.μ."
+                morning1: "πρωί"
+                afternoon1: "μεσημ."
+                evening1: "απόγ."
+                night1: "βράδυ"
+              narrow:
+                am: "πμ"
+                pm: "μμ"
+                morning1: "πρωί"
+                afternoon1: "μεσημ."
+                evening1: "απόγ."
+                night1: "βράδυ"
+              wide:
+                am: "π.μ."
+                pm: "μ.μ."
+                morning1: "πρωί"
+                afternoon1: "μεσημέρι"
+                evening1: "απόγευμα"
+                night1: "βράδυ"
+            stand_alone:
+              abbreviated:
+                am: "π.μ."
+                pm: "μ.μ."
+                morning1: "πρωί"
+                afternoon1: "μεσημ."
+                evening1: "απόγ."
+                night1: "βράδυ"
+              narrow:
+                am: "π.μ."
+                pm: "μ.μ."
+                morning1: "πρωί"
+                afternoon1: "μεσημέρι"
+                evening1: "απόγευμα"
+                night1: "βράδυ"
+              wide:
+                am: "π.μ."
+                pm: "μ.μ."
+                morning1: "πρωί"
+                afternoon1: "μεσημέρι"
+                evening1: "απόγευμα"
+                night1: "βράδυ"
+          eras:
+            era_names:
+              '0': "προ Χριστού"
+              0_alt_variant: "πριν από την Κοινή Χρονολογία"
+              '1': "μετά Χριστόν"
+              1_alt_variant: "Κοινή Χρονολογία"
+            era_abbr:
+              '0': "π.Χ."
+              0_alt_variant: "π.Κ.Χ."
+              '1': "μ.Χ."
+              1_alt_variant: "ΚΧ"
+            era_narrow:
+              '0': "π.Χ."
+              0_alt_variant: "π.Κ.Χ."
+              '1': "μ.Χ."
+              1_alt_variant: "ΚΧ"
+          date_formats:
+            full: EEEE, d MMMM y
+            long: d MMMM y
+            medium: d MMM y
+            short: d/M/yy
+          time_formats:
+            full: h:mm:ss a zzzz
+            long: h:mm:ss a z
+            medium: h:mm:ss a
+            short: h:mm a
+          date_time_formats:
+            full: "{1} - {0}"
+            long: "{1} - {0}"
+            medium: "{1}, {0}"
+            short: "{1}, {0}"
+            available_formats:
+              d: d
+              e: ccc
+              ed: E d
+              ehm: E h:mm a
+              e_hm: E HH:mm
+              ehms: E h:mm:ss a
+              e_hms: E HH:mm:ss
+              gy: y G
+              gy_mmm: LLL y G
+              gy_mm_md: d MMM y G
+              gy_mmm_ed: E, d MMM y G
+              h: HH
+              hm: HH:mm
+              hms: HH:mm:ss
+              hmsv: HH:mm:ss v
+              hmv: HH:mm v
+              m: L
+              md: d/M
+              m_ed: E, d/M
+              mmm: LLL
+              mm_md: d MMM
+              mmm_ed: E, d MMM
+              mmm_md: d MMMM
+              mmmm_ed: E, d MMMM
+              ms: mm:ss
+              y: y
+              y_m: M/y
+              y_md: d/M/y
+              y_m_ed: E, d/M/y
+              y_mmm: MMM y
+              y_mm_md: d MMM y
+              y_mmm_ed: E, d MMM y
+              y_mmmm: MMMM y
+              y_qqq: y QQQ
+              y_qqqq: y QQQQ
+            append_items:
+              day: "{0} ({2}: {1})"
+              day_of_week: "{0} {1}"
+              era: "{1} {0}"
+              hour: "{0} ({2}: {1})"
+              minute: "{0} ({2}: {1})"
+              month: "{0} ({2}: {1})"
+              quarter: "{0} ({2}: {1})"
+              second: "{0} ({2}: {1})"
+              timezone: "{0} {1}"
+              week: "{0} ({2}: {1})"
+              year: "{1} {0}"
+            interval_formats:
+              interval_format_fallback: "{0} - {1}"
+              d:
+                d: d–d
+              h:
+                h: HH–HH
+              hm:
+                h: HH:mm–HH:mm
+                m: HH:mm–HH:mm
+              hmv:
+                h: HH:mm–HH:mm v
+                m: HH:mm–HH:mm v
+              hv:
+                h: HH–HH v
+              m:
+                m: M–M
+              md:
+                d: dd/MM – dd/MM
+                m: dd/MM – dd/MM
+              m_ed:
+                d: E, dd/MM – E, dd/MM
+                m: E, dd/MM – E, dd/MM
+              mmm:
+                m: MMM–MMM
+              mm_md:
+                d: dd–dd MMM
+                m: dd MMM – dd MMM
+              mmm_ed:
+                d: E, dd – E, dd MMM
+                m: E, dd MMM – E, dd MMM
+              y:
+                y: y–y
+              y_m:
+                m: MM/y – MM/y
+                y: MM/y – MM/y
+              y_md:
+                d: dd/MM/y – dd/MM/y
+                m: dd/MM/y – dd/MM/y
+                y: dd/MM/y – dd/MM/y
+              y_m_ed:
+                d: E, dd/MM/y – E, dd/MM/y
+                m: E, dd/MM/y – E, dd/MM/y
+                y: E, dd/MM/y – E, dd/MM/y
+              y_mmm:
+                m: MMM–MMM y
+                y: MMM y – MMM y
+              y_mm_md:
+                d: dd–dd MMM y
+                m: dd MMM – dd MMM y
+                y: dd MMM y – dd MMM y
+              y_mmm_ed:
+                d: E, dd MMM – E, dd MMM y
+                m: E, dd MMM – E, dd MMM y
+                y: E, dd MMM y – E, dd MMM y
+              y_mmmm:
+                m: LLLL–LLLL y
+                y: LLLL y – LLLL y
+      fields:
+        era:
+          display_name: "περίοδος"
+        year:
+          display_name: "έτος"
+          relative_type__1: "πέρσι"
+          relative_type_0: "φέτος"
+          relative_type_1: "επόμενο έτος"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "σε {0} έτος"
+            relative_time_pattern_count_other: "σε {0} έτη"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "πριν από {0} έτος"
+            relative_time_pattern_count_other: "πριν από {0} έτη"
+        year_short:
+          display_name: "έτ."
+          relative_type__1: "πέρσι"
+          relative_type_0: "φέτος"
+          relative_type_1: "επόμενο έτος"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "σε {0} έτος"
+            relative_time_pattern_count_other: "σε {0} έτη"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "πριν από {0} έτος"
+            relative_time_pattern_count_other: "πριν από {0} έτη"
+        year_narrow:
+          display_name: "έτ."
+          relative_type__1: "πέρσι"
+          relative_type_0: "φέτος"
+          relative_type_1: "επόμενο έτος"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "σε {0} έτος"
+            relative_time_pattern_count_other: "σε {0} έτη"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} έτος πριν"
+            relative_time_pattern_count_other: "{0} έτη πριν"
+        quarter:
+          display_name: "τρίμηνο"
+          relative_type__1: "προηγούμενο τρίμηνο"
+          relative_type_0: "τρέχον τρίμηνο"
+          relative_type_1: "επόμενο τρίμηνο"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "σε {0} τρίμηνο"
+            relative_time_pattern_count_other: "σε {0} τρίμηνα"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "πριν από {0} τρίμηνο"
+            relative_time_pattern_count_other: "πριν από {0} τρίμηνα"
+        quarter_short:
+          display_name: "τρίμ."
+          relative_type__1: "προηγ. τρίμ."
+          relative_type_0: "τρέχον τρίμ."
+          relative_type_1: "επόμ. τρίμ."
+          relative_time_type_future:
+            relative_time_pattern_count_one: "σε {0} τρίμ."
+            relative_time_pattern_count_other: "σε {0} τρίμ."
+          relative_time_type_past:
+            relative_time_pattern_count_one: "πριν από {0} τρίμ."
+            relative_time_pattern_count_other: "πριν από {0} τρίμ."
+        quarter_narrow:
+          display_name: "τρίμ."
+          relative_type__1: "προηγ. τρίμ."
+          relative_type_0: "τρέχον τρίμ."
+          relative_type_1: "επόμ. τρίμ."
+          relative_time_type_future:
+            relative_time_pattern_count_one: "σε {0} τρίμ."
+            relative_time_pattern_count_other: "σε {0} τρίμ."
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} τρίμ. πριν"
+            relative_time_pattern_count_other: "{0} τρίμ. πριν"
+        month:
+          display_name: "μήνας"
+          relative_type__1: "προηγούμενος μήνας"
+          relative_type_0: "τρέχων μήνας"
+          relative_type_1: "επόμενος μήνας"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "σε {0} μήνα"
+            relative_time_pattern_count_other: "σε {0} μήνες"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "πριν από {0} μήνα"
+            relative_time_pattern_count_other: "πριν από {0} μήνες"
+        month_short:
+          display_name: "μήν."
+          relative_type__1: "προηγούμενος μήνας"
+          relative_type_0: "τρέχων μήνας"
+          relative_type_1: "επόμενος μήνας"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "σε {0} μήνα"
+            relative_time_pattern_count_other: "σε {0} μήνες"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "πριν από {0} μήνα"
+            relative_time_pattern_count_other: "πριν από {0} μήνες"
+        month_narrow:
+          display_name: "μήν."
+          relative_type__1: "προηγούμενος μήνας"
+          relative_type_0: "τρέχων μήνας"
+          relative_type_1: "επόμενος μήνας"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "σε {0} μ."
+            relative_time_pattern_count_other: "σε {0} μ."
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} μ. πριν"
+            relative_time_pattern_count_other: "{0} μ. πριν"
+        week:
+          display_name: "εβδομάδα"
+          relative_type__1: "προηγούμενη εβδομάδα"
+          relative_type_0: "αυτήν την εβδομάδα"
+          relative_type_1: "επόμενη εβδομάδα"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "σε {0} εβδομάδα"
+            relative_time_pattern_count_other: "σε {0} εβδομάδες"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "πριν από {0} εβδομάδα"
+            relative_time_pattern_count_other: "πριν από {0} εβδομάδες"
+        week_short:
+          display_name: "εβδ."
+          relative_type__1: "προηγούμενη εβδομάδα"
+          relative_type_0: "αυτήν την εβδομάδα"
+          relative_type_1: "επόμενη εβδομάδα"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "σε {0} εβδ."
+            relative_time_pattern_count_other: "σε {0} εβδ."
+          relative_time_type_past:
+            relative_time_pattern_count_one: "πριν από {0} εβδ."
+            relative_time_pattern_count_other: "πριν από {0} εβδ."
+        week_narrow:
+          display_name: "εβδ."
+          relative_type__1: "προηγούμενη εβδομάδα"
+          relative_type_0: "αυτήν την εβδομάδα"
+          relative_type_1: "επόμενη εβδομάδα"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "σε {0} εβδ."
+            relative_time_pattern_count_other: "σε {0} εβδ."
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} εβδ. πριν"
+            relative_time_pattern_count_other: "{0} εβδ. πριν"
+        day:
+          display_name: "ημέρα"
+          relative_type__2: "προχθές"
+          relative_type__1: "χθες"
+          relative_type_0: "σήμερα"
+          relative_type_1: "αύριο"
+          relative_type_2: "μεθαύριο"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "σε {0} ημέρα"
+            relative_time_pattern_count_other: "σε {0} ημέρες"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "πριν από {0} ημέρα"
+            relative_time_pattern_count_other: "πριν από {0} ημέρες"
+        day_short:
+          display_name: "ημέρα"
+          relative_type__2: "προχθές"
+          relative_type__1: "χθες"
+          relative_type_0: "σήμερα"
+          relative_type_1: "αύριο"
+          relative_type_2: "μεθαύριο"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "σε {0} ημέρα"
+            relative_time_pattern_count_other: "σε {0} ημέρες"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "πριν από {0} ημέρα"
+            relative_time_pattern_count_other: "πριν από {0} ημέρες"
+        day_narrow:
+          display_name: "ημέρα"
+          relative_type__2: "προχθές"
+          relative_type__1: "χθες"
+          relative_type_0: "σήμερα"
+          relative_type_1: "αύριο"
+          relative_type_2: "μεθαύριο"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "σε {0} ημ."
+            relative_time_pattern_count_other: "σε {0} ημ."
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} ημ. πριν"
+            relative_time_pattern_count_other: "{0} ημ. πριν"
+        weekday:
+          display_name: "καθημερινή"
+        sun:
+          relative_type__1: "προηγούμενη Κυριακή"
+          relative_type_0: "αυτήν την Κυριακή"
+          relative_type_1: "επόμενη Κυριακή"
+        sun_short:
+          relative_type__1: "προηγ. Κυρ."
+          relative_type_0: "αυτήν την Κυρ."
+          relative_type_1: "επόμ. Κυρ."
+        sun_narrow:
+          relative_type__1: "προηγ. Κυ"
+          relative_type_0: "αυτήν την Κυ"
+          relative_type_1: "επόμ. Κυ"
+        mon:
+          relative_type__1: "προηγούμενη Δευτέρα"
+          relative_type_0: "αυτήν τη Δευτέρα"
+          relative_type_1: "επόμενη Δευτέρα"
+        mon_short:
+          relative_type__1: "προηγ. Δευτ."
+          relative_type_0: "αυτήν τη Δευτ."
+          relative_type_1: "επόμ. Δευτ."
+        mon_narrow:
+          relative_type__1: "προηγ. Δε"
+          relative_type_0: "αυτήν τη Δε"
+          relative_type_1: "επόμ. Δε"
+        tue:
+          relative_type__1: "προηγούμενη Τρίτη"
+          relative_type_0: "αυτήν την Τρίτη"
+          relative_type_1: "επόμενη Τρίτη"
+        tue_short:
+          relative_type__1: "προηγ. Τρ."
+          relative_type_0: "αυτήν την Τρ."
+          relative_type_1: "επόμ. Τρ."
+        tue_narrow:
+          relative_type__1: "προηγ. Τρ"
+          relative_type_0: "αυτήν την Τρ"
+          relative_type_1: "επόμ. Τρ"
+        wed:
+          relative_type__1: "προηγούμενη Τετάρτη"
+          relative_type_0: "αυτήν την Τετάρτη"
+          relative_type_1: "επόμενη Τετάρτη"
+        wed_short:
+          relative_type__1: "προηγ. Τετ."
+          relative_type_0: "αυτήν την Τετ."
+          relative_type_1: "επόμ. Τετ."
+        wed_narrow:
+          relative_type__1: "προηγ. Τε"
+          relative_type_0: "αυτήν την Τε"
+          relative_type_1: "επόμ. Τε"
+        thu:
+          relative_type__1: "προηγούμενη Πέμπτη"
+          relative_type_0: "αυτήν την Πέμπτη"
+          relative_type_1: "επόμενη Πέμπτη"
+        thu_short:
+          relative_type__1: "προηγ. Πέμ."
+          relative_type_0: "αυτήν την Πέμ."
+          relative_type_1: "επόμ. Πέμ."
+        thu_narrow:
+          relative_type__1: "προηγ. Πέ"
+          relative_type_0: "αυτήν την Πέ"
+          relative_type_1: "επόμ. Πέ"
+        fri:
+          relative_type__1: "προηγούμενη Παρασκευή"
+          relative_type_0: "αυτήν την Παρασκευή"
+          relative_type_1: "επόμενη Παρασκευή"
+        fri_short:
+          relative_type__1: "προηγ. Παρ."
+          relative_type_0: "αυτήν την Παρ."
+          relative_type_1: "επόμ. Παρ."
+        fri_narrow:
+          relative_type__1: "προηγ. Πα"
+          relative_type_0: "αυτήν την Πα"
+          relative_type_1: "επόμ. Πα"
+        sat:
+          relative_type__1: "προηγούμενο Σάββατο"
+          relative_type_0: "αυτό το Σάββατο"
+          relative_type_1: "επόμενο Σάββατο"
+        sat_short:
+          relative_type__1: "προηγ. Σάβ."
+          relative_type_0: "αυτό το Σάβ."
+          relative_type_1: "επόμ. Σάβ."
+        sat_narrow:
+          relative_type__1: "προηγ. Σά"
+          relative_type_0: "αυτό το Σά"
+          relative_type_1: "επόμ. Σά"
+        dayperiod:
+          display_name: "π.μ./μ.μ."
+        hour:
+          display_name: "ώρα"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "σε {0} ώρα"
+            relative_time_pattern_count_other: "σε {0} ώρες"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "πριν από {0} ώρα"
+            relative_time_pattern_count_other: "πριν από {0} ώρες"
+        hour_short:
+          display_name: "ώρ."
+          relative_time_type_future:
+            relative_time_pattern_count_one: "σε {0} ώρα"
+            relative_time_pattern_count_other: "σε {0} ώρ."
+          relative_time_type_past:
+            relative_time_pattern_count_one: "πριν από {0} ώρα"
+            relative_time_pattern_count_other: "πριν από {0} ώρ."
+        hour_narrow:
+          display_name: "ώ"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "σε {0} ώ."
+            relative_time_pattern_count_other: "σε {0} ώ."
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} ώ. πριν"
+            relative_time_pattern_count_other: "{0} ώ. πριν"
+        minute:
+          display_name: "λεπτό"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "σε {0} λεπτό"
+            relative_time_pattern_count_other: "σε {0} λεπτά"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "πριν από {0} λεπτό"
+            relative_time_pattern_count_other: "πριν από {0} λεπτά"
+        minute_short:
+          display_name: "λεπ."
+          relative_time_type_future:
+            relative_time_pattern_count_one: "σε {0} λεπ."
+            relative_time_pattern_count_other: "σε {0} λεπ."
+          relative_time_type_past:
+            relative_time_pattern_count_one: "πριν από {0} λεπ."
+            relative_time_pattern_count_other: "πριν από {0} λεπ."
+        minute_narrow:
+          display_name: "λ"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "σε {0} λ."
+            relative_time_pattern_count_other: "σε {0} λ."
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} λ. πριν"
+            relative_time_pattern_count_other: "{0} λ. πριν"
+        second:
+          display_name: "δευτερόλεπτο"
+          relative_type_0: "τώρα"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "σε {0} δευτερόλεπτο"
+            relative_time_pattern_count_other: "σε {0} δευτερόλεπτα"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "πριν από {0} δευτερόλεπτο"
+            relative_time_pattern_count_other: "πριν από {0} δευτερόλεπτα"
+        second_short:
+          display_name: "δευτ."
+          relative_type_0: "τώρα"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "σε {0} δευτ."
+            relative_time_pattern_count_other: "σε {0} δευτ."
+          relative_time_type_past:
+            relative_time_pattern_count_one: "πριν από {0} δευτ."
+            relative_time_pattern_count_other: "πριν από {0} δευτ."
+        second_narrow:
+          display_name: "δ"
+          relative_type_0: "τώρα"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "σε {0} δ."
+            relative_time_pattern_count_other: "σε {0} δ."
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} δ. πριν"
+            relative_time_pattern_count_other: "{0} δ. πριν"
+        zone:
+          display_name: "ζώνη ώρας"
+      time_zone_names:
+        hour_format: "+HH:mm;-HH:mm"
+        gmt_format: GMT{0}
+        gmt_zero_format: GMT
+        region_format: "Ώρα ({0})"
+        region_format_type_daylight: "Θερινή ώρα ({0})"
+        region_format_type_standard: "Χειμερινή ώρα ({0})"
+        fallback_format: "[{1} ({0})]"
+        zone:
+          america:
+            adak:
+              exemplar_city: "Άντακ"
+            anchorage:
+              exemplar_city: "Άνκορατζ"
+            anguilla:
+              exemplar_city: "Ανγκουίλα"
+            antigua:
+              exemplar_city: "Αντίγκουα"
+            araguaina:
+              exemplar_city: "Αραγκουάινα"
+            argentina:
+              rio_gallegos:
+                exemplar_city: "Ρίο Γκαγιέγκος"
+              san_juan:
+                exemplar_city: "Σαν Χουάν"
+              ushuaia:
+                exemplar_city: "Ουσουάια"
+              la_rioja:
+                exemplar_city: "Λα Ριόχα"
+              san_luis:
+                exemplar_city: "Σαν Λούις"
+              salta:
+                exemplar_city: "Σάλτα"
+              tucuman:
+                exemplar_city: "Τουκουμάν"
+            aruba:
+              exemplar_city: "Αρούμπα"
+            asuncion:
+              exemplar_city: "Ασουνσιόν"
+            bahia:
+              exemplar_city: "Μπάχια"
+            bahia_banderas:
+              exemplar_city: "Μπαχία Ντε Μπαντέρας"
+            barbados:
+              exemplar_city: "Μπαρμπάντος"
+            belem:
+              exemplar_city: "Μπέλεμ"
+            belize:
+              exemplar_city: "Μπελίζ"
+            blanc_sablon:
+              exemplar_city: "Μπλαν Σαμπλόν"
+            boa_vista:
+              exemplar_city: "Μπόα Βίστα"
+            bogota:
+              exemplar_city: "Μπογκοτά"
+            boise:
+              exemplar_city: "Μπόιζ"
+            buenos_aires:
+              exemplar_city: "Μπουένος Άιρες"
+            cambridge_bay:
+              exemplar_city: "Κέμπριτζ Μπέι"
+            campo_grande:
+              exemplar_city: "Κάμπο Γκράντε"
+            cancun:
+              exemplar_city: "Κανκούν"
+            caracas:
+              exemplar_city: "Καράκας"
+            catamarca:
+              exemplar_city: "Καταμάρκα"
+            cayenne:
+              exemplar_city: "Καγιένε"
+            cayman:
+              exemplar_city: "Κέιμαν"
+            chicago:
+              exemplar_city: "Σικάγο"
+            chihuahua:
+              exemplar_city: "Τσιουάουα"
+            coral_harbour:
+              exemplar_city: "Κόραλ Χάρμπουρ"
+            cordoba:
+              exemplar_city: "Κόρδοβα"
+            costa_rica:
+              exemplar_city: "Κόστα Ρίκα"
+            creston:
+              exemplar_city: "Κρέστον"
+            cuiaba:
+              exemplar_city: "Κουϊάμπα"
+            curacao:
+              exemplar_city: "Κουρασάο"
+            danmarkshavn:
+              exemplar_city: "Ντανμαρκσάβν"
+            dawson:
+              exemplar_city: "Ντόσον"
+            dawson_creek:
+              exemplar_city: "Ντόσον Κρικ"
+            denver:
+              exemplar_city: "Ντένβερ"
+            detroit:
+              exemplar_city: "Ντιτρόιτ"
+            dominica:
+              exemplar_city: "Δομινίκα"
+            edmonton:
+              exemplar_city: "Έντμοντον"
+            eirunepe:
+              exemplar_city: "Εϊρουνέπε"
+            el_salvador:
+              exemplar_city: "Ελ Σαλβαδόρ"
+            fortaleza:
+              exemplar_city: "Φορταλέζα"
+            glace_bay:
+              exemplar_city: "Γκλέις Μπέι"
+            godthab:
+              exemplar_city: "Γκόνθαμπ"
+            goose_bay:
+              exemplar_city: "Γκους Μπέι"
+            grand_turk:
+              exemplar_city: "Γκραντ Τουρκ"
+            grenada:
+              exemplar_city: "Γρενάδα"
+            guadeloupe:
+              exemplar_city: "Γουαδελούπη"
+            guatemala:
+              exemplar_city: "Γουατεμάλα"
+            guayaquil:
+              exemplar_city: "Γκουαγιακύλ"
+            guyana:
+              exemplar_city: "Γουιάνα"
+            halifax:
+              exemplar_city: "Χάλιφαξ"
+            havana:
+              exemplar_city: "Αβάνα"
+            hermosillo:
+              exemplar_city: "Ερμοσίγιο"
+            indiana:
+              vincennes:
+                exemplar_city: "Βίνκενες, Ιντιάνα"
+              petersburg:
+                exemplar_city: "Πίτερσμπεργκ, Ιντιάνα"
+              tell_city:
+                exemplar_city: "Τελ Σίτυ, Ιντιάνα"
+              knox:
+                exemplar_city: "Νοξ, Ιντιάνα"
+              winamac:
+                exemplar_city: "Γουίναμακ, Ιντιάνα"
+              marengo:
+                exemplar_city: "Μαρένγκο, Ιντιάνα"
+              vevay:
+                exemplar_city: "Βεβάι, Ιντιάνα"
+            indianapolis:
+              exemplar_city: "Ιντιανάπολις"
+            inuvik:
+              exemplar_city: "Ινούβικ"
+            iqaluit:
+              exemplar_city: "Ικαλούτ"
+            jamaica:
+              exemplar_city: "Τζαμάικα"
+            jujuy:
+              exemplar_city: "Χουχούι"
+            juneau:
+              exemplar_city: "Τζούνο"
+            kentucky:
+              monticello:
+                exemplar_city: "Μοντιτσέλο, Κεντάκι"
+            kralendijk:
+              exemplar_city: "Κραλέντικ"
+            la_paz:
+              exemplar_city: "Λα Παζ"
+            lima:
+              exemplar_city: "Λίμα"
+            los_angeles:
+              exemplar_city: "Λος Άντζελες"
+            louisville:
+              exemplar_city: "Λούισβιλ"
+            lower_princes:
+              exemplar_city: "Άγιος Μαρτίνος Ολλανδίας"
+            maceio:
+              exemplar_city: "Μασέιο"
+            managua:
+              exemplar_city: "Μανάγκουα"
+            manaus:
+              exemplar_city: "Μανάος"
+            marigot:
+              exemplar_city: "Μάριγκοτ"
+            martinique:
+              exemplar_city: "Μαρτινίκα"
+            matamoros:
+              exemplar_city: "Ματαμόρος"
+            mazatlan:
+              exemplar_city: "Μαζατλάν"
+            mendoza:
+              exemplar_city: "Μεντόζα"
+            menominee:
+              exemplar_city: "Μενομίνε"
+            merida:
+              exemplar_city: "Μέριντα"
+            metlakatla:
+              exemplar_city: "Μετλακάτλα"
+            mexico_city:
+              exemplar_city: "Πόλη του Μεξικού"
+            miquelon:
+              exemplar_city: "Μικελόν"
+            moncton:
+              exemplar_city: "Μονκτόν"
+            monterrey:
+              exemplar_city: "Μοντερέι"
+            montevideo:
+              exemplar_city: "Μοντεβιδέο"
+            montserrat:
+              exemplar_city: "Μονσεράτ"
+            nassau:
+              exemplar_city: "Νασάου"
+            new_york:
+              exemplar_city: "Νέα Υόρκη"
+            nipigon:
+              exemplar_city: "Νιπιγκόν"
+            nome:
+              exemplar_city: "Νόμε"
+            noronha:
+              exemplar_city: "Νορόνχα"
+            north_dakota:
+              beulah:
+                exemplar_city: "Μπέουλαχ, Βόρεια Ντακότα"
+              new_salem:
+                exemplar_city: "Νιου Σάλεμ, Βόρεια Ντακότα"
+              center:
+                exemplar_city: "Κέντρο, Βόρεια Ντακότα"
+            ojinaga:
+              exemplar_city: "Οχινάγκα"
+            panama:
+              exemplar_city: "Παναμάς"
+            pangnirtung:
+              exemplar_city: "Πανγκνίρτουνγκ"
+            paramaribo:
+              exemplar_city: "Παραμαρίμπο"
+            phoenix:
+              exemplar_city: "Φοίνιξ"
+            port_au_prince:
+              exemplar_city: "Πορτ-ο-Πρενς"
+            port_of_spain:
+              exemplar_city: "Πορτ οφ Σπέιν"
+            porto_velho:
+              exemplar_city: "Πόρτο Βέλο"
+            puerto_rico:
+              exemplar_city: "Πουέρτο Ρίκο"
+            rainy_river:
+              exemplar_city: "Ρέινι Ρίβερ"
+            rankin_inlet:
+              exemplar_city: "Ρέινκιν Ίνλετ"
+            recife:
+              exemplar_city: "Ρεσίφε"
+            regina:
+              exemplar_city: "Ρετζίνα"
+            resolute:
+              exemplar_city: "Ρέσολουτ"
+            rio_branco:
+              exemplar_city: "Ρίο Μπράνκο"
+            santa_isabel:
+              exemplar_city: "Σάντα Ιζαμπέλ"
+            santarem:
+              exemplar_city: "Σανταρέμ"
+            santiago:
+              exemplar_city: "Σαντιάγκο"
+            santo_domingo:
+              exemplar_city: "Άγιος Δομίνικος"
+            sao_paulo:
+              exemplar_city: "Σάο Πάολο"
+            scoresbysund:
+              exemplar_city: "Σκορεσμπίσουντ"
+            sitka:
+              exemplar_city: "Σίτκα"
+            st_barthelemy:
+              exemplar_city: "Άγιος Βαρθολομαίος"
+            st_johns:
+              exemplar_city: "Σεντ Τζονς"
+            st_kitts:
+              exemplar_city: "Άγιος Χριστόφορος (Σαιντ Κιτς)"
+            st_lucia:
+              exemplar_city: "Αγία Λουκία"
+            st_thomas:
+              exemplar_city: "Άγιος Θωμάς"
+            st_vincent:
+              exemplar_city: "Άγιος Βικέντιος"
+            swift_current:
+              exemplar_city: "Σουίφτ Κάρρεντ"
+            tegucigalpa:
+              exemplar_city: "Τεγκουσιγκάλπα"
+            thule:
+              exemplar_city: "Τούλε"
+            thunder_bay:
+              exemplar_city: "Θάντερ Μπέι"
+            tijuana:
+              exemplar_city: "Τιχουάνα"
+            toronto:
+              exemplar_city: "Τορόντο"
+            tortola:
+              exemplar_city: "Τορτόλα"
+            vancouver:
+              exemplar_city: "Βανκούβερ"
+            whitehorse:
+              exemplar_city: "Γουάιτχορς"
+            winnipeg:
+              exemplar_city: "Γουίνιπεγκ"
+            yakutat:
+              exemplar_city: "Γιακούτατ"
+            yellowknife:
+              exemplar_city: "Γέλοουναϊφ"
+          atlantic:
+            azores:
+              exemplar_city: "Αζόρες"
+            bermuda:
+              exemplar_city: "Βερμούδα"
+            canary:
+              exemplar_city: "Κανάρια"
+            cape_verde:
+              exemplar_city: "Πράσινο Ακρωτήριο"
+            faeroe:
+              exemplar_city: "Φερόες"
+            madeira:
+              exemplar_city: "Μαδέρα"
+            reykjavik:
+              exemplar_city: "Ρέυκιαβικ"
+            south_georgia:
+              exemplar_city: "Νότια Γεωργία"
+            st_helena:
+              exemplar_city: "Αγ. Ελένη"
+            stanley:
+              exemplar_city: "Στάνλεϋ"
+          europe:
+            amsterdam:
+              exemplar_city: "Άμστερνταμ"
+            andorra:
+              exemplar_city: "Ανδόρα"
+            athens:
+              exemplar_city: "Αθήνα"
+            belgrade:
+              exemplar_city: "Βελιγράδι"
+            berlin:
+              exemplar_city: "Βερολίνο"
+            bratislava:
+              exemplar_city: "Μπρατισλάβα"
+            brussels:
+              exemplar_city: "Βρυξέλλες"
+            bucharest:
+              exemplar_city: "Βουκουρέστι"
+            budapest:
+              exemplar_city: "Βουδαπέστη"
+            busingen:
+              exemplar_city: "Μπίσινγκεν"
+            chisinau:
+              exemplar_city: "Κισινάου"
+            copenhagen:
+              exemplar_city: "Κοπεγχάγη"
+            dublin:
+              long:
+                daylight: "Θερινή ώρα Ιρλανδίας"
+              exemplar_city: "Δουβλίνο"
+            gibraltar:
+              exemplar_city: "Γιβραλτάρ"
+            guernsey:
+              exemplar_city: "Γκέρνσεϊ"
+            helsinki:
+              exemplar_city: "Ελσίνκι"
+            isle_of_man:
+              exemplar_city: "Νήσος του Μαν"
+            istanbul:
+              exemplar_city: "Κωνσταντινούπολη"
+            jersey:
+              exemplar_city: "Τζέρσεϊ"
+            kaliningrad:
+              exemplar_city: "Καλίνινγκραντ"
+            kiev:
+              exemplar_city: "Κίεβο"
+            lisbon:
+              exemplar_city: "Λισαβόνα"
+            ljubljana:
+              exemplar_city: "Λιουμπλιάνα"
+            london:
+              long:
+                daylight: "Θερινή ώρα Βρετανίας"
+              exemplar_city: "Λονδίνο"
+            luxembourg:
+              exemplar_city: "Λουξεμβούργο"
+            madrid:
+              exemplar_city: "Μαδρίτη"
+            malta:
+              exemplar_city: "Μάλτα"
+            mariehamn:
+              exemplar_city: "Μαριέχαμν"
+            minsk:
+              exemplar_city: "Μινσκ"
+            monaco:
+              exemplar_city: "Μονακό"
+            moscow:
+              exemplar_city: "Μόσχα"
+            oslo:
+              exemplar_city: "Όσλο"
+            paris:
+              exemplar_city: "Παρίσι"
+            podgorica:
+              exemplar_city: "Ποντγκόριτσα"
+            prague:
+              exemplar_city: "Πράγα"
+            riga:
+              exemplar_city: "Ρίγα"
+            rome:
+              exemplar_city: "Ρώμη"
+            samara:
+              exemplar_city: "Σαμάρα"
+            san_marino:
+              exemplar_city: "Άγιος Μαρίνος"
+            sarajevo:
+              exemplar_city: "Σαράγεβο"
+            simferopol:
+              exemplar_city: "Συμφερόπολη"
+            skopje:
+              exemplar_city: "Σκόπια"
+            sofia:
+              exemplar_city: "Σόφια"
+            stockholm:
+              exemplar_city: "Στοκχόλμη"
+            tallinn:
+              exemplar_city: "Ταλίν"
+            tirane:
+              exemplar_city: "Τίρανα"
+            uzhgorod:
+              exemplar_city: "Ουζκόροντ"
+            vaduz:
+              exemplar_city: "Βαντούζ"
+            vatican:
+              exemplar_city: "Βατικανό"
+            vienna:
+              exemplar_city: "Βιέννη"
+            vilnius:
+              exemplar_city: "Βίλνιους"
+            volgograd:
+              exemplar_city: "Βόλγκοκραντ"
+            warsaw:
+              exemplar_city: "Βαρσοβία"
+            zagreb:
+              exemplar_city: "Ζάγκρεμπ"
+            zaporozhye:
+              exemplar_city: "Ζαπορόζιε"
+            zurich:
+              exemplar_city: "Ζυρίχη"
+          africa:
+            abidjan:
+              exemplar_city: "Αμπιτζάν"
+            accra:
+              exemplar_city: "Άκρα"
+            addis_ababa:
+              exemplar_city: "Αντίς Αμπέμπα"
+            algiers:
+              exemplar_city: "Αλγέρι"
+            asmera:
+              exemplar_city: "Ασμάρα"
+            bamako:
+              exemplar_city: "Μπαμάκο"
+            bangui:
+              exemplar_city: "Μπανγκί"
+            banjul:
+              exemplar_city: "Μπάνζουλ"
+            bissau:
+              exemplar_city: "Μπισάου"
+            blantyre:
+              exemplar_city: "Μπλαντάιρ"
+            brazzaville:
+              exemplar_city: "Μπράζαβιλ"
+            bujumbura:
+              exemplar_city: "Μπουζουμπούρα"
+            cairo:
+              exemplar_city: "Κάιρο"
+            casablanca:
+              exemplar_city: "Καζαμπλάνκα"
+            ceuta:
+              exemplar_city: "Κέουτα"
+            conakry:
+              exemplar_city: "Κόνακρι"
+            dakar:
+              exemplar_city: "Ντακάρ"
+            dar_es_salaam:
+              exemplar_city: "Νταρ Ες Σαλάμ"
+            djibouti:
+              exemplar_city: "Τζιμπουτί"
+            douala:
+              exemplar_city: "Ντουάλα"
+            el_aaiun:
+              exemplar_city: "Ελ Αγιούν"
+            freetown:
+              exemplar_city: "Φρίταουν"
+            gaborone:
+              exemplar_city: "Γκαμπορόνε"
+            harare:
+              exemplar_city: "Χαράρε"
+            johannesburg:
+              exemplar_city: "Γιοχάνεσμπουργκ"
+            juba:
+              exemplar_city: "Γιούμπα"
+            kampala:
+              exemplar_city: "Καμπάλα"
+            khartoum:
+              exemplar_city: "Χαρτούμ"
+            kigali:
+              exemplar_city: "Κιγκάλι"
+            kinshasa:
+              exemplar_city: "Κινσάσα"
+            lagos:
+              exemplar_city: "Λάγκος"
+            libreville:
+              exemplar_city: "Λιμπρεβίλ"
+            lome:
+              exemplar_city: "Λομέ"
+            luanda:
+              exemplar_city: "Λουάντα"
+            lubumbashi:
+              exemplar_city: "Λουμπουμπάσι"
+            lusaka:
+              exemplar_city: "Λουζάκα"
+            malabo:
+              exemplar_city: "Μαλάμπο"
+            maputo:
+              exemplar_city: "Μαπούτο"
+            maseru:
+              exemplar_city: "Μασέρου"
+            mbabane:
+              exemplar_city: "Μπαμπάνε"
+            mogadishu:
+              exemplar_city: "Μογκαντίσου"
+            monrovia:
+              exemplar_city: "Μονρόβια"
+            nairobi:
+              exemplar_city: "Ναϊρόμπι"
+            ndjamena:
+              exemplar_city: "Ντζαμένα"
+            niamey:
+              exemplar_city: "Νιαμέι"
+            nouakchott:
+              exemplar_city: "Νουακσότ"
+            ouagadougou:
+              exemplar_city: "Ουαγκαντούγκου"
+            porto_novo:
+              exemplar_city: "Πόρτο-Νόβο"
+            sao_tome:
+              exemplar_city: "Σάο Τομέ"
+            tripoli:
+              exemplar_city: "Τρίπολη"
+            tunis:
+              exemplar_city: "Τύνιδα"
+            windhoek:
+              exemplar_city: "Βίντχουκ"
+          asia:
+            aden:
+              exemplar_city: "Άντεν"
+            almaty:
+              exemplar_city: "Αλμάτυ"
+            amman:
+              exemplar_city: "Αμμάν"
+            anadyr:
+              exemplar_city: "Αναντίρ"
+            aqtau:
+              exemplar_city: "Ακτάου"
+            aqtobe:
+              exemplar_city: "Ακτόμπε"
+            ashgabat:
+              exemplar_city: "Ασχαμπάτ"
+            baghdad:
+              exemplar_city: "Βαγδάτη"
+            bahrain:
+              exemplar_city: "Μπαχρέιν"
+            baku:
+              exemplar_city: "Μπακού"
+            bangkok:
+              exemplar_city: "Μπανγκόκ"
+            beirut:
+              exemplar_city: "Βυρητός"
+            bishkek:
+              exemplar_city: "Μπισκέκ"
+            brunei:
+              exemplar_city: "Μπρουνέι"
+            calcutta:
+              exemplar_city: "Καλκούτα"
+            chita:
+              exemplar_city: "Τσίτα"
+            choibalsan:
+              exemplar_city: "Χόιμπαλσαν"
+            colombo:
+              exemplar_city: "Κολόμπο"
+            damascus:
+              exemplar_city: "Δαμασκός"
+            dhaka:
+              exemplar_city: "Ντάκα"
+            dili:
+              exemplar_city: "Ντίλι"
+            dubai:
+              exemplar_city: "Ντουμπάι"
+            dushanbe:
+              exemplar_city: "Ντουσάμπε"
+            gaza:
+              exemplar_city: "Γάζα"
+            hebron:
+              exemplar_city: "Χεμπρόν"
+            hong_kong:
+              exemplar_city: "Χονγκ Κονγκ"
+            hovd:
+              exemplar_city: "Χοβντ"
+            irkutsk:
+              exemplar_city: "Ιρκούτσκ"
+            jakarta:
+              exemplar_city: "Τζακάρτα"
+            jayapura:
+              exemplar_city: "Χαγιαπούρα"
+            jerusalem:
+              exemplar_city: "Ιερουσαλήμ"
+            kabul:
+              exemplar_city: "Καμπούλ"
+            kamchatka:
+              exemplar_city: "Καμτσάτκα"
+            karachi:
+              exemplar_city: "Καράτσι"
+            katmandu:
+              exemplar_city: "Κατμαντού"
+            khandyga:
+              exemplar_city: "Χαντίγκα"
+            krasnoyarsk:
+              exemplar_city: "Κρασνογιάρσκ"
+            kuala_lumpur:
+              exemplar_city: "Κουάλα Λουμπούρ"
+            kuching:
+              exemplar_city: "Κουτσίνγκ"
+            kuwait:
+              exemplar_city: "Κουβέιτ"
+            macau:
+              exemplar_city: "Μακάο"
+            magadan:
+              exemplar_city: "Μαγκαντάν"
+            makassar:
+              exemplar_city: "Μακασάρ"
+            manila:
+              exemplar_city: "Μανίλα"
+            muscat:
+              exemplar_city: "Μασκάτ"
+            nicosia:
+              exemplar_city: "Λευκωσία"
+            novokuznetsk:
+              exemplar_city: "Νοβοκουζνέτσκ"
+            novosibirsk:
+              exemplar_city: "Νοβοσιμπίρσκ"
+            omsk:
+              exemplar_city: "Ομσκ"
+            oral:
+              exemplar_city: "Όραλ"
+            phnom_penh:
+              exemplar_city: "Πνομ Πενχ"
+            pontianak:
+              exemplar_city: "Πόντιανακ"
+            pyongyang:
+              exemplar_city: "Πιονγκγιάνγκ"
+            qatar:
+              exemplar_city: "Κατάρ"
+            qyzylorda:
+              exemplar_city: "Κτζιλ-Ορντά"
+            rangoon:
+              exemplar_city: "Ρανγκούν"
+            riyadh:
+              exemplar_city: "Ριάντ"
+            saigon:
+              exemplar_city: "Πόλη Χο Τσι Μινχ"
+            sakhalin:
+              exemplar_city: "Σακαλίνσκ"
+            samarkand:
+              exemplar_city: "Σαμαρκάνδη"
+            seoul:
+              exemplar_city: "Σεούλ"
+            shanghai:
+              exemplar_city: "Σανγκάη"
+            singapore:
+              exemplar_city: "Σιγκαπούρη"
+            srednekolymsk:
+              exemplar_city: "Σρεντνεκόλιμσκ"
+            taipei:
+              exemplar_city: "Ταϊπέι"
+            tashkent:
+              exemplar_city: "Τασκένδη"
+            tbilisi:
+              exemplar_city: "Τιφλίδα"
+            tehran:
+              exemplar_city: "Τεχεράνη"
+            thimphu:
+              exemplar_city: "Τρίμφου"
+            tokyo:
+              exemplar_city: "Τόκυο"
+            ulaanbaatar:
+              exemplar_city: "Ουλάν Μπατόρ"
+            urumqi:
+              exemplar_city: "Ουρουμκί"
+            ust_nera:
+              exemplar_city: "Ουστ-Νερά"
+            vientiane:
+              exemplar_city: "Βιεντιάνε"
+            vladivostok:
+              exemplar_city: "Βλαδιβοστόκ"
+            yakutsk:
+              exemplar_city: "Γιάκουτσκ"
+            yekaterinburg:
+              exemplar_city: "Αικατερίνμπουργκ"
+            yerevan:
+              exemplar_city: "Γερεβάν"
+          indian:
+            antananarivo:
+              exemplar_city: "Ανταναναρίβο"
+            chagos:
+              exemplar_city: "Τσάγκος"
+            christmas:
+              exemplar_city: "Χριστούγεννα"
+            cocos:
+              exemplar_city: "Κόκος"
+            comoro:
+              exemplar_city: "Κομόρο"
+            kerguelen:
+              exemplar_city: "Κέργκουελεν"
+            mahe:
+              exemplar_city: "Μάχε"
+            maldives:
+              exemplar_city: "Μαλδίβες"
+            mauritius:
+              exemplar_city: "Μαυρίκιος"
+            mayotte:
+              exemplar_city: "Μαγιότε"
+            reunion:
+              exemplar_city: "Ρεϊνιόν"
+          australia:
+            adelaide:
+              exemplar_city: "Αδελαΐδα"
+            brisbane:
+              exemplar_city: "Μπρισμπέιν"
+            broken_hill:
+              exemplar_city: "Μπρόκεν Χιλ"
+            currie:
+              exemplar_city: "Κιουρί"
+            darwin:
+              exemplar_city: "Ντάργουιν"
+            eucla:
+              exemplar_city: "Εούκλα"
+            hobart:
+              exemplar_city: "Χόμπαρτ"
+            lindeman:
+              exemplar_city: "Λίντεμαν"
+            lord_howe:
+              exemplar_city: "Λορντ Χάουι"
+            melbourne:
+              exemplar_city: "Μελβούρνη"
+            perth:
+              exemplar_city: "Περθ"
+            sydney:
+              exemplar_city: "Σίδνεϊ"
+          pacific:
+            apia:
+              exemplar_city: "Άπια"
+            auckland:
+              exemplar_city: "Όκλαντ"
+            bougainville:
+              exemplar_city: "Μπουγκενβίλ"
+            chatham:
+              exemplar_city: "Τσάταμ"
+            easter:
+              exemplar_city: "Νήσος Πάσχα"
+            efate:
+              exemplar_city: "Εφάτε"
+            enderbury:
+              exemplar_city: "Εντερμπέρυ"
+            fakaofo:
+              exemplar_city: "Φακαόφο"
+            fiji:
+              exemplar_city: "Φίτζι"
+            funafuti:
+              exemplar_city: "Φουναφούτι"
+            galapagos:
+              exemplar_city: "Γκαλαπάγκος"
+            gambier:
+              exemplar_city: "Γκάμπιερ"
+            guadalcanal:
+              exemplar_city: "Γκουανταλκανάλ"
+            guam:
+              exemplar_city: "Γκουάμ"
+            honolulu:
+              exemplar_city: "Χονολουλού"
+            johnston:
+              exemplar_city: "Τζόνστον"
+            kiritimati:
+              exemplar_city: "Κιριτιμάτι"
+            kosrae:
+              exemplar_city: "Κοσράη"
+            kwajalein:
+              exemplar_city: "Κουαχαλέιν"
+            majuro:
+              exemplar_city: "Μαχούρο"
+            marquesas:
+              exemplar_city: "Μαρκέσας"
+            midway:
+              exemplar_city: "Μίντγουεϊ"
+            nauru:
+              exemplar_city: "Ναούρου"
+            niue:
+              exemplar_city: "Νιούε"
+            norfolk:
+              exemplar_city: "Νόρφολκ"
+            noumea:
+              exemplar_city: "Νουμέα"
+            pago_pago:
+              exemplar_city: "Πάγκο Πάγκο"
+            palau:
+              exemplar_city: "Παλάου"
+            pitcairn:
+              exemplar_city: "Πίτκερν"
+            ponape:
+              exemplar_city: "Πονάπε"
+            port_moresby:
+              exemplar_city: "Πορτ Μόρεσμπυ"
+            rarotonga:
+              exemplar_city: "Ραροτόνγκα"
+            saipan:
+              exemplar_city: "Σάιπαν"
+            tahiti:
+              exemplar_city: "Ταϊτή"
+            tarawa:
+              exemplar_city: "Ταράουα"
+            tongatapu:
+              exemplar_city: "Τονγκατάπου"
+            truk:
+              exemplar_city: "Τσουκ"
+            wake:
+              exemplar_city: "Γουέικ"
+            wallis:
+              exemplar_city: "Γουόλις"
+          arctic:
+            longyearbyen:
+              exemplar_city: "Λόνγκιεαρμπιεν"
+          antarctica:
+            casey:
+              exemplar_city: "Κάσεϊ"
+            davis:
+              exemplar_city: "Ντέιβις"
+            dumont_d_urville:
+              exemplar_city: "Ντιμόντ Ντερβίλ"
+            macquarie:
+              exemplar_city: "Μακουάρι"
+            mawson:
+              exemplar_city: "Μόουσον"
+            mc_murdo:
+              exemplar_city: "Μακμέρντο"
+            palmer:
+              exemplar_city: "Πάλμερ"
+            rothera:
+              exemplar_city: "Ροθέρα"
+            syowa:
+              exemplar_city: "Σίοβα"
+            troll:
+              exemplar_city: "Τρολ"
+            vostok:
+              exemplar_city: "Βόστοκ"
+          etc:
+            gmt:
+              exemplar_city: GMT
+            gmt1:
+              exemplar_city: GMT+1
+            gmt10:
+              exemplar_city: GMT+10
+            gmt11:
+              exemplar_city: GMT+11
+            gmt12:
+              exemplar_city: GMT+12
+            gmt2:
+              exemplar_city: GMT+2
+            gmt3:
+              exemplar_city: GMT+3
+            gmt4:
+              exemplar_city: GMT+4
+            gmt5:
+              exemplar_city: GMT+5
+            gmt6:
+              exemplar_city: GMT+6
+            gmt7:
+              exemplar_city: GMT+7
+            gmt8:
+              exemplar_city: GMT+8
+            gmt9:
+              exemplar_city: GMT+9
+            gmt_1:
+              exemplar_city: GMT-1
+            gmt_10:
+              exemplar_city: GMT-10
+            gmt_11:
+              exemplar_city: GMT-11
+            gmt_12:
+              exemplar_city: GMT-12
+            gmt_13:
+              exemplar_city: GMT-13
+            gmt_14:
+              exemplar_city: GMT-14
+            gmt_2:
+              exemplar_city: GMT-2
+            gmt_3:
+              exemplar_city: GMT-3
+            gmt_4:
+              exemplar_city: GMT-4
+            gmt_5:
+              exemplar_city: GMT-5
+            gmt_6:
+              exemplar_city: GMT-6
+            gmt_7:
+              exemplar_city: GMT-7
+            gmt_8:
+              exemplar_city: GMT-8
+            gmt_9:
+              exemplar_city: GMT-9
+            unknown:
+              exemplar_city: "Άγνωστη πόλη"
+        metazone:
+          afghanistan:
+            long:
+              standard: "Ώρα Αφγανιστάν"
+          africa_central:
+            long:
+              standard: "Ώρα Κεντρικής Αφρικής"
+          africa_eastern:
+            long:
+              standard: "Ώρα Ανατολικής Αφρικής"
+          africa_southern:
+            long:
+              standard: "Χειμερινή ώρα Νότιας Αφρικής"
+          africa_western:
+            long:
+              generic: "Ώρα Δυτικής Αφρικής"
+              standard: "Χειμερινή ώρα Δυτικής Αφρικής"
+              daylight: "Θερινή ώρα Δυτικής Αφρικής"
+          alaska:
+            long:
+              generic: "Ώρα Αλάσκας"
+              standard: "Χειμερινή ώρα Αλάσκας"
+              daylight: "Θερινή ώρα Αλάσκας"
+          amazon:
+            long:
+              generic: "Ώρα Αμαζονίου"
+              standard: "Χειμερινή ώρα Αμαζονίου"
+              daylight: "Θερινή ώρα Αμαζονίου"
+          america_central:
+            long:
+              generic: "Κεντρική ώρα Βόρειας Αμερικής"
+              standard: "Κεντρική χειμερινή ώρα Βόρειας Αμερικής"
+              daylight: "Κεντρική θερινή ώρα Βόρειας Αμερικής"
+          america_eastern:
+            long:
+              generic: "Ανατολική ώρα Βόρειας Αμερικής"
+              standard: "Ανατολική χειμερινή ώρα Βόρειας Αμερικής"
+              daylight: "Ανατολική θερινή ώρα Βόρειας Αμερικής"
+          america_mountain:
+            long:
+              generic: "Ορεινή ώρα Βόρειας Αμερικής"
+              standard: "Ορεινή χειμερινή ώρα Βόρειας Αμερικής"
+              daylight: "Ορεινή θερινή ώρα Βόρειας Αμερικής"
+          america_pacific:
+            long:
+              generic: "Ώρα Βόρειας Αμερικής"
+              standard: "Χειμερινή ώρα Βόρειας Αμερικής"
+              daylight: "Θερινή ώρα Βόρειας Αμερικής"
+          anadyr:
+            long:
+              generic: "Ώρα Αναντίρ"
+              standard: "Χειμερινή ώρα Αναντίρ"
+              daylight: "Θερινή ώρα Αναντίρ"
+          apia:
+            long:
+              generic: "Ώρα Απία"
+              standard: "Χειμερινή ώρα Απία"
+              daylight: "Θερινή ώρα Απία"
+          arabian:
+            long:
+              generic: "Αραβική ώρα"
+              standard: "Αραβική χειμερινή ώρα"
+              daylight: "Αραβική θερινή ώρα"
+          argentina:
+            long:
+              generic: "Ώρα Αργεντινής"
+              standard: "Χειμερινή ώρα Αργεντινής"
+              daylight: "Θερινή ώρα Αργεντινής"
+          argentina_western:
+            long:
+              generic: "Ώρα Δυτικής Αργεντινής"
+              standard: "Χειμερινή ώρα Δυτικής Αργεντινής"
+              daylight: "Θερινή ώρα Δυτικής Αργεντινής"
+          armenia:
+            long:
+              generic: "Ώρα Αρμενίας"
+              standard: "Χειμερινή ώρα Αρμενίας"
+              daylight: "Θερινή ώρα Αρμενίας"
+          atlantic:
+            long:
+              generic: "Ώρα Ατλαντικού"
+              standard: "Χειμερινή ώρα Ατλαντικού"
+              daylight: "Θερινή ώρα Ατλαντικού"
+          australia_central:
+            long:
+              generic: "Ώρα Κεντρικής Αυστραλίας"
+              standard: "Χειμερινή ώρα Κεντρικής Αυστραλίας"
+              daylight: "Θερινή ώρα Κεντρικής Αυστραλίας"
+          australia_central_western:
+            long:
+              generic: "Ώρα Κεντροδυτικής Αυστραλίας"
+              standard: "Χειμερινή ώρα Κεντροδυτικής Αυστραλίας"
+              daylight: "Θερινή ώρα Κεντροδυτικής Αυστραλίας"
+          australia_eastern:
+            long:
+              generic: "Ώρα Ανατολικής Αυστραλίας"
+              standard: "Χειμερινή ώρα Ανατολικής Αυστραλίας"
+              daylight: "Θερινή ώρα Ανατολικής Αυστραλίας"
+          australia_western:
+            long:
+              generic: "Ώρα Δυτικής Αυστραλίας"
+              standard: "Χειμερινή ώρα Δυτικής Αυστραλίας"
+              daylight: "Θερινή ώρα Δυτικής Αυστραλίας"
+          azerbaijan:
+            long:
+              generic: "Ώρα Αζερμπαϊτζάν"
+              standard: "Χειμερινή ώρα Αζερμπαϊτζάν"
+              daylight: "Θερινή ώρα Αζερμπαϊτζάν"
+          azores:
+            long:
+              generic: "Ώρα Αζορών"
+              standard: "Χειμερινή ώρα Αζορών"
+              daylight: "Θερινή ώρα Αζορών"
+          bangladesh:
+            long:
+              generic: "Ώρα Μπανγκλαντές"
+              standard: "Χειμερινή ώρα Μπανγκλαντές"
+              daylight: "Θερινή ώρα Μπανγκλαντές"
+          bhutan:
+            long:
+              standard: "Ώρα Μπουτάν"
+          bolivia:
+            long:
+              standard: "Ώρα Βολιβίας"
+          brasilia:
+            long:
+              generic: "Ώρα Μπραζίλια"
+              standard: "Χειμερινή ώρα Μπραζίλια"
+              daylight: "Θερινή ώρα Μπραζίλια"
+          brunei:
+            long:
+              standard: "Ώρα Μπρουνέι Νταρουσαλάμ"
+          cape_verde:
+            long:
+              generic: "Ώρα Πράσινου Ακρωτηρίου"
+              standard: "Χειμερινή ώρα Πράσινου Ακρωτηρίου"
+              daylight: "Θερινή ώρα Πράσινου Ακρωτηρίου"
+          chamorro:
+            long:
+              standard: "Ώρα Τσαμόρο"
+          chatham:
+            long:
+              generic: "Ώρα Τσάθαμ"
+              standard: "Χειμερινή ώρα Τσάθαμ"
+              daylight: "Θερινή ώρα Τσάθαμ"
+          chile:
+            long:
+              generic: "Ώρα Χιλής"
+              standard: "Χειμερινή ώρα Χιλής"
+              daylight: "Θερινή ώρα Χιλής"
+          china:
+            long:
+              generic: "Ώρα Κίνας"
+              standard: "Χειμερινή ώρα Κίνας"
+              daylight: "Θερινή ώρα Κίνας"
+          choibalsan:
+            long:
+              generic: "Ώρα Τσοϊμπαλσάν"
+              standard: "Χειμερινή ώρα Τσοϊμπαλσάν"
+              daylight: "Θερινή ώρα Τσοϊμπαλσάν"
+          christmas:
+            long:
+              standard: "Ώρα Νησιού Χριστουγέννων"
+          cocos:
+            long:
+              standard: "Ώρα Νησιών Κόκος"
+          colombia:
+            long:
+              generic: "Ώρα Κολομβίας"
+              standard: "Χειμερινή ώρα Κολομβίας"
+              daylight: "Θερινή ώρα Κολομβίας"
+          cook:
+            long:
+              generic: "Ώρα Νησιών Κουκ"
+              standard: "Χειμερινή ώρα Νησιών Κουκ"
+              daylight: "Θερινή ώρα Νησιών Κουκ"
+          cuba:
+            long:
+              generic: "Ώρα Κούβας"
+              standard: "Χειμερινή ώρα Κούβας"
+              daylight: "Θερινή ώρα Κούβας"
+          davis:
+            long:
+              standard: "Ώρα Ντέιβις"
+          dumont_d_urville:
+            long:
+              standard: "Ώρα Ντιμόντ Ντερβίλ"
+          east_timor:
+            long:
+              standard: "Ώρα Ανατολικού Τιμόρ"
+          easter:
+            long:
+              generic: "Ώρα Νησιού Πάσχα"
+              standard: "Χειμερινή ώρα Νησιού Πάσχα"
+              daylight: "Θερινή ώρα Νησιού Πάσχα"
+          ecuador:
+            long:
+              standard: "Ώρα Εκουαδόρ"
+          europe_central:
+            long:
+              generic: "Ώρα Κεντρικής Ευρώπης"
+              standard: "Χειμερινή ώρα Κεντρικής Ευρώπης"
+              daylight: "Θερινή ώρα Κεντρικής Ευρώπης"
+            short:
+              generic: CET
+              standard: CET
+              daylight: CEST
+          europe_eastern:
+            long:
+              generic: "Ώρα Ανατολικής Ευρώπης"
+              standard: "Χειμερινή ώρα Ανατολικής Ευρώπης"
+              daylight: "Θερινή ώρα Ανατολικής Ευρώπης"
+            short:
+              generic: EET
+              standard: EET
+              daylight: EEST
+          europe_further_eastern:
+            long:
+              standard: "Ώρα περαιτέρω Ανατολικής Ευρώπης"
+          europe_western:
+            long:
+              generic: "Ώρα Δυτικής Ευρώπης"
+              standard: "Χειμερινή ώρα Δυτικής Ευρώπης"
+              daylight: "Θερινή ώρα Δυτικής Ευρώπης"
+            short:
+              generic: WET
+              standard: WET
+              daylight: WEST
+          falkland:
+            long:
+              generic: "Ώρα Νησιών Φώκλαντ"
+              standard: "Χειμερινή ώρα Νησιών Φώκλαντ"
+              daylight: "Θερινή ώρα Νησιών Φώκλαντ"
+          fiji:
+            long:
+              generic: "Ώρα Φίτζι"
+              standard: "Χειμερινή ώρα Φίτζι"
+              daylight: "Θερινή ώρα Φίτζι"
+          french_guiana:
+            long:
+              standard: "Ώρα Γαλλικής Γουιάνας"
+          french_southern:
+            long:
+              standard: "Ώρα Γαλλικού Νότου και Ανταρκτικής"
+          galapagos:
+            long:
+              standard: "Ώρα Γκαλάπαγκος"
+          gambier:
+            long:
+              standard: "Ώρα Γκάμπιερ"
+          georgia:
+            long:
+              generic: "Ώρα Γεωργίας"
+              standard: "Χειμερινή ώρα Γεωργίας"
+              daylight: "Θερινή ώρα Γεωργίας"
+          gilbert_islands:
+            long:
+              standard: "Ώρα Νησιών Γκίλμπερτ"
+          gmt:
+            long:
+              standard: "Μέση ώρα Γκρίνουιτς"
+          greenland_eastern:
+            long:
+              generic: "Ώρα Ανατολικής Γροιλανδίας"
+              standard: "Χειμερινή ώρα Ανατολικής Γροιλανδίας"
+              daylight: "Θερινή ώρα Ανατολικής Γροιλανδίας"
+          greenland_western:
+            long:
+              generic: "Ώρα Δυτικής Γροιλανδίας"
+              standard: "Χειμερινή ώρα Δυτικής Γροιλανδίας"
+              daylight: "Θερινή ώρα Δυτικής Γροιλανδίας"
+          guam:
+            long:
+              standard: "Ώρα Γκουάμ"
+          gulf:
+            long:
+              standard: "Ώρα Κόλπου"
+          guyana:
+            long:
+              standard: "Ώρα Γουιάνας"
+          hawaii_aleutian:
+            long:
+              generic: "Ώρα Χαβάης-Αλεούτιων νήσων"
+              standard: "Χειμερινή ώρα Χαβάης-Αλεούτιων νήσων"
+              daylight: "Θερινή ώρα Χαβάης-Αλεούτιων νήσων"
+          hong_kong:
+            long:
+              generic: "Ώρα Χονγκ Κονγκ"
+              standard: "Χειμερινή ώρα Χονγκ Κονγκ"
+              daylight: "Θερινή ώρα Χονγκ Κονγκ"
+          hovd:
+            long:
+              generic: "Ώρα Χοβντ"
+              standard: "Χειμερινή ώρα Χοβντ"
+              daylight: "Θερινή ώρα Χοβντ"
+          india:
+            long:
+              standard: "Ώρα Ινδίας"
+          indian_ocean:
+            long:
+              standard: "Ώρα Ινδικού Ωκεανού"
+          indochina:
+            long:
+              standard: "Ώρα Ινδοκίνας"
+          indonesia_central:
+            long:
+              standard: "Ώρα: Κεντρική Ινδονησία"
+          indonesia_eastern:
+            long:
+              standard: "Ώρα: Ανατολική Ινδονησία"
+          indonesia_western:
+            long:
+              standard: "Ώρα: Δυτική Ινδονησία"
+          iran:
+            long:
+              generic: "Ώρα Ιράν"
+              standard: "Χειμερινή ώρα Ιράν"
+              daylight: "Θερινή ώρα Ιράν"
+          irkutsk:
+            long:
+              generic: "Ώρα Ιρκούτσκ"
+              standard: "Χειμερινή ώρα Ιρκούτσκ"
+              daylight: "Θερινή ώρα Ιρκούτσκ"
+          israel:
+            long:
+              generic: "Ώρα Ισραήλ"
+              standard: "Χειμερινή ώρα Ισραήλ"
+              daylight: "Θερινή ώρα Ισραήλ"
+          japan:
+            long:
+              generic: "Ώρα Ιαπωνίας"
+              standard: "Χειμερινή ώρα Ιαπωνίας"
+              daylight: "Θερινή ώρα Ιαπωνίας"
+          kamchatka:
+            long:
+              generic: "Ώρα Καμτσάτκα"
+              standard: "Χειμερινή ώρα Πετροπαβλόβσκ-Καμτσάτσκι"
+              daylight: "Θερινή ώρα Πετροπαβλόβσκ-Καμτσάτσκι"
+          kazakhstan_eastern:
+            long:
+              standard: "Ώρα Ανατολικού Καζακστάν"
+          kazakhstan_western:
+            long:
+              standard: "Ώρα Δυτικού Καζακστάν"
+          korea:
+            long:
+              generic: "Ώρα Κορέας"
+              standard: "Χειμερινή ώρα Κορέας"
+              daylight: "Θερινή ώρα Κορέας"
+          kosrae:
+            long:
+              standard: "Ώρα Κοσράης"
+          krasnoyarsk:
+            long:
+              generic: "Ώρα Κρασνόγιαρσκ"
+              standard: "Χειμερινή ώρα Κρασνόγιαρσκ"
+              daylight: "Θερινή ώρα Κρασνόγιαρσκ"
+          kyrgystan:
+            long:
+              standard: "Ώρα Κιργιστάν"
+          line_islands:
+            long:
+              standard: "Ώρα Νησιών Λάιν"
+          lord_howe:
+            long:
+              generic: "Ώρα Λορντ Χάου"
+              standard: "Χειμερινή ώρα Λορντ Χάου"
+              daylight: "Θερινή ώρα Λορντ Χάου"
+          macau:
+            long:
+              generic: "Ώρα Μακάο"
+              standard: "Χειμερινή ώρα Μακάο"
+              daylight: "Θερινή ώρα Μακάο"
+          macquarie:
+            long:
+              standard: "Ώρα Νησιού Μακουάρι"
+          magadan:
+            long:
+              generic: "Ώρα Μάγκανταν"
+              standard: "Χειμερινή ώρα Μάγκανταν"
+              daylight: "Θερινή ώρα Μάγκανταν"
+          malaysia:
+            long:
+              standard: "Ώρα Μαλαισίας"
+          maldives:
+            long:
+              standard: "Ώρα Μαλδίβων"
+          marquesas:
+            long:
+              standard: "Ώρα Μαρκέσας"
+          marshall_islands:
+            long:
+              standard: "Ώρα Νησιών Μάρσαλ"
+          mauritius:
+            long:
+              generic: "Ώρα Μαυρίκιου"
+              standard: "Χειμερινή ώρα Μαυρίκιου"
+              daylight: "Θερινή ώρα Μαυρίκιου"
+          mawson:
+            long:
+              standard: "Ώρα Μόσον"
+          mexico_northwest:
+            long:
+              generic: "Ώρα Βορειοδυτικού Μεξικού"
+              standard: "Χειμερινή ώρα Βορειοδυτικού Μεξικού"
+              daylight: "Θερινή ώρα Βορειοδυτικού Μεξικού"
+          mexico_pacific:
+            long:
+              generic: "Ώρα Ειρηνικού Μεξικού"
+              standard: "Χειμερινή ώρα Ειρηνικού Μεξικού"
+              daylight: "Θερινή ώρα Ειρηνικού Μεξικού"
+          mongolia:
+            long:
+              generic: "Ώρα Ουλάν Μπατόρ"
+              standard: "Χειμερινή ώρα Ουλάν Μπατόρ"
+              daylight: "Θερινή ώρα Ουλάν Μπατόρ"
+          moscow:
+            long:
+              generic: "Ώρα Μόσχας"
+              standard: "Χειμερινή ώρα Μόσχας"
+              daylight: "Θερινή ώρα Μόσχας"
+          myanmar:
+            long:
+              standard: "Ώρα Μιανμάρ"
+          nauru:
+            long:
+              standard: "Ώρα Ναούρου"
+          nepal:
+            long:
+              standard: "Ώρα Νεπάλ"
+          new_caledonia:
+            long:
+              generic: "Ώρα Νέας Καληδονίας"
+              standard: "Χειμερινή ώρα Νέας Καληδονίας"
+              daylight: "Θερινή ώρα Νέας Καληδονίας"
+          new_zealand:
+            long:
+              generic: "Ώρα Νέας Ζηλανδίας"
+              standard: "Χειμερινή ώρα Νέας Ζηλανδίας"
+              daylight: "Θερινή ώρα Νέας Ζηλανδίας"
+          newfoundland:
+            long:
+              generic: "Ώρα Νέας Γης"
+              standard: "Χειμερινή ώρα Νέας Γης"
+              daylight: "Θερινή ώρα Νέας Γης"
+          niue:
+            long:
+              standard: "Ώρα Νιούε"
+          norfolk:
+            long:
+              standard: "Ώρα Νησιών Νόρφολκ"
+          noronha:
+            long:
+              generic: "Ώρα Φερνάρντο ντε Νορόνια"
+              standard: "Χειμερινή ώρα Φερνάρντο ντε Νορόνια"
+              daylight: "Θερινή ώρα Φερνάρντο ντε Νορόνια"
+          north_mariana:
+            long:
+              standard: "Ώρα Νησιών Βόρειες Μαριάνες"
+          novosibirsk:
+            long:
+              generic: "Ώρα Νοβοσιμπίρσκ"
+              standard: "Χειμερινή ώρα Νοβοσιμπίρσκ"
+              daylight: "Θερινή ώρα Νοβοσιμπίρσκ"
+          omsk:
+            long:
+              generic: "Ώρα Ομσκ"
+              standard: "Χειμερινή ώρα Ομσκ"
+              daylight: "Θερινή ώρα Ομσκ"
+          pakistan:
+            long:
+              generic: "Ώρα Πακιστάν"
+              standard: "Χειμερινή ώρα Πακιστάν"
+              daylight: "Θερινή ώρα Πακιστάν"
+          palau:
+            long:
+              standard: "Ώρα Παλάου"
+          papua_new_guinea:
+            long:
+              standard: "Ώρα Παπουά Νέα Γουινέα"
+          paraguay:
+            long:
+              generic: "Ώρα Παραγουάης"
+              standard: "Χειμερινή ώρα Παραγουάης"
+              daylight: "Θερινή ώρα Παραγουάης"
+          peru:
+            long:
+              generic: "Ώρα Περού"
+              standard: "Χειμερινή ώρα Περού"
+              daylight: "Θερινή ώρα Περού"
+          philippines:
+            long:
+              generic: "Ώρα Φιλιππινών"
+              standard: "Χειμερινή ώρα Φιλιππινών"
+              daylight: "Θερινή ώρα Φιλιππινών"
+          phoenix_islands:
+            long:
+              standard: "Ώρα Νησιών Φίνιξ"
+          pierre_miquelon:
+            long:
+              generic: "Ώρα Σαιντ Πιερ και Μικελόν"
+              standard: "Χειμερινή ώρα Σαιντ Πιερ και Μικελόν"
+              daylight: "Θερινή ώρα Σαιντ Πιερ και Μικελόν"
+          pitcairn:
+            long:
+              standard: "Ώρα Πίτκερν"
+          ponape:
+            long:
+              standard: "Ώρα Πονάπε"
+          reunion:
+            long:
+              standard: "Ώρα Ρεϊνιόν"
+          rothera:
+            long:
+              standard: "Ώρα Ροθέρα"
+          sakhalin:
+            long:
+              generic: "Ώρα Σαχαλίνης"
+              standard: "Χειμερινή ώρα Σαχαλίνης"
+              daylight: "Θερινή ώρα Σαχαλίνης"
+          samara:
+            long:
+              generic: "Ώρα Σάμαρας"
+              standard: "Χειμερινή ώρα Σάμαρας"
+              daylight: "Θερινή ώρα Σαμάρας"
+          samoa:
+            long:
+              generic: "Ώρα Σαμόα"
+              standard: "Χειμερινή ώρα Σαμόα"
+              daylight: "Θερινή ώρα Σαμόα"
+          seychelles:
+            long:
+              standard: "Ώρα Σεϋχελλών"
+          singapore:
+            long:
+              standard: "Ώρα Σιγκαπούρης"
+          solomon:
+            long:
+              standard: "Ώρα Νησιών Σολομώντα"
+          south_georgia:
+            long:
+              standard: "Ώρα Νότιας Γεωργίας"
+          suriname:
+            long:
+              standard: "Ώρα Σουρινάμ"
+          syowa:
+            long:
+              standard: "Ώρα Σίοβα"
+          tahiti:
+            long:
+              standard: "Ώρα Αϊτής"
+          taipei:
+            long:
+              generic: "Ώρα Ταϊπέι"
+              standard: "Χειμερινή ώρα Ταϊπέι"
+              daylight: "Θερινή ώρα Ταϊπέι"
+          tajikistan:
+            long:
+              standard: "Ώρα Τατζικιστάν"
+          tokelau:
+            long:
+              standard: "Ώρα Τοκελάου"
+          tonga:
+            long:
+              generic: "Ώρα Τόνγκα"
+              standard: "Χειμερινή ώρα Τόνγκα"
+              daylight: "Θερινή ώρα Τόνγκα"
+          truk:
+            long:
+              standard: "Ώρα Τσουκ"
+          turkmenistan:
+            long:
+              generic: "Ώρα Τουρκμενιστάν"
+              standard: "Χειμερινή ώρα Τουρκμενιστάν"
+              daylight: "Θερινή ώρα Τουρκμενιστάν"
+          tuvalu:
+            long:
+              standard: "Ώρα Τουβαλού"
+          uruguay:
+            long:
+              generic: "Ώρα Ουρουγουάης"
+              standard: "Χειμερινή ώρα Ουρουγουάης"
+              daylight: "Θερινή ώρα Ουρουγουάης"
+          uzbekistan:
+            long:
+              generic: "Ώρα Ουζμπεκιστάν"
+              standard: "Χειμερινή ώρα Ουζμπεκιστάν"
+              daylight: "Θερινή ώρα Ουζμπεκιστάν"
+          vanuatu:
+            long:
+              generic: "Ώρα Βανουάτου"
+              standard: "Χειμερινή ώρα Βανουάτου"
+              daylight: "Θερινή ώρα Βανουάτου"
+          venezuela:
+            long:
+              standard: "Ώρα Βενεζουέλας"
+          vladivostok:
+            long:
+              generic: "Ώρα Βλαδιβοστόκ"
+              standard: "Χειμερινή ώρα Βλαδιβοστόκ"
+              daylight: "Θερινή ώρα Βλαδιβοστόκ"
+          volgograd:
+            long:
+              generic: "Ώρα Βόλγκογκραντ"
+              standard: "Χειμερινή ώρα Βόλγκογκραντ"
+              daylight: "Θερινή ώρα Βόλγκογκραντ"
+          vostok:
+            long:
+              standard: "Ώρα Βόστοκ"
+          wake:
+            long:
+              standard: "Ώρα Νησιού Γουέικ"
+          wallis:
+            long:
+              standard: "Ώρα Ουόλις και Φουτούνα"
+          yakutsk:
+            long:
+              generic: "Ώρα Γιακούτσκ"
+              standard: "Χειμερινή ώρα Γιακούτσκ"
+              daylight: "Θερινή ώρα Γιακούτσκ"
+          yekaterinburg:
+            long:
+              generic: "Ώρα Αικατερίνμπουργκ"
+              standard: "Χειμερινή ώρα Αικατερίνμπουργκ"
+              daylight: "Θερινή ώρα Αικατερίνμπουργκ"
+    locale_display_names:
+      languages:
+        aa: "Αφάρ"
+        ab: "Αμπχαζικά"
+        ace: "Αχινίζ"
+        ach: "Ακολί"
+        ada: "Αντάνγκμε"
+        ady: "Αντιγκέα"
+        ae: "Αβεστάν"
+        aeb: aeb
+        af: "Αφρικάανς"
+        afh: "Αφριχίλι"
+        agq: "Αγκέμ"
+        ain: "Αϊνού"
+        ak: "Ακάν"
+        akk: "Ακάντιαν"
+        akz: akz
+        ale: "Αλούτ"
+        aln: aln
+        alt: "Νότια Αλαταϊκά"
+        am: "Αμαρικά"
+        an: "Αραγκονικά"
+        ang: "Παλαιά Αγγλικά"
+        anp: "Ανγκικά"
+        ar: "Αραβικά"
+        ar_001: "Σύγχρονα Τυπικά Αραβικά"
+        arc: "Αραμαϊκά"
+        arn: "Αρουκάνιαν"
+        aro: aro
+        arp: "Αράπαχο"
+        arq: arq
+        arw: "Αραγουάκ"
+        ary: ary
+        arz: arz
+        as: "Ασαμεζικά"
+        asa: "Άσου"
+        ase: ase
+        ast: "Αστουριανά"
+        av: "Άβαρικ"
+        avk: avk
+        awa: "Αγουαντί"
+        ay: "Αϊμάρα"
+        az: "Αζερμπαϊτζανικά"
+        az_alt_short: "Αζερικά"
+        ba: "Μπασκίρ"
+        bal: "Μπαλούτσι"
+        ban: "Μπαλινίζ"
+        bar: bar
+        bas: "Μπάσα"
+        bax: "Μπαμούν"
+        bbc: bbc
+        bbj: "Γκομάλα"
+        be: "Λευκορωσικά"
+        bej: "Μπέζα"
+        bem: "Μπέμπα"
+        bew: bew
+        bez: "Μπένα"
+        bfd: "Μπαφούτ"
+        bfq: bfq
+        bg: "Βουλγαρικά"
+        bgn: "Δυτικά Μπαλοχικά"
+        bho: "Μποζπούρι"
+        bi: "Μπισλάμα"
+        bik: "Μπικόλ"
+        bin: "Μπίνι"
+        bjn: bjn
+        bkm: "Κομ"
+        bla: "Σικσίκα"
+        bm: "Μπαμπάρα"
+        bn: "Μπενγκάλι"
+        bo: "Θιβετιανά"
+        bpy: bpy
+        bqi: bqi
+        br: "Βρετονικά"
+        bra: "Μπρατζ"
+        brh: brh
+        brx: "Μπόντο"
+        bs: "Βοσνιακά"
+        bss: "Ακόσι"
+        bua: "Μπουριάτ"
+        bug: "Μπουγκίζ"
+        bum: "Μπουλού"
+        byn: "Μπλιν"
+        byv: "Μεντούμπα"
+        ca: "Καταλανικά"
+        cad: "Κάντο"
+        car: "Καρίμπ"
+        cay: "Καγιούγκα"
+        cch: "Ατσάμ"
+        ce: "Τσετσενικά"
+        ceb: "Κεμπουάνο"
+        cgg: "Τσίγκα"
+        ch: "Καμόρρο"
+        chb: "Τσίμπτσα"
+        chg: "Τσαγκατάι"
+        chk: "Τσουκίζι"
+        chm: "Μάρι"
+        chn: "Ιδιωματικά Σινούκ"
+        cho: "Τσοκτάου"
+        chp: "Τσίπιουαν"
+        chr: "Τσερόκι"
+        chy: "Σεγιέν"
+        ckb: "Κουρδικά Σοράνι"
+        co: "Κορσικανικά"
+        cop: "Κοπτικά"
+        cps: cps
+        cr: "Κρι"
+        crh: "Τουρκικά Κριμαίας"
+        cs: "Τσεχικά"
+        csb: "Κασούμπιαν"
+        cu: "Εκκλησιαστικά Σλαβικά"
+        cv: "Τσουβασικά"
+        cy: "Ουαλικά"
+        da: "Δανικά"
+        dak: "Ντακότα"
+        dar: "Ντάργκουα"
+        dav: "Τάιτα"
+        de: "Γερμανικά"
+        de_at: "Γερμανικά Αυστρίας"
+        de_ch: "Άνω Γερμανικά Ελβετίας"
+        del: "Ντέλαγουερ"
+        den: "Σλαβικά"
+        dgr: "Ντόγκριμπ"
+        din: "Ντίνκα"
+        dje: "Ζάρμα"
+        doi: "Ντόγκρι"
+        dsb: "Γλώσσα Κάτω Λουσατίας"
+        dtp: dtp
+        dua: "Ντουάλα"
+        dum: "Μέσα Ολλανδικά"
+        dv: "Ντιβέχι"
+        dyo: "Τζόλα-Φόνι"
+        dyu: "Ντογιούλα"
+        dz: "Ντζόνγκχα"
+        dzg: "Νταζάγκα"
+        ebu: "Έμπου"
+        ee: "Γι"
+        efi: "Εφίκ"
+        egl: egl
+        egy: "Αρχαία Αιγυπτιακά"
+        eka: "Εκατζούκ"
+        el: "Ελληνικά"
+        elx: "Ελαμάιτ"
+        en: "Αγγλικά"
+        en_au: "Αγγλικά Αυστραλίας"
+        en_ca: "Αγγλικά Καναδά"
+        en_gb: "Αγγλικά Ηνωμένου Βασιλείου"
+        en_gb_alt_short: "Αγγλικά ΗΒ"
+        en_us: "Αγγλικά Αμερικής"
+        en_us_alt_short: "Αγγλικά ΗΠΑ"
+        enm: "Μέσα Αγγλικά"
+        eo: "Εσπεράντο"
+        es: "Ισπανικά"
+        es_419: "Ισπανικά Λατινικής Αμερικής"
+        es_es: "Ισπανικά Ευρώπης"
+        es_mx: "Ισπανικά Μεξικού"
+        esu: esu
+        et: "Εσθονικά"
+        eu: "Βασκικά"
+        ewo: "Εγουόντο"
+        ext: ext
+        fa: "Περσικά"
+        fan: "Φανγκ"
+        fat: "Φάντι"
+        ff: "Φουλάχ"
+        fi: "Φινλανδικά"
+        fil: "Φιλιππινεζικά"
+        fit: fit
+        fj: "Φίτζι"
+        fo: "Φαρόε"
+        fon: "Φον"
+        fr: "Γαλλικά"
+        fr_ca: "Γαλλικά Καναδά"
+        fr_ch: "Γαλλικά Ελβετίας"
+        frc: frc
+        frm: "Μέσα Γαλλικά"
+        fro: "Παλαιά Γαλλικά"
+        frp: frp
+        frr: "Βόρεια Φριζιανά"
+        frs: "Ανατολικά Φριζιανά"
+        fur: "Φριούλιαν"
+        fy: "Δυτικά Φριζιανά"
+        ga: "Ιρλανδικά"
+        gaa: "Γκα"
+        gag: "Γκαγκάουζ"
+        gan: gan
+        gay: "Γκάγιο"
+        gba: "Γκμπάγια"
+        gbz: gbz
+        gd: "Σκωτικά Κελτικά"
+        gez: "Γκιζ"
+        gil: "Γκιλμπερτίζ"
+        gl: "Γαλικιανά"
+        glk: glk
+        gmh: "Μέσα Άνω Γερμανικά"
+        gn: "Γκουαρανί"
+        goh: "Παλαιά Άνω Γερμανικά"
+        gom: gom
+        gon: "Γκόντι"
+        gor: "Γκοροντάλο"
+        got: "Γοτθικά"
+        grb: "Γκρίμπο"
+        grc: "Αρχαία Ελληνικά"
+        gsw: "Γερμανικά Ελβετίας"
+        gu: "Γκουγιαράτι"
+        guc: guc
+        gur: gur
+        guz: "Γκούσι"
+        gv: "Μανξ"
+        gwi: "Γκουίτσιν"
+        ha: "Χάουσα"
+        hai: "Χάιντα"
+        hak: hak
+        haw: "Χαβανεζικά"
+        he: "Εβραϊκά"
+        hi: "Χίντι"
+        hif: hif
+        hil: "Χιλιγκαγιόν"
+        hit: "Χιτίτε"
+        hmn: "Χμονγκ"
+        ho: "Χίρι Μότου"
+        hr: "Κροατικά"
+        hsb: "Γλώσσα Άνω Λουσατίας"
+        hsn: hsn
+        ht: "Αϊτιανά"
+        hu: "Ουγγρικά"
+        hup: "Χούπα"
+        hy: "Αρμενικά"
+        hz: "Χερέρο"
+        ia: "Ιντερλίνγκουα"
+        iba: "Ιμπάν"
+        ibb: "Ιμπίμπιο"
+        id: "Ινδονησιακά"
+        ie: "Ιντερλίνγκουε"
+        ig: "Ίγκμπο"
+        ii: "Σικουάν Γι"
+        ik: "Ινουπιάκ"
+        ilo: "Ιλόκο"
+        inh: "Ινγκούς"
+        io: "Ίντο"
+        is: "Ισλανδικά"
+        it: "Ιταλικά"
+        iu: "Ινουκτιτούτ"
+        izh: izh
+        ja: "Ιαπωνικά"
+        jam: jam
+        jbo: "Λόζμπαν"
+        jgo: "Νγκόμπα"
+        jmc: "Μάχαμε"
+        jpr: "Ιουδαϊκά-Περσικά"
+        jrb: "Ιουδαϊκά-Αραβικά"
+        jut: jut
+        jv: "Ιαβανεζικά"
+        ka: "Γεωργιανά"
+        kaa: "Κάρα-Καλπάκ"
+        kab: "Καμπίλε"
+        kac: "Κατσίν"
+        kaj: "Τζου"
+        kam: "Κάμπα"
+        kaw: "Κάουι"
+        kbd: "Καμπαρντιανά"
+        kbl: "Κανέμπου"
+        kcg: "Τουάπ"
+        kde: "Μακόντε"
+        kea: "Γλώσσα του Πράσινου Ακρωτηρίου"
+        ken: ken
+        kfo: "Κόρο"
+        kg: "Κονγκό"
+        kgp: kgp
+        kha: "Κάσι"
+        kho: "Κοτανικά"
+        khq: "Κόιρα Τσίνι"
+        khw: khw
+        ki: "Κικούγιου"
+        kiu: kiu
+        kj: "Κουανιγιάμα"
+        kk: "Καζακικά"
+        kkj: "Κάκο"
+        kl: "Καλαάλισουτ"
+        kln: "Καλεντζίν"
+        km: "Καμποτζιανά"
+        kmb: "Κιμπούντου"
+        kn: "Κανάντα"
+        ko: "Κορεατικά"
+        koi: "Κόμι-Περμιάκ"
+        kok: "Κονκάνι"
+        kos: "Κοσραενικά"
+        kpe: "Κπέλε"
+        kr: "Κανούρι"
+        krc: "Καρατσάι-Μπαλκάρ"
+        kri: kri
+        krj: krj
+        krl: "Καρελιακά"
+        kru: "Κουρούχ"
+        ks: "Κασμίρι"
+        ksb: "Σάμπαλα"
+        ksf: "Μπάφια"
+        ksh: "Κολωνικά"
+        ku: "Κουρδικά"
+        kum: "Κουμγιούκ"
+        kut: "Κουτενάι"
+        kv: "Κόμι"
+        kw: "Κόρνις"
+        ky: "Κυργιζικά"
+        la: "Λατινικά"
+        lad: "Λαδίνο"
+        lag: "Λάνγκι"
+        lah: "Λάχδα"
+        lam: "Λάμπα"
+        lb: "Λουξεμβουργιανά"
+        lez: "Λαζγκιάν"
+        lfn: lfn
+        lg: "Γκάντα"
+        li: "Λιμβουργιανά"
+        lij: lij
+        liv: liv
+        lkt: "Λακότα"
+        lmo: lmo
+        ln: "Λινγκάλα"
+        lo: "Λαοθιανά"
+        lol: "Μόνγκο"
+        loz: "Λόζι"
+        lrc: "Βόρεια Λούρι"
+        lt: "Λιθουανικά"
+        ltg: ltg
+        lu: "Λούμπα-Κατάνγκα"
+        lua: "Λούμπα-Λουλούα"
+        lui: "Λουισένο"
+        lun: "Λούντα"
+        luo: "Λούο"
+        lus: "Λουσάι"
+        luy: "Λουχία"
+        lv: "Λετονικά"
+        lzh: lzh
+        lzz: lzz
+        mad: "Μαντουρίζ"
+        maf: "Μάφα"
+        mag: "Μαγκάχι"
+        mai: "Μαϊτχίλι"
+        mak: "Μακαζάρ"
+        man: "Μαντίνγκο"
+        mas: "Μασάι"
+        mde: "Μάμπα"
+        mdf: "Μόκσα"
+        mdh: mdh
+        mdr: "Μανδάρ"
+        men: "Μέντε"
+        mer: "Μερού"
+        mfe: "Μορίσιεν"
+        mg: "Μαλαγάσι"
+        mga: "Μέσα Ιρλανδικά"
+        mgh: "Μακούβα-Μέτο"
+        mgo: "Μετά"
+        mh: "Μάρσαλ"
+        mi: "Μάορι"
+        mic: "Μικμάκ"
+        min: "Μινανγκαμπάου"
+        mis: mis
+        mk: "Σλαβομακεδονικά"
+        ml: "Μαλαγιαλάμ"
+        mn: "Μογγολικά"
+        mnc: "Μαντσού"
+        mni: "Μανιπούρι"
+        moh: "Μοχόκ"
+        mos: "Μόσι"
+        mr: "Μαράθι"
+        mrj: mrj
+        ms: "Μαλάι"
+        mt: "Μαλτεζικά"
+        mua: "Μουντάνγκ"
+        mul: "Πολλαπλές γλώσσες"
+        mus: "Κρικ"
+        mwl: "Μιραντεζικά"
+        mwr: "Μαργουάρι"
+        mwv: mwv
+        my: "Βιρμανικά"
+        mye: "Μιένε"
+        myv: "Έρζυα"
+        mzn: "Μαζαντεράνι"
+        na: "Ναούρου"
+        nan: nan
+        nap: "Ναπολιτανικά"
+        naq: "Νάμα"
+        nb: "Νορβηγικά Μποκμάλ"
+        nd: "Ντεμπέλε Βορρά"
+        nds: "Κάτω Γερμανικά"
+        nds_nl: "Κάτω Γερμανικά Ολλανδίας"
+        ne: "Νεπάλι"
+        new: "Νεγουάρι"
+        ng: "Ντόνγκα"
+        nia: "Νίας"
+        niu: "Νιούεαν"
+        njo: njo
+        nl: "Ολλανδικά"
+        nl_be: "Φλαμανδικά"
+        nmg: "Κβάσιο"
+        nn: "Νορβηγικά Νινόρσκ"
+        nnh: "Νγκιεμπούν"
+        'no': "Νορβηγικά"
+        nog: "Νογκάι"
+        non: "Παλαιά Νορβηγικά"
+        nov: nov
+        nqo: "Ν’Κο"
+        nr: "Ντεμπέλε Νότου"
+        nso: "Βόρεια Σόθο"
+        nus: "Νουέρ"
+        nv: "Νάβαχο"
+        nwc: "Κλασικά Νεουάρι"
+        ny: "Νιάντζα"
+        nym: "Νιαμγουέζι"
+        nyn: "Νιανκόλε"
+        nyo: "Νιόρο"
+        nzi: "Νζίμα"
+        oc: "Οκσιτανικά"
+        oj: "Οζιβίγουα"
+        om: "Ορόμο"
+        or: "Ορίγια"
+        os: "Οσετικά"
+        osa: "Οσάζ"
+        ota: "Οθωμανικά Τουρκικά"
+        pa: "Παντζαπικά"
+        pag: "Πανγκασινάν"
+        pal: "Παχλάβι"
+        pam: "Παμπάνγκα"
+        pap: "Παπιαμέντο"
+        pau: "Παλάουαν"
+        pcd: pcd
+        pdc: pdc
+        pdt: pdt
+        peo: "Αρχαία Περσικά"
+        pfl: pfl
+        phn: "Φοινικικά"
+        pi: "Πάλι"
+        pl: "Πολωνικά"
+        pms: pms
+        pnt: pnt
+        pon: "Ποχπέιαν"
+        prg: prg
+        pro: "Παλαιά Προβενσιάλ"
+        ps: "Πάστο"
+        pt: "Πορτογαλικά"
+        pt_br: "Πορτογαλικά Βραζιλίας"
+        pt_pt: "Πορτογαλικά Ευρώπης"
+        qu: "Κετσούα"
+        quc: "Κισέ"
+        qug: qug
+        raj: "Ραζασθάνι"
+        rap: "Ραπανούι"
+        rar: "Ραροτονγκάν"
+        rgn: rgn
+        rif: rif
+        rm: "Ρομανικά"
+        rn: "Ρούντι"
+        ro: "Ρουμανικά"
+        ro_md: "Μολδαβικά"
+        rof: "Ρόμπο"
+        rom: "Ρομανί"
+        root: "Ρουτ"
+        rtm: rtm
+        ru: "Ρωσικά"
+        rue: rue
+        rug: rug
+        rup: "Αρομανικά"
+        rw: "Κινιαρβάντα"
+        rwk: "Ρουά"
+        sa: "Σανσκριτικά"
+        sad: "Σαντάγουε"
+        sah: "Γιακούτ"
+        sam: "Σαμαρίτικα Αραμαϊκά"
+        saq: "Σαμπούρου"
+        sas: "Σασάκ"
+        sat: "Σαντάλι"
+        saz: saz
+        sba: "Νγκαμπέι"
+        sbp: "Σάνγκου"
+        sc: "Σαρδινικά"
+        scn: "Σικελιανά"
+        sco: "Σκωτικά"
+        sd: "Σίντι"
+        sdc: sdc
+        sdh: "Νότια Κουρδικά"
+        se: "Βόρεια Σάμι"
+        see: "Σένεκα"
+        seh: "Σένα"
+        sei: sei
+        sel: "Σελκούπ"
+        ses: "Κοϊραμπόρο Σένι"
+        sg: "Σάνγκο"
+        sga: "Παλαιά Ιρλανδικά"
+        sgs: sgs
+        sh: "Σερβοκροατικά"
+        shi: "Τασελχίτ"
+        shn: "Σαν"
+        shu: "Αραβικά του Τσαντ"
+        si: "Σινχαλεζικά"
+        sid: "Σιντάμο"
+        sk: "Σλοβακικά"
+        sl: "Σλοβενικά"
+        sli: sli
+        sly: sly
+        sm: "Σαμόαν"
+        sma: "Νότια Σάμι"
+        smj: "Λούλε Σάμι"
+        smn: "Ινάρι Σάμι"
+        sms: "Σκολτ Σάμι"
+        sn: "Σχόνα"
+        snk: "Σονίνκε"
+        so: "Σομάλι"
+        sog: "Σογκντιέν"
+        sq: "Αλβανικά"
+        sr: "Σερβικά"
+        srn: "Σρανάρ Τόνγκο"
+        srr: "Σερέρ"
+        ss: "Σουάτι"
+        ssy: "Σάχο"
+        st: "Νότια Σόθο"
+        stq: stq
+        su: "Σουνδανικά"
+        suk: "Σουκούμα"
+        sus: "Σούσου"
+        sux: "Σουμερικά"
+        sv: "Σουηδικά"
+        sw: "Σουαχίλι"
+        swb: "Κομόρρια"
+        swc: "Κονγκό Σουαχίλι"
+        syc: "Κλασικά Συριακά"
+        syr: "Συριακά"
+        szl: szl
+        ta: "Ταμίλ"
+        tcy: tcy
+        te: "Τελούγκου"
+        tem: "Τίμνε"
+        teo: "Τέσο"
+        ter: "Τερένο"
+        tet: "Τέτουμ"
+        tg: "Τατζίκ"
+        th: "Ταϊλανδικά"
+        ti: "Τιγκρίνυα"
+        tig: "Τίγκρε"
+        tiv: "Τιβ"
+        tk: "Τουρκμενικά"
+        tkl: "Τοκελάου"
+        tkr: tkr
+        tl: "Ταγκαλόγκ"
+        tlh: "Κλίνγκον"
+        tli: "Τλίνγκιτ"
+        tly: tly
+        tmh: "Ταμασέκ"
+        tn: "Τσιγουάνα"
+        to: "Τονγκανικά"
+        tog: "Νιάσα Τόνγκα"
+        tpi: "Τοκ Πισίν"
+        tr: "Τουρκικά"
+        tru: tru
+        trv: "Ταρόκο"
+        ts: "Τσόνγκα"
+        tsd: tsd
+        tsi: "Τσίμσιαν"
+        tt: "Τατάρ"
+        ttt: ttt
+        tum: "Τουμπούκα"
+        tvl: "Τουβαλού"
+        tw: "Τούι"
+        twq: "Τασαβάκ"
+        ty: "Ταϊτιανά"
+        tyv: "Τουβίνιαν"
+        tzm: "Ταμαζίτ Κεντρικού Μαρόκο"
+        udm: "Ουντμούρτ"
+        ug: "Ουιγουρικά"
+        ug_alt_variant: "Ουιγκούρ"
+        uga: "Ουγκαρίτικ"
+        uk: "Ουκρανικά"
+        umb: "Ουμπούντου"
+        und: "Άγνωστη γλώσσα"
+        ur: "Ουρντού"
+        uz: "Ουζμπεκικά"
+        vai: "Βάι"
+        ve: "Βένδα"
+        vec: vec
+        vep: vep
+        vi: "Βιετναμικά"
+        vls: vls
+        vmf: vmf
+        vo: "Βόλαπικ"
+        vot: "Βότικ"
+        vro: vro
+        vun: "Βούντζο"
+        wa: "Γουαλούν"
+        wae: "Βάλσερ"
+        wal: "Γουάλαμο"
+        war: "Γουάρει"
+        was: "Γουασό"
+        wbp: "Γουαρλπίρι"
+        wo: "Γουόλοφ"
+        wuu: wuu
+        xal: "Καλμίκ"
+        xh: "Ζόσα"
+        xmf: xmf
+        xog: "Σόγκα"
+        yao: "Γιάο"
+        yap: "Γιαπίζ"
+        yav: "Γιανγκμπέν"
+        ybb: "Γιέμπα"
+        yi: "Γίντις"
+        yo: "Γιορούμπα"
+        yrl: yrl
+        yue: "Καντονέζικα"
+        za: "Ζουάνγκ"
+        zap: "Ζάποτεκ"
+        zbl: "Σύμβολα Bliss"
+        zea: zea
+        zen: "Ζενάγκα"
+        zgh: "Τυπικά Ταμαζίγκτ Μαρόκου"
+        zh: "Κινεζικά"
+        zh_hans: "Απλοποιημένα Κινεζικά"
+        zh_hant: "Παραδοσιακά Κινεζικά"
+        zu: "Ζουλού"
+        zun: "Ζούνι"
+        zxx: "Χωρίς γλωσσολογικό περιεχόμενο"
+        zza: "Ζάζα"
+      locale_display_pattern:
+        locale_pattern: "{0} ({1})"
+        locale_separator: "{0}, {1}"
+        locale_key_type_pattern: "{0}: {1}"
+      keys:
+        calendar: "Ημερολόγιο"
+        cf: cf
+        col_alternate: "Ταξινόμηση με αγνόηση συμβόλων"
+        col_backwards: "Ταξινόμηση με αντεστραμμένο τονισμό"
+        col_case_first: "Ταξινόμηση με κεφαλαίους/πεζούς χαρακτήρες"
+        col_case_level: "Ταξινόμηση με διάκριση χαρακτήρων"
+        col_hiragana_quaternary: "Ταξινόμηση Κάνα"
+        collation: "Σειρά ταξινόμησης"
+        col_normalization: "Κανονικοποιημένη ταξινόμηση"
+        col_numeric: "Αριθμητική ταξινόμηση"
+        col_strength: "Ισχύς ταξινόμησης"
+        currency: "Νόμισμα"
+        hc: "Κύκλος ωρών (12 ή 24)"
+        lb: "Στιλ αλλαγής γραμμών"
+        ms: "Σύστημα μέτρησης"
+        numbers: "Αριθμοί"
+        timezone: "Ζώνη ώρας"
+        va: "Παραλλαγή τοπικών ρυθμίσεων"
+        variable_top: "Ταξινόμηση ως σύμβολα"
+        x: "Προσωπική χρήση"
+      types:
+        calendar:
+          buddhist: "Βουδιστικό ημερολόγιο"
+          chinese: "Κινεζικό ημερολόγιο"
+          coptic: "Κοπτικό ημερολόγιο"
+          dangi: "Κορεατικό ημερολόγιο ντάνγκι"
+          ethiopic: "Αιθιοπικό ημερολόγιο"
+          ethiopic_amete_alem: "Αιθιοπικό ημερολόγιο Άμετ Άλεμ"
+          gregorian: "Γρηγοριανό ημερολόγιο"
+          hebrew: "Εβραϊκό ημερολόγιο"
+          indian: "Ινδικό εθνικό ημερολόγιο"
+          islamic: "Ισλαμικό ημερολόγιο"
+          islamic_civil: "Ισλαμικό αστικό ημερολόγιο"
+          islamic_rgsa: "Ισλαμικό ημερολόγιο (Σαουδική Αραβία, θέαση)"
+          islamic_tbla: "Ισλαμικό ημερολόγιο (δομημένο, αστρονομική εποχή)"
+          islamic_umalqura: islamic-umalqura
+          iso8601: "Ημερολόγιο ISO-8601"
+          japanese: "Ιαπωνικό ημερολόγιο"
+          persian: "Περσικό ημερολόγιο"
+          roc: "Ημερολόγιο της Δημοκρατίας της Κίνας"
+        cf:
+          account: account
+          standard: standard
+        col_alternate:
+          non_ignorable: "Ταξινόμηση συμβόλων"
+          shifted: "Ταξινόμηση με αγνόηση συμβόλων"
+        col_backwards:
+          'no': "Κανονικά ταξινόμηση τόνων"
+          'yes': "Αντίστροφη ταξινόμηση τόνων"
+        col_case_first:
+          lower: "Ταξινόμηση πεζών χαρακτήρων πρώτα"
+          'no': "Κανονική ταξινόμηση χαρακτήρων"
+          upper: "Ταξινόμηση κεφαλαίων χαρακτήρων πρώτα"
+        col_case_level:
+          'no': "Ταξινόμηση με διάκριση χαρακτήρων"
+          'yes': "Ταξινόμηση χαρακτήρων διάκρισης"
+        col_hiragana_quaternary:
+          'no': "Ξεχωριστή ταξινόμηση χαρακτήρων Κάνα"
+          'yes': "Διαφορετική ταξινόμηση Κάνα"
+        collation:
+          big5han: "Σειρά ταξινόμησης Παραδοσιακών Κινεζικών - Big5"
+          compat: compat
+          dictionary: "Σειρά ταξινόμησης ημερολογίου"
+          ducet: "Προεπιλεγμένη σειρά ταξινόμησης Unicode"
+          emoji: emoji
+          eor: eor
+          gb2312han: "Σειρά ταξινόμησης Απλουστευμένων Κινεζικών - GB2312"
+          phonebook: "Σειρά ταξινόμησης τηλεφωνικού καταλόγου"
+          phonetic: "Φωνητική σειρά ταξινόμησης"
+          pinyin: "Σειρά ταξινόμησης Πινγίν"
+          reformed: "Ανασχηματισμένη σειρά ταξινόμησης"
+          search: "Αναζήτηση γενικού τύπου"
+          searchjl: "Αναζήτηση κατά αρχικό σύμφωνο Χανγκούλ"
+          standard: "Τυπική σειρά ταξινόμησης"
+          stroke: "Σειρά ταξινόμησης κινήσεων"
+          traditional: "Παραδοσιακή σειρά ταξινόμησης"
+          unihan: "Σειρά ταξινόμησης ριζικής αρίθμησης"
+          zhuyin: zhuyin
+        col_normalization:
+          'no': "Ταξινόμηση χωρίς κανονικοποίηση"
+          'yes': "Κανονικοποιημένη ταξινόμηση Unicode"
+        col_numeric:
+          'no': "Μεμονωμένη ταξινόμηση ψηφίων"
+          'yes': "Αριθμητική ταξινόμηση ψηφίων"
+        col_strength:
+          identical: "Ταξινόμηση όλων"
+          primary: "Ταξινόμηση μόνο βασικών χαρακτήρων"
+          quaternary: "Ταξινόμηση τόνων/χαρακτήρων διάκρισης/χαρακτήρων μεγάλου μεγέθους/χαρακτήρων
+            Κάνα"
+          secondary: "Ταξινόμηση τόνων"
+          tertiary: "Ταξινόμηση τόνων/χαρακτήρων διάκρισης/χαρακτήρων μεγάλου μεγέθους"
+        hc:
+          h11: 12ωρο σύστημα (0–11)
+          h12: 12ωρο σύστημα (1–12)
+          h23: 24ωρο σύστημα (0–23)
+          h24: 24ωρο σύστημα (1–24)
+        lb:
+          loose: "Χαλαρό στιλ αλλαγής γραμμών"
+          normal: "Κανονικό στιλ αλλαγής γραμμών"
+          strict: "Στενό στιλ αλλαγής γραμμών"
+        ms:
+          metric: "Μετρικό σύστημα"
+          uksystem: "Βρετανικό σύστημα μέτρησης"
+          ussystem: "Αγγλοσαξωνικό σύστημα μέτρησης"
+        numbers:
+          ahom: ahom
+          arab: "Αραβικό-Ινδικά ψηφία"
+          arabext: "Εκτεταμένα αραβικό-ινδικά ψηφία"
+          armn: "Αρμενικά αριθμητικά"
+          armnlow: "Πεζά αρμενικά αριθμητικά"
+          bali: bali
+          beng: "Βεγγαλικά ψηφία"
+          brah: brah
+          cakm: cakm
+          cham: cham
+          cyrl: cyrl
+          deva: "Ψηφία Ντεβαναγκάρι"
+          ethi: "Αιθιοπικά αριθμητικά"
+          finance: "Οικονομικά αριθμητικά"
+          fullwide: "Ψηφία πλήρους πλάτους"
+          geor: "Γεωργιανά αριθμητικά"
+          grek: "Ελληνικά αριθμητικά"
+          greklow: "Ελληνικά αριθμητικά με πεζά γράμματα"
+          gujr: "Γκουτζαρατικά ψηφία"
+          guru: "Ψηφία Γκουρμούκι"
+          hanidec: "Κινεζικά δεκαδικά αριθμητικά"
+          hans: "Απλοποιημένα κινεζικά αριθμητικά"
+          hansfin: "Απλοποιημένα κινεζικά οικονομικά αριθμητικά"
+          hant: "Παραδοσιακά κινεζικά αριθμητικά"
+          hantfin: "Παραδοσιακά κινεζικά οικονομικά αριθμητικά"
+          hebr: "Εβραϊκά αριθμητικά"
+          hmng: hmng
+          java: java
+          jpan: "Ιαπωνικά αριθμητικά"
+          jpanfin: "Ιαπωνικά οικονομικά αριθμητικά"
+          kali: kali
+          khmr: "Ψηφία Χμερ"
+          knda: "Ψηφία Κανάντα"
+          lana: lana
+          lanatham: lanatham
+          laoo: "Λαοϊκά ψηφία"
+          latn: "Ψηφία της Δύσης"
+          lepc: lepc
+          limb: limb
+          mathbold: mathbold
+          mathdbl: mathdbl
+          mathmono: mathmono
+          mathsanb: mathsanb
+          mathsans: mathsans
+          mlym: "Μαλαγιαλαμικά ψηφία"
+          modi: modi
+          mong: "Μογγολικά ψηφία"
+          mroo: mroo
+          mtei: mtei
+          mymr: "Ψηφία Μιανμάρ"
+          mymrshan: mymrshan
+          mymrtlng: mymrtlng
+          native: "Εγγενή ψηφία"
+          nkoo: nkoo
+          olck: olck
+          orya: "Οριγικά ψηφία"
+          osma: osma
+          roman: "Λατινικοί αριθμοί"
+          romanlow: "Πεζοί λατινικοί αριθμοί"
+          saur: saur
+          shrd: shrd
+          sind: sind
+          sinh: sinh
+          sora: sora
+          sund: sund
+          takr: takr
+          talu: talu
+          taml: "Ταμιλικά αριθμητικά"
+          tamldec: "Ταμιλικά ψηφία"
+          telu: "Τελουγκουϊκά ψηφία"
+          thai: "Ταϊλανδικά ψηφία"
+          tibt: "Θιβετανικά ψηφία"
+          tirh: tirh
+          traditional: "Παραδοσιακά αριθμητικά"
+          vaii: "Ψηφία Βάι"
+          wara: wara
+      code_patterns:
+        language: "Γλώσσα: {0}"
+        script: "Σύστημα γραφής: {0}"
+        territory: "Περιοχή: {0}"
+      scripts:
+        aghb: Aghb
+        ahom: Ahom
+        arab: "Αραβικό"
+        arab_alt_variant: "Περσικό-Αραβικό"
+        armi: "Αυτοκρατορικό Αραμαϊκό"
+        armn: "Αρμενικό"
+        avst: "Αβεστάν"
+        bali: "Μπαλινίζ"
+        bamu: Bamu
+        bass: Bass
+        batk: "Μπατάκ"
+        beng: "Μπενγκάλι"
+        blis: "Σύμβολα Bliss"
+        bopo: "Μποπομόφο"
+        brah: "Μπραχμί"
+        brai: "Μπράιγ"
+        bugi: "Μπούγκις"
+        buhd: "Μπουχίντ"
+        cakm: "Τσάκμα"
+        cans: "Ενοποιημένοι Καναδεζικοί Συλλαβισμοί Ιθαγενών"
+        cari: "Καριάν"
+        cham: "Τσαμ"
+        cher: "Τσερόκι"
+        cirt: "Σερθ"
+        copt: "Κοπτικό"
+        cprt: "Κυπριακό"
+        cyrl: "Κυριλλικό"
+        cyrs: "Παλαιό Εκκλησιαστικό Σλαβικό Κυριλλικό"
+        deva: "Ντεβαναγκάρι"
+        dsrt: "Ντεσερέ"
+        dupl: Dupl
+        egyd: "Λαϊκό Αιγυπτιακό"
+        egyh: "Ιερατικό Αιγυπτιακό"
+        egyp: "Αιγυπτιακά Ιερογλυφικά"
+        elba: Elba
+        ethi: "Αιθιοπικό"
+        geok: "Γεωργιανό Κχουτσούρι"
+        geor: "Γεωργιανό"
+        glag: "Γκλαγκολιτικό"
+        goth: "Γοτθικό"
+        gran: Gran
+        grek: "Ελληνικό"
+        gujr: "Γκουγιαράτι"
+        guru: "Γκουρμουκχί"
+        hang: "Χανγκούλ"
+        hani: "Χαν"
+        hano: "Χανούνου"
+        hans: "Απλοποιημένο"
+        hans_alt_stand_alone: "Απλοποιημένο Χαν"
+        hant: "Παραδοσιακό"
+        hant_alt_stand_alone: "Παραδοσιακό Χαν"
+        hatr: Hatr
+        hebr: "Εβραϊκό"
+        hira: "Χιραγκάνα"
+        hluw: Hluw
+        hmng: "Παχάχ Χμονγκ"
+        hrkt: "Κατακάνα ή Χιραγκάνα"
+        hung: "Παλαιό Ουγγρικό"
+        inds: "Ίνδους"
+        ital: "Παλαιό Ιταλικό"
+        java: "Ιαβανεζικό"
+        jpan: "Ιαπωνικό"
+        kali: "Καγιάχ Λι"
+        kana: "Κατακάνα"
+        khar: "Καρόσθι"
+        khmr: "Χμερ"
+        khoj: Khoj
+        knda: "Κανάντα"
+        kore: "Κορεατικό"
+        kthi: "Καϊθί"
+        lana: "Λάννα"
+        laoo: "Λάος"
+        latf: "Φράκτουρ Λατινικό"
+        latg: "Γαελικό Λατινικό"
+        latn: "Λατινικό"
+        lepc: "Λέπτσα"
+        limb: "Λιμπού"
+        lina: "Γραμμικό Α"
+        linb: "Γραμμικό Β"
+        lisu: Lisu
+        lyci: "Λυκιανικό"
+        lydi: "Λυδιανικό"
+        mahj: Mahj
+        mand: "Μανδαϊκό"
+        mani: "Μανιχαϊκό"
+        maya: "Ιερογλυφικά Μάγια"
+        mend: Mend
+        merc: Merc
+        mero: "Μεροϊτικό"
+        mlym: "Μαλαγιάλαμ"
+        modi: Modi
+        mong: "Μογγολικό"
+        moon: "Μουν"
+        mroo: Mroo
+        mtei: "Μεϊτέι Μάγεκ"
+        mult: Mult
+        mymr: "Μιανμάρ"
+        narb: Narb
+        nbat: Nbat
+        nkoo: "Ν’Κο"
+        ogam: "Όγκχαμ"
+        olck: "Ολ Τσίκι"
+        orkh: "Όρκχον"
+        orya: "Ορίγια"
+        osma: "Οσμάνγια"
+        palm: Palm
+        pauc: Pauc
+        perm: "Παλαιό Περμικό"
+        phag: "Παγκς-πα"
+        phli: "Επιγραφικό Παχλάβι"
+        phlp: "Ψάλτερ Παχλάβι"
+        phlv: "Μπουκ Παχλαβί"
+        phnx: "Φοινικικό"
+        plrd: "Φωνητικό Πόλαρντ"
+        prti: "Επιγραφικό Παρθιάν"
+        qaaa: Qaaa
+        qaab: Qaab
+        qaac: Qaac
+        qaad: Qaad
+        qaae: Qaae
+        qaaf: Qaaf
+        qaag: Qaag
+        qaah: Qaah
+        qaaj: Qaaj
+        qaak: Qaak
+        qaal: Qaal
+        qaam: Qaam
+        qaan: Qaan
+        qaao: Qaao
+        qaap: Qaap
+        qaaq: Qaaq
+        qaar: Qaar
+        qaas: Qaas
+        qaat: Qaat
+        qaau: Qaau
+        qaav: Qaav
+        qaaw: Qaaw
+        qaax: Qaax
+        qaay: Qaay
+        qaaz: Qaaz
+        qaba: Qaba
+        qabb: Qabb
+        qabc: Qabc
+        qabd: Qabd
+        qabe: Qabe
+        qabf: Qabf
+        qabg: Qabg
+        qabh: Qabh
+        qabi: Qabi
+        qabj: Qabj
+        qabk: Qabk
+        qabl: Qabl
+        qabm: Qabm
+        qabn: Qabn
+        qabo: Qabo
+        qabp: Qabp
+        qabq: Qabq
+        qabr: Qabr
+        qabs: Qabs
+        qabt: Qabt
+        qabu: Qabu
+        qabv: Qabv
+        qabw: Qabw
+        qabx: Qabx
+        rjng: "Ρετζάνγκ"
+        roro: "Ρονγκορόνγκο"
+        runr: "Ρουνίκ"
+        samr: "Σαμαριτικό"
+        sara: "Σαράθι"
+        sarb: Sarb
+        saur: "Σαουράστρα"
+        sgnw: "Νοηματική γραφή"
+        shaw: "Σαβιανό"
+        shrd: Shrd
+        sidd: Sidd
+        sind: Sind
+        sinh: "Σινχάλα"
+        sora: Sora
+        sund: "Σουνδανικό"
+        sylo: "Συλότι Νάγκρι"
+        syrc: "Συριακό"
+        syre: "Εστραντζέλο Συριακό"
+        syrj: "Δυτικό Συριακό"
+        syrn: "Ανατολικό Συριακό"
+        tagb: "Ταγκμάνγουα"
+        takr: Takr
+        tale: "Τάι Λε"
+        talu: "Νέο Τάι Λούε"
+        taml: "Ταμίλ"
+        tavt: "Τάι Βιέτ"
+        telu: "Τελούγκου"
+        teng: "Τεγνγουάρ"
+        tfng: "Τιφινάγκ"
+        tglg: "Ταγκαλόγκ"
+        thaa: "Θαανά"
+        thai: "Ταϊλανδικό"
+        tibt: "Θιβετιανό"
+        tirh: Tirh
+        ugar: "Ουγκαριτικό"
+        vaii: "Βάι"
+        visp: "Ορατή ομιλία"
+        wara: Wara
+        xpeo: "Παλαιό Περσικό"
+        xsux: "Σούμερο-Ακάντιαν Κουνεϊφόρμ"
+        yiii: "Γι"
+        zinh: "Κληρονομημένο"
+        zmth: "Μαθηματική παράσταση"
+        zsym: "Σύμβολα"
+        zxxx: "Άγραφο"
+        zyyy: "Κοινό"
+        zzzz: "Άγνωστη γραφή"
+      territories:
+        '001': "Κόσμος"
+        '002': "Αφρική"
+        '003': "Βόρεια Αμερική"
+        '005': "Νότια Αμερική"
+        009: "Ωκεανία"
+        '011': "Δυτική Αφρική"
+        '013': "Κεντρική Αμερική"
+        '014': "Ανατολική Αφρική"
+        '015': "Βόρεια Αφρική"
+        '017': "Μέση Αφρική"
+        018: "Νότιος Αφρική"
+        019: "Αμερική"
+        '021': "Βόρειος Αμερική"
+        029: "Καραϊβική"
+        '030': "Ανατολική Ασία"
+        '034': "Νότια Ασία"
+        '035': "Νοτιοανατολική Ασία"
+        039: "Νότια Ευρώπη"
+        '053': "Αυστραλασία"
+        '054': "Μελανησία"
+        '057': "Περιοχή Μικρονησίας"
+        '061': "Πολυνησία"
+        '142': "Ασία"
+        '143': "Κεντρική Ασία"
+        '145': "Δυτική Ασία"
+        '150': "Ευρώπη"
+        '151': "Ανατολική Ευρώπη"
+        '154': "Βόρεια Ευρώπη"
+        '155': "Δυτική Ευρώπη"
+        '419': "Λατινική Αμερική"
+        ac: "Νήσος Ασενσιόν"
+        ad: "Ανδόρα"
+        ae: "Ηνωμένα Αραβικά Εμιράτα"
+        af: "Αφγανιστάν"
+        ag: "Αντίγκουα και Μπαρμπούντα"
+        ai: "Ανγκουίλα"
+        al: "Αλβανία"
+        am: "Αρμενία"
+        an: "Ολλανδικές Αντίλλες"
+        ao: "Ανγκόλα"
+        aq: "Ανταρκτική"
+        ar: "Αργεντινή"
+        as: "Αμερικανική Σαμόα"
+        at: "Αυστρία"
+        au: "Αυστραλία"
+        aw: "Αρούμπα"
+        ax: "Νήσοι Όλαντ"
+        az: "Αζερμπαϊτζάν"
+        ba: "Βοσνία - Ερζεγοβίνη"
+        bb: "Μπαρμπάντος"
+        bd: "Μπανγκλαντές"
+        be: "Βέλγιο"
+        bf: "Μπουρκίνα Φάσο"
+        bg: "Βουλγαρία"
+        bh: "Μπαχρέιν"
+        bi: "Μπουρούντι"
+        bj: "Μπενίν"
+        bl: "Άγιος Βαρθολομαίος"
+        bm: "Βερμούδες"
+        bn: "Μπρουνέι"
+        bo: "Βολιβία"
+        bq: "Ολλανδία Καραϊβικής"
+        br: "Βραζιλία"
+        bs: "Μπαχάμες"
+        bt: "Μπουτάν"
+        bv: "Νήσος Μπουβέ"
+        bw: "Μποτσουάνα"
+        by: "Λευκορωσία"
+        bz: "Μπελίζ"
+        ca: "Καναδάς"
+        cc: "Νήσοι Κόκος (Κίλινγκ)"
+        cd: "Κονγκό - Κινσάσα"
+        cd_alt_variant: "Κονγκό"
+        cf: "Κεντροαφρικανική Δημοκρατία"
+        cg: "Κονγκό - Μπραζαβίλ"
+        cg_alt_variant: "Κονγκό (Δημοκρατία)"
+        ch: "Ελβετία"
+        ci: "Ακτή Ελεφαντοστού"
+        ci_alt_variant: CI
+        ck: "Νήσοι Κουκ"
+        cl: "Χιλή"
+        cm: "Καμερούν"
+        cn: "Κίνα"
+        co: "Κολομβία"
+        cp: "Νήσος Κλίπερτον"
+        cr: "Κόστα Ρίκα"
+        cu: "Κούβα"
+        cv: "Πράσινο Ακρωτήριο"
+        cw: "Κουρασάο"
+        cx: "Νήσος των Χριστουγέννων"
+        cy: "Κύπρος"
+        cz: "Τσεχική Δημοκρατία"
+        de: "Γερμανία"
+        dg: "Ντιέγκο Γκαρσία"
+        dj: "Τζιμπουτί"
+        dk: "Δανία"
+        dm: "Ντομίνικα"
+        do: "Δομινικανή Δημοκρατία"
+        dz: "Αλγερία"
+        ea: "Θεούτα και Μελίλα"
+        ec: "Εκουαδόρ"
+        ee: "Εσθονία"
+        eg: "Αίγυπτος"
+        eh: "Δυτική Σαχάρα"
+        er: "Ερυθραία"
+        es: "Ισπανία"
+        et: "Αιθιοπία"
+        eu: "Ευρωπαϊκή Ένωση"
+        fi: "Φινλανδία"
+        fj: "Φίτζι"
+        fk: "Νήσοι Φόκλαντ"
+        fk_alt_variant: "Νήσοι Φόκλαντ (Νήσοι Μαλβίνας)"
+        fm: "Μικρονησία"
+        fo: "Νήσοι Φερόες"
+        fr: "Γαλλία"
+        ga: "Γκαμπόν"
+        gb: "Ηνωμένο Βασίλειο"
+        gb_alt_short: "ΗΒ"
+        gd: "Γρενάδα"
+        ge: "Γεωργία"
+        gf: "Γαλλική Γουιάνα"
+        gg: "Γκέρνζι"
+        gh: "Γκάνα"
+        gi: "Γιβραλτάρ"
+        gl: "Γροιλανδία"
+        gm: "Γκάμπια"
+        gn: "Γουινέα"
+        gp: "Γουαδελούπη"
+        gq: "Ισημερινή Γουινέα"
+        gr: "Ελλάδα"
+        gs: "Νήσοι Νότια Γεωργία και Νότιες Σάντουιτς"
+        gt: "Γουατεμάλα"
+        gu: "Γκουάμ"
+        gw: "Γουινέα Μπισάου"
+        gy: "Γουιάνα"
+        hk: "Χονγκ Κονγκ ΕΔΠ Κίνας"
+        hk_alt_short: "Χονγκ Κονγκ"
+        hm: "Νήσοι Χερντ και Μακντόναλντ"
+        hn: "Ονδούρα"
+        hr: "Κροατία"
+        ht: "Αϊτή"
+        hu: "Ουγγαρία"
+        ic: "Κανάριοι Νήσοι"
+        id: "Ινδονησία"
+        ie: "Ιρλανδία"
+        il: "Ισραήλ"
+        im: "Νήσος Μαν"
+        in: "Ινδία"
+        io: "Βρετανικά Εδάφη Ινδικού Ωκεανού"
+        iq: "Ιράκ"
+        ir: "Ιράν"
+        is: "Ισλανδία"
+        it: "Ιταλία"
+        je: "Τζέρζι"
+        jm: "Τζαμάικα"
+        jo: "Ιορδανία"
+        jp: "Ιαπωνία"
+        ke: "Κένυα"
+        kg: "Κιργιστάν"
+        kh: "Καμπότζη"
+        ki: "Κιριμπάτι"
+        km: "Κομόρες"
+        kn: "Άγιος Χριστόφορος και Νέβις"
+        kp: "Βόρεια Κορέα"
+        kr: "Νότια Κορέα"
+        kw: "Κουβέιτ"
+        ky: "Νήσοι Κάιμαν"
+        kz: "Καζακστάν"
+        la: "Λάος"
+        lb: "Λίβανος"
+        lc: "Αγία Λουκία"
+        li: "Λιχτενστάιν"
+        lk: "Σρι Λάνκα"
+        lr: "Λιβερία"
+        ls: "Λεσότο"
+        lt: "Λιθουανία"
+        lu: "Λουξεμβούργο"
+        lv: "Λετονία"
+        ly: "Λιβύη"
+        ma: "Μαρόκο"
+        mc: "Μονακό"
+        md: "Μολδαβία"
+        me: "Μαυροβούνιο"
+        mf: "Άγιος Μαρτίνος (Γαλλικό τμήμα)"
+        mg: "Μαδαγασκάρη"
+        mh: "Νήσοι Μάρσαλ"
+        mk: "Πρώην Γιουγκοσλαβική Δημοκρατία της Μακεδονίας"
+        mk_alt_variant: "Πρώην Γιουγκοσλαβική Δημοκρατία της Μακεδονίας (ΠΓΔΜ)"
+        ml: "Μάλι"
+        mm: "Μιανμάρ/Βιρμανία"
+        mn: "Μογγολία"
+        mo: "Μακάο ΕΔΠ Κίνας"
+        mo_alt_short: "Μακάο"
+        mp: "Νήσοι Βόρειες Μαριάνες"
+        mq: "Μαρτινίκα"
+        mr: "Μαυριτανία"
+        ms: "Μονσεράτ"
+        mt: "Μάλτα"
+        mu: "Μαυρίκιος"
+        mv: "Μαλδίβες"
+        mw: "Μαλάουι"
+        mx: "Μεξικό"
+        my: "Μαλαισία"
+        mz: "Μοζαμβίκη"
+        na: "Ναμίμπια"
+        nc: "Νέα Καληδονία"
+        ne: "Νίγηρας"
+        nf: "Νήσος Νόρφολκ"
+        ng: "Νιγηρία"
+        ni: "Νικαράγουα"
+        nl: "Ολλανδία"
+        'no': "Νορβηγία"
+        np: "Νεπάλ"
+        nr: "Ναουρού"
+        nu: "Νιούε"
+        nz: "Νέα Ζηλανδία"
+        om: "Ομάν"
+        pa: "Παναμάς"
+        pe: "Περού"
+        pf: "Γαλλική Πολυνησία"
+        pg: "Παπούα Νέα Γουινέα"
+        ph: "Φιλιππίνες"
+        pk: "Πακιστάν"
+        pl: "Πολωνία"
+        pm: "Σεν Πιερ και Μικελόν"
+        pn: "Νήσοι Πίτκερν"
+        pr: "Πουέρτο Ρίκο"
+        ps: "Παλαιστινιακά Εδάφη"
+        ps_alt_short: "Παλαιστίνη"
+        pt: "Πορτογαλία"
+        pw: "Παλάου"
+        py: "Παραγουάη"
+        qa: "Κατάρ"
+        qo: "Περιφερειακή Ωκεανία"
+        re: "Ρεϊνιόν"
+        ro: "Ρουμανία"
+        rs: "Σερβία"
+        ru: "Ρωσία"
+        rw: "Ρουάντα"
+        sa: "Σαουδική Αραβία"
+        sb: "Νήσοι Σολομώντος"
+        sc: "Σεϋχέλλες"
+        sd: "Σουδάν"
+        se: "Σουηδία"
+        sg: "Σιγκαπούρη"
+        sh: "Αγία Ελένη"
+        si: "Σλοβενία"
+        sj: "Σβάλμπαρντ και Γιαν Μαγιέν"
+        sk: "Σλοβακία"
+        sl: "Σιέρα Λεόνε"
+        sm: "Άγιος Μαρίνος"
+        sn: "Σενεγάλη"
+        so: "Σομαλία"
+        sr: "Σουρινάμ"
+        ss: "Νότιο Σουδάν"
+        st: "Σάο Τομέ και Πρίνσιπε"
+        sv: "Ελ Σαλβαδόρ"
+        sx: "Άγιος Μαρτίνος (Ολλανδικό τμήμα)"
+        sy: "Συρία"
+        sz: "Σουαζιλάνδη"
+        ta: "Τριστάν ντα Κούνια"
+        tc: "Νήσοι Τερκ και Κάικος"
+        td: "Τσαντ"
+        tf: "Γαλλικές περιοχές του νοτίου ημισφαιρίου"
+        tg: "Τόγκο"
+        th: "Ταϊλάνδη"
+        tj: "Τατζικιστάν"
+        tk: "Τοκελάου"
+        tl: "Τιμόρ-Λέστε"
+        tl_alt_variant: "Ανατολικό Τιμόρ"
+        tm: "Τουρκμενιστάν"
+        tn: "Τυνησία"
+        to: "Τόνγκα"
+        tr: "Τουρκία"
+        tt: "Τρινιντάντ και Τομπάγκο"
+        tv: "Τουβαλού"
+        tw: "Ταϊβάν"
+        tz: "Τανζανία"
+        ua: "Ουκρανία"
+        ug: "Ουγκάντα"
+        um: "Απομακρυσμένες Νησίδες ΗΠΑ"
+        us: "Ηνωμένες Πολιτείες"
+        us_alt_short: "ΗΠΑ"
+        uy: "Ουρουγουάη"
+        uz: "Ουζμπεκιστάν"
+        va: "Βατικανό"
+        vc: "Άγιος Βικέντιος και Γρεναδίνες"
+        ve: "Βενεζουέλα"
+        vg: "Βρετανικές Παρθένοι Νήσοι"
+        vi: "Αμερικανικές Παρθένοι Νήσοι"
+        vn: "Βιετνάμ"
+        vu: "Βανουάτου"
+        wf: "Ουάλις και Φουτούνα"
+        ws: "Σαμόα"
+        xk: "Κόσοβο"
+        ye: "Υεμένη"
+        yt: "Μαγιότ"
+        za: "Νότια Αφρική"
+        zm: "Ζάμπια"
+        zw: "Ζιμπάμπουε"
+        zz: "Άγνωστη περιοχή"
+      transform_names:
+        bgn: BGN
+        numeric: "Αριθμητικό"
+        tone: "Τόνος"
+        ungegn: UNGEGN
+        x_accents: "Σημεία τονισμού"
+        x_fullwidth: "Πλήρους πλάτους"
+        x_halfwidth: "Μισού πλάτους"
+        x_jamo: "Τζάμο [Jamo]"
+        x_pinyin: "Πινγίν"
+        x_publishing: "Έκδοση"
+      variants:
+        '1901': "Παραδοσιακή γερμανική ορθογραφία"
+        '1994': "Τυποποιημένη ορθογραφία Ρεσιάν"
+        '1996': "Γερμανική ορθογραφία του 1996"
+        1606_nict: "Νεότερα Μέσα Γαλλικά του 1606"
+        1694_acad: "Πρώιμα Σύγχρονα Γαλλικά"
+        1959_acad: "Ακαδημαϊκά"
+        abl1943: ABL1943
+        alalc97: ALALC97
+        aluku: ALUKU
+        ao1990: AO1990
+        arevela: "Ανατολικά Αρμενικά"
+        arevmda: "Δυτικά Αρμενικά"
+        baku1926: "Ενοποιημένη τουρκική λατινική αλφάβητος"
+        balanka: BALANKA
+        barla: BARLA
+        bauddha: BAUDDHA
+        biscayan: BISCAYAN
+        biske: "Διάλεκτος Σαν Τζιόρτζιο/Βίλα"
+        bohoric: BOHORIC
+        boont: "Μπούντλινγκ"
+        colb1945: COLB1945
+        dajnko: DAJNKO
+        ekavsk: EKAVSK
+        emodeng: EMODENG
+        fonipa: "Διεθνής φωνητική αλφάβητος"
+        fonupa: "Ουραλική φωνητική αλφάβητος"
+        fonxsamp: FONXSAMP
+        hepburn: HEPBURN
+        hognorsk: HOGNORSK
+        ijekavsk: IJEKAVSK
+        itihasa: ITIHASA
+        jauer: JAUER
+        jyutping: JYUTPING
+        kkcor: "Κοινή ορθογραφία"
+        kociewie: KOCIEWIE
+        kscor: KSCOR
+        laukika: LAUKIKA
+        lipaw: "Διάλεκτος Λιποβάζ της Ρεσιάν"
+        luna1918: LUNA1918
+        metelko: METELKO
+        monoton: "Μονοτονικό"
+        ndyuka: NDYUKA
+        nedis: "Διάλεκτος Νατισόνε"
+        njiva: "Διάλεκτος Γκνιβά/Ντζιβά"
+        nulik: NULIK
+        osojs: "Διάλεκτος Οσεακό/Οσοτζάν"
+        oxendict: OXENDICT
+        pamaka: PAMAKA
+        petr1708: PETR1708
+        pinyin: "Εκλατινισμένα Πινγίν"
+        polyton: "Πολυτονικό"
+        posix: "Υπολογιστής"
+        puter: PUTER
+        revised: "Αναθεωρημένη ορθογραφία"
+        rigik: RIGIK
+        rozaj: "Ρεσιάν"
+        rumgr: RUMGR
+        saaho: "Σάχο"
+        scotland: "Σκοτσεζικά τυποποιημένα Αγγλικά"
+        scouse: "Σκουζ"
+        solba: "Διάλεκτος Στολβιτζά/Σολμπικά"
+        sotav: SOTAV
+        surmiran: SURMIRAN
+        sursilv: SURSILV
+        sutsilv: SUTSILV
+        tarask: "Ταρασκιεβική ορθογραφία"
+        uccor: "Ενωποιημένη ορθογραφία"
+        ucrcor: "Ενωποιημένη αναθεωρημένη ορθογραφία"
+        ulster: ULSTER
+        unifon: UNIFON
+        vaidika: VAIDIKA
+        valencia: "Βαλενθιανά"
+        vallader: VALLADER
+        wadegile: "Εκλατινισμένα Γουάντ-Γκιλς"
+    units:
+      long:
+        per:
+          compound_unit_pattern: "{0} ανά {1}"
+        acceleration_g_force:
+          display_name: "ατμοσφαιρική επιτάχυνση βαρύτητας"
+          unit_pattern_count_one: "{0} δύναμη επιτάχυνσης"
+          unit_pattern_count_other: "{0} δύναμη επιτάχυνσης"
+        acceleration_meter_per_second_squared:
+          display_name: "μέτρα ανά τετραγωνικό δευτερόλεπτο"
+          unit_pattern_count_one: "{0} μέτρο ανά τετραγωνικό δευτερόλεπτο"
+          unit_pattern_count_other: "{0} μέτρα ανά τετραγωνικό δευτερόλεπτο"
+        angle_revolution:
+          display_name: "στροφή"
+          unit_pattern_count_one: "{0} στροφή"
+          unit_pattern_count_other: "{0} στροφές"
+        angle_radian:
+          display_name: "ακτίνια"
+          unit_pattern_count_one: "{0} ακτίνιο"
+          unit_pattern_count_other: "{0} ακτίνιο"
+        angle_degree:
+          display_name: "μοίρες"
+          unit_pattern_count_one: "{0} μοίρα"
+          unit_pattern_count_other: "{0} μοίρες"
+        angle_arc_minute:
+          display_name: "λεπτά του τόξου"
+          unit_pattern_count_one: "{0} λεπτό του τόξου"
+          unit_pattern_count_other: "{0} λεπτά του τόξου"
+        angle_arc_second:
+          display_name: "δευτερόλεπτα του τόξου"
+          unit_pattern_count_one: "{0} δευτερόλεπτο του τόξου"
+          unit_pattern_count_other: "{0} δευτερόλεπτα του τόξου"
+        area_square_kilometer:
+          display_name: "τετραγωνικά χιλιόμετρα"
+          unit_pattern_count_one: "{0} τετραγωνικό χιλιόμετρο"
+          unit_pattern_count_other: "{0} τετραγωνικά χιλιόμετρα"
+        area_hectare:
+          display_name: "εκτάρια"
+          unit_pattern_count_one: "{0} εκτάριο"
+          unit_pattern_count_other: "{0} εκτάρια"
+        area_square_meter:
+          display_name: "τετραγωνικά μέτρα"
+          unit_pattern_count_one: "{0} τετραγωνικό μέτρο"
+          unit_pattern_count_other: "{0} τετραγωνικά μέτρα"
+          per_unit_pattern: "{0}/m²"
+        area_square_centimeter:
+          display_name: "τετραγωνικά εκατοστά"
+          unit_pattern_count_one: "{0} τετραγωνικό εκατοστό"
+          unit_pattern_count_other: "{0} τετραγωνικά εκατοστά"
+          per_unit_pattern: "{0}/cm²"
+        area_square_mile:
+          display_name: "τετραγωνικά μίλια"
+          unit_pattern_count_one: "{0} τετραγωνικό μίλι"
+          unit_pattern_count_other: "{0} τετραγωνικά μίλια"
+        area_acre:
+          display_name: "ακρ"
+          unit_pattern_count_one: "{0} ακρ"
+          unit_pattern_count_other: "{0} ακρ"
+        area_square_yard:
+          display_name: "τετραγωνικές γιάρδες"
+          unit_pattern_count_one: "{0} τετραγωνική γιάρδα"
+          unit_pattern_count_other: "{0} τετραγωνικές γιάρδες"
+        area_square_foot:
+          display_name: "τετραγωνικά πόδια"
+          unit_pattern_count_one: "{0} τετραγωνικό πόδι"
+          unit_pattern_count_other: "{0} τετραγωνικά πόδια"
+        area_square_inch:
+          display_name: "τετραγωνικές ίντσες"
+          unit_pattern_count_one: "{0} τετραγωνική ίντσα"
+          unit_pattern_count_other: "{0} τετραγωνικές ίντσες"
+          per_unit_pattern: "{0}/in²"
+        consumption_liter_per_kilometer:
+          display_name: "λίτρα ανά χιλιόμετρο"
+          unit_pattern_count_one: "{0} λίτρο ανά χιλιόμετρο"
+          unit_pattern_count_other: "{0} λίτρα ανά χιλιόμετρο"
+        consumption_liter_per_100kilometers:
+          display_name: "λίτρα ανά 100 χιλιόμετρα"
+          unit_pattern_count_one: "{0} λίτρο ανά 100 χιλιόμετρα"
+          unit_pattern_count_other: "{0} λίτρα ανά 100 χιλιόμετρα"
+        consumption_mile_per_gallon:
+          display_name: "μίλια ανά γαλόνι"
+          unit_pattern_count_one: "{0} μίλι ανά γαλόνι"
+          unit_pattern_count_other: "{0} μίλια ανά γαλόνι"
+        digital_terabyte:
+          display_name: terabyte
+          unit_pattern_count_one: "{0} terabyte"
+          unit_pattern_count_other: "{0} terabyte"
+        digital_terabit:
+          display_name: terabit
+          unit_pattern_count_one: "{0} terabit"
+          unit_pattern_count_other: "{0} terabit"
+        digital_gigabyte:
+          display_name: gigabyte
+          unit_pattern_count_one: "{0} gigabyte"
+          unit_pattern_count_other: "{0} gigabyte"
+        digital_gigabit:
+          display_name: gigabit
+          unit_pattern_count_one: "{0} gigabit"
+          unit_pattern_count_other: "{0} gigabit"
+        digital_megabyte:
+          display_name: megabyte
+          unit_pattern_count_one: "{0} megabyte"
+          unit_pattern_count_other: "{0} megabyte"
+        digital_megabit:
+          display_name: megabit
+          unit_pattern_count_one: "{0} megabit"
+          unit_pattern_count_other: "{0} megabit"
+        digital_kilobyte:
+          display_name: kilobyte
+          unit_pattern_count_one: "{0} kilobyte"
+          unit_pattern_count_other: "{0} kilobyte"
+        digital_kilobit:
+          display_name: kilobit
+          unit_pattern_count_one: "{0} kilobit"
+          unit_pattern_count_other: "{0} kilobit"
+        digital_byte:
+          display_name: byte
+          unit_pattern_count_one: "{0} byte"
+          unit_pattern_count_other: "{0} byte"
+        digital_bit:
+          display_name: bit
+          unit_pattern_count_one: "{0} bit"
+          unit_pattern_count_other: "{0} bit"
+        duration_century:
+          display_name: "αιώνες"
+          unit_pattern_count_one: "{0} αιώνας"
+          unit_pattern_count_other: "{0} αιώνες"
+        duration_year:
+          display_name: "έτη"
+          unit_pattern_count_one: "{0} έτος"
+          unit_pattern_count_other: "{0} έτη"
+          per_unit_pattern: "{0} ανά έτος"
+        duration_month:
+          display_name: "μήνες"
+          unit_pattern_count_one: "{0} μήνας"
+          unit_pattern_count_other: "{0} μήνες"
+          per_unit_pattern: "{0}/μήνα"
+        duration_week:
+          display_name: "εβδομάδες"
+          unit_pattern_count_one: "{0} εβδομάδα"
+          unit_pattern_count_other: "{0} εβδομάδες"
+          per_unit_pattern: "{0} ανά εβδομάδα"
+        duration_day:
+          display_name: "ημέρες"
+          unit_pattern_count_one: "{0} ημέρα"
+          unit_pattern_count_other: "{0} ημέρες"
+          per_unit_pattern: "{0} ανά ημέρα"
+        duration_hour:
+          display_name: "ώρες"
+          unit_pattern_count_one: "{0} ώρα"
+          unit_pattern_count_other: "{0} ώρες"
+          per_unit_pattern: "{0} ανά ώρα"
+        duration_minute:
+          display_name: "λεπτά"
+          unit_pattern_count_one: "{0} λεπτό"
+          unit_pattern_count_other: "{0} λεπτά"
+          per_unit_pattern: "{0} ανά λεπτό"
+        duration_second:
+          display_name: "δευτερόλεπτα"
+          unit_pattern_count_one: "{0} δευτερόλεπτο"
+          unit_pattern_count_other: "{0} δευτερόλεπτα"
+          per_unit_pattern: "{0} ανά δευτερόλεπτο"
+        duration_millisecond:
+          display_name: "χιλιοστά του δευτερολέπτου"
+          unit_pattern_count_one: "{0} χιλιοστό του δευτερολέπτου"
+          unit_pattern_count_other: "{0} χιλιοστά του δευτερολέπτου"
+        duration_microsecond:
+          display_name: "μικροδευτερόλεπτα"
+          unit_pattern_count_one: "{0} μικροδευτερόλεπτο"
+          unit_pattern_count_other: "{0} μικροδευτερόλεπτα"
+        duration_nanosecond:
+          display_name: "νανοδευτερόλεπτα"
+          unit_pattern_count_one: "{0} νανοδευτερόλεπτο"
+          unit_pattern_count_other: "{0} νανοδευτερόλεπτα"
+        electric_ampere:
+          display_name: "αμπέρ"
+          unit_pattern_count_one: "{0} αμπέρ"
+          unit_pattern_count_other: "{0} αμπέρ"
+        electric_milliampere:
+          display_name: "μιλιαμπέρ"
+          unit_pattern_count_one: "{0} μιλιαμπέρ"
+          unit_pattern_count_other: "{0} μιλιαμπέρ"
+        electric_ohm:
+          display_name: "ωμ"
+          unit_pattern_count_one: "{0} ωμ"
+          unit_pattern_count_other: "{0} ωμ"
+        electric_volt:
+          display_name: "βολτ"
+          unit_pattern_count_one: "{0} βολτ"
+          unit_pattern_count_other: "{0} βολτ"
+        energy_kilocalorie:
+          display_name: "χιλιοθερμίδες"
+          unit_pattern_count_one: "{0} χιλιοθερμίδα"
+          unit_pattern_count_other: "{0} χιλιοθερμίδες"
+        energy_calorie:
+          display_name: "θερμίδες"
+          unit_pattern_count_one: "{0} θερμίδα"
+          unit_pattern_count_other: "{0} θερμίδες"
+        energy_foodcalorie:
+          display_name: "Θερμίδες"
+          unit_pattern_count_one: "{0} Θερμίδα"
+          unit_pattern_count_other: "{0} Θερμίδες"
+        energy_kilojoule:
+          display_name: "κιλοτζάουλ"
+          unit_pattern_count_one: "{0} κιλοτζάουλ"
+          unit_pattern_count_other: "{0} κιλοτζάουλ"
+        energy_joule:
+          display_name: "τζάουλ"
+          unit_pattern_count_one: "{0} τζάουλ"
+          unit_pattern_count_other: "{0} τζάουλ"
+        energy_kilowatt_hour:
+          display_name: "κιλοβατώρες"
+          unit_pattern_count_one: "{0} κιλοβατώρα"
+          unit_pattern_count_other: "{0} κιλοβατώρες"
+        frequency_gigahertz:
+          display_name: "γιγαχέρτζ"
+          unit_pattern_count_one: "{0} γιγαχέρτζ"
+          unit_pattern_count_other: "{0} γιγαχέρτζ"
+        frequency_megahertz:
+          display_name: "μεγαχέρτζ"
+          unit_pattern_count_one: "{0} μεγαχέρτζ"
+          unit_pattern_count_other: "{0} μεγαχέρτζ"
+        frequency_kilohertz:
+          display_name: "κιλοχέρτζ"
+          unit_pattern_count_one: "{0} κιλοχέρτζ"
+          unit_pattern_count_other: "{0} κιλοχέρτζ"
+        frequency_hertz:
+          display_name: "χερτζ"
+          unit_pattern_count_one: "{0} χερτζ"
+          unit_pattern_count_other: "{0} χερτζ"
+        length_kilometer:
+          display_name: "χιλιόμετρα"
+          unit_pattern_count_one: "{0} χιλιόμετρο"
+          unit_pattern_count_other: "{0} χιλιόμετρα"
+          per_unit_pattern: "{0}/χλμ."
+        length_meter:
+          display_name: "μέτρα"
+          unit_pattern_count_one: "{0} μέτρο"
+          unit_pattern_count_other: "{0} μέτρα"
+          per_unit_pattern: "{0}/μ."
+        length_decimeter:
+          display_name: "δεκατόμετρα"
+          unit_pattern_count_one: "{0} δεκατόμετρο"
+          unit_pattern_count_other: "{0} δεκατόμετρα"
+        length_centimeter:
+          display_name: "εκατοστά"
+          unit_pattern_count_one: "{0} εκατοστό"
+          unit_pattern_count_other: "{0} εκατοστά"
+          per_unit_pattern: "{0}/εκ."
+        length_millimeter:
+          display_name: "χιλιοστόμετρα"
+          unit_pattern_count_one: "{0} χιλιοστόμετρο"
+          unit_pattern_count_other: "{0} χιλιοστόμετρα"
+        length_micrometer:
+          display_name: "µm"
+          unit_pattern_count_one: "{0} μικρόμετρο"
+          unit_pattern_count_other: "{0} μικρόμετρα"
+        length_nanometer:
+          display_name: "νανόμετρα"
+          unit_pattern_count_one: "{0} νανόμετρο"
+          unit_pattern_count_other: "{0} νανόμετρα"
+        length_picometer:
+          display_name: "πικόμετρα"
+          unit_pattern_count_one: "{0} πικόμετρο"
+          unit_pattern_count_other: "{0} πικόμετρα"
+        length_mile:
+          display_name: "μίλια"
+          unit_pattern_count_one: "{0} μίλι"
+          unit_pattern_count_other: "{0} μίλια"
+        length_yard:
+          display_name: "γιάρδες"
+          unit_pattern_count_one: "{0} γιάρδα"
+          unit_pattern_count_other: "{0} γιάρδες"
+        length_foot:
+          display_name: "πόδια"
+          unit_pattern_count_one: "{0} πόδι"
+          unit_pattern_count_other: "{0} πόδια"
+          per_unit_pattern: "{0}/ft"
+        length_inch:
+          display_name: "ίντσες"
+          unit_pattern_count_one: "{0} ίντσα"
+          unit_pattern_count_other: "{0} ίντσες"
+          per_unit_pattern: "{0}/in"
+        length_parsec:
+          display_name: "παρσέκ"
+          unit_pattern_count_one: "{0} παρσέκ"
+          unit_pattern_count_other: "{0} παρσέκ"
+        length_light_year:
+          display_name: "έτη φωτός"
+          unit_pattern_count_one: "{0} έτος φωτός"
+          unit_pattern_count_other: "{0} έτη φωτός"
+        length_astronomical_unit:
+          display_name: "αστρονομικές μονάδες"
+          unit_pattern_count_one: "{0} αστρονομική μονάδα"
+          unit_pattern_count_other: "{0} αστρονομικές μονάδες"
+        length_furlong:
+          display_name: fur
+          unit_pattern_count_other: "{0} fur"
+        length_fathom:
+          display_name: fm
+          unit_pattern_count_other: "{0} fm"
+        length_nautical_mile:
+          display_name: "ναυτικά μίλια"
+          unit_pattern_count_one: "{0} ναυτικό μίλι"
+          unit_pattern_count_other: "{0} ναυτικά μίλια"
+        length_mile_scandinavian:
+          display_name: smi
+          unit_pattern_count_one: "{0} smi"
+          unit_pattern_count_other: "{0} smi"
+        light_lux:
+          display_name: lux
+          unit_pattern_count_one: "{0} lux"
+          unit_pattern_count_other: "{0} lux"
+        mass_metric_ton:
+          display_name: "μετρικοί τόνοι"
+          unit_pattern_count_one: "{0} μετρικός τόνος"
+          unit_pattern_count_other: "{0} μετρικοί τόνοι"
+        mass_kilogram:
+          display_name: "χιλιόγραμμα"
+          unit_pattern_count_one: "{0} χιλιόγραμμο"
+          unit_pattern_count_other: "{0} χιλιόγραμμα"
+          per_unit_pattern: "{0}/κιλό"
+        mass_gram:
+          display_name: "γραμμάρια"
+          unit_pattern_count_one: "{0} γραμμάριο"
+          unit_pattern_count_other: "{0} γραμμάρια"
+          per_unit_pattern: "{0} ανά γραμ."
+        mass_milligram:
+          display_name: "χιλιοστόγραμμα"
+          unit_pattern_count_one: "{0} χιλιοστόγραμμο"
+          unit_pattern_count_other: "{0} χιλιοστόγραμμα"
+        mass_microgram:
+          display_name: "μικρογραμμάρια"
+          unit_pattern_count_one: "{0} μικρογραμμάριο"
+          unit_pattern_count_other: "{0} μικρογραμμάρια"
+        mass_ton:
+          display_name: "τόνοι"
+          unit_pattern_count_one: "{0} τόνος"
+          unit_pattern_count_other: "{0} τόνοι"
+        mass_stone:
+          display_name: st
+          unit_pattern_count_other: "{0} st"
+        mass_pound:
+          display_name: "λίβρες"
+          unit_pattern_count_one: "{0} λίβρα"
+          unit_pattern_count_other: "{0} λίβρες"
+          per_unit_pattern: "{0} ανά λίβρα"
+        mass_ounce:
+          display_name: "ουγγιές"
+          unit_pattern_count_one: "{0} ουγγιά"
+          unit_pattern_count_other: "{0} ουγγιές"
+          per_unit_pattern: "{0} ανά ουγγιά"
+        mass_ounce_troy:
+          display_name: "ευγενείς ουγγιές"
+          unit_pattern_count_one: "{0} ευγενής ουγγιά"
+          unit_pattern_count_other: "{0} ευγενείς ουγγιές"
+        mass_carat:
+          display_name: "καράτια"
+          unit_pattern_count_one: "{0} καράτι"
+          unit_pattern_count_other: "{0} καράτια"
+        power_gigawatt:
+          display_name: "γιγαβάτ"
+          unit_pattern_count_one: "{0} γιγαβάτ"
+          unit_pattern_count_other: "{0} γιγαβάτ"
+        power_megawatt:
+          display_name: "μεγαβάτ"
+          unit_pattern_count_one: "{0} μεγαβάτ"
+          unit_pattern_count_other: "{0} μεγαβάτ"
+        power_kilowatt:
+          display_name: "κιλοβάτ"
+          unit_pattern_count_one: "{0} κιλοβάτ"
+          unit_pattern_count_other: "{0} κιλοβάτ"
+        power_watt:
+          display_name: "βατ"
+          unit_pattern_count_one: "{0} βατ"
+          unit_pattern_count_other: "{0} βατ"
+        power_milliwatt:
+          display_name: "μιλιβάτ"
+          unit_pattern_count_one: "{0} μιλιβάτ"
+          unit_pattern_count_other: "{0} μιλιβάτ"
+        power_horsepower:
+          display_name: "ίπποι"
+          unit_pattern_count_one: "{0} ίππος"
+          unit_pattern_count_other: "{0} ίπποι"
+        pressure_hectopascal:
+          display_name: "εκτοπασκάλ"
+          unit_pattern_count_one: "{0} εκτοπασκάλ"
+          unit_pattern_count_other: "{0} εκτοπασκάλ"
+        pressure_millimeter_of_mercury:
+          display_name: "χιλιοστόμετρα στήλης υδραργύρου"
+          unit_pattern_count_one: "{0} χιλιοστόμετρα στήλης υδραργύρου"
+          unit_pattern_count_other: "{0} χιλιοστόμετρα στήλης υδραργύρου"
+        pressure_pound_per_square_inch:
+          display_name: "λίβρα ανά τετραγωνική ίντσα"
+          unit_pattern_count_one: "{0} λίβρα ανά τετραγωνική ίντσα"
+          unit_pattern_count_other: "{0} λίβρες ανά τετραγωνική ίντσα"
+        pressure_inch_hg:
+          display_name: "ίντσες στήλης υδραργύρου"
+          unit_pattern_count_one: "{0} ίντσα στήλης υδραργύρου"
+          unit_pattern_count_other: "{0} ίντσες στήλης υδραργύρου"
+        pressure_millibar:
+          display_name: "μιλιμπάρ"
+          unit_pattern_count_one: "{0} μιλιμπάρ"
+          unit_pattern_count_other: "{0} μιλιμπάρ"
+        proportion_karat:
+          display_name: "καράτια"
+          unit_pattern_count_one: "{0} καράτι"
+          unit_pattern_count_other: "{0} καράτια"
+        speed_kilometer_per_hour:
+          display_name: "χιλιόμετρα ανά ώρα"
+          unit_pattern_count_one: "{0} χιλιόμετρο ανά ώρα"
+          unit_pattern_count_other: "{0} χιλιόμετρα ανά ώρα"
+        speed_meter_per_second:
+          display_name: "μέτρα ανά δευτερόλεπτο"
+          unit_pattern_count_one: "{0} μέτρο ανά δευτερόλεπτο"
+          unit_pattern_count_other: "{0} μέτρα ανά δευτερόλεπτο"
+        speed_mile_per_hour:
+          display_name: "μίλια ανά ώρα"
+          unit_pattern_count_one: "{0} μίλι ανά ώρα"
+          unit_pattern_count_other: "{0} μίλια ανά ώρα"
+        speed_knot:
+          display_name: "κόμβος"
+          unit_pattern_count_one: "{0} κόμβος"
+          unit_pattern_count_other: "{0} κόμβοι"
+        temperature_generic:
+          display_name: "°"
+          unit_pattern_count_one: "{0}°"
+          unit_pattern_count_other: "{0}°"
+        temperature_celsius:
+          display_name: "βαθμοί Κελσίου"
+          unit_pattern_count_one: "{0} βαθμός Κελσίου"
+          unit_pattern_count_other: "{0} βαθμοί Κελσίου"
+        temperature_fahrenheit:
+          display_name: "βαθμοί Φαρενάιτ"
+          unit_pattern_count_one: "{0} βαθμός Φαρενάιτ"
+          unit_pattern_count_other: "{0} βαθμοί Φαρενάιτ"
+        temperature_kelvin:
+          display_name: "βαθμοί Κέλβιν"
+          unit_pattern_count_one: "{0} βαθμός Κέλβιν"
+          unit_pattern_count_other: "{0} βαθμοί Κέλβιν"
+        volume_cubic_kilometer:
+          display_name: "κυβικά χιλιόμετρα"
+          unit_pattern_count_one: "{0} κυβικό χιλιόμετρο"
+          unit_pattern_count_other: "{0} κυβικά χιλιόμετρα"
+        volume_cubic_meter:
+          display_name: "κυβικά μέτρα"
+          unit_pattern_count_one: "{0} κυβικό μέτρο"
+          unit_pattern_count_other: "{0} κυβικό μέτρο"
+          per_unit_pattern: "{0} ανά κυβικό μέτρο"
+        volume_cubic_centimeter:
+          display_name: "κυβικά εκατοστά"
+          unit_pattern_count_one: "{0} κυβικό εκατοστό"
+          unit_pattern_count_other: "{0} κυβικά εκατοστά"
+          per_unit_pattern: "{0} ανά κυβικό εκατοστό"
+        volume_cubic_mile:
+          display_name: "κυβικά μίλια"
+          unit_pattern_count_one: "{0} κυβικό μίλι"
+          unit_pattern_count_other: "{0} κυβικά μίλια"
+        volume_cubic_yard:
+          display_name: "κυβικές γιάρδες"
+          unit_pattern_count_one: "{0} κυβική γιάρδα"
+          unit_pattern_count_other: "{0} κυβικές γιάρδες"
+        volume_cubic_foot:
+          display_name: "κυβικά πόδια"
+          unit_pattern_count_one: "{0} κυβικό πόδι"
+          unit_pattern_count_other: "{0} κυβικά πόδια"
+        volume_cubic_inch:
+          display_name: "κυβικές ίντσες"
+          unit_pattern_count_one: "{0} κυβική ίντσα"
+          unit_pattern_count_other: "{0} κυβικές ίντσες"
+        volume_megaliter:
+          display_name: "μεγαλίτρα"
+          unit_pattern_count_one: "{0} μεγαλίτρο"
+          unit_pattern_count_other: "{0} μεγαλίτρα"
+        volume_hectoliter:
+          display_name: "εκτόλιτρα"
+          unit_pattern_count_one: "{0} εκτόλιτρο"
+          unit_pattern_count_other: "{0} εκτόλιτρα"
+        volume_liter:
+          display_name: "λίτρα"
+          unit_pattern_count_one: "{0} λίτρο"
+          unit_pattern_count_other: "{0} λίτρα"
+          per_unit_pattern: "{0}/λ."
+        volume_deciliter:
+          display_name: "δεκατόλιτρα"
+          unit_pattern_count_one: "{0} δεκατόλιτρο"
+          unit_pattern_count_other: "{0} δεκατόλιτρα"
+        volume_centiliter:
+          display_name: "εκατοστόλιτρα"
+          unit_pattern_count_one: "{0} εκατοστόλιτρο"
+          unit_pattern_count_other: "{0} εκατοστόλιτρα"
+        volume_milliliter:
+          display_name: "χιλιοστόλιτρο"
+          unit_pattern_count_one: "{0} χιλιοστόλιτρο"
+          unit_pattern_count_other: "{0} χιλιοστόλιτρα"
+        volume_pint_metric:
+          display_name: "μετρική πίντα"
+          unit_pattern_count_one: "{0} μετρική πίντα"
+          unit_pattern_count_other: "{0} μετρικές πίντες"
+        volume_cup_metric:
+          display_name: "μετρικό κύπελλο"
+          unit_pattern_count_one: "{0} μετρικό κύπελλο"
+          unit_pattern_count_other: "{0} μετρικά κύπελλα"
+        volume_acre_foot:
+          display_name: "ακρ-πόδια"
+          unit_pattern_count_one: "{0} ακρ-πόδι"
+          unit_pattern_count_other: "{0} ακρ-πόδια"
+        volume_bushel:
+          display_name: bu
+          unit_pattern_count_other: "{0} bu"
+        volume_gallon:
+          display_name: "γαλόνια"
+          unit_pattern_count_one: "{0} γαλόνι"
+          unit_pattern_count_other: "{0} γαλόνια"
+          per_unit_pattern: "{0} ανά γαλόνι"
+        volume_quart:
+          display_name: "τέταρτα του γαλονιού"
+          unit_pattern_count_one: "{0} τέταρτο του γαλονιού"
+          unit_pattern_count_other: "{0} τέταρτα του γαλονιού"
+        volume_pint:
+          display_name: "πίντες"
+          unit_pattern_count_one: "{0} πίντα"
+          unit_pattern_count_other: "{0} πίντες"
+        volume_cup:
+          display_name: "κύπελλο"
+          unit_pattern_count_one: "{0} κύπελλο"
+          unit_pattern_count_other: "{0} κύπελλα"
+        volume_fluid_ounce:
+          display_name: "ουγγιές υγρού"
+          unit_pattern_count_one: "{0} ουγγιά υγρού"
+          unit_pattern_count_other: "{0} ουγγιές υγρού"
+        volume_tablespoon:
+          display_name: "κουταλιές της σούπας"
+          unit_pattern_count_one: "{0} κουταλιά της σούπας"
+          unit_pattern_count_other: "{0} κουταλιές της σούπας"
+        volume_teaspoon:
+          display_name: "κουταλιές του γλυκού"
+          unit_pattern_count_one: "{0} κουταλιά του γλυκού"
+          unit_pattern_count_other: "{0} κουταλιές του γλυκού"
+        coordinate_unit:
+          east: "{0} Α"
+          north: "{0} Β"
+          south: "{0} Ν"
+          west: "{0} Δ"
+      short:
+        per:
+          compound_unit_pattern: "{0}/{1}"
+        acceleration_g_force:
+          display_name: "δύν. επιτάχ."
+          unit_pattern_count_one: "{0} G"
+          unit_pattern_count_other: "{0} G"
+        acceleration_meter_per_second_squared:
+          display_name: "μέτρα/τετρ. δευτ."
+          unit_pattern_count_one: "{0} m/s²"
+          unit_pattern_count_other: "{0} m/s²"
+        angle_revolution:
+          display_name: rev
+          unit_pattern_count_one: "{0} rev"
+          unit_pattern_count_other: "{0} rev"
+        angle_radian:
+          display_name: "ακτίνια"
+          unit_pattern_count_one: "{0} rad"
+          unit_pattern_count_other: "{0} rad"
+        angle_degree:
+          display_name: "μοίρες"
+          unit_pattern_count_one: "{0}°"
+          unit_pattern_count_other: "{0}°"
+        angle_arc_minute:
+          display_name: "λεπτά του τόξου"
+          unit_pattern_count_one: "{0} λεπ. τόξου"
+          unit_pattern_count_other: "{0} λεπ. τόξου"
+        angle_arc_second:
+          display_name: arcsec
+          unit_pattern_count_one: "{0} arcsec"
+          unit_pattern_count_other: "{0} arcsec"
+        area_square_kilometer:
+          display_name: "τ. χλμ."
+          unit_pattern_count_one: "{0} τ. χλμ."
+          unit_pattern_count_other: "{0} τ. χλμ."
+        area_hectare:
+          display_name: "εκτάρια"
+          unit_pattern_count_one: "{0} ha"
+          unit_pattern_count_other: "{0} ha"
+        area_square_meter:
+          display_name: "τ. μέτρα"
+          unit_pattern_count_one: "{0} τ.μ."
+          unit_pattern_count_other: "{0} τ.μ."
+          per_unit_pattern: "{0}/m²"
+        area_square_centimeter:
+          display_name: "τ. εκ."
+          unit_pattern_count_one: "{0} τ. εκ."
+          unit_pattern_count_other: "{0} τ. εκ."
+          per_unit_pattern: "{0}/cm²"
+        area_square_mile:
+          display_name: "τ. μίλια"
+          unit_pattern_count_one: "{0} mi²"
+          unit_pattern_count_other: "{0} mi²"
+        area_acre:
+          display_name: "ακρ"
+          unit_pattern_count_one: "{0} ac"
+          unit_pattern_count_other: "{0} ac"
+        area_square_yard:
+          display_name: "τετρ. γιάρδες"
+          unit_pattern_count_one: "{0} yd²"
+          unit_pattern_count_other: "{0} yd²"
+        area_square_foot:
+          display_name: "τετρ. πόδια"
+          unit_pattern_count_one: "{0} ft²"
+          unit_pattern_count_other: "{0} ft²"
+        area_square_inch:
+          display_name: "τετρ. ίντσες"
+          unit_pattern_count_one: "{0} in²"
+          unit_pattern_count_other: "{0} in²"
+          per_unit_pattern: "{0}/in²"
+        consumption_liter_per_kilometer:
+          display_name: "λίτρα/χλμ."
+          unit_pattern_count_one: "{0} λίτρο/χλμ"
+          unit_pattern_count_other: "{0} λίτρα/χλμ"
+        consumption_liter_per_100kilometers:
+          display_name: "λ./100 χλμ."
+          unit_pattern_count_one: "{0} λ./100 χλμ."
+          unit_pattern_count_other: "{0} λ./100 χλμ."
+        consumption_mile_per_gallon:
+          display_name: "μίλια/γαλόνι"
+          unit_pattern_count_one: "{0} mpg"
+          unit_pattern_count_other: "{0} mpg"
+        digital_terabyte:
+          display_name: TB
+          unit_pattern_count_one: "{0} TB"
+          unit_pattern_count_other: "{0} TB"
+        digital_terabit:
+          display_name: Tb
+          unit_pattern_count_one: "{0} Tb"
+          unit_pattern_count_other: "{0} Tb"
+        digital_gigabyte:
+          display_name: GB
+          unit_pattern_count_one: "{0} GB"
+          unit_pattern_count_other: "{0} GB"
+        digital_gigabit:
+          display_name: Gb
+          unit_pattern_count_one: "{0} Gb"
+          unit_pattern_count_other: "{0} Gb"
+        digital_megabyte:
+          display_name: MB
+          unit_pattern_count_one: "{0} MB"
+          unit_pattern_count_other: "{0} MB"
+        digital_megabit:
+          display_name: Mb
+          unit_pattern_count_one: "{0} Mb"
+          unit_pattern_count_other: "{0} Mb"
+        digital_kilobyte:
+          display_name: kB
+          unit_pattern_count_one: "{0} kB"
+          unit_pattern_count_other: "{0} kB"
+        digital_kilobit:
+          display_name: kb
+          unit_pattern_count_one: "{0} kb"
+          unit_pattern_count_other: "{0} kb"
+        digital_byte:
+          display_name: byte
+          unit_pattern_count_one: "{0} byte"
+          unit_pattern_count_other: "{0} byte"
+        digital_bit:
+          display_name: bit
+          unit_pattern_count_one: "{0} bit"
+          unit_pattern_count_other: "{0} bit"
+        duration_century:
+          display_name: "αιών."
+          unit_pattern_count_one: "{0} αιών."
+          unit_pattern_count_other: "{0} αιών."
+        duration_year:
+          display_name: "έτη"
+          unit_pattern_count_one: "{0} έτ."
+          unit_pattern_count_other: "{0} έτ."
+          per_unit_pattern: "{0}/έτ."
+        duration_month:
+          display_name: "μήνες"
+          unit_pattern_count_one: "{0} μήν."
+          unit_pattern_count_other: "{0} μήν."
+          per_unit_pattern: "{0}/μ."
+        duration_week:
+          display_name: "εβδομάδες"
+          unit_pattern_count_one: "{0} εβδ."
+          unit_pattern_count_other: "{0} εβδ."
+          per_unit_pattern: "{0}/εβδ."
+        duration_day:
+          display_name: "ημέρες"
+          unit_pattern_count_one: "{0} ημέρα"
+          unit_pattern_count_other: "{0} ημέρες"
+          per_unit_pattern: "{0}/ημ."
+        duration_hour:
+          display_name: "ώρες"
+          unit_pattern_count_one: "{0} ώρα"
+          unit_pattern_count_other: "{0} ώρ."
+          per_unit_pattern: "{0} α.ώ."
+        duration_minute:
+          display_name: "λεπ."
+          unit_pattern_count_one: "{0} λεπ."
+          unit_pattern_count_other: "{0} λεπ."
+          per_unit_pattern: "{0}/λ."
+        duration_second:
+          display_name: "δευτ."
+          unit_pattern_count_one: "{0} δευτ."
+          unit_pattern_count_other: "{0} δευτ."
+          per_unit_pattern: "{0} ανα δευτ."
+        duration_millisecond:
+          display_name: "χιλιοστά δευτ."
+          unit_pattern_count_one: "{0} ms"
+          unit_pattern_count_other: "{0} ms"
+        duration_microsecond:
+          display_name: "μικροδεύτερα"
+          unit_pattern_count_one: "{0} μs"
+          unit_pattern_count_other: "{0} μs"
+        duration_nanosecond:
+          display_name: "νανοδεύτερα"
+          unit_pattern_count_one: "{0} ns"
+          unit_pattern_count_other: "{0} ns"
+        electric_ampere:
+          display_name: "αμπέρ"
+          unit_pattern_count_one: "{0} A"
+          unit_pattern_count_other: "{0} A"
+        electric_milliampere:
+          display_name: "μιλιαμπέρ"
+          unit_pattern_count_one: "{0} mA"
+          unit_pattern_count_other: "{0} mA"
+        electric_ohm:
+          display_name: "ωμ"
+          unit_pattern_count_one: "{0} Ω"
+          unit_pattern_count_other: "{0} Ω"
+        electric_volt:
+          display_name: "βολτ"
+          unit_pattern_count_one: "{0} V"
+          unit_pattern_count_other: "{0} V"
+        energy_kilocalorie:
+          display_name: kcal
+          unit_pattern_count_one: "{0} kcal"
+          unit_pattern_count_other: "{0} kcal"
+        energy_calorie:
+          display_name: cal
+          unit_pattern_count_one: "{0} cal"
+          unit_pattern_count_other: "{0} cal"
+        energy_foodcalorie:
+          display_name: Cal
+          unit_pattern_count_one: "{0} Cal"
+          unit_pattern_count_other: "{0} Cal"
+        energy_kilojoule:
+          display_name: "κιλοτζάουλ"
+          unit_pattern_count_one: "{0} kJ"
+          unit_pattern_count_other: "{0} kJ"
+        energy_joule:
+          display_name: "τζάουλ"
+          unit_pattern_count_one: "{0} J"
+          unit_pattern_count_other: "{0} J"
+        energy_kilowatt_hour:
+          display_name: "κιλοβάτ/ώρα"
+          unit_pattern_count_one: "{0} kWh"
+          unit_pattern_count_other: "{0} kWh"
+        frequency_gigahertz:
+          display_name: "γιγαχέρτζ"
+          unit_pattern_count_one: "{0} GHz"
+          unit_pattern_count_other: "{0} GHz"
+        frequency_megahertz:
+          display_name: "μεγαχέρτζ"
+          unit_pattern_count_one: "{0} MHz"
+          unit_pattern_count_other: "{0} MHz"
+        frequency_kilohertz:
+          display_name: "κιλοχέρτζ"
+          unit_pattern_count_one: "{0} kHz"
+          unit_pattern_count_other: "{0} kHz"
+        frequency_hertz:
+          display_name: "χερτζ"
+          unit_pattern_count_one: "{0} Hz"
+          unit_pattern_count_other: "{0} Hz"
+        length_kilometer:
+          display_name: "χλμ."
+          unit_pattern_count_one: "{0} χλμ."
+          unit_pattern_count_other: "{0} χλμ."
+          per_unit_pattern: "{0}/χλμ."
+        length_meter:
+          display_name: "μέτρα"
+          unit_pattern_count_one: "{0} μ."
+          unit_pattern_count_other: "{0} μ."
+          per_unit_pattern: "{0}/μ."
+        length_decimeter:
+          display_name: "δεκ."
+          unit_pattern_count_one: "{0} δεκ."
+          unit_pattern_count_other: "{0} δεκ."
+        length_centimeter:
+          display_name: "εκ."
+          unit_pattern_count_one: "{0} εκ."
+          unit_pattern_count_other: "{0} εκ."
+          per_unit_pattern: "{0}/εκ."
+        length_millimeter:
+          display_name: "χιλιοστόμ."
+          unit_pattern_count_one: "{0} χλστ."
+          unit_pattern_count_other: "{0} χλστ."
+        length_micrometer:
+          display_name: "μικρόμετρα"
+          unit_pattern_count_one: "{0} µm"
+          unit_pattern_count_other: "{0} µm"
+        length_nanometer:
+          display_name: nm
+          unit_pattern_count_one: "{0} nm"
+          unit_pattern_count_other: "{0} nm"
+        length_picometer:
+          display_name: pm
+          unit_pattern_count_one: "{0} pm"
+          unit_pattern_count_other: "{0} pm"
+        length_mile:
+          display_name: "μίλια"
+          unit_pattern_count_one: "{0} μίλ."
+          unit_pattern_count_other: "{0} μίλ."
+        length_yard:
+          display_name: "γιάρδες"
+          unit_pattern_count_one: "{0} yd"
+          unit_pattern_count_other: "{0} yd"
+        length_foot:
+          display_name: "πόδια"
+          unit_pattern_count_one: "{0} ft"
+          unit_pattern_count_other: "{0} ft"
+          per_unit_pattern: "{0}/ft"
+        length_inch:
+          display_name: "ίντσες"
+          unit_pattern_count_one: "{0} in"
+          unit_pattern_count_other: "{0} in"
+          per_unit_pattern: "{0}/in"
+        length_parsec:
+          display_name: "παρσέκ"
+          unit_pattern_count_one: "{0} pc"
+          unit_pattern_count_other: "{0} pc"
+        length_light_year:
+          display_name: "έτη φωτός"
+          unit_pattern_count_one: "{0} ly"
+          unit_pattern_count_other: "{0} ly"
+        length_astronomical_unit:
+          display_name: "α.μ."
+          unit_pattern_count_one: "{0} α.μ."
+          unit_pattern_count_other: "{0} α.μ."
+        length_furlong:
+          display_name: fur
+          unit_pattern_count_other: "{0} fur"
+        length_fathom:
+          display_name: fm
+          unit_pattern_count_other: "{0} fm"
+        length_nautical_mile:
+          display_name: "ν.μ."
+          unit_pattern_count_one: "{0} ν.μ."
+          unit_pattern_count_other: "{0} ν.μ."
+        length_mile_scandinavian:
+          display_name: smi
+          unit_pattern_count_one: "{0} smi"
+          unit_pattern_count_other: "{0} smi"
+        light_lux:
+          display_name: lux
+          unit_pattern_count_one: "{0} lux"
+          unit_pattern_count_other: "{0} lux"
+        mass_metric_ton:
+          display_name: mt
+          unit_pattern_count_one: "{0} mt"
+          unit_pattern_count_other: "{0} mt"
+        mass_kilogram:
+          display_name: kg
+          unit_pattern_count_one: "{0} κιλό"
+          unit_pattern_count_other: "{0} κιλά"
+          per_unit_pattern: "{0}/κιλό"
+        mass_gram:
+          display_name: "γραμμάρια"
+          unit_pattern_count_one: "{0} γρ."
+          unit_pattern_count_other: "{0} γρ."
+          per_unit_pattern: "{0}/γρ."
+        mass_milligram:
+          display_name: mg
+          unit_pattern_count_one: "{0} mg"
+          unit_pattern_count_other: "{0} mg"
+        mass_microgram:
+          display_name: "µg"
+          unit_pattern_count_one: "{0} µg"
+          unit_pattern_count_other: "{0} µg"
+        mass_ton:
+          display_name: "τόνοι"
+          unit_pattern_count_one: "{0} t"
+          unit_pattern_count_other: "{0} t"
+        mass_stone:
+          display_name: st
+          unit_pattern_count_other: "{0} st"
+        mass_pound:
+          display_name: "λίβρες"
+          unit_pattern_count_one: "{0} lb"
+          unit_pattern_count_other: "{0} lb"
+          per_unit_pattern: "{0}/lb"
+        mass_ounce:
+          display_name: oz
+          unit_pattern_count_one: "{0} oz"
+          unit_pattern_count_other: "{0} oz"
+          per_unit_pattern: "{0}/oz"
+        mass_ounce_troy:
+          display_name: "ευγενής ουγγιά"
+          unit_pattern_count_one: "{0} oz t"
+          unit_pattern_count_other: "{0} oz t"
+        mass_carat:
+          display_name: "καράτια"
+          unit_pattern_count_one: "{0} ct"
+          unit_pattern_count_other: "{0} ct"
+        power_gigawatt:
+          display_name: "γιγαβάτ"
+          unit_pattern_count_one: "{0} GW"
+          unit_pattern_count_other: "{0} GW"
+        power_megawatt:
+          display_name: "μεγαβάτ"
+          unit_pattern_count_one: "{0} MW"
+          unit_pattern_count_other: "{0} MW"
+        power_kilowatt:
+          display_name: "κιλοβάτ"
+          unit_pattern_count_one: "{0} kW"
+          unit_pattern_count_other: "{0} kW"
+        power_watt:
+          display_name: "βατ"
+          unit_pattern_count_one: "{0} W"
+          unit_pattern_count_other: "{0} W"
+        power_milliwatt:
+          display_name: "μιλιβάτ"
+          unit_pattern_count_one: "{0} mW"
+          unit_pattern_count_other: "{0} mW"
+        power_horsepower:
+          display_name: "ίπποι"
+          unit_pattern_count_one: "{0} hp"
+          unit_pattern_count_other: "{0} hp"
+        pressure_hectopascal:
+          display_name: "εκτοπασκάλ"
+          unit_pattern_count_one: "{0} hPa"
+          unit_pattern_count_other: "{0} hPa"
+        pressure_millimeter_of_mercury:
+          display_name: "χιλιοστόμετρα στήλης υδραργύρου"
+          unit_pattern_count_one: "{0} mm Hg"
+          unit_pattern_count_other: "{0} mm Hg"
+        pressure_pound_per_square_inch:
+          display_name: "λίβρα ανά τετραγωνική ίντσα"
+          unit_pattern_count_one: "{0} psi"
+          unit_pattern_count_other: "{0} psi"
+        pressure_inch_hg:
+          display_name: "ίντσες στήλης υδραργύρου"
+          unit_pattern_count_one: "{0} inHg"
+          unit_pattern_count_other: "{0} inHg"
+        pressure_millibar:
+          display_name: "μιλιμπάρ"
+          unit_pattern_count_one: "{0} mbar"
+          unit_pattern_count_other: "{0} mbar"
+        proportion_karat:
+          display_name: "καράτια"
+          unit_pattern_count_one: "{0} kt"
+          unit_pattern_count_other: "{0} kt"
+        speed_kilometer_per_hour:
+          display_name: "χλμ./ώρα"
+          unit_pattern_count_one: "{0} χλμ./ώρα"
+          unit_pattern_count_other: "{0} χλμ./ώρα"
+        speed_meter_per_second:
+          display_name: "μέτρα/δευτερόλεπτο"
+          unit_pattern_count_one: "{0} μέτρο/δευτ."
+          unit_pattern_count_other: "{0} μέτρα/δευτ."
+        speed_mile_per_hour:
+          display_name: "μίλια/ώρα"
+          unit_pattern_count_one: "{0} μίλι/ώρα"
+          unit_pattern_count_other: "{0} μίλια/ώρα"
+        speed_knot:
+          display_name: kn
+          unit_pattern_count_one: "{0} kn"
+          unit_pattern_count_other: "{0} kn"
+        temperature_generic:
+          display_name: "°"
+          unit_pattern_count_one: "{0}°"
+          unit_pattern_count_other: "{0}°"
+        temperature_celsius:
+          display_name: "βαθμοί Κελσίου"
+          unit_pattern_count_one: "{0}°C"
+          unit_pattern_count_other: "{0}°C"
+        temperature_fahrenheit:
+          display_name: "βαθμοί Φαρενάιτ"
+          unit_pattern_count_one: "{0}°F"
+          unit_pattern_count_other: "{0}°F"
+        temperature_kelvin:
+          display_name: K
+          unit_pattern_count_one: "{0} K"
+          unit_pattern_count_other: "{0} K"
+        volume_cubic_kilometer:
+          display_name: km³
+          unit_pattern_count_one: "{0} km³"
+          unit_pattern_count_other: "{0} km³"
+        volume_cubic_meter:
+          display_name: m³
+          unit_pattern_count_one: "{0} m³"
+          unit_pattern_count_other: "{0} m³"
+          per_unit_pattern: "{0}/m³"
+        volume_cubic_centimeter:
+          display_name: cm³
+          unit_pattern_count_one: "{0} cm³"
+          unit_pattern_count_other: "{0} cm³"
+          per_unit_pattern: "{0}/cm³"
+        volume_cubic_mile:
+          display_name: mi³
+          unit_pattern_count_one: "{0} mi³"
+          unit_pattern_count_other: "{0} mi³"
+        volume_cubic_yard:
+          display_name: "κυβ. γιάρδες"
+          unit_pattern_count_one: "{0} yd³"
+          unit_pattern_count_other: "{0} yd³"
+        volume_cubic_foot:
+          display_name: ft³
+          unit_pattern_count_one: "{0} ft³"
+          unit_pattern_count_other: "{0} ft³"
+        volume_cubic_inch:
+          display_name: in³
+          unit_pattern_count_one: "{0} in³"
+          unit_pattern_count_other: "{0} in³"
+        volume_megaliter:
+          display_name: ML
+          unit_pattern_count_one: "{0} ML"
+          unit_pattern_count_other: "{0} ML"
+        volume_hectoliter:
+          display_name: hL
+          unit_pattern_count_one: "{0} hL"
+          unit_pattern_count_other: "{0} hL"
+        volume_liter:
+          display_name: "λίτρα"
+          unit_pattern_count_one: "{0} λίτ."
+          unit_pattern_count_other: "{0} λίτ."
+          per_unit_pattern: "{0}/λ."
+        volume_deciliter:
+          display_name: dL
+          unit_pattern_count_one: "{0} dL"
+          unit_pattern_count_other: "{0} dL"
+        volume_centiliter:
+          display_name: cL
+          unit_pattern_count_one: "{0} cL"
+          unit_pattern_count_other: "{0} cL"
+        volume_milliliter:
+          display_name: mL
+          unit_pattern_count_one: "{0} mL"
+          unit_pattern_count_other: "{0} mL"
+        volume_pint_metric:
+          display_name: "μετρικές πίντες"
+          unit_pattern_count_one: "{0} μετρική πίντα"
+          unit_pattern_count_other: "{0} μετρικές πίντες"
+        volume_cup_metric:
+          display_name: "μετρ. κύπελλο"
+          unit_pattern_count_one: "{0} μετρ. κύπελλο"
+          unit_pattern_count_other: "{0} μετρ. κύπελλα"
+        volume_acre_foot:
+          display_name: "ακρ πόδια"
+          unit_pattern_count_one: "{0} ac ft"
+          unit_pattern_count_other: "{0} ac ft"
+        volume_bushel:
+          display_name: bu
+          unit_pattern_count_other: "{0} bu"
+        volume_gallon:
+          display_name: gal
+          unit_pattern_count_one: "{0} gal"
+          unit_pattern_count_other: "{0} gal"
+          per_unit_pattern: "{0}/gal"
+        volume_quart:
+          display_name: "τέταρτα γαλονιού"
+          unit_pattern_count_one: "{0} qt"
+          unit_pattern_count_other: "{0} qt"
+        volume_pint:
+          display_name: "πίντες"
+          unit_pattern_count_one: "{0} pt"
+          unit_pattern_count_other: "{0} pt"
+        volume_cup:
+          display_name: "κύπελλα"
+          unit_pattern_count_one: "{0} c"
+          unit_pattern_count_other: "{0} c"
+        volume_fluid_ounce:
+          display_name: fl oz
+          unit_pattern_count_one: "{0} fl oz"
+          unit_pattern_count_other: "{0} fl oz"
+        volume_tablespoon:
+          display_name: "κ.σ."
+          unit_pattern_count_one: "{0} κ.σ."
+          unit_pattern_count_other: "{0} κ.σ."
+        volume_teaspoon:
+          display_name: "κ.γ."
+          unit_pattern_count_one: "{0} κ.γ."
+          unit_pattern_count_other: "{0} κ.γ."
+        coordinate_unit:
+          east: "{0} Α"
+          north: "{0} Β"
+          south: "{0} Ν"
+          west: "{0} Δ"
+      narrow:
+        per:
+          compound_unit_pattern: "{0}/{1}"
+        acceleration_g_force:
+          display_name: "δύν. επιτάχ."
+          unit_pattern_count_one: "{0} G"
+          unit_pattern_count_other: "{0} G"
+        acceleration_meter_per_second_squared:
+          display_name: "μέτρα/τετρ. δευτ."
+          unit_pattern_count_one: "{0} m/s²"
+          unit_pattern_count_other: "{0} m/s²"
+        angle_revolution:
+          display_name: rev
+          unit_pattern_count_one: "{0} rev"
+          unit_pattern_count_other: "{0} rev"
+        angle_radian:
+          display_name: "ακτίνια"
+          unit_pattern_count_one: "{0} rad"
+          unit_pattern_count_other: "{0} rad"
+        angle_degree:
+          display_name: "μοίρες"
+          unit_pattern_count_one: "{0}°"
+          unit_pattern_count_other: "{0}°"
+        angle_arc_minute:
+          display_name: "λεπτά του τόξου"
+          unit_pattern_count_one: "{0}′"
+          unit_pattern_count_other: "{0}′"
+        angle_arc_second:
+          display_name: arcsec
+          unit_pattern_count_one: "{0}″"
+          unit_pattern_count_other: "{0}″"
+        area_square_kilometer:
+          display_name: "τ. χλμ."
+          unit_pattern_count_one: "{0} km²"
+          unit_pattern_count_other: "{0} km²"
+        area_hectare:
+          display_name: "εκτάρια"
+          unit_pattern_count_one: "{0} ha"
+          unit_pattern_count_other: "{0} ha"
+        area_square_meter:
+          display_name: "τ. μέτρα"
+          unit_pattern_count_one: "{0} m²"
+          unit_pattern_count_other: "{0} m²"
+          per_unit_pattern: "{0}/m²"
+        area_square_centimeter:
+          display_name: "τ. εκ."
+          unit_pattern_count_one: "{0} τ. εκ."
+          unit_pattern_count_other: "{0} τ. εκ."
+          per_unit_pattern: "{0}/cm²"
+        area_square_mile:
+          display_name: "τ. μίλια"
+          unit_pattern_count_one: "{0} mi²"
+          unit_pattern_count_other: "{0} mi²"
+        area_acre:
+          display_name: "ακρ"
+          unit_pattern_count_one: "{0} ac"
+          unit_pattern_count_other: "{0} ac"
+        area_square_yard:
+          display_name: "τετρ. γιάρδες"
+          unit_pattern_count_one: "{0} yd²"
+          unit_pattern_count_other: "{0} yd²"
+        area_square_foot:
+          display_name: "τετρ. πόδια"
+          unit_pattern_count_one: "{0} ft²"
+          unit_pattern_count_other: "{0} ft²"
+        area_square_inch:
+          display_name: "τετρ. ίντσες"
+          unit_pattern_count_one: "{0} in²"
+          unit_pattern_count_other: "{0} in²"
+          per_unit_pattern: "{0}/in²"
+        consumption_liter_per_kilometer:
+          display_name: "λίτρα/χλμ."
+          unit_pattern_count_one: "{0} λίτρα/χλμ"
+          unit_pattern_count_other: "{0} λίτρα/χλμ"
+        consumption_liter_per_100kilometers:
+          display_name: "λ/100 χλμ"
+          unit_pattern_count_one: "{0} λ/100 χλμ"
+          unit_pattern_count_other: "{0} λ/100 χλμ"
+        consumption_mile_per_gallon:
+          display_name: "μίλια/γαλόνι"
+          unit_pattern_count_one: "{0} mpg"
+          unit_pattern_count_other: "{0} mpg"
+        digital_terabyte:
+          display_name: TB
+          unit_pattern_count_one: "{0} TB"
+          unit_pattern_count_other: "{0} TB"
+        digital_terabit:
+          display_name: Tb
+          unit_pattern_count_one: "{0} Tb"
+          unit_pattern_count_other: "{0} Tb"
+        digital_gigabyte:
+          display_name: GB
+          unit_pattern_count_one: "{0} GB"
+          unit_pattern_count_other: "{0} GB"
+        digital_gigabit:
+          display_name: Gb
+          unit_pattern_count_one: "{0} Gb"
+          unit_pattern_count_other: "{0} Gb"
+        digital_megabyte:
+          display_name: MB
+          unit_pattern_count_one: "{0} MB"
+          unit_pattern_count_other: "{0} MB"
+        digital_megabit:
+          display_name: Mb
+          unit_pattern_count_one: "{0} Mb"
+          unit_pattern_count_other: "{0} Mb"
+        digital_kilobyte:
+          display_name: kB
+          unit_pattern_count_one: "{0} kB"
+          unit_pattern_count_other: "{0} kB"
+        digital_kilobit:
+          display_name: kb
+          unit_pattern_count_one: "{0} kb"
+          unit_pattern_count_other: "{0} kb"
+        digital_byte:
+          display_name: byte
+          unit_pattern_count_one: "{0} byte"
+          unit_pattern_count_other: "{0} byte"
+        digital_bit:
+          display_name: bit
+          unit_pattern_count_one: "{0} bit"
+          unit_pattern_count_other: "{0} bit"
+        duration_century:
+          display_name: "αιών."
+          unit_pattern_count_one: "{0} αιών."
+          unit_pattern_count_other: "{0} αιών."
+        duration_year:
+          display_name: "έτ."
+          unit_pattern_count_one: "{0} έ"
+          unit_pattern_count_other: "{0} έ"
+          per_unit_pattern: "{0}/έτ."
+        duration_month:
+          display_name: "μήνας"
+          unit_pattern_count_one: "{0} μ"
+          unit_pattern_count_other: "{0} μ"
+          per_unit_pattern: "{0}/μ."
+        duration_week:
+          display_name: "εβδ."
+          unit_pattern_count_one: "{0} ε"
+          unit_pattern_count_other: "{0} ε"
+          per_unit_pattern: "{0}/εβδ."
+        duration_day:
+          display_name: "ημέρα"
+          unit_pattern_count_one: "{0} η"
+          unit_pattern_count_other: "{0} η"
+          per_unit_pattern: "{0}/ημ."
+        duration_hour:
+          display_name: "ώρα"
+          unit_pattern_count_one: "{0} ώ"
+          unit_pattern_count_other: "{0} ώ"
+          per_unit_pattern: "{0} α.ώ."
+        duration_minute:
+          display_name: "λεπ."
+          unit_pattern_count_one: "{0} λ"
+          unit_pattern_count_other: "{0} λ"
+          per_unit_pattern: "{0}/λ."
+        duration_second:
+          display_name: "δευτ."
+          unit_pattern_count_one: "{0} δ"
+          unit_pattern_count_other: "{0} δ"
+          per_unit_pattern: "{0} ανα δευτ."
+        duration_millisecond:
+          display_name: "χιλ. δευτ."
+          unit_pattern_count_one: "{0} ms"
+          unit_pattern_count_other: "{0} ms"
+        duration_microsecond:
+          display_name: "μικροδεύτερα"
+          unit_pattern_count_one: "{0} μs"
+          unit_pattern_count_other: "{0} μs"
+        duration_nanosecond:
+          display_name: "νανοδεύτερα"
+          unit_pattern_count_one: "{0} ns"
+          unit_pattern_count_other: "{0} ns"
+        electric_ampere:
+          display_name: "αμπέρ"
+          unit_pattern_count_one: "{0} A"
+          unit_pattern_count_other: "{0} A"
+        electric_milliampere:
+          display_name: "μιλιαμπέρ"
+          unit_pattern_count_one: "{0} mA"
+          unit_pattern_count_other: "{0} mA"
+        electric_ohm:
+          display_name: "ωμ"
+          unit_pattern_count_one: "{0} Ω"
+          unit_pattern_count_other: "{0} Ω"
+        electric_volt:
+          display_name: "βολτ"
+          unit_pattern_count_one: "{0} V"
+          unit_pattern_count_other: "{0} V"
+        energy_kilocalorie:
+          display_name: kcal
+          unit_pattern_count_one: "{0} kcal"
+          unit_pattern_count_other: "{0} kcal"
+        energy_calorie:
+          display_name: cal
+          unit_pattern_count_one: "{0} cal"
+          unit_pattern_count_other: "{0} cal"
+        energy_foodcalorie:
+          display_name: Cal
+          unit_pattern_count_one: "{0} Cal"
+          unit_pattern_count_other: "{0} Cal"
+        energy_kilojoule:
+          display_name: "κιλοτζάουλ"
+          unit_pattern_count_one: "{0} kJ"
+          unit_pattern_count_other: "{0} kJ"
+        energy_joule:
+          display_name: "τζάουλ"
+          unit_pattern_count_one: "{0} J"
+          unit_pattern_count_other: "{0} J"
+        energy_kilowatt_hour:
+          display_name: "κιλοβάτ/ώρα"
+          unit_pattern_count_one: "{0} kWh"
+          unit_pattern_count_other: "{0} kWh"
+        frequency_gigahertz:
+          display_name: "γιγαχέρτζ"
+          unit_pattern_count_one: "{0} GHz"
+          unit_pattern_count_other: "{0} GHz"
+        frequency_megahertz:
+          display_name: "μεγαχέρτζ"
+          unit_pattern_count_one: "{0} MHz"
+          unit_pattern_count_other: "{0} MHz"
+        frequency_kilohertz:
+          display_name: "κιλοχέρτζ"
+          unit_pattern_count_one: "{0} kHz"
+          unit_pattern_count_other: "{0} kHz"
+        frequency_hertz:
+          display_name: "χερτζ"
+          unit_pattern_count_one: "{0} Hz"
+          unit_pattern_count_other: "{0} Hz"
+        length_kilometer:
+          display_name: "χλμ."
+          unit_pattern_count_one: "{0} χλμ."
+          unit_pattern_count_other: "{0} χλμ."
+          per_unit_pattern: "{0}/χλμ."
+        length_meter:
+          display_name: "μέτρο"
+          unit_pattern_count_one: "{0} μ."
+          unit_pattern_count_other: "{0} μ."
+          per_unit_pattern: "{0}/μ."
+        length_decimeter:
+          display_name: "δεκ."
+          unit_pattern_count_one: "{0} δεκ."
+          unit_pattern_count_other: "{0} δεκ."
+        length_centimeter:
+          display_name: "εκ."
+          unit_pattern_count_one: "{0} εκ."
+          unit_pattern_count_other: "{0} εκ."
+          per_unit_pattern: "{0}/εκ."
+        length_millimeter:
+          display_name: "χλστ."
+          unit_pattern_count_one: "{0} χλστ."
+          unit_pattern_count_other: "{0} χλστ."
+        length_micrometer:
+          display_name: "μικρόμετρα"
+          unit_pattern_count_one: "{0} µm"
+          unit_pattern_count_other: "{0} µm"
+        length_nanometer:
+          display_name: nm
+          unit_pattern_count_one: "{0} nm"
+          unit_pattern_count_other: "{0} nm"
+        length_picometer:
+          display_name: pm
+          unit_pattern_count_one: "{0} pm"
+          unit_pattern_count_other: "{0} pm"
+        length_mile:
+          display_name: "μίλια"
+          unit_pattern_count_one: "{0} mi"
+          unit_pattern_count_other: "{0} mi"
+        length_yard:
+          display_name: "γιάρδες"
+          unit_pattern_count_one: "{0} yd"
+          unit_pattern_count_other: "{0} yd"
+        length_foot:
+          display_name: "πόδια"
+          unit_pattern_count_one: "{0} ft"
+          unit_pattern_count_other: "{0} ft"
+          per_unit_pattern: "{0}/ft"
+        length_inch:
+          display_name: "ίντσες"
+          unit_pattern_count_one: "{0} in"
+          unit_pattern_count_other: "{0} in"
+          per_unit_pattern: "{0}/in"
+        length_parsec:
+          display_name: "παρσέκ"
+          unit_pattern_count_one: "{0} pc"
+          unit_pattern_count_other: "{0} pc"
+        length_light_year:
+          display_name: "έτη φωτός"
+          unit_pattern_count_one: "{0} ly"
+          unit_pattern_count_other: "{0} ly"
+        length_astronomical_unit:
+          display_name: "α.μ."
+          unit_pattern_count_one: "{0} α.μ."
+          unit_pattern_count_other: "{0} α.μ."
+        length_furlong:
+          display_name: fur
+          unit_pattern_count_other: "{0} fur"
+        length_fathom:
+          display_name: fm
+          unit_pattern_count_other: "{0} fm"
+        length_nautical_mile:
+          display_name: "ν.μ."
+          unit_pattern_count_one: "{0} ν.μ."
+          unit_pattern_count_other: "{0} ν.μ."
+        length_mile_scandinavian:
+          display_name: smi
+          unit_pattern_count_one: "{0} smi"
+          unit_pattern_count_other: "{0} smi"
+        light_lux:
+          display_name: lux
+          unit_pattern_count_one: "{0} lux"
+          unit_pattern_count_other: "{0} lux"
+        mass_metric_ton:
+          display_name: mt
+          unit_pattern_count_one: "{0} mt"
+          unit_pattern_count_other: "{0} mt"
+        mass_kilogram:
+          display_name: kg
+          unit_pattern_count_one: "{0} kg"
+          unit_pattern_count_other: "{0} kg"
+          per_unit_pattern: "{0}/κιλό"
+        mass_gram:
+          display_name: "γρ."
+          unit_pattern_count_one: "{0} γρ."
+          unit_pattern_count_other: "{0} γρ."
+          per_unit_pattern: "{0}/γρ."
+        mass_milligram:
+          display_name: mg
+          unit_pattern_count_one: "{0} mg"
+          unit_pattern_count_other: "{0} mg"
+        mass_microgram:
+          display_name: "µg"
+          unit_pattern_count_one: "{0} µg"
+          unit_pattern_count_other: "{0} µg"
+        mass_ton:
+          display_name: "τόνοι"
+          unit_pattern_count_one: "{0} t"
+          unit_pattern_count_other: "{0} t"
+        mass_stone:
+          display_name: st
+          unit_pattern_count_other: "{0} st"
+        mass_pound:
+          display_name: "λίβρες"
+          unit_pattern_count_one: "{0} lb"
+          unit_pattern_count_other: "{0} lb"
+          per_unit_pattern: "{0}/lb"
+        mass_ounce:
+          display_name: oz
+          unit_pattern_count_one: "{0} oz"
+          unit_pattern_count_other: "{0} oz"
+          per_unit_pattern: "{0}/oz"
+        mass_ounce_troy:
+          display_name: "ευγενής ουγγιά"
+          unit_pattern_count_one: "{0} oz t"
+          unit_pattern_count_other: "{0} oz t"
+        mass_carat:
+          display_name: "καράτια"
+          unit_pattern_count_one: "{0} ct"
+          unit_pattern_count_other: "{0} ct"
+        power_gigawatt:
+          display_name: "γιγαβάτ"
+          unit_pattern_count_one: "{0} GW"
+          unit_pattern_count_other: "{0} GW"
+        power_megawatt:
+          display_name: "μεγαβάτ"
+          unit_pattern_count_one: "{0} MW"
+          unit_pattern_count_other: "{0} MW"
+        power_kilowatt:
+          display_name: "κιλοβάτ"
+          unit_pattern_count_one: "{0} kW"
+          unit_pattern_count_other: "{0} kW"
+        power_watt:
+          display_name: "βατ"
+          unit_pattern_count_one: "{0} W"
+          unit_pattern_count_other: "{0} W"
+        power_milliwatt:
+          display_name: "μιλιβάτ"
+          unit_pattern_count_one: "{0} mW"
+          unit_pattern_count_other: "{0} mW"
+        power_horsepower:
+          display_name: "ίπποι"
+          unit_pattern_count_one: "{0} hp"
+          unit_pattern_count_other: "{0} hp"
+        pressure_hectopascal:
+          display_name: "εκτοπασκάλ"
+          unit_pattern_count_one: "{0} hPa"
+          unit_pattern_count_other: "{0} hPa"
+        pressure_millimeter_of_mercury:
+          display_name: "χιλιοστόμετρα στήλης υδραργύρου"
+          unit_pattern_count_one: "{0} mm Hg"
+          unit_pattern_count_other: "{0} mm Hg"
+        pressure_pound_per_square_inch:
+          display_name: "λίβρα ανά τετραγωνική ίντσα"
+          unit_pattern_count_one: "{0} psi"
+          unit_pattern_count_other: "{0} psi"
+        pressure_inch_hg:
+          display_name: "ίντσες στήλης υδραργύρου"
+          unit_pattern_count_one: "{0} inHg"
+          unit_pattern_count_other: "{0} inHg"
+        pressure_millibar:
+          display_name: "μιλιμπάρ"
+          unit_pattern_count_one: "{0} mbar"
+          unit_pattern_count_other: "{0} mbar"
+        proportion_karat:
+          display_name: "καράτια"
+          unit_pattern_count_one: "{0} kt"
+          unit_pattern_count_other: "{0} kt"
+        speed_kilometer_per_hour:
+          display_name: "χλμ./ώρα"
+          unit_pattern_count_one: "{0} χλμ./ώρα"
+          unit_pattern_count_other: "{0} χλμ./ώρα"
+        speed_meter_per_second:
+          display_name: "μέτρα/δευτερόλεπτο"
+          unit_pattern_count_one: "{0} m/s"
+          unit_pattern_count_other: "{0} m/s"
+        speed_mile_per_hour:
+          display_name: "μίλια/ώρα"
+          unit_pattern_count_one: "{0} mi/h"
+          unit_pattern_count_other: "{0} mi/h"
+        speed_knot:
+          display_name: kn
+          unit_pattern_count_one: "{0} kn"
+          unit_pattern_count_other: "{0} kn"
+        temperature_generic:
+          display_name: "°"
+          unit_pattern_count_one: "{0}°"
+          unit_pattern_count_other: "{0}°"
+        temperature_celsius:
+          display_name: "°C"
+          unit_pattern_count_one: "{0}°C"
+          unit_pattern_count_other: "{0}°C"
+        temperature_fahrenheit:
+          display_name: "βαθμοί Φαρενάιτ"
+          unit_pattern_count_one: "{0}°F"
+          unit_pattern_count_other: "{0}°F"
+        temperature_kelvin:
+          display_name: K
+          unit_pattern_count_one: "{0} K"
+          unit_pattern_count_other: "{0} K"
+        volume_cubic_kilometer:
+          display_name: km³
+          unit_pattern_count_one: "{0} km³"
+          unit_pattern_count_other: "{0} km³"
+        volume_cubic_meter:
+          display_name: m³
+          unit_pattern_count_one: "{0} m³"
+          unit_pattern_count_other: "{0} m³"
+          per_unit_pattern: "{0}/m³"
+        volume_cubic_centimeter:
+          display_name: cm³
+          unit_pattern_count_one: "{0} cm³"
+          unit_pattern_count_other: "{0} cm³"
+          per_unit_pattern: "{0}/cm³"
+        volume_cubic_mile:
+          display_name: mi³
+          unit_pattern_count_one: "{0} mi³"
+          unit_pattern_count_other: "{0} mi³"
+        volume_cubic_yard:
+          display_name: "κυβ. γιάρδες"
+          unit_pattern_count_one: "{0} yd³"
+          unit_pattern_count_other: "{0} yd³"
+        volume_cubic_foot:
+          display_name: ft³
+          unit_pattern_count_one: "{0} ft³"
+          unit_pattern_count_other: "{0} ft³"
+        volume_cubic_inch:
+          display_name: in³
+          unit_pattern_count_one: "{0} in³"
+          unit_pattern_count_other: "{0} in³"
+        volume_megaliter:
+          display_name: ML
+          unit_pattern_count_one: "{0} ML"
+          unit_pattern_count_other: "{0} ML"
+        volume_hectoliter:
+          display_name: hL
+          unit_pattern_count_one: "{0} hL"
+          unit_pattern_count_other: "{0} hL"
+        volume_liter:
+          display_name: "λίτρο"
+          unit_pattern_count_one: "{0} l"
+          unit_pattern_count_other: "{0} l"
+          per_unit_pattern: "{0}/λ."
+        volume_deciliter:
+          display_name: dL
+          unit_pattern_count_one: "{0} dL"
+          unit_pattern_count_other: "{0} dL"
+        volume_centiliter:
+          display_name: cL
+          unit_pattern_count_one: "{0} cL"
+          unit_pattern_count_other: "{0} cL"
+        volume_milliliter:
+          display_name: mL
+          unit_pattern_count_one: "{0} mL"
+          unit_pattern_count_other: "{0} mL"
+        volume_pint_metric:
+          display_name: "μετρικές πίντες"
+          unit_pattern_count_one: "{0} μετρικές πίντες"
+          unit_pattern_count_other: "{0} μετρικές πίντες"
+        volume_cup_metric:
+          display_name: "μετρ. κύπελλο"
+          unit_pattern_count_one: "{0} μετρ. κύπελλα"
+          unit_pattern_count_other: "{0} μετρ. κύπελλα"
+        volume_acre_foot:
+          display_name: "ακρ πόδια"
+          unit_pattern_count_one: "{0} ac ft"
+          unit_pattern_count_other: "{0} ac ft"
+        volume_bushel:
+          display_name: bu
+          unit_pattern_count_other: "{0} bu"
+        volume_gallon:
+          display_name: gal
+          unit_pattern_count_one: "{0} gal"
+          unit_pattern_count_other: "{0} gal"
+          per_unit_pattern: "{0}/gal"
+        volume_quart:
+          display_name: "τέταρτα γαλονιού"
+          unit_pattern_count_one: "{0} qt"
+          unit_pattern_count_other: "{0} qt"
+        volume_pint:
+          display_name: "πίντες"
+          unit_pattern_count_one: "{0} pt"
+          unit_pattern_count_other: "{0} pt"
+        volume_cup:
+          display_name: "κύπελλα"
+          unit_pattern_count_one: "{0} c"
+          unit_pattern_count_other: "{0} c"
+        volume_fluid_ounce:
+          display_name: fl oz
+          unit_pattern_count_one: "{0} fl oz"
+          unit_pattern_count_other: "{0} fl oz"
+        volume_tablespoon:
+          display_name: "κ.σ."
+          unit_pattern_count_one: "{0} κ.σ."
+          unit_pattern_count_other: "{0} κ.σ."
+        volume_teaspoon:
+          display_name: "κ.γ."
+          unit_pattern_count_one: "{0} κ.γ."
+          unit_pattern_count_other: "{0} κ.γ."
+        coordinate_unit:
+          east: "{0} Α"
+          north: "{0} Β"
+          south: "{0} Ν"
+          west: "{0} Δ"
+      duration_unit_type_hm:
+        duration_unit_pattern: h:mm
+      duration_unit_type_hms:
+        duration_unit_pattern: h:mm:ss
+      duration_unit_type_ms:
+        duration_unit_pattern: m:ss

@@ -1,0 +1,9 @@
+[submodule "submodules/dates"]
+	path = submodules/dates
+	url = git@github.com:unicode-cldr/cldr-dates-full.git
+[submodule "submodules/locale_display_names"]
+	path = submodules/locale_display_names
+	url = git@github.com:unicode-cldr/cldr-localenames-full.git
+[submodule "submodules/units"]
+	path = submodules/units
+	url = git@github.com:unicode-cldr/cldr-units-full.git

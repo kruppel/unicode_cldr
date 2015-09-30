@@ -1,0 +1,5709 @@
+---
+lv:
+  cldr:
+    dates:
+      calendars:
+        gregorian:
+          months:
+            format:
+              abbreviated:
+                '1': janv.
+                '2': febr.
+                '3': marts
+                '4': apr.
+                '5': maijs
+                '6': jūn.
+                '7': jūl.
+                '8': aug.
+                '9': sept.
+                '10': okt.
+                '11': nov.
+                '12': dec.
+              narrow:
+                '1': J
+                '2': F
+                '3': M
+                '4': A
+                '5': M
+                '6': J
+                '7': J
+                '8': A
+                '9': S
+                '10': O
+                '11': N
+                '12': D
+              wide:
+                '1': janvāris
+                '2': februāris
+                '3': marts
+                '4': aprīlis
+                '5': maijs
+                '6': jūnijs
+                '7': jūlijs
+                '8': augusts
+                '9': septembris
+                '10': oktobris
+                '11': novembris
+                '12': decembris
+            stand_alone:
+              abbreviated:
+                '1': Janv.
+                '2': Febr.
+                '3': Marts
+                '4': Apr.
+                '5': Maijs
+                '6': Jūn.
+                '7': Jūl.
+                '8': Aug.
+                '9': Sept.
+                '10': Okt.
+                '11': Nov.
+                '12': Dec.
+              narrow:
+                '1': J
+                '2': F
+                '3': M
+                '4': A
+                '5': M
+                '6': J
+                '7': J
+                '8': A
+                '9': S
+                '10': O
+                '11': N
+                '12': D
+              wide:
+                '1': Janvāris
+                '2': Februāris
+                '3': Marts
+                '4': Aprīlis
+                '5': Maijs
+                '6': Jūnijs
+                '7': Jūlijs
+                '8': Augusts
+                '9': Septembris
+                '10': Oktobris
+                '11': Novembris
+                '12': Decembris
+          days:
+            format:
+              abbreviated:
+                sun: Sv
+                mon: Pr
+                tue: Ot
+                wed: Tr
+                thu: Ce
+                fri: Pk
+                sat: Se
+              narrow:
+                sun: S
+                mon: P
+                tue: O
+                wed: T
+                thu: C
+                fri: P
+                sat: S
+              short:
+                sun: Sv
+                mon: Pr
+                tue: Ot
+                wed: Tr
+                thu: Ce
+                fri: Pk
+                sat: Se
+              wide:
+                sun: svētdiena
+                mon: pirmdiena
+                tue: otrdiena
+                wed: trešdiena
+                thu: ceturtdiena
+                fri: piektdiena
+                sat: sestdiena
+            stand_alone:
+              abbreviated:
+                sun: Sv
+                mon: Pr
+                tue: Ot
+                wed: Tr
+                thu: Ce
+                fri: Pk
+                sat: Se
+              narrow:
+                sun: S
+                mon: P
+                tue: O
+                wed: T
+                thu: C
+                fri: P
+                sat: S
+              short:
+                sun: Sv
+                mon: Pr
+                tue: Ot
+                wed: Tr
+                thu: Ce
+                fri: Pk
+                sat: Se
+              wide:
+                sun: Svētdiena
+                mon: Pirmdiena
+                tue: Otrdiena
+                wed: Trešdiena
+                thu: Ceturtdiena
+                fri: Piektdiena
+                sat: Sestdiena
+          quarters:
+            format:
+              abbreviated:
+                '1': 1. cet.
+                '2': 2. cet.
+                '3': 3. cet.
+                '4': 4. cet.
+              narrow:
+                '1': '1.'
+                '2': '2.'
+                '3': '3.'
+                '4': '4.'
+              wide:
+                '1': 1. ceturksnis
+                '2': 2. ceturksnis
+                '3': 3. ceturksnis
+                '4': 4. ceturksnis
+            stand_alone:
+              abbreviated:
+                '1': 1. cet.
+                '2': 2. cet.
+                '3': 3. cet.
+                '4': 4. cet.
+              narrow:
+                '1': '1.'
+                '2': '2.'
+                '3': '3.'
+                '4': '4.'
+              wide:
+                '1': 1. ceturksnis
+                '2': 2. ceturksnis
+                '3': 3. ceturksnis
+                '4': 4. ceturksnis
+          day_periods:
+            format:
+              abbreviated:
+                midnight: pusnaktī
+                am: AM
+                noon: pusd.
+                pm: PM
+                morning1: no rīta
+                afternoon1: pēcpusd.
+                evening1: vakarā
+                night1: naktī
+              narrow:
+                midnight: pusnaktī
+                am: priekšp.
+                noon: pusd.
+                pm: pēcp.
+                morning1: no rīta
+                afternoon1: pēcpusdienā
+                evening1: vakarā
+                night1: naktī
+              wide:
+                midnight: pusnaktī
+                am: priekšpusdienā
+                noon: pusdienlaikā
+                pm: pēcpusdienā
+                morning1: no rīta
+                afternoon1: pēcpusdienā
+                evening1: vakarā
+                night1: naktī
+            stand_alone:
+              abbreviated:
+                midnight: pusnakts
+                am: priekšp.
+                noon: pusd.
+                pm: pēcpusd.
+                morning1: rīts
+                afternoon1: pēcpusdiena
+                evening1: vakars
+                night1: nakts
+              narrow:
+                midnight: pusnakts
+                am: priekšp.
+                noon: pusd.
+                pm: pēcp.
+                morning1: rīts
+                afternoon1: pēcpusdiena
+                evening1: vakars
+                night1: nakts
+              wide:
+                midnight: pusnakts
+                am: priekšpusdienā
+                noon: pusdienlaiks
+                pm: pēcpusdiena
+                morning1: rīts
+                afternoon1: pēcpusdiena
+                evening1: vakars
+                night1: nakts
+          eras:
+            era_names:
+              '0': pirms mūsu ēras
+              0_alt_variant: BCE
+              '1': mūsu ērā
+              1_alt_variant: CE
+            era_abbr:
+              '0': p.m.ē.
+              0_alt_variant: BCE
+              '1': m.ē.
+              1_alt_variant: CE
+            era_narrow:
+              '0': p.m.ē.
+              0_alt_variant: BCE
+              '1': m.ē.
+              1_alt_variant: CE
+          date_formats:
+            full: EEEE, y. 'gada' d. MMMM
+            long: y. 'gada' d. MMMM
+            medium: y. 'gada' d. MMM
+            short: dd.MM.yy
+          time_formats:
+            full: HH:mm:ss zzzz
+            long: HH:mm:ss z
+            medium: HH:mm:ss
+            short: HH:mm
+          date_time_formats:
+            full: "{1} {0}"
+            long: "{1} {0}"
+            medium: "{1} {0}"
+            short: "{1} {0}"
+            available_formats:
+              d: d
+              e: ccc
+              ed: E, d.
+              ehm: E, h:mm a
+              e_hm: E, HH:mm
+              ehms: E, h:mm:ss a
+              e_hms: E, HH:mm:ss
+              gy: G y. 'g'.
+              gy_mmm: G y. 'g'. MMM
+              gy_mm_md: G y. 'g'. d. MMM
+              gy_mmm_ed: E, G y. 'g'. d. MMM
+              h: HH
+              hm: HH:mm
+              hms: HH:mm:ss
+              hmsv: HH:mm:ss v
+              hmv: HH:mm v
+              m: L
+              md: dd.MM.
+              m_ed: E, dd.MM.
+              mmm: LLL
+              mm_md: d. MMM
+              mmm_ed: E, d. MMM
+              mmm_md: d. MMMM
+              mmmm_ed: E, d. MMMM
+              mmss: mm:ss
+              ms: mm:ss
+              y: y. 'g'.
+              y_m: MM.y.
+              y_md: d.M.y.
+              y_m_ed: E, d.M.y.
+              y_mmm: y. 'g'. MMM
+              y_mm_md: y. 'g'. d. MMM
+              y_mmm_ed: E, y. 'g'. d. MMM
+              y_mmmm: y. 'g'. MMMM
+              y_qqq: y. 'g'. QQQ
+              y_qqqq: y. 'g'. QQQQ
+            append_items:
+              day: "{0} ({2}: {1})"
+              day_of_week: "{0} {1}"
+              era: "{1} {0}"
+              hour: "{0} ({2}: {1})"
+              minute: "{0} ({2}: {1})"
+              month: "{0} ({2}: {1})"
+              quarter: "{0} ({2}: {1})"
+              second: "{0} ({2}: {1})"
+              timezone: "{0} {1}"
+              week: "{0} ({2}: {1})"
+              year: "{1} {0}"
+            interval_formats:
+              interval_format_fallback: "{0} - {1}"
+              d:
+                d: d.–d.
+              h:
+                h: HH–HH
+              hm:
+                h: HH:mm–HH:mm
+                m: HH:mm–HH:mm
+              hmv:
+                h: HH:mm–HH:mm v
+                m: HH:mm–HH:mm v
+              hv:
+                h: HH–HH v
+              m:
+                m: MM.–MM.
+              md:
+                d: dd.MM.–dd.MM.
+                m: dd.MM–dd.MM
+              m_ed:
+                d: E, dd.MM – E, dd.MM
+                m: E, dd.MM – E, dd.MM
+              mmm:
+                m: LLL–LLL
+              mm_md:
+                d: d.–d. MMM
+                m: d. MMM – d. MMM
+              mmm_ed:
+                d: E, d. MMM – E, d. MMM
+                m: E, d. MMM – E, d. MMM
+              y:
+                y: y.–y.
+              y_m:
+                m: MM.y.–MM.y.
+                y: MM.y.–MM.y.
+              y_md:
+                d: dd.MM.y.–dd.MM.y.
+                m: dd.MM.y.–dd.MM.y.
+                y: dd.MM.y.–dd.MM.y.
+              y_m_ed:
+                d: E, dd.MM.y. – E, dd.MM.y.
+                m: E, dd.MM.y. – E, dd.MM.y.
+                y: E, dd.MM.y. – E, dd.MM.y.
+              y_mmm:
+                m: y. 'gada' MMM–MMM
+                y: y. 'gada' MMM – y. 'gada' MMM
+              y_mm_md:
+                d: y. 'gada' d.–d. MMM
+                m: y. 'gada' d. MMM – d. MMM
+                y: y. 'gada' d. MMM – y. 'gada' d. MMM
+              y_mmm_ed:
+                d: E, y. 'gada' d. MMM – E, y. 'gada' d. MMM
+                m: E, y. 'gada' d. MMM – E, y. 'gada' d. MMM
+                y: E, y. 'gada' d. MMM – E, y. 'gada' d. MMM
+              y_mmmm:
+                m: y. 'gada' MMMM–MMMM
+                y: y. 'gada' MMMM – y. 'gada' MMMM
+      fields:
+        era:
+          display_name: "ēra"
+        year:
+          display_name: gads
+          relative_type__1: pagājušajā gadā
+          relative_type_0: "šajā gadā"
+          relative_type_1: nākamajā gadā
+          relative_time_type_future:
+            relative_time_pattern_count_zero: pēc {0} gadiem
+            relative_time_pattern_count_one: pēc {0} gada
+            relative_time_pattern_count_other: pēc {0} gadiem
+          relative_time_type_past:
+            relative_time_pattern_count_zero: pirms {0} gadiem
+            relative_time_pattern_count_one: pirms {0} gada
+            relative_time_pattern_count_other: pirms {0} gadiem
+        year_short:
+          display_name: g.
+          relative_type__1: pagājušajā gadā
+          relative_type_0: "šajā gadā"
+          relative_type_1: nākamajā gadā
+          relative_time_type_future:
+            relative_time_pattern_count_zero: pēc {0} g.
+            relative_time_pattern_count_one: pēc {0} g.
+            relative_time_pattern_count_other: pēc {0} g.
+          relative_time_type_past:
+            relative_time_pattern_count_zero: pirms {0} g.
+            relative_time_pattern_count_one: pirms {0} g.
+            relative_time_pattern_count_other: pirms {0} g.
+        year_narrow:
+          display_name: g.
+          relative_type__1: pagājušajā gadā
+          relative_type_0: "šajā gadā"
+          relative_type_1: nākamajā gadā
+          relative_time_type_future:
+            relative_time_pattern_count_zero: pēc {0} g.
+            relative_time_pattern_count_one: pēc {0} g.
+            relative_time_pattern_count_other: pēc {0} g.
+          relative_time_type_past:
+            relative_time_pattern_count_zero: pirms {0} g.
+            relative_time_pattern_count_one: pirms {0} g.
+            relative_time_pattern_count_other: pirms {0} g.
+        quarter:
+          display_name: ceturksnis
+          relative_type__1: last quarter
+          relative_type_0: this quarter
+          relative_type_1: next quarter
+          relative_time_type_future:
+            relative_time_pattern_count_zero: pēc {0} ceturkšņiem
+            relative_time_pattern_count_one: pēc {0} ceturkšņa
+            relative_time_pattern_count_other: pēc {0} ceturkšņiem
+          relative_time_type_past:
+            relative_time_pattern_count_zero: pirms {0} ceturkšņiem
+            relative_time_pattern_count_one: pirms {0} ceturkšņa
+            relative_time_pattern_count_other: pirms {0} ceturkšņiem
+        quarter_short:
+          display_name: cet.
+          relative_type__1: last quarter
+          relative_type_0: this quarter
+          relative_type_1: next quarter
+          relative_time_type_future:
+            relative_time_pattern_count_zero: pēc {0} cet.
+            relative_time_pattern_count_one: pēc {0} cet.
+            relative_time_pattern_count_other: pēc {0} cet.
+          relative_time_type_past:
+            relative_time_pattern_count_zero: pirms {0} cet.
+            relative_time_pattern_count_one: pirms {0} cet.
+            relative_time_pattern_count_other: pirms {0} cet.
+        quarter_narrow:
+          display_name: cet.
+          relative_type__1: last quarter
+          relative_type_0: this quarter
+          relative_type_1: next quarter
+          relative_time_type_future:
+            relative_time_pattern_count_zero: pēc {0} cet.
+            relative_time_pattern_count_one: pēc {0} cet.
+            relative_time_pattern_count_other: pēc {0} cet.
+          relative_time_type_past:
+            relative_time_pattern_count_zero: pirms {0} cet.
+            relative_time_pattern_count_one: pirms {0} cet.
+            relative_time_pattern_count_other: pirms {0} cet.
+        month:
+          display_name: mēnesis
+          relative_type__1: pagājušajā mēnesī
+          relative_type_0: "šajā mēnesī"
+          relative_type_1: nākamajā mēnesī
+          relative_time_type_future:
+            relative_time_pattern_count_zero: pēc {0} mēnešiem
+            relative_time_pattern_count_one: pēc {0} mēneša
+            relative_time_pattern_count_other: pēc {0} mēnešiem
+          relative_time_type_past:
+            relative_time_pattern_count_zero: pirms {0} mēnešiem
+            relative_time_pattern_count_one: pirms {0} mēneša
+            relative_time_pattern_count_other: pirms {0} mēnešiem
+        month_short:
+          display_name: mēn.
+          relative_type__1: pagājušajā mēnesī
+          relative_type_0: "šajā mēnesī"
+          relative_type_1: nākamajā mēnesī
+          relative_time_type_future:
+            relative_time_pattern_count_zero: pēc {0} mēn.
+            relative_time_pattern_count_one: pēc {0} mēn.
+            relative_time_pattern_count_other: pēc {0} mēn.
+          relative_time_type_past:
+            relative_time_pattern_count_zero: pirms {0} mēn.
+            relative_time_pattern_count_one: pirms {0} mēn.
+            relative_time_pattern_count_other: pirms {0} mēn.
+        month_narrow:
+          display_name: mēn.
+          relative_type__1: pagājušajā mēnesī
+          relative_type_0: "šajā mēnesī"
+          relative_type_1: nākamajā mēnesī
+          relative_time_type_future:
+            relative_time_pattern_count_zero: pēc {0} mēn.
+            relative_time_pattern_count_one: pēc {0} mēn.
+            relative_time_pattern_count_other: pēc {0} mēn.
+          relative_time_type_past:
+            relative_time_pattern_count_zero: pirms {0} mēn.
+            relative_time_pattern_count_one: pirms {0} mēn.
+            relative_time_pattern_count_other: pirms {0} mēn.
+        week:
+          display_name: nedēļa
+          relative_type__1: pagājušajā nedēļā
+          relative_type_0: "šajā nedēļā"
+          relative_type_1: nākamajā nedēļā
+          relative_time_type_future:
+            relative_time_pattern_count_zero: pēc {0} nedēļām
+            relative_time_pattern_count_one: pēc {0} nedēļas
+            relative_time_pattern_count_other: pēc {0} nedēļām
+          relative_time_type_past:
+            relative_time_pattern_count_zero: pirms {0} nedēļām
+            relative_time_pattern_count_one: pirms {0} nedēļas
+            relative_time_pattern_count_other: pirms {0} nedēļām
+        week_short:
+          display_name: ned.
+          relative_type__1: pagājušajā nedēļā
+          relative_type_0: "šajā nedēļā"
+          relative_type_1: nākamajā nedēļā
+          relative_time_type_future:
+            relative_time_pattern_count_zero: pēc {0} ned.
+            relative_time_pattern_count_one: pēc {0} ned.
+            relative_time_pattern_count_other: pēc {0} ned.
+          relative_time_type_past:
+            relative_time_pattern_count_zero: pirms {0} ned.
+            relative_time_pattern_count_one: pirms {0} ned.
+            relative_time_pattern_count_other: pirms {0} ned.
+        week_narrow:
+          display_name: ned.
+          relative_type__1: pagājušajā nedēļā
+          relative_type_0: "šajā nedēļā"
+          relative_type_1: nākamajā nedēļā
+          relative_time_type_future:
+            relative_time_pattern_count_zero: pēc {0} ned.
+            relative_time_pattern_count_one: pēc {0} ned.
+            relative_time_pattern_count_other: pēc {0} ned.
+          relative_time_type_past:
+            relative_time_pattern_count_zero: pirms {0} ned.
+            relative_time_pattern_count_one: pirms {0} ned.
+            relative_time_pattern_count_other: pirms {0} ned.
+        day:
+          display_name: diena
+          relative_type__2: aizvakar
+          relative_type__1: vakar
+          relative_type_0: "šodien"
+          relative_type_1: rīt
+          relative_type_2: parīt
+          relative_time_type_future:
+            relative_time_pattern_count_zero: pēc {0} dienām
+            relative_time_pattern_count_one: pēc {0} dienas
+            relative_time_pattern_count_other: pēc {0} dienām
+          relative_time_type_past:
+            relative_time_pattern_count_zero: pirms {0} dienām
+            relative_time_pattern_count_one: pirms {0} dienas
+            relative_time_pattern_count_other: pirms {0} dienām
+        day_short:
+          display_name: d.
+          relative_type__2: aizvakar
+          relative_type__1: vakar
+          relative_type_0: "šodien"
+          relative_type_1: rīt
+          relative_type_2: parīt
+          relative_time_type_future:
+            relative_time_pattern_count_zero: pēc {0} d.
+            relative_time_pattern_count_one: pēc {0} d.
+            relative_time_pattern_count_other: pēc {0} d.
+          relative_time_type_past:
+            relative_time_pattern_count_zero: pirms {0} d.
+            relative_time_pattern_count_one: pirms {0} d.
+            relative_time_pattern_count_other: pirms {0} d.
+        day_narrow:
+          display_name: d.
+          relative_type__2: aizvakar
+          relative_type__1: vakar
+          relative_type_0: "šodien"
+          relative_type_1: rīt
+          relative_type_2: parīt
+          relative_time_type_future:
+            relative_time_pattern_count_zero: pēc {0} d.
+            relative_time_pattern_count_one: pēc {0} d.
+            relative_time_pattern_count_other: pēc {0} d.
+          relative_time_type_past:
+            relative_time_pattern_count_zero: pirms {0} d.
+            relative_time_pattern_count_one: pirms {0} d.
+            relative_time_pattern_count_other: pirms {0} d.
+        weekday:
+          display_name: nedēļas diena
+        sun:
+          relative_type__1: pagājušajā svētdienā
+          relative_type_0: "šajā svētdienā"
+          relative_type_1: nākamajā svētdienā
+        sun_short:
+          relative_type__1: pag. svētd.
+          relative_type_0: "šajā svētd."
+          relative_type_1: nāk. svētd.
+        sun_narrow:
+          relative_type__1: pag. svētd.
+          relative_type_0: "šajā svētd."
+          relative_type_1: nāk. svētd.
+        mon:
+          relative_type__1: pagājušajā pirmdienā
+          relative_type_0: "šajā pirmdienā"
+          relative_type_1: nākamajā pirmdienā
+        mon_short:
+          relative_type__1: pag. pirmd.
+          relative_type_0: "šajā pirmd."
+          relative_type_1: nāk. pirmd.
+        mon_narrow:
+          relative_type__1: pag. pirmd.
+          relative_type_0: "šajā pirmd."
+          relative_type_1: nāk. pirmd.
+        tue:
+          relative_type__1: pagājušajā otrdienā
+          relative_type_0: "šajā otrdienā"
+          relative_type_1: nākamajā otrdienā
+        tue_short:
+          relative_type__1: pag. otrd.
+          relative_type_0: "šajā otrd."
+          relative_type_1: nāk. otrd.
+        tue_narrow:
+          relative_type__1: pag. otrd.
+          relative_type_0: "šajā otrd."
+          relative_type_1: nāk. otrd.
+        wed:
+          relative_type__1: pagājušajā trešdienā
+          relative_type_0: "šajā trešdienā"
+          relative_type_1: nākamajā trešdienā
+        wed_short:
+          relative_type__1: pag. trešd.
+          relative_type_0: "šajā trešd."
+          relative_type_1: nāk. trešd.
+        wed_narrow:
+          relative_type__1: pag. trešd.
+          relative_type_0: "šajā trešd."
+          relative_type_1: nāk. trešd.
+        thu:
+          relative_type__1: pagājušajā ceturtdienā
+          relative_type_0: "šajā ceturtdienā"
+          relative_type_1: nākamajā ceturtdienā
+        thu_short:
+          relative_type__1: pag. ceturtd.
+          relative_type_0: "šajā ceturtd."
+          relative_type_1: nāk. ceturtd.
+        thu_narrow:
+          relative_type__1: pag. ceturtd.
+          relative_type_0: "šajā ceturtd."
+          relative_type_1: nāk. ceturtd.
+        fri:
+          relative_type__1: pagājušajā piektdienā
+          relative_type_0: "šajā piektdienā"
+          relative_type_1: nākamajā piektdienā
+        fri_short:
+          relative_type__1: pag. piektd.
+          relative_type_0: "šajā piektd."
+          relative_type_1: nāk. piektd.
+        fri_narrow:
+          relative_type__1: pag. piektd.
+          relative_type_0: "šajā piektd."
+          relative_type_1: nāk. piektd.
+        sat:
+          relative_type__1: pagājušajā sestdienā
+          relative_type_0: "šajā sestdienā"
+          relative_type_1: nākamajā sestdienā
+        sat_short:
+          relative_type__1: pag. sestd.
+          relative_type_0: "šajā sestd."
+          relative_type_1: nāk. sestd.
+        sat_narrow:
+          relative_type__1: pag. sestd.
+          relative_type_0: "šajā sestd."
+          relative_type_1: nāk. sestd.
+        dayperiod:
+          display_name: priekšpusdienā/pēcpusdienā
+        hour:
+          display_name: stundas
+          relative_time_type_future:
+            relative_time_pattern_count_zero: pēc {0} stundām
+            relative_time_pattern_count_one: pēc {0} stundas
+            relative_time_pattern_count_other: pēc {0} stundām
+          relative_time_type_past:
+            relative_time_pattern_count_zero: pirms {0} stundām
+            relative_time_pattern_count_one: pirms {0} stundas
+            relative_time_pattern_count_other: pirms {0} stundām
+        hour_short:
+          display_name: st.
+          relative_time_type_future:
+            relative_time_pattern_count_zero: pēc {0} st.
+            relative_time_pattern_count_one: pēc {0} st.
+            relative_time_pattern_count_other: pēc {0} st.
+          relative_time_type_past:
+            relative_time_pattern_count_zero: pirms {0} st.
+            relative_time_pattern_count_one: pirms {0} st.
+            relative_time_pattern_count_other: pirms {0} st.
+        hour_narrow:
+          display_name: h
+          relative_time_type_future:
+            relative_time_pattern_count_zero: pēc {0} h
+            relative_time_pattern_count_one: pēc {0} h
+            relative_time_pattern_count_other: pēc {0} h
+          relative_time_type_past:
+            relative_time_pattern_count_zero: pirms {0} h
+            relative_time_pattern_count_one: pirms {0} h
+            relative_time_pattern_count_other: pirms {0} h
+        minute:
+          display_name: minūtes
+          relative_time_type_future:
+            relative_time_pattern_count_zero: pēc {0} minūtēm
+            relative_time_pattern_count_one: pēc {0} minūtes
+            relative_time_pattern_count_other: pēc {0} minūtēm
+          relative_time_type_past:
+            relative_time_pattern_count_zero: pirms {0} minūtēm
+            relative_time_pattern_count_one: pirms {0} minūtes
+            relative_time_pattern_count_other: pirms {0} minūtēm
+        minute_short:
+          display_name: min.
+          relative_time_type_future:
+            relative_time_pattern_count_zero: pēc {0} min.
+            relative_time_pattern_count_one: pēc {0} min.
+            relative_time_pattern_count_other: pēc {0} min.
+          relative_time_type_past:
+            relative_time_pattern_count_zero: pirms {0} min.
+            relative_time_pattern_count_one: pirms {0} min.
+            relative_time_pattern_count_other: pirms {0} min.
+        minute_narrow:
+          display_name: min
+          relative_time_type_future:
+            relative_time_pattern_count_zero: pēc {0} min
+            relative_time_pattern_count_one: pēc {0} min
+            relative_time_pattern_count_other: pēc {0} min
+          relative_time_type_past:
+            relative_time_pattern_count_zero: pirms {0} min
+            relative_time_pattern_count_one: pirms {0} min
+            relative_time_pattern_count_other: pirms {0} min
+        second:
+          display_name: sekundes
+          relative_type_0: tagad
+          relative_time_type_future:
+            relative_time_pattern_count_zero: pēc {0} sekundēm
+            relative_time_pattern_count_one: pēc {0} sekundes
+            relative_time_pattern_count_other: pēc {0} sekundēm
+          relative_time_type_past:
+            relative_time_pattern_count_zero: pirms {0} sekundēm
+            relative_time_pattern_count_one: pirms {0} sekundes
+            relative_time_pattern_count_other: pirms {0} sekundēm
+        second_short:
+          display_name: sek.
+          relative_type_0: tagad
+          relative_time_type_future:
+            relative_time_pattern_count_zero: pēc {0} sek.
+            relative_time_pattern_count_one: pēc {0} sek.
+            relative_time_pattern_count_other: pēc {0} sek.
+          relative_time_type_past:
+            relative_time_pattern_count_zero: pirms {0} sek.
+            relative_time_pattern_count_one: pirms {0} sek.
+            relative_time_pattern_count_other: pirms {0} sek.
+        second_narrow:
+          display_name: s
+          relative_type_0: tagad
+          relative_time_type_future:
+            relative_time_pattern_count_zero: pēc {0} s
+            relative_time_pattern_count_one: pēc {0} s
+            relative_time_pattern_count_other: pēc {0} s
+          relative_time_type_past:
+            relative_time_pattern_count_zero: pirms {0} s
+            relative_time_pattern_count_one: pirms {0} s
+            relative_time_pattern_count_other: pirms {0} s
+        zone:
+          display_name: laika josla
+      time_zone_names:
+        hour_format: "+HH:mm;-HH:mm"
+        gmt_format: GMT{0}
+        gmt_zero_format: GMT
+        region_format: 'Laika josla: {0}'
+        region_format_type_daylight: "{0}: vasaras laiks"
+        region_format_type_standard: "{0}: standarta laiks"
+        fallback_format: "{0} ({1})"
+        zone:
+          america:
+            adak:
+              exemplar_city: Adaka
+            anchorage:
+              exemplar_city: Ankurāža
+            anguilla:
+              exemplar_city: Angilja
+            antigua:
+              exemplar_city: Antigva
+            araguaina:
+              exemplar_city: Aragvaina
+            argentina:
+              rio_gallegos:
+                exemplar_city: Riogaljegosa
+              san_juan:
+                exemplar_city: Sanhuana
+              ushuaia:
+                exemplar_city: Ušuaja
+              la_rioja:
+                exemplar_city: Larjoha
+              san_luis:
+                exemplar_city: Sanluisa
+              salta:
+                exemplar_city: Salta
+              tucuman:
+                exemplar_city: Tukumana
+            aruba:
+              exemplar_city: Aruba
+            asuncion:
+              exemplar_city: Asunsjona
+            bahia:
+              exemplar_city: Baija
+            bahia_banderas:
+              exemplar_city: Bajabanderasa
+            barbados:
+              exemplar_city: Barbadosa
+            belem:
+              exemplar_city: Belena
+            belize:
+              exemplar_city: Beliza
+            blanc_sablon:
+              exemplar_city: Blansablona
+            boa_vista:
+              exemplar_city: Boavista
+            bogota:
+              exemplar_city: Bogota
+            boise:
+              exemplar_city: Boisisitija
+            buenos_aires:
+              exemplar_city: Buenosairesa
+            cambridge_bay:
+              exemplar_city: Keimbridžbeja
+            campo_grande:
+              exemplar_city: Kampugrandi
+            cancun:
+              exemplar_city: Kankuna
+            caracas:
+              exemplar_city: Karakasa
+            catamarca:
+              exemplar_city: Katamarka
+            cayenne:
+              exemplar_city: Kajenna
+            cayman:
+              exemplar_city: Kaimanu salas
+            chicago:
+              exemplar_city: "Čikāga"
+            chihuahua:
+              exemplar_city: "Čivava"
+            coral_harbour:
+              exemplar_city: Atikokana
+            cordoba:
+              exemplar_city: Kordova
+            costa_rica:
+              exemplar_city: Kostarika
+            creston:
+              exemplar_city: Krestona
+            cuiaba:
+              exemplar_city: Kujaba
+            curacao:
+              exemplar_city: Kirasao
+            danmarkshavn:
+              exemplar_city: Denmārkšavna
+            dawson:
+              exemplar_city: Dousona
+            dawson_creek:
+              exemplar_city: Dousonkrīka
+            denver:
+              exemplar_city: Denvera
+            detroit:
+              exemplar_city: Detroita
+            dominica:
+              exemplar_city: Dominika
+            edmonton:
+              exemplar_city: Edmontona
+            eirunepe:
+              exemplar_city: Eirunepe
+            el_salvador:
+              exemplar_city: Salvadora
+            fortaleza:
+              exemplar_city: Fortaleza
+            glace_bay:
+              exemplar_city: Gleisbeja
+            godthab:
+              exemplar_city: Nūka
+            goose_bay:
+              exemplar_city: Gūsbeja
+            grand_turk:
+              exemplar_city: Grandtkērka
+            grenada:
+              exemplar_city: Grenāda
+            guadeloupe:
+              exemplar_city: Gvadelupa
+            guatemala:
+              exemplar_city: Gvatemala
+            guayaquil:
+              exemplar_city: Gvajakila
+            guyana:
+              exemplar_city: Gajāna
+            halifax:
+              exemplar_city: Helifeksa
+            havana:
+              exemplar_city: Havana
+            hermosillo:
+              exemplar_city: Ermosiljo
+            indiana:
+              vincennes:
+                exemplar_city: Vinsensa, Indiāna
+              petersburg:
+                exemplar_city: Pītersbērga, Indiāna
+              tell_city:
+                exemplar_city: Telsitija, Indiāna
+              knox:
+                exemplar_city: Noksa, Indiāna
+              winamac:
+                exemplar_city: Vinamaka, Indiāna
+              marengo:
+                exemplar_city: Marengo, Indiāna
+              vevay:
+                exemplar_city: Vīveja, Indiāna
+            indianapolis:
+              exemplar_city: Indianapolisa
+            inuvik:
+              exemplar_city: Inuvika
+            iqaluit:
+              exemplar_city: Ikaluita
+            jamaica:
+              exemplar_city: Jamaika
+            jujuy:
+              exemplar_city: Huhuja
+            juneau:
+              exemplar_city: Džuno
+            kentucky:
+              monticello:
+                exemplar_city: Montičelo, Kentuki
+            kralendijk:
+              exemplar_city: Krālendeika
+            la_paz:
+              exemplar_city: Lapasa
+            lima:
+              exemplar_city: Lima
+            los_angeles:
+              exemplar_city: Losandželosa
+            louisville:
+              exemplar_city: Lūivila
+            lower_princes:
+              exemplar_city: Louerprinseskvotera
+            maceio:
+              exemplar_city: Masejo
+            managua:
+              exemplar_city: Managva
+            manaus:
+              exemplar_city: Manausa
+            marigot:
+              exemplar_city: Merigota
+            martinique:
+              exemplar_city: Martinika
+            matamoros:
+              exemplar_city: Matamorosa
+            mazatlan:
+              exemplar_city: Masatlana
+            mendoza:
+              exemplar_city: Mendosa
+            menominee:
+              exemplar_city: Menominī
+            merida:
+              exemplar_city: Merida
+            metlakatla:
+              exemplar_city: Metlakatla
+            mexico_city:
+              exemplar_city: Mehiko
+            miquelon:
+              exemplar_city: Mikelona
+            moncton:
+              exemplar_city: Monktona
+            monterrey:
+              exemplar_city: Monterreja
+            montevideo:
+              exemplar_city: Montevideo
+            montserrat:
+              exemplar_city: Montserrata
+            nassau:
+              exemplar_city: Naso
+            new_york:
+              exemplar_city: "Ņujorka"
+            nipigon:
+              exemplar_city: Nipigona
+            nome:
+              exemplar_city: Noma
+            noronha:
+              exemplar_city: Noroņa
+            north_dakota:
+              beulah:
+                exemplar_city: Bjula, Ziemeļdakota
+              new_salem:
+                exemplar_city: "Ņūseilema, Ziemeļdakota"
+              center:
+                exemplar_city: Sentera, Ziemeļdakota
+            ojinaga:
+              exemplar_city: Ohinaga
+            panama:
+              exemplar_city: Panama
+            pangnirtung:
+              exemplar_city: Pannirtuna
+            paramaribo:
+              exemplar_city: Paramaribo
+            phoenix:
+              exemplar_city: Fīniksa
+            port_au_prince:
+              exemplar_city: Portoprensa
+            port_of_spain:
+              exemplar_city: Portofspeina
+            porto_velho:
+              exemplar_city: Portuveļu
+            puerto_rico:
+              exemplar_city: Puertoriko
+            rainy_river:
+              exemplar_city: Reinirivera
+            rankin_inlet:
+              exemplar_city: Rankininleta
+            recife:
+              exemplar_city: Resifi
+            regina:
+              exemplar_city: Ridžaina
+            resolute:
+              exemplar_city: Rezolūta
+            rio_branco:
+              exemplar_city: Riobranko
+            santa_isabel:
+              exemplar_city: Santaisabela
+            santarem:
+              exemplar_city: Santarena
+            santiago:
+              exemplar_city: Santjago
+            santo_domingo:
+              exemplar_city: Santodomingo
+            sao_paulo:
+              exemplar_city: Sanpaulu
+            scoresbysund:
+              exemplar_city: Itokortormita
+            sitka:
+              exemplar_city: Sitka
+            st_barthelemy:
+              exemplar_city: Senbartelmī
+            st_johns:
+              exemplar_city: Sentdžonsa
+            st_kitts:
+              exemplar_city: Sentkitsa
+            st_lucia:
+              exemplar_city: Sentlūsija
+            st_thomas:
+              exemplar_city: Sentomasa
+            st_vincent:
+              exemplar_city: Sentvinsenta
+            swift_current:
+              exemplar_city: Sviftkarenta
+            tegucigalpa:
+              exemplar_city: Tegusigalpa
+            thule:
+              exemplar_city: Tule
+            thunder_bay:
+              exemplar_city: Tanderbeja
+            tijuana:
+              exemplar_city: Tihuana
+            toronto:
+              exemplar_city: Toronto
+            tortola:
+              exemplar_city: Tortola
+            vancouver:
+              exemplar_city: Vankūvera
+            whitehorse:
+              exemplar_city: Vaithorsa
+            winnipeg:
+              exemplar_city: Vinipega
+            yakutat:
+              exemplar_city: Jakutata
+            yellowknife:
+              exemplar_city: Jelounaifa
+          atlantic:
+            azores:
+              exemplar_city: Azoru salas
+            bermuda:
+              exemplar_city: Bermuda
+            canary:
+              exemplar_city: Kanāriju salas
+            cape_verde:
+              exemplar_city: Kaboverde
+            faeroe:
+              exemplar_city: Fēru salas
+            madeira:
+              exemplar_city: Madeira
+            reykjavik:
+              exemplar_city: Reikjavika
+            south_georgia:
+              exemplar_city: Dienviddžordžija
+            st_helena:
+              exemplar_city: Sv.Helēnas sala
+            stanley:
+              exemplar_city: Stenli
+          europe:
+            amsterdam:
+              exemplar_city: Amsterdama
+            andorra:
+              exemplar_city: Andora
+            athens:
+              exemplar_city: Atēnas
+            belgrade:
+              exemplar_city: Belgrada
+            berlin:
+              exemplar_city: Berlīne
+            bratislava:
+              exemplar_city: Bratislava
+            brussels:
+              exemplar_city: Brisele
+            bucharest:
+              exemplar_city: Bukareste
+            budapest:
+              exemplar_city: Budapešta
+            busingen:
+              exemplar_city: Bīzingene
+            chisinau:
+              exemplar_city: Kišiņeva
+            copenhagen:
+              exemplar_city: Kopenhāgena
+            dublin:
+              long:
+                daylight: "Īrijas ziemas laiks"
+              exemplar_city: Dublina
+            gibraltar:
+              exemplar_city: Gibraltārs
+            guernsey:
+              exemplar_city: Gērnsija
+            helsinki:
+              exemplar_city: Helsinki
+            isle_of_man:
+              exemplar_city: Menas sala
+            istanbul:
+              exemplar_city: Stambula
+            jersey:
+              exemplar_city: Džērsija
+            kaliningrad:
+              exemplar_city: Kaļiņingrada
+            kiev:
+              exemplar_city: Kijeva
+            lisbon:
+              exemplar_city: Lisabona
+            ljubljana:
+              exemplar_city: "Ļubļana"
+            london:
+              long:
+                daylight: Lielbritānijas vasaras laiks
+              exemplar_city: Londona
+            luxembourg:
+              exemplar_city: Luksemburga
+            madrid:
+              exemplar_city: Madride
+            malta:
+              exemplar_city: Malta
+            mariehamn:
+              exemplar_city: Mariehamna
+            minsk:
+              exemplar_city: Minska
+            monaco:
+              exemplar_city: Monako
+            moscow:
+              exemplar_city: Maskava
+            oslo:
+              exemplar_city: Oslo
+            paris:
+              exemplar_city: Parīze
+            podgorica:
+              exemplar_city: Podgorica
+            prague:
+              exemplar_city: Prāga
+            riga:
+              exemplar_city: Rīga
+            rome:
+              exemplar_city: Roma
+            samara:
+              exemplar_city: Samara
+            san_marino:
+              exemplar_city: Sanmarīno
+            sarajevo:
+              exemplar_city: Sarajeva
+            simferopol:
+              exemplar_city: Simferopole
+            skopje:
+              exemplar_city: Skopje
+            sofia:
+              exemplar_city: Sofija
+            stockholm:
+              exemplar_city: Stokholma
+            tallinn:
+              exemplar_city: Tallina
+            tirane:
+              exemplar_city: Tirāna
+            uzhgorod:
+              exemplar_city: Užhoroda
+            vaduz:
+              exemplar_city: Vaduca
+            vatican:
+              exemplar_city: Vatikāns
+            vienna:
+              exemplar_city: Vīne
+            vilnius:
+              exemplar_city: Viļņa
+            volgograd:
+              exemplar_city: Volgograda
+            warsaw:
+              exemplar_city: Varšava
+            zagreb:
+              exemplar_city: Zagreba
+            zaporozhye:
+              exemplar_city: Zaporožje
+            zurich:
+              exemplar_city: Cīrihe
+          africa:
+            abidjan:
+              exemplar_city: Abidžana
+            accra:
+              exemplar_city: Akra
+            addis_ababa:
+              exemplar_city: Adisabeba
+            algiers:
+              exemplar_city: Alžīra
+            asmera:
+              exemplar_city: Asmara
+            bamako:
+              exemplar_city: Bamako
+            bangui:
+              exemplar_city: Bangi
+            banjul:
+              exemplar_city: Bandžula
+            bissau:
+              exemplar_city: Bisava
+            blantyre:
+              exemplar_city: Blantaira
+            brazzaville:
+              exemplar_city: Brazavila
+            bujumbura:
+              exemplar_city: Bužumbura
+            cairo:
+              exemplar_city: Kaira
+            casablanca:
+              exemplar_city: Kasablanka
+            ceuta:
+              exemplar_city: Seuta
+            conakry:
+              exemplar_city: Konakri
+            dakar:
+              exemplar_city: Dakara
+            dar_es_salaam:
+              exemplar_city: Dāresalāma
+            djibouti:
+              exemplar_city: Džibutija
+            douala:
+              exemplar_city: Duala
+            el_aaiun:
+              exemplar_city: Ajūna
+            freetown:
+              exemplar_city: Frītauna
+            gaborone:
+              exemplar_city: Gaborone
+            harare:
+              exemplar_city: Harare
+            johannesburg:
+              exemplar_city: Johannesburga
+            juba:
+              exemplar_city: Džūba
+            kampala:
+              exemplar_city: Kampala
+            khartoum:
+              exemplar_city: Hartūma
+            kigali:
+              exemplar_city: Kigali
+            kinshasa:
+              exemplar_city: Kinšasa
+            lagos:
+              exemplar_city: Lagosa
+            libreville:
+              exemplar_city: Librevila
+            lome:
+              exemplar_city: Lome
+            luanda:
+              exemplar_city: Luanda
+            lubumbashi:
+              exemplar_city: Lubumbaši
+            lusaka:
+              exemplar_city: Lusaka
+            malabo:
+              exemplar_city: Malabo
+            maputo:
+              exemplar_city: Maputu
+            maseru:
+              exemplar_city: Maseru
+            mbabane:
+              exemplar_city: Mbabane
+            mogadishu:
+              exemplar_city: Mogadīšo
+            monrovia:
+              exemplar_city: Monrovija
+            nairobi:
+              exemplar_city: Nairobi
+            ndjamena:
+              exemplar_city: Ndžamena
+            niamey:
+              exemplar_city: Niameja
+            nouakchott:
+              exemplar_city: Nuakšota
+            ouagadougou:
+              exemplar_city: Vagadugu
+            porto_novo:
+              exemplar_city: Portonovo
+            sao_tome:
+              exemplar_city: Santome
+            tripoli:
+              exemplar_city: Tripole
+            tunis:
+              exemplar_city: Tunisa
+            windhoek:
+              exemplar_city: Vindhuka
+          asia:
+            aden:
+              exemplar_city: Adena
+            almaty:
+              exemplar_city: Almati
+            amman:
+              exemplar_city: Ammāna
+            anadyr:
+              exemplar_city: Anadira
+            aqtau:
+              exemplar_city: Aktau
+            aqtobe:
+              exemplar_city: Aktebe
+            ashgabat:
+              exemplar_city: Ašgabata
+            baghdad:
+              exemplar_city: Bagdāde
+            bahrain:
+              exemplar_city: Bahreina
+            baku:
+              exemplar_city: Baku
+            bangkok:
+              exemplar_city: Bangkoka
+            beirut:
+              exemplar_city: Beirūta
+            bishkek:
+              exemplar_city: Biškeka
+            brunei:
+              exemplar_city: Bruneja
+            calcutta:
+              exemplar_city: Kalkāta
+            chita:
+              exemplar_city: "Čita"
+            choibalsan:
+              exemplar_city: "Čoibalsana"
+            colombo:
+              exemplar_city: Kolombo
+            damascus:
+              exemplar_city: Damaska
+            dhaka:
+              exemplar_city: Daka
+            dili:
+              exemplar_city: Dili
+            dubai:
+              exemplar_city: Dubaija
+            dushanbe:
+              exemplar_city: Dušanbe
+            gaza:
+              exemplar_city: Gaza
+            hebron:
+              exemplar_city: Hebrona
+            hong_kong:
+              exemplar_city: Honkonga
+            hovd:
+              exemplar_city: Hovda
+            irkutsk:
+              exemplar_city: Irkutska
+            jakarta:
+              exemplar_city: Džakarta
+            jayapura:
+              exemplar_city: Džajapura
+            jerusalem:
+              exemplar_city: Jeruzaleme
+            kabul:
+              exemplar_city: Kabula
+            kamchatka:
+              exemplar_city: Kamčatka
+            karachi:
+              exemplar_city: Karāči
+            katmandu:
+              exemplar_city: Katmandu
+            khandyga:
+              exemplar_city: Handiga
+            krasnoyarsk:
+              exemplar_city: Krasnojarska
+            kuala_lumpur:
+              exemplar_city: Kualalumpura
+            kuching:
+              exemplar_city: Kučina
+            kuwait:
+              exemplar_city: Kuveita
+            macau:
+              exemplar_city: Makao
+            magadan:
+              exemplar_city: Magadana
+            makassar:
+              exemplar_city: Makasara
+            manila:
+              exemplar_city: Manila
+            muscat:
+              exemplar_city: Maskata
+            nicosia:
+              exemplar_city: Nikosija
+            novokuznetsk:
+              exemplar_city: Novokuzņecka
+            novosibirsk:
+              exemplar_city: Novosibirska
+            omsk:
+              exemplar_city: Omska
+            oral:
+              exemplar_city: Orala
+            phnom_penh:
+              exemplar_city: Pnompeņa
+            pontianak:
+              exemplar_city: Pontianaka
+            pyongyang:
+              exemplar_city: Phenjana
+            qatar:
+              exemplar_city: Katara
+            qyzylorda:
+              exemplar_city: Kizilorda
+            rangoon:
+              exemplar_city: Ranguna
+            riyadh:
+              exemplar_city: Rijāda
+            saigon:
+              exemplar_city: Hošimina
+            sakhalin:
+              exemplar_city: Sahalīna
+            samarkand:
+              exemplar_city: Samarkanda
+            seoul:
+              exemplar_city: Seula
+            shanghai:
+              exemplar_city: "Šanhaja"
+            singapore:
+              exemplar_city: Singapūra
+            srednekolymsk:
+              exemplar_city: Sredņekolimska
+            taipei:
+              exemplar_city: Taibei
+            tashkent:
+              exemplar_city: Taškenta
+            tbilisi:
+              exemplar_city: Tbilisi
+            tehran:
+              exemplar_city: Teherāna
+            thimphu:
+              exemplar_city: Thimphu
+            tokyo:
+              exemplar_city: Tokija
+            ulaanbaatar:
+              exemplar_city: Ulanbatora
+            urumqi:
+              exemplar_city: Urumči
+            ust_nera:
+              exemplar_city: Ustjņera
+            vientiane:
+              exemplar_city: Vjenčana
+            vladivostok:
+              exemplar_city: Vladivostoka
+            yakutsk:
+              exemplar_city: Jakutska
+            yekaterinburg:
+              exemplar_city: Jekaterinburga
+            yerevan:
+              exemplar_city: Erevāna
+          indian:
+            antananarivo:
+              exemplar_city: Antananarivu
+            chagos:
+              exemplar_city: "Čagosu arhipelāgs"
+            christmas:
+              exemplar_city: Ziemsvētku sala
+            cocos:
+              exemplar_city: Kokosa sala
+            comoro:
+              exemplar_city: Komoras
+            kerguelen:
+              exemplar_city: Kergelēna sala
+            mahe:
+              exemplar_city: Mae
+            maldives:
+              exemplar_city: Maldīvija
+            mauritius:
+              exemplar_city: Maurīcija
+            mayotte:
+              exemplar_city: Majota
+            reunion:
+              exemplar_city: Reinjona
+          australia:
+            adelaide:
+              exemplar_city: Adelaida
+            brisbane:
+              exemplar_city: Brisbena
+            broken_hill:
+              exemplar_city: Brokenhila
+            currie:
+              exemplar_city: Kari
+            darwin:
+              exemplar_city: Dārvina
+            eucla:
+              exemplar_city: Jukla
+            hobart:
+              exemplar_city: Hobārta
+            lindeman:
+              exemplar_city: Lindemana
+            lord_howe:
+              exemplar_city: Lordhava
+            melbourne:
+              exemplar_city: Melburna
+            perth:
+              exemplar_city: Pērta
+            sydney:
+              exemplar_city: Sidneja
+          pacific:
+            apia:
+              exemplar_city: Apija
+            auckland:
+              exemplar_city: Oklenda
+            bougainville:
+              exemplar_city: Bugeinvile
+            chatham:
+              exemplar_city: "Četema"
+            easter:
+              exemplar_city: Lieldienu sala
+            efate:
+              exemplar_city: Efate
+            enderbury:
+              exemplar_city: Enderberija
+            fakaofo:
+              exemplar_city: Fakaofo
+            fiji:
+              exemplar_city: Fidži
+            funafuti:
+              exemplar_city: Funafuti
+            galapagos:
+              exemplar_city: Galapagu salas
+            gambier:
+              exemplar_city: Gambjē salas
+            guadalcanal:
+              exemplar_city: Gvadalkanala
+            guam:
+              exemplar_city: Guama
+            honolulu:
+              exemplar_city: Honolulu
+            johnston:
+              exemplar_city: Džonstona atols
+            kiritimati:
+              exemplar_city: Kirisimasi
+            kosrae:
+              exemplar_city: Kosraja
+            kwajalein:
+              exemplar_city: Kvadžaleina
+            majuro:
+              exemplar_city: Madžuro
+            marquesas:
+              exemplar_city: Marķīza salas
+            midway:
+              exemplar_city: Midvejs
+            nauru:
+              exemplar_city: Nauru
+            niue:
+              exemplar_city: Niue
+            norfolk:
+              exemplar_city: Norfolka
+            noumea:
+              exemplar_city: Numea
+            pago_pago:
+              exemplar_city: Pagopago
+            palau:
+              exemplar_city: Palau
+            pitcairn:
+              exemplar_city: Pitkērna
+            ponape:
+              exemplar_city: Ponpeja
+            port_moresby:
+              exemplar_city: Portmorsbi
+            rarotonga:
+              exemplar_city: Rarotonga
+            saipan:
+              exemplar_city: Saipana
+            tahiti:
+              exemplar_city: Taiti
+            tarawa:
+              exemplar_city: Tarava
+            tongatapu:
+              exemplar_city: Tongatapu
+            truk:
+              exemplar_city: "Čūka"
+            wake:
+              exemplar_city: Veika sala
+            wallis:
+              exemplar_city: Volisa
+          arctic:
+            longyearbyen:
+              exemplar_city: Longjērbīene
+          antarctica:
+            casey:
+              exemplar_city: Keisi
+            davis:
+              exemplar_city: Deivisa
+            dumont_d_urville:
+              exemplar_city: Dimondirvila
+            macquarie:
+              exemplar_city: Makvori
+            mawson:
+              exemplar_city: Mosona
+            mc_murdo:
+              exemplar_city: Makmerdo
+            palmer:
+              exemplar_city: Pālmera
+            rothera:
+              exemplar_city: Rotera
+            syowa:
+              exemplar_city: "Šova"
+            troll:
+              exemplar_city: Trolla
+            vostok:
+              exemplar_city: Vostoka
+          etc:
+            gmt:
+              exemplar_city: GMT
+            gmt1:
+              exemplar_city: GMT+1
+            gmt10:
+              exemplar_city: GMT+10
+            gmt11:
+              exemplar_city: GMT+11
+            gmt12:
+              exemplar_city: GMT+12
+            gmt2:
+              exemplar_city: GMT+2
+            gmt3:
+              exemplar_city: GMT+3
+            gmt4:
+              exemplar_city: GMT+4
+            gmt5:
+              exemplar_city: GMT+5
+            gmt6:
+              exemplar_city: GMT+6
+            gmt7:
+              exemplar_city: GMT+7
+            gmt8:
+              exemplar_city: GMT+8
+            gmt9:
+              exemplar_city: GMT+9
+            gmt_1:
+              exemplar_city: GMT-1
+            gmt_10:
+              exemplar_city: GMT-10
+            gmt_11:
+              exemplar_city: GMT-11
+            gmt_12:
+              exemplar_city: GMT-12
+            gmt_13:
+              exemplar_city: GMT-13
+            gmt_14:
+              exemplar_city: GMT-14
+            gmt_2:
+              exemplar_city: GMT-2
+            gmt_3:
+              exemplar_city: GMT-3
+            gmt_4:
+              exemplar_city: GMT-4
+            gmt_5:
+              exemplar_city: GMT-5
+            gmt_6:
+              exemplar_city: GMT-6
+            gmt_7:
+              exemplar_city: GMT-7
+            gmt_8:
+              exemplar_city: GMT-8
+            gmt_9:
+              exemplar_city: GMT-9
+            unknown:
+              exemplar_city: nezināma pilsēta
+        metazone:
+          afghanistan:
+            long:
+              standard: Afganistānas laiks
+          africa_central:
+            long:
+              standard: Centrālāfrikas laiks
+          africa_eastern:
+            long:
+              standard: Austrumāfrikas laiks
+          africa_southern:
+            long:
+              standard: Dienvidāfrikas ziemas laiks
+          africa_western:
+            long:
+              generic: Rietumāfrikas laiks
+              standard: Rietumāfrikas ziemas laiks
+              daylight: Rietumāfrikas vasaras laiks
+          alaska:
+            long:
+              generic: Aļaskas laiks
+              standard: Aļaskas ziemas laiks
+              daylight: Aļaskas vasaras laiks
+          amazon:
+            long:
+              generic: Amazones laiks
+              standard: Amazones ziemas laiks
+              daylight: Amazones vasaras laiks
+          america_central:
+            long:
+              generic: Centrālais laiks
+              standard: Centrālais ziemas laiks
+              daylight: Centrālais vasaras laiks
+          america_eastern:
+            long:
+              generic: Austrumu laiks
+              standard: Austrumu ziemas laiks
+              daylight: Austrumu vasaras laiks
+          america_mountain:
+            long:
+              generic: Kalnu laiks
+              standard: Kalnu ziemas laiks
+              daylight: Kalnu vasaras laiks
+          america_pacific:
+            long:
+              generic: Klusā okeāna laiks
+              standard: Klusā okeāna ziemas laiks
+              daylight: Klusā okeāna vasaras laiks
+          anadyr:
+            long:
+              generic: Anadiras laiks
+              standard: Anadiras ziemas laiks
+              daylight: Anadiras vasaras laiks
+          apia:
+            long:
+              generic: Apijas laiks
+              standard: Apijas ziemas laiks
+              daylight: Apijas vasaras laiks
+          arabian:
+            long:
+              generic: Arābijas pussalas laiks
+              standard: Arābijas pussalas ziemas laiks
+              daylight: Arābijas pussalas vasaras laiks
+          argentina:
+            long:
+              generic: Argentīnas laiks
+              standard: Argentīnas ziemas laiks
+              daylight: Argentīnas vasaras laiks
+          argentina_western:
+            long:
+              generic: Rietumargentīnas laiks
+              standard: Rietumargentīnas ziemas laiks
+              daylight: Rietumargentīnas vasaras laiks
+          armenia:
+            long:
+              generic: Armēnijas laiks
+              standard: Armēnijas ziemas laiks
+              daylight: Armēnijas vasaras laiks
+          atlantic:
+            long:
+              generic: Atlantijas laiks
+              standard: Atlantijas ziemas laiks
+              daylight: Atlantijas vasaras laiks
+          australia_central:
+            long:
+              generic: Austrālijas centrālais laiks
+              standard: Austrālijas centrālais ziemas laiks
+              daylight: Austrālijas centrālais vasaras laiks
+          australia_central_western:
+            long:
+              generic: Austrālijas centrālais rietumu laiks
+              standard: Austrālijas centrālais rietumu ziemas laiks
+              daylight: Austrālijas centrālais rietumu vasaras laiks
+          australia_eastern:
+            long:
+              generic: Austrālijas austrumu laiks
+              standard: Austrālijas austrumu ziemas laiks
+              daylight: Austrālijas austrumu vasaras laiks
+          australia_western:
+            long:
+              generic: Austrālijas rietumu laiks
+              standard: Austrālijas rietumu ziemas laiks
+              daylight: Austrālijas rietumu vasaras laiks
+          azerbaijan:
+            long:
+              generic: Azerbaidžānas laiks
+              standard: Azerbaidžānas ziemas laiks
+              daylight: Azerbaidžānas vasaras laiks
+          azores:
+            long:
+              generic: Azoru salu laiks
+              standard: Azoru salu ziemas laiks
+              daylight: Azoru salu vasaras laiks
+          bangladesh:
+            long:
+              generic: Bangladešas laiks
+              standard: Bangladešas ziemas laiks
+              daylight: Bangladešas vasaras laiks
+          bhutan:
+            long:
+              standard: Butānas laiks
+          bolivia:
+            long:
+              standard: Bolīvijas laiks
+          brasilia:
+            long:
+              generic: Brazīlijas laiks
+              standard: Brazīlijas ziemas laiks
+              daylight: Brazīlijas vasaras laiks
+          brunei:
+            long:
+              standard: Brunejas Darusalamas laiks
+          cape_verde:
+            long:
+              generic: Kaboverdes laiks
+              standard: Kaboverdes ziemas laiks
+              daylight: Kaboverdes vasaras laiks
+          chamorro:
+            long:
+              standard: "Čamoro standarta laiks"
+          chatham:
+            long:
+              generic: "Četemas laiks"
+              standard: "Četemas ziemas laiks"
+              daylight: "Četemas vasaras laiks"
+          chile:
+            long:
+              generic: "Čīles laiks"
+              standard: "Čīles ziemas laiks"
+              daylight: "Čīles vasaras laiks"
+          china:
+            long:
+              generic: "Ķīnas laiks"
+              standard: "Ķīnas ziemas laiks"
+              daylight: "Ķīnas vasaras laiks"
+          choibalsan:
+            long:
+              generic: "Čoibalsanas laiks"
+              standard: "Čoibalsanas ziemas laiks"
+              daylight: "Čoibalsanas vasaras laiks"
+          christmas:
+            long:
+              standard: Ziemsvētku salas laiks
+          cocos:
+            long:
+              standard: Kokosa salu laiks
+          colombia:
+            long:
+              generic: Kolumbijas laiks
+              standard: Kolumbijas ziemas laiks
+              daylight: Kolumbijas vasaras laiks
+          cook:
+            long:
+              generic: Kuka salu laiks
+              standard: Kuka salu ziemas laiks
+              daylight: Kuka salu vasaras laiks
+          cuba:
+            long:
+              generic: Kubas laiks
+              standard: Kubas ziemas laiks
+              daylight: Kubas vasaras laiks
+          davis:
+            long:
+              standard: Deivisas laiks
+          dumont_d_urville:
+            long:
+              standard: Dimondirvilas laiks
+          east_timor:
+            long:
+              standard: Austrumtimoras laiks
+          easter:
+            long:
+              generic: Lieldienu salas laiks
+              standard: Lieldienu salas ziemas laiks
+              daylight: Lieldienu salas vasaras laiks
+          ecuador:
+            long:
+              standard: Ekvadoras laiks
+          europe_central:
+            long:
+              generic: Centrāleiropas laiks
+              standard: Centrāleiropas ziemas laiks
+              daylight: Centrāleiropas vasaras laiks
+            short:
+              generic: CET
+              standard: CET
+              daylight: CEST
+          europe_eastern:
+            long:
+              generic: Austrumeiropas laiks
+              standard: Austrumeiropas ziemas laiks
+              daylight: Austrumeiropas vasaras laiks
+            short:
+              generic: EET
+              standard: EET
+              daylight: EEST
+          europe_further_eastern:
+            long:
+              standard: Austrumeiropas laika josla (FET)
+          europe_western:
+            long:
+              generic: Rietumeiropas laiks
+              standard: Rietumeiropas ziemas laiks
+              daylight: Rietumeiropas vasaras laiks
+            short:
+              generic: WET
+              standard: WET
+              daylight: WEST
+          falkland:
+            long:
+              generic: Folklenda salu laiks
+              standard: Folklenda salu ziemas laiks
+              daylight: Folklenda salu vasaras laiks
+          fiji:
+            long:
+              generic: Fidži laiks
+              standard: Fidži ziemas laiks
+              daylight: Fidži vasaras laiks
+          french_guiana:
+            long:
+              standard: Franču Gviānas laiks
+          french_southern:
+            long:
+              standard: Francijas Dienidjūru un Antarktikas teritorijas laiks
+          galapagos:
+            long:
+              standard: Galapagu laiks
+          gambier:
+            long:
+              standard: Gambjē salu laiks
+          georgia:
+            long:
+              generic: Gruzijas laiks
+              standard: Gruzijas ziemas laiks
+              daylight: Gruzijas vasaras laiks
+          gilbert_islands:
+            long:
+              standard: Gilberta salu laiks
+          gmt:
+            long:
+              standard: Griničas laiks
+          greenland_eastern:
+            long:
+              generic: Austrumgrenlandes laiks
+              standard: Austrumgrenlandes ziemas laiks
+              daylight: Austrumgrenlandes vasaras laiks
+          greenland_western:
+            long:
+              generic: Rietumgrenlandes laiks
+              standard: Rietumgrenlandes ziemas laiks
+              daylight: Rietumgrenlandes vasaras laiks
+          gulf:
+            long:
+              standard: Persijas līča laiks
+          guyana:
+            long:
+              standard: Gajānas laiks
+          hawaii_aleutian:
+            long:
+              generic: Havaju–Aleutu laiks
+              standard: Havaju–Aleutu ziemas laiks
+              daylight: Havaju–Aleutu vasaras laiks
+          hong_kong:
+            long:
+              generic: Honkongas laiks
+              standard: Honkongas ziemas laiks
+              daylight: Honkongas vasaras laiks
+          hovd:
+            long:
+              generic: Hovdas laiks
+              standard: Hovdas ziemas laiks
+              daylight: Hovdas vasaras laiks
+          india:
+            long:
+              standard: Indijas ziemas laiks
+          indian_ocean:
+            long:
+              standard: Indijas okeāna laiks
+          indochina:
+            long:
+              standard: Indoķīnas laiks
+          indonesia_central:
+            long:
+              standard: Centrālindonēzijas laiks
+          indonesia_eastern:
+            long:
+              standard: Austrumindonēzijas laiks
+          indonesia_western:
+            long:
+              standard: Rietumindonēzijas laiks
+          iran:
+            long:
+              generic: Irānas laiks
+              standard: Irānas ziemas laiks
+              daylight: Irānas vasaras laiks
+          irkutsk:
+            long:
+              generic: Irkutskas laiks
+              standard: Irkutskas ziemas laiks
+              daylight: Irkutskas vasaras laiks
+          israel:
+            long:
+              generic: Izraēlas laiks
+              standard: Izraēlas ziemas laiks
+              daylight: Izraēlas vasaras laiks
+          japan:
+            long:
+              generic: Japānas laiks
+              standard: Japānas ziemas laiks
+              daylight: Japānas vasaras laiks
+          kamchatka:
+            long:
+              generic: Petropavlovskas-Kamčatskas laiks
+              standard: Petropavlovskas-Kamčatskas ziemas laiks
+              daylight: Petropavlovskas-Kamčatskas vasaras laiks
+          kazakhstan_eastern:
+            long:
+              standard: Austrumkazahstānas laiks
+          kazakhstan_western:
+            long:
+              standard: Rietumkazahstānas laiks
+          korea:
+            long:
+              generic: Korejas laiks
+              standard: Korejas ziemas laiks
+              daylight: Korejas vasaras laiks
+          kosrae:
+            long:
+              standard: Kosrae laiks
+          krasnoyarsk:
+            long:
+              generic: Krasnojarskas laiks
+              standard: Krasnojarskas ziemas laiks
+              daylight: Krasnojarskas vasaras laiks
+          kyrgystan:
+            long:
+              standard: Kirgizstānas laiks
+          line_islands:
+            long:
+              standard: Lainas salu laiks
+          lord_howe:
+            long:
+              generic: Lorda Hava salas laiks
+              standard: Lorda Hava salas ziemas laiks
+              daylight: Lorda Hava salas vasaras laiks
+          macquarie:
+            long:
+              standard: Makvorija salas laiks
+          magadan:
+            long:
+              generic: Magadanas laiks
+              standard: Magadanas ziemas laiks
+              daylight: Magadanas vasaras laiks
+          malaysia:
+            long:
+              standard: Malaizijas laiks
+          maldives:
+            long:
+              standard: Maldīvu salu laiks
+          marquesas:
+            long:
+              standard: Marķīza salu laiks
+          marshall_islands:
+            long:
+              standard: Māršala salu laiks
+          mauritius:
+            long:
+              generic: Maurīcijas laiks
+              standard: Maurīcijas ziemas laiks
+              daylight: Maurīcijas vasaras laiks
+          mawson:
+            long:
+              standard: Mosonas laiks
+          mexico_northwest:
+            long:
+              generic: Ziemeļrietumu Meksikas laiks
+              standard: Ziemeļrietumu Meksikas ziemas laiks
+              daylight: Ziemeļrietumu Meksikas vasaras laiks
+          mexico_pacific:
+            long:
+              generic: Meksikas Klusā okeāna piekrastes laiks
+              standard: Meksikas Klusā okeāna piekrastes ziemas laiks
+              daylight: Meksikas Klusā okeāna piekrastes vasaras laiks
+          mongolia:
+            long:
+              generic: Ulanbatoras laiks
+              standard: Ulanbatoras ziemas laiks
+              daylight: Ulanbatoras vasaras laiks
+          moscow:
+            long:
+              generic: Maskavas laiks
+              standard: Maskavas ziemas laiks
+              daylight: Maskavas vasaras laiks
+          myanmar:
+            long:
+              standard: Mjanmas laiks
+          nauru:
+            long:
+              standard: Nauru laiks
+          nepal:
+            long:
+              standard: Nepālas laiks
+          new_caledonia:
+            long:
+              generic: Jaunkaledonijas laiks
+              standard: Jaunkaledonijas ziemas laiks
+              daylight: Jaunkaledonijas vasaras laiks
+          new_zealand:
+            long:
+              generic: Jaunzēlandes laiks
+              standard: Jaunzēlandes ziemas laiks
+              daylight: Jaunzēlandes vasaras laiks
+          newfoundland:
+            long:
+              generic: "Ņūfaundlendas laiks"
+              standard: "Ņūfaundlendas ziemas laiks"
+              daylight: "Ņūfaundlendas vasaras laiks"
+          niue:
+            long:
+              standard: Niue laiks
+          norfolk:
+            long:
+              standard: Norfolkas salas laiks
+          noronha:
+            long:
+              generic: Fernandu di Noroņas laiks
+              standard: Fernandu di Noroņas ziemas laiks
+              daylight: Fernandu di Noroņas vasaras laiks
+          novosibirsk:
+            long:
+              generic: Novosibirskas laiks
+              standard: Novosibirskas ziemas laiks
+              daylight: Novosibirskas vasaras laiks
+          omsk:
+            long:
+              generic: Omskas laiks
+              standard: Omskas ziemas laiks
+              daylight: Omskas vasaras laiks
+          pakistan:
+            long:
+              generic: Pakistānas laiks
+              standard: Pakistānas ziemas laiks
+              daylight: Pakistānas vasaras laiks
+          palau:
+            long:
+              standard: Palau laiks
+          papua_new_guinea:
+            long:
+              standard: Papua-Jaungvinejas laiks
+          paraguay:
+            long:
+              generic: Paragvajas laiks
+              standard: Paragvajas ziemas laiks
+              daylight: Paragvajas vasaras laiks
+          peru:
+            long:
+              generic: Peru laiks
+              standard: Peru ziemas laiks
+              daylight: Peru vasaras laiks
+          philippines:
+            long:
+              generic: Filipīnu laiks
+              standard: Filipīnu ziemas laiks
+              daylight: Filipīnu vasaras laiks
+          phoenix_islands:
+            long:
+              standard: Fēniksa salu laiks
+          pierre_miquelon:
+            long:
+              generic: Senpjēras un Mikelonas laiks
+              standard: Senpjēras un Mikelonas ziemas laiks
+              daylight: Senpjēras un Mikelonas vasaras laiks
+          pitcairn:
+            long:
+              standard: Pitkērnas laiks
+          ponape:
+            long:
+              standard: Ponapē laiks
+          reunion:
+            long:
+              standard: Reinjonas laiks
+          rothera:
+            long:
+              standard: Roteras laiks
+          sakhalin:
+            long:
+              generic: Sahalīnas laiks
+              standard: Sahalīnas ziemas laiks
+              daylight: Sahalīnas vasaras laiks
+          samara:
+            long:
+              generic: Samaras laiks
+              standard: Samaras ziemas laiks
+              daylight: Samaras vasaras laiks
+          samoa:
+            long:
+              generic: Samoa laiks
+              standard: Samoa ziemas laiks
+              daylight: Samoa vasaras laiks
+          seychelles:
+            long:
+              standard: Seišeļu salu laiks
+          singapore:
+            long:
+              standard: Singapūras laiks
+          solomon:
+            long:
+              standard: Zālamana salu laiks
+          south_georgia:
+            long:
+              standard: Dienviddžordžijas laiks
+          suriname:
+            long:
+              standard: Surinamas laiks
+          syowa:
+            long:
+              standard: "Šovas laiks"
+          tahiti:
+            long:
+              standard: Taiti laiks
+          taipei:
+            long:
+              generic: Taibei laiks
+              standard: Taibei ziemas laiks
+              daylight: Taibei vasaras laiks
+          tajikistan:
+            long:
+              standard: Tadžikistānas laiks
+          tokelau:
+            long:
+              standard: Tokelau laiks
+          tonga:
+            long:
+              generic: Tongas laiks
+              standard: Tongas ziemas laiks
+              daylight: Tongas vasaras laiks
+          truk:
+            long:
+              standard: "Čūkas laiks"
+          turkmenistan:
+            long:
+              generic: Turkmenistānas laiks
+              standard: Turkmenistānas ziemas laiks
+              daylight: Turkmenistānas vasaras laiks
+          tuvalu:
+            long:
+              standard: Tuvalu laiks
+          uruguay:
+            long:
+              generic: Urugvajas laiks
+              standard: Urugvajas ziemas laiks
+              daylight: Urugvajas vasaras laiks
+          uzbekistan:
+            long:
+              generic: Uzbekistānas laiks
+              standard: Uzbekistānas ziemas laiks
+              daylight: Uzbekistānas vasaras laiks
+          vanuatu:
+            long:
+              generic: Vanuatu laiks
+              standard: Vanuatu ziemas laiks
+              daylight: Vanuatu vasaras laiks
+          venezuela:
+            long:
+              standard: Venecuēlas laiks
+          vladivostok:
+            long:
+              generic: Vladivostokas laiks
+              standard: Vladivostokas ziemas laiks
+              daylight: Vladivostokas vasaras laiks
+          volgograd:
+            long:
+              generic: Volgogradas laiks
+              standard: Volgogradas ziemas laiks
+              daylight: Volgogradas vasaras laiks
+          vostok:
+            long:
+              standard: Vostokas laiks
+          wake:
+            long:
+              standard: Veika salas laiks
+          wallis:
+            long:
+              standard: Volisas un Futunas laiks
+          yakutsk:
+            long:
+              generic: Jakutskas laiks
+              standard: Jakutskas ziemas laiks
+              daylight: Jakutskas vasaras laiks
+          yekaterinburg:
+            long:
+              generic: Jekaterinburgas laiks
+              standard: Jekaterinburgas ziemas laiks
+              daylight: Jekaterinburgas vasaras laiks
+    locale_display_names:
+      languages:
+        aa: afāru
+        ab: abhāzu
+        ace: ačinu
+        ach: ačolu
+        ada: adangmu
+        ady: adigu
+        ae: avesta
+        aeb: aeb
+        af: afrikandu
+        afh: afrihili
+        agq: aghemu
+        ain: ainu
+        ak: akanu
+        akk: akadiešu
+        akz: akz
+        ale: aleutu
+        aln: aln
+        alt: dienvidaltajiešu
+        am: amharu
+        an: aragoniešu
+        ang: senangļu
+        anp: angika
+        ar: arābu
+        ar_001: mūsdienu standarta arābu
+        arc: aramiešu
+        arn: araukāņu
+        aro: aro
+        arp: arapahu
+        arq: arq
+        arw: aravaku
+        ary: ary
+        arz: arz
+        as: asamiešu
+        asa: asu
+        ase: ase
+        ast: astūriešu
+        av: avāru
+        avk: avk
+        awa: avadhu
+        ay: aimaru
+        az: azerbaidžāņu
+        az_alt_short: azerbaidžāņu
+        az_arab: dienvidazerbaidžāņu
+        ba: baškīru
+        bal: beludžu
+        ban: baliešu
+        bar: bar
+        bas: basu
+        bax: bamumu
+        bbc: bbc
+        bbj: gomalu
+        be: baltkrievu
+        bej: bedžu
+        bem: bembu
+        bew: bew
+        bez: bena
+        bfd: bafutu
+        bfq: bfq
+        bg: bulgāru
+        bgn: rietumbeludžu
+        bho: bhodžpūru
+        bi: bišlamā
+        bik: bikolu
+        bin: binu
+        bjn: bjn
+        bkm: komu
+        bla: siksiku
+        bm: bambaru
+        bn: bengāļu
+        bo: tibetiešu
+        bpy: bpy
+        bqi: bqi
+        br: bretoņu
+        bra: bradžiešu
+        brh: brh
+        brx: bodo
+        bs: bosniešu
+        bss: nkosi
+        bua: burjatu
+        bug: bugu
+        bum: bulu
+        byn: bilinu
+        byv: medumbu
+        ca: katalāņu
+        cad: kadu
+        car: karību
+        cay: kajuga
+        cch: atsamu
+        ce: "čečenu"
+        ceb: sebuāņu
+        cgg: kiga
+        ch: "čamorru"
+        chb: "čibču"
+        chg: džagatajs
+        chk: "čūku"
+        chm: mariešu
+        chn: "činuku žargons"
+        cho: "čoktavu"
+        chp: "čipevaianu"
+        chr: "čiroku"
+        chy: "šejenu"
+        ckb: kurdu (Sorani)
+        co: korsikāņu
+        cop: koptu
+        cps: cps
+        cr: krī
+        crh: Krimas tatāru
+        cs: "čehu"
+        csb: kašubu
+        cu: baznīcslāvu
+        cv: "čuvašu"
+        cy: velsiešu
+        da: dāņu
+        dak: dakotu
+        dar: dargu
+        dav: taitu
+        de: vācu
+        de_at: Austrijas vācu
+        de_ch: "Šveices augšvācu"
+        del: delavēru
+        den: sleivu
+        dgr: dogribu
+        din: dinku
+        dje: zarmu
+        doi: dogru
+        dsb: lejassorbu
+        dtp: dtp
+        dua: dualu
+        dum: vidusholandiešu
+        dv: maldīviešu
+        dyo: diola-fonjī
+        dyu: diūlu
+        dz: dzongke
+        dzg: dazu
+        ebu: kjembu
+        ee: evu
+        efi: efiku
+        egl: egl
+        egy: "ēģiptiešu"
+        eka: ekadžuku
+        el: grieķu
+        elx: elamiešu
+        en: angļu
+        en_au: Austrālijas angļu
+        en_ca: Kanādas angļu
+        en_gb: Lielbritānijas angļu
+        en_gb_alt_short: angļu (Lielbritānija)
+        en_us: ASV angļu
+        en_us_alt_short: angļu (ASV)
+        enm: vidusangļu
+        eo: esperanto
+        es: spāņu
+        es_419: Latīņamerikas spāņu
+        es_es: Eiropas spāņu
+        es_mx: Meksikas spāņu
+        esu: esu
+        et: igauņu
+        eu: basku
+        ewo: evondu
+        ext: ext
+        fa: persiešu
+        fan: fangu
+        fat: fantu
+        ff: fulu
+        fi: somu
+        fil: filipīniešu
+        fit: fit
+        fj: fidžiešu
+        fo: fēru
+        fon: fonu
+        fr: franču
+        fr_ca: Kanādas franču
+        fr_ch: "Šveices franču"
+        frc: frc
+        frm: vidusfranču
+        fro: senfranču
+        frp: frp
+        frr: ziemeļfrīzu
+        frs: austrumfrīzu
+        fur: friūlu
+        fy: rietumfrīzu
+        ga: "īru"
+        gaa: ga
+        gag: gagauzu
+        gan: gan
+        gay: gajo
+        gba: gbaju
+        gbz: gbz
+        gd: gēlu
+        gez: gēzu
+        gil: kiribatiešu
+        gl: galisiešu
+        glk: glk
+        gmh: vidusaugšvācu
+        gn: gvaranu
+        goh: senaugšvācu
+        gom: gom
+        gon: gondu valodas
+        gor: gorontalu
+        got: gotu
+        grb: grebo
+        grc: sengrieķu
+        gsw: "Šveices vācu"
+        gu: gudžaratu
+        guc: guc
+        gur: gur
+        guz: gusii
+        gv: meniešu
+        gwi: kučinu
+        ha: hausu
+        hai: haidu
+        hak: hak
+        haw: havajiešu
+        he: ivrits
+        hi: hindi
+        hif: hif
+        hil: hiligainonu
+        hit: hetu
+        hmn: hmongu
+        ho: hirimotu
+        hr: horvātu
+        hsb: augšsorbu
+        hsn: hsn
+        ht: haitiešu
+        hu: ungāru
+        hup: hupu
+        hy: armēņu
+        hz: hereru
+        ia: interlingva
+        iba: ibanu
+        ibb: ibibio
+        id: indonēziešu
+        ie: interlingve
+        ig: igbo
+        ii: Sičuaņas ji
+        ik: inupiaku
+        ilo: iloku
+        inh: ingušu
+        io: ido
+        is: "īslandiešu"
+        it: itāļu
+        iu: inuītu
+        izh: izh
+        ja: japāņu
+        jam: jam
+        jbo: ložbans
+        jgo: jgo
+        jmc: mačamu
+        jpr: jūdpersiešu
+        jrb: jūdarābu
+        jut: jut
+        jv: javiešu
+        ka: gruzīnu
+        kaa: karakalpaku
+        kab: kabilu
+        kac: kačinu
+        kaj: kadži
+        kam: kambu
+        kaw: kāvi
+        kbd: kabardiešu
+        kbl: kaņembu
+        kcg: katabu
+        kde: makonde
+        kea: kaboverdiešu
+        ken: ken
+        kfo: koru
+        kg: kongu
+        kgp: kgp
+        kha: khasu
+        kho: hotaniešu
+        khq: koiračiinī
+        khw: khw
+        ki: kikuju
+        kiu: kiu
+        kj: kvaņamu
+        kk: kazahu
+        kkj: kako
+        kl: grenlandiešu
+        kln: kalendžīnu
+        km: khmeru
+        kmb: kimbundu
+        kn: kannadu
+        ko: korejiešu
+        koi: komiešu-permiešu
+        kok: konkanu
+        kos: kosrājiešu
+        kpe: kpellu
+        kr: kanuru
+        krc: karačaju un balkāru
+        kri: kri
+        krj: krj
+        krl: karēļu
+        kru: kuruhu
+        ks: kašmiriešu
+        ksb: "šambalu"
+        ksf: bafiju
+        ksh: "Ķelnes vācu"
+        ku: kurdu
+        kum: kumiku
+        kut: kutenaju
+        kv: komiešu
+        kw: korniešu
+        ky: kirgīzu
+        la: latīņu
+        lad: ladino
+        lag: langi
+        lah: landu
+        lam: lambu
+        lb: luksemburgiešu
+        lez: lezgīnu
+        lfn: lfn
+        lg: gandu
+        li: limburgiešu
+        lij: lij
+        liv: liv
+        lkt: lakotu
+        lmo: lmo
+        ln: lingala
+        lo: laosiešu
+        lol: mongu
+        loz: lozu
+        lrc: ziemeļluru
+        lt: lietuviešu
+        ltg: ltg
+        lu: lubakatanga
+        lua: lubalulva
+        lui: luisenu
+        lun: lundu
+        luo: luo
+        lus: lušeju
+        luy: luhju
+        lv: latviešu
+        lzh: lzh
+        lzz: lzz
+        mad: maduriešu
+        maf: mafu
+        mag: magahiešu
+        mai: maithili
+        mak: makasaru
+        man: mandingu
+        mas: masaju
+        mde: mabu
+        mdf: mokšu
+        mdh: mdh
+        mdr: mandaru
+        men: mendu
+        mer: meru
+        mfe: Maurīcijas kreolu
+        mg: malagasu
+        mga: vidusīru
+        mgh: makua-meetto
+        mgo: mgo
+        mh: māršaliešu
+        mi: maoru
+        mic: mikmaku
+        min: minangkabavu
+        mis: mis
+        mk: maķedoniešu
+        ml: malajalu
+        mn: mongoļu
+        mnc: mandžūru
+        mni: manipūru
+        moh: mohauku
+        mos: mosu
+        mr: maratu
+        mrj: mrj
+        ms: malajiešu
+        mt: maltiešu
+        mua: mundangu
+        mul: vairākas valodas
+        mus: krīku
+        mwl: mirandiešu
+        mwr: marvaru
+        mwv: mwv
+        my: birmiešu
+        mye: mjenu
+        myv: erzju
+        mzn: mazanderāņu
+        na: nauruiešu
+        nan: nan
+        nap: neapoliešu
+        naq: nama
+        nb: norvēģu bukmols
+        nd: ziemeļndebelu
+        nds: lejasvācu
+        nds_nl: lejassakšu
+        ne: nepāliešu
+        new: nevaru
+        ng: ndongu
+        nia: njasu
+        niu: niuāņu
+        njo: njo
+        nl: holandiešu
+        nl_be: flāmu
+        nmg: kvasio
+        nn: jaunnorvēģu
+        nnh: ngjembūnu
+        'no': norvēģu
+        nog: nogaju
+        non: sennorvēģu
+        nov: nov
+        nqo: nko
+        nr: dienvidndebelu
+        nso: ziemeļsotu
+        nus: nueru
+        nv: navahu
+        nwc: klasiskā nevaru
+        ny: "čičeva"
+        nym: "ņamvezu"
+        nyn: "ņankolu"
+        nyo: "ņoru"
+        nzi: nzemu
+        oc: oksitāņu
+        oj: odžibvu
+        om: oromu
+        or: oriju
+        os: osetīnu
+        osa: važāžu
+        ota: turku osmaņu
+        pa: pandžabu
+        pag: pangasinanu
+        pal: pehlevi
+        pam: pampanganu
+        pap: papjamento
+        pau: palaviešu
+        pcd: pcd
+        pdc: pdc
+        pdt: pdt
+        peo: senpersu
+        pfl: pfl
+        phn: feniķiešu
+        pi: pāli
+        pl: poļu
+        pms: pms
+        pnt: pnt
+        pon: ponapiešu
+        prg: prg
+        pro: senprovansiešu
+        ps: puštu
+        pt: portugāļu
+        pt_br: Brazīlijas portugāļu
+        pt_pt: Eiropas portugāļu
+        qu: kečvu
+        quc: kiče
+        qug: qug
+        raj: radžastāņu
+        rap: rapanuju
+        rar: rarotongiešu
+        rgn: rgn
+        rif: rif
+        rm: retoromāņu
+        rn: rundu
+        ro: rumāņu
+        ro_md: moldāvu
+        rof: rombo
+        rom: "čigānu"
+        root: sakne
+        rtm: rtm
+        ru: krievu
+        rue: rue
+        rug: rug
+        rup: aromūnu
+        rw: kiņaruanda
+        rwk: ruanda
+        sa: sanskrits
+        sad: sandavu
+        sah: jakutu
+        sam: samārijas aramiešu
+        saq: samburu
+        sas: sasaku
+        sat: santalu
+        saz: saz
+        sba: ngambeju
+        sbp: sangu
+        sc: sardīniešu
+        scn: sicīliešu
+        sco: skotu
+        sd: sindhu
+        sdc: sdc
+        sdh: dienvidkurdu
+        se: ziemeļsāmu
+        see: seneku
+        seh: senu
+        sei: sei
+        sel: selkupu
+        ses: koiraboro senni
+        sg: sango
+        sga: senīru
+        sgs: sgs
+        sh: serbu-horvātu
+        shi: "šilhu"
+        shn: "šanu"
+        shu: "Čadas arābu"
+        si: singāļu
+        sid: sidamu
+        sk: slovāku
+        sl: slovēņu
+        sli: sli
+        sly: sly
+        sm: samoāņu
+        sma: dienvidsāmu
+        smj: Luleo sāmu
+        smn: Inari sāmu
+        sms: skoltsāmu
+        sn: "šonu"
+        snk: soninku
+        so: somāļu
+        sog: sogdiešu
+        sq: albāņu
+        sr: serbu
+        srn: sranantogo
+        srr: serēru
+        ss: svatu
+        ssy: saho
+        st: dienvidsotu
+        stq: stq
+        su: sundaniešu
+        suk: sukumu
+        sus: susu
+        sux: "šumeru"
+        sv: zviedru
+        sw: svahili
+        swb: komoru
+        swc: Kongo svahili
+        syc: klasiskā sīriešu
+        syr: sīriešu
+        szl: szl
+        ta: tamilu
+        tcy: tcy
+        te: telugu
+        tem: temnu
+        teo: teso
+        ter: tereno
+        tet: tetumu
+        tg: tadžiku
+        th: taju
+        ti: tigrinja
+        tig: tigru
+        tiv: tivu
+        tk: turkmēņu
+        tkl: tokelaviešu
+        tkr: tkr
+        tl: tagalu
+        tlh: klingoņu
+        tli: tlinkitu
+        tly: tly
+        tmh: tuaregu
+        tn: cvanu
+        to: tongiešu
+        tog: njasas tongu
+        tpi: tokpisins
+        tr: turku
+        tru: tru
+        trv: taroko
+        ts: congu
+        tsd: tsd
+        tsi: cimšiāņu
+        tt: tatāru
+        ttt: ttt
+        tum: tumbuku
+        tvl: tuvaliešu
+        tw: tvī
+        twq: tasavaku
+        ty: taitiešu
+        tyv: tuviešu
+        tzm: Centrālmarokas tamazīts
+        udm: udmurtu
+        ug: uiguru
+        uga: ugaritiešu
+        uk: ukraiņu
+        umb: umbundu
+        und: nezināma valoda
+        ur: urdu
+        uz: uzbeku
+        vai: vaju
+        ve: vendu
+        vec: vec
+        vep: vep
+        vi: vjetnamiešu
+        vls: vls
+        vmf: vmf
+        vo: volapiks
+        vot: votu
+        vro: vro
+        vun: vundžo
+        wa: valoņu
+        wae: Vallisas vācu
+        wal: valamu
+        war: varaju
+        was: vašo
+        wbp: varlpirī
+        wo: volofu
+        wuu: wuu
+        xal: kalmiku
+        xh: khosu
+        xmf: xmf
+        xog: sogu
+        yao: jao
+        yap: japiešu
+        yav: janbaņu
+        ybb: jembu
+        yi: jidišs
+        yo: jorubu
+        yrl: yrl
+        yue: kantoniešu
+        za: džuanu
+        zap: sapoteku
+        zbl: blissimbolika
+        zea: zea
+        zen: zenagu
+        zgh: standarta marokāņu berberu
+        zh: "ķīniešu"
+        zh_hans: "ķīniešu vienkāršotā"
+        zh_hant: "ķīniešu tradicionālā"
+        zu: zulu
+        zun: zunju
+        zxx: bez lingvistiska satura
+        zza: zazaki
+      locale_display_pattern:
+        locale_pattern: "{0} ({1})"
+        locale_separator: "{0}, {1}"
+        locale_key_type_pattern: "{0}: {1}"
+      keys:
+        calendar: Kalendārs
+        cf: cf
+        col_alternate: Kārtošana, ignorējot simbolus
+        col_backwards: Diakritisko zīmju kārtošana apgrieztā secībā
+        col_case_first: Lielo/mazo burtu kārtošana
+        col_case_level: Reģistrjutīgo rakstzīmju kārtošana
+        col_hiragana_quaternary: Kana rakstzīmju kārtošana
+        collation: Kārtošanas secība
+        col_normalization: Normalizētā kārtošana
+        col_numeric: Kārtošana skaitliskā secībā
+        col_strength: Kārtošanas pakāpe
+        currency: Valūta
+        hc: Stundu formāts (12 vai 24)
+        lb: Rindiņas pārtraukuma stils
+        ms: mērvienību sistēma
+        numbers: Cipari
+        timezone: Laika josla
+        va: Lokalizācijas variants
+        variable_top: Kārtot kā simbolus
+        x: Personīgai lietošanai
+      types:
+        calendar:
+          buddhist: budistu kalendārs
+          chinese: "ķīniešu kalendārs"
+          coptic: Koptu kalendārs
+          dangi: dangi kalendārs
+          ethiopic: etiopiešu kalendārs
+          ethiopic_amete_alem: Etiopiešu kalendārs
+          gregorian: Gregora kalendārs
+          hebrew: ebreju kalendārs
+          indian: Indijas nacionālais kalendārs
+          islamic: islāma kalendārs
+          islamic_civil: islāma pilsoņu kalendārs
+          islamic_rgsa: islamic-rgsa
+          islamic_tbla: islamic-tbla
+          islamic_umalqura: islamic-umalqura
+          iso8601: ISO 8601 kalendārs
+          japanese: japāņu kalendārs
+          persian: persiešu kalendārs
+          roc: "Ķīnas Republikas kalendārs"
+        cf:
+          account: account
+          standard: standard
+        col_alternate:
+          non_ignorable: Kārtot simbolus
+          shifted: Kārtot, ignorējot simbolus
+        col_backwards:
+          'no': Kārtot diakritiskās zīmes parastā secībā
+          'yes': Kārtot diakritiskās zīmes apgrieztā secībā
+        col_case_first:
+          lower: Kārtot pēc pirmā mazā burta
+          'no': Kārtot burtu reģistra parastā secībā
+          upper: Kārtot pēc pirmā lielā burta
+        col_case_level:
+          'no': Kārtot reģistrnejutīgas rakstzīmes
+          'yes': Kārtot reģistrjutīgās rakstzīmes
+        col_hiragana_quaternary:
+          'no': Kārtot kana rakstzīmes atsevišķi
+          'yes': Kārtot kana rakstzīmes, norādot atšķirības
+        collation:
+          big5han: tradicionālās ķīniešu valodas kārtošanas secība - Big5
+          compat: compat
+          dictionary: Vārdnīcas kārtošanas secība
+          ducet: Noklusējuma unikoda kārtošanas secība
+          emoji: emoji
+          eor: eor
+          gb2312han: vienkāršotās ķīniešu valodas kārtošanas secība - GB2312
+          phonebook: tālruņu grāmatas kārtošanas secība
+          phonetic: Fonētiskā kārtošanas secība
+          pinyin: piņjiņa kārtošanas secība
+          reformed: Reformētā kārtošanas secība
+          search: Vispārīga meklēšana
+          searchjl: Meklēt pēc Hangul sākuma līdzskaņa
+          standard: Standarta kārtošanas secība
+          stroke: Stroke kārtošanas secība
+          traditional: tradicionālā kārtošanas secība
+          unihan: Radikālā kārtošanas secība pēc vilkumu skaita
+          zhuyin: zhuyin
+        col_normalization:
+          'no': Kārtot bez normalizēšanas
+          'yes': Kārtot unikodu normalizējot
+        col_numeric:
+          'no': Kārtot ciparus atsevišķi
+          'yes': Kārtot ciparus skaitliskā secībā
+        col_strength:
+          identical: Kārtot visus
+          primary: Kārtot tikai pamata burtus
+          quaternary: Kārtot diakritiskās zīmes/reģistrjutīgās rakstzīmes/rakstzīmes
+            pēc platuma/Kana rakstzīmes
+          secondary: Kārtot diakritiskās zīmes
+          tertiary: Kārtot diakritiskās zīmes/reģistrjutīgās rakstzīmes/rakstzīmes
+            pēc platuma
+        hc:
+          h11: 12 stundu sistēma (0–11)
+          h12: 12 stundu sistēma (1–12)
+          h23: 24 stundu sistēma (0–23)
+          h24: 24 stundu sistēma (1–24)
+        lb:
+          loose: Brīvais rindiņas pārtraukuma stils
+          normal: Parastais rindiņas pārtraukuma stils
+          strict: Stingrais rindiņas pārtraukuma stils
+        ms:
+          metric: metriskā sistēma
+          uksystem: britu mērvienību sistēma
+          ussystem: amerikāņu mērvienību sistēma
+        numbers:
+          ahom: ahom
+          arab: Arābu-indiešu cipari
+          arabext: Izvērstie arābu-indiešu cipari
+          armn: Armēņu cipari
+          armnlow: Mazie armēņu cipari
+          bali: bali
+          beng: Bengāļu cipari
+          brah: brah
+          cakm: cakm
+          cham: cham
+          cyrl: cyrl
+          deva: Devanāgarī cipari
+          ethi: Etiopiešu cipari
+          finance: Finanšu cipari
+          fullwide: Pilna platuma cipari
+          geor: Gruzīnu cipari
+          grek: Grieķu cipari
+          greklow: Mazie grieķu cipari
+          gujr: Gudžaratu cipari
+          guru: Gurmuki cipari
+          hanidec: "Ķīniešu decimāldaļskaitļi"
+          hans: Vienkāršotie ķīniešu cipari
+          hansfin: Vienkāršotie ķīniešu cipari finanšu dokumentiem
+          hant: Tradicionālie ķīniešu cipari
+          hantfin: Tradicionālie ķīniešu cipari finanšu dokumentiem
+          hebr: Ivrita cipari
+          hmng: hmng
+          java: java
+          jpan: Japāņu cipari
+          jpanfin: Japāņu cipari finanšu dokumentiem
+          kali: kali
+          khmr: Khmeru cipari
+          knda: Kannadu cipari
+          lana: lana
+          lanatham: lanatham
+          laoo: Laosiešu cipari
+          latn: Arābu cipari
+          lepc: lepc
+          limb: limb
+          mathbold: mathbold
+          mathdbl: mathdbl
+          mathmono: mathmono
+          mathsanb: mathsanb
+          mathsans: mathsans
+          mlym: Malajalu cipari
+          modi: modi
+          mong: Mongoļu cipari
+          mroo: mroo
+          mtei: mtei
+          mymr: Birmiešu cipari
+          mymrshan: mymrshan
+          mymrtlng: mymrtlng
+          native: Vietējie cipari
+          nkoo: nkoo
+          olck: olck
+          orya: Oriju cipari
+          osma: osma
+          roman: Romiešu cipari
+          romanlow: Mazie romiešu cipari
+          saur: saur
+          shrd: shrd
+          sind: sind
+          sinh: sinh
+          sora: sora
+          sund: sund
+          takr: takr
+          talu: talu
+          taml: Tamilu tradicionālie cipari
+          tamldec: Tamilu cipari
+          telu: Telugu cipari
+          thai: Tajiešu cipari
+          tibt: Tibetiešu cipari
+          tirh: tirh
+          traditional: Tradicionālā ciparu sistēma
+          vaii: VAI cipari
+          wara: wara
+      code_patterns:
+        language: 'Valoda: {0}'
+        script: 'Rakstība: {0}'
+        territory: 'Reģions: {0}'
+      scripts:
+        aghb: Aghb
+        ahom: Ahom
+        arab: arābu
+        arab_alt_variant: persiešu-arābu
+        armi: aramiešu
+        armn: armēņu
+        avst: Avst
+        bali: baliešu
+        bamu: Bamu
+        bass: Bass
+        batk: Batk
+        beng: bengāļu
+        bopo: bopomofo
+        brah: brahmi
+        brai: Braila raksts
+        bugi: Bugi
+        buhd: Buhd
+        cakm: Cakm
+        cans: Cans
+        cari: Cari
+        cham: Cham
+        cher: irokēzu
+        copt: koptu
+        cprt: Cprt
+        cyrl: kirilica
+        cyrs: senslāvu
+        deva: devānagāri
+        dsrt: Dsrt
+        dupl: Dupl
+        egyd: demotiskais raksts
+        egyh: hierātiskais raksts
+        egyp: "ēģiptiešu hieroglifi"
+        elba: Elba
+        ethi: etiopiešu
+        geor: gruzīnu
+        glag: Glag
+        goth: gotu
+        gran: Gran
+        grek: grieķu
+        gujr: gudžaratu
+        guru: pandžabu
+        hang: hangila
+        hani: "ķīniešu"
+        hano: Hano
+        hans: "ķīniešu vienkāršotā"
+        hans_alt_stand_alone: hanu vienkāršotā
+        hant: "ķīniešu tradicionālā"
+        hant_alt_stand_alone: hanu tradicionālā
+        hatr: Hatr
+        hebr: ivrits
+        hira: hiragana
+        hluw: Hluw
+        hmng: Hmng
+        hrkt: katakana vai hiragana
+        hung: senungāru
+        ital: vecitāļu
+        java: javiešu
+        jpan: japāņu
+        kali: Kali
+        kana: katakana
+        khar: Khar
+        khmr: khmeru
+        khoj: Khoj
+        knda: kannaru
+        kore: korejiešu
+        kthi: Kthi
+        lana: Lana
+        laoo: laosiešu
+        latn: latīņu
+        lepc: Lepc
+        limb: Limb
+        lina: lineārā A
+        linb: lineārā B
+        lisu: Lisu
+        lyci: Lyci
+        lydi: līdiešu
+        mahj: Mahj
+        mand: Mand
+        mani: Mani
+        maya: maiju
+        mend: Mend
+        merc: Merc
+        mero: Mero
+        mlym: malajalu
+        modi: Modi
+        mong: mongoļu
+        moon: Mūna raksts
+        mroo: Mroo
+        mtei: Mtei
+        mult: Mult
+        mymr: birmiešu
+        narb: Narb
+        nbat: Nbat
+        nkoo: Nkoo
+        ogam: ogamiskais raksts
+        olck: Olck
+        orkh: Orkh
+        orya: oriju
+        osma: osmaņu turku
+        palm: Palm
+        pauc: Pauc
+        perm: Perm
+        phag: Phag
+        phli: Phli
+        phlp: Phlp
+        phnx: feniķiešu
+        plrd: Plrd
+        prti: Prti
+        qaaa: Qaaa
+        qaab: Qaab
+        qaac: Qaac
+        qaad: Qaad
+        qaae: Qaae
+        qaaf: Qaaf
+        qaag: Qaag
+        qaah: Qaah
+        qaaj: Qaaj
+        qaak: Qaak
+        qaal: Qaal
+        qaam: Qaam
+        qaan: Qaan
+        qaao: Qaao
+        qaap: Qaap
+        qaaq: Qaaq
+        qaar: Qaar
+        qaas: Qaas
+        qaat: Qaat
+        qaau: Qaau
+        qaav: Qaav
+        qaaw: Qaaw
+        qaax: Qaax
+        qaay: Qaay
+        qaaz: Qaaz
+        qaba: Qaba
+        qabb: Qabb
+        qabc: Qabc
+        qabd: Qabd
+        qabe: Qabe
+        qabf: Qabf
+        qabg: Qabg
+        qabh: Qabh
+        qabi: Qabi
+        qabj: Qabj
+        qabk: Qabk
+        qabl: Qabl
+        qabm: Qabm
+        qabn: Qabn
+        qabo: Qabo
+        qabp: Qabp
+        qabq: Qabq
+        qabr: Qabr
+        qabs: Qabs
+        qabt: Qabt
+        qabu: Qabu
+        qabv: Qabv
+        qabw: Qabw
+        qabx: Qabx
+        rjng: Rjng
+        roro: rongorongo
+        runr: rūnu raksts
+        samr: samariešu
+        sarb: Sarb
+        saur: Saur
+        sgnw: Sgnw
+        shaw: Shaw
+        shrd: Shrd
+        sidd: Sidd
+        sind: Sind
+        sinh: singāļu
+        sora: Sora
+        sund: zundu
+        sylo: Sylo
+        syrc: sīriešu
+        syrj: rietumsīriešu
+        syrn: austrumsīriešu
+        tagb: Tagb
+        takr: Takr
+        tale: Tale
+        talu: Talu
+        taml: tamilu
+        tavt: Tavt
+        telu: telugu
+        tfng: Tfng
+        tglg: tagalu
+        thaa: taana
+        thai: taju
+        tibt: tibetiešu
+        tirh: Tirh
+        ugar: Ugar
+        vaii: Vaii
+        wara: Wara
+        xpeo: senperiešu
+        xsux: "šumeru-akadiešu ķīļraksts"
+        yiii: ji
+        zinh: mantotā
+        zmth: matemātiskais pieraksts
+        zsym: simboli
+        zxxx: bez rakstības
+        zyyy: vispārējā
+        zzzz: nezināma rakstība
+      territories:
+        '001': pasaule
+        '002': "Āfrika"
+        '003': Ziemeļamerika
+        '005': Dienvidamerika
+        009: Okeānija
+        '011': Rietumāfrika
+        '013': Centrālamerika
+        '014': Austrumāfrika
+        '015': Ziemeļāfrika
+        '017': Vidusāfrika
+        018: Dienvidāfrika
+        019: Amerika
+        '021': Amerikas ziemeļu daļa
+        029: Karību jūras reģions
+        '030': Austrumāzija
+        '034': Dienvidāzija
+        '035': Centrālaustrumāzija
+        039: Dienvideiropa
+        '053': Austrālāzija
+        '054': Melanēzija
+        '057': Mikronēzijas reģions
+        '061': Polinēzija
+        '142': "Āzija"
+        '143': Centrālāzija
+        '145': Rietumāzija
+        '150': Eiropa
+        '151': Austrumeiropa
+        '154': Ziemeļeiropa
+        '155': Rietumeiropa
+        '419': Latīņamerika
+        ac: Debesbraukšanas sala
+        ad: Andora
+        ae: Apvienotie Arābu Emirāti
+        af: Afganistāna
+        ag: Antigva un Barbuda
+        ai: Angilja
+        al: Albānija
+        am: Armēnija
+        an: Nīderlandes Antiļas
+        ao: Angola
+        aq: Antarktika
+        ar: Argentīna
+        as: Amerikāņu Samoa
+        at: Austrija
+        au: Austrālija
+        aw: Aruba
+        ax: Olandes salas
+        az: Azerbaidžāna
+        ba: Bosnija un Hercegovina
+        bb: Barbadosa
+        bd: Bangladeša
+        be: Beļģija
+        bf: Burkinafaso
+        bg: Bulgārija
+        bh: Bahreina
+        bi: Burundi
+        bj: Benina
+        bl: Senbartelmī
+        bm: Bermudu salas
+        bn: Bruneja
+        bo: Bolīvija
+        bq: Nīderlandes Karību salas
+        br: Brazīlija
+        bs: Bahamu salas
+        bt: Butāna
+        bv: Buvē sala
+        bw: Botsvāna
+        by: Baltkrievija
+        bz: Beliza
+        ca: Kanāda
+        cc: Kokosu jeb Kīlinga salas
+        cd: Kongo-Kinšasa
+        cd_alt_variant: Kongo Demokrātiskā Republika
+        cf: Centrālāfrikas Republika
+        cg: Kongo - Brazavila
+        cg_alt_variant: Kongo (Republika)
+        ch: "Šveice"
+        ci: Kotdivuāra
+        ci_alt_variant: Ziloņkaula krasts
+        ck: Kuka salas
+        cl: "Čīle"
+        cm: Kamerūna
+        cn: "Ķīna"
+        co: Kolumbija
+        cp: Klipertona sala
+        cr: Kostarika
+        cu: Kuba
+        cv: Kaboverde
+        cw: Kirasao
+        cx: Ziemsvētku sala
+        cy: Kipra
+        cz: "Čehija"
+        de: Vācija
+        dg: Djego Garsijas atols
+        dj: Džibutija
+        dk: Dānija
+        dm: Dominika
+        do: Dominikāna
+        dz: Alžīrija
+        ea: Seūta un Melilja
+        ec: Ekvadora
+        ee: Igaunija
+        eg: "Ēģipte"
+        eh: Rietumsahāra
+        er: Eritreja
+        es: Spānija
+        et: Etiopija
+        eu: Eiropas Savienība
+        fi: Somija
+        fj: Fidži
+        fk: Folklenda salas
+        fk_alt_variant: Folklenda (Malvinu) salas
+        fm: Mikronēzija
+        fo: Fēru Salas
+        fr: Francija
+        ga: Gabona
+        gb: Lielbritānija
+        gb_alt_short: Lielbritānija
+        gd: Grenāda
+        ge: Gruzija
+        gf: Franču Gviāna
+        gg: Gērnsija
+        gh: Gana
+        gi: Gibraltārs
+        gl: Grenlande
+        gm: Gambija
+        gn: Gvineja
+        gp: Gvadelupa
+        gq: Ekvatoriālā Gvineja
+        gr: Grieķija
+        gs: Dienviddžordžija un Dienvidsendviču salas
+        gt: Gvatemala
+        gu: Guama
+        gw: Gvineja-Bisava
+        gy: Gajāna
+        hk: "Ķīnas īpašās pārvaldes apgabals Honkonga"
+        hk_alt_short: Honkonga
+        hm: Hērda un Makdonalda salas
+        hn: Hondurasa
+        hr: Horvātija
+        ht: Haiti
+        hu: Ungārija
+        ic: Kanāriju salas
+        id: Indonēzija
+        ie: "Īrija"
+        il: Izraēla
+        im: Mena
+        in: Indija
+        io: Indijas okeāna Britu teritorija
+        iq: Irāka
+        ir: Irāna
+        is: "Īslande"
+        it: Itālija
+        je: Džērsija
+        jm: Jamaika
+        jo: Jordānija
+        jp: Japāna
+        ke: Kenija
+        kg: Kirgizstāna
+        kh: Kambodža
+        ki: Kiribati
+        km: Komoru salas
+        kn: Sentkitsa un Nevisa
+        kp: Ziemeļkoreja
+        kr: Dienvidkoreja
+        kw: Kuveita
+        ky: Kaimanu salas
+        kz: Kazahstāna
+        la: Laosa
+        lb: Libāna
+        lc: Sentlūsija
+        li: Lihtenšteina
+        lk: "Šrilanka"
+        lr: Libērija
+        ls: Lesoto
+        lt: Lietuva
+        lu: Luksemburga
+        lv: Latvija
+        ly: Lībija
+        ma: Maroka
+        mc: Monako
+        md: Moldova
+        me: Melnkalne
+        mf: Senmartēna
+        mg: Madagaskara
+        mh: Māršala salas
+        mk: Maķedonija
+        mk_alt_variant: Maķedonija (BDRM)
+        ml: Mali
+        mm: Mjanma (Birma)
+        mn: Mongolija
+        mo: "Ķīnas īpašās pārvaldes apgabals Makao"
+        mo_alt_short: Makao
+        mp: Ziemeļu Marianas salas
+        mq: Martinika
+        mr: Mauritānija
+        ms: Montserrata
+        mt: Malta
+        mu: Maurīcija
+        mv: Maldīvija
+        mw: Malāvija
+        mx: Meksika
+        my: Malaizija
+        mz: Mozambika
+        na: Namībija
+        nc: Jaunkaledonija
+        ne: Nigēra
+        nf: Norfolkas sala
+        ng: Nigērija
+        ni: Nikaragva
+        nl: Nīderlande
+        'no': Norvēģija
+        np: Nepāla
+        nr: Nauru
+        nu: Niue
+        nz: Jaunzēlande
+        om: Omāna
+        pa: Panama
+        pe: Peru
+        pf: Franču Polinēzija
+        pg: Papua-Jaungvineja
+        ph: Filipīnas
+        pk: Pakistāna
+        pl: Polija
+        pm: Senpjēra un Mikelona
+        pn: Pitkērna
+        pr: Puertoriko
+        ps: Palestīna
+        ps_alt_short: Palestīna
+        pt: Portugāle
+        pw: Palau
+        py: Paragvaja
+        qa: Katara
+        qo: Okeānijas attālās salas
+        re: Reinjona
+        ro: Rumānija
+        rs: Serbija
+        ru: Krievija
+        rw: Ruanda
+        sa: Saūda Arābija
+        sb: Zālamana salas
+        sc: "Šeišelu salas"
+        sd: Sudāna
+        se: Zviedrija
+        sg: Singapūra
+        sh: Sv.Helēnas sala
+        si: Slovēnija
+        sj: Svalbāra un Jana Majena sala
+        sk: Slovākija
+        sl: Sjerraleone
+        sm: Sanmarīno
+        sn: Senegāla
+        so: Somālija
+        sr: Surinama
+        ss: Dienvidsudāna
+        st: Santome un Prinsipi
+        sv: Salvadora
+        sx: Sintmārtena
+        sy: Sīrija
+        sz: Svazilenda
+        ta: Tristana da Kuņas salas
+        tc: Tērksas un Kaikosas salas
+        td: "Čada"
+        tf: Francijas Dienvidjūru Zemes
+        tg: Togo
+        th: Taizeme
+        tj: Tadžikistāna
+        tk: Tokelau
+        tl: Austrumtimora
+        tl_alt_variant: TL
+        tm: Turkmenistāna
+        tn: Tunisija
+        to: Tonga
+        tr: Turcija
+        tt: Trinidāda un Tobāgo
+        tv: Tuvalu
+        tw: Taivāna
+        tz: Tanzānija
+        ua: Ukraina
+        ug: Uganda
+        um: ASV Aizjūras salas
+        us: Amerikas Savienotās Valstis
+        us_alt_short: ASV
+        uy: Urugvaja
+        uz: Uzbekistāna
+        va: Vatikāns
+        vc: Sentvinsenta un Grenadīnas
+        ve: Venecuēla
+        vg: Britu Virdžīnas
+        vi: ASV Virdžīnas
+        vn: Vjetnama
+        vu: Vanuatu
+        wf: Volisa un Futuna
+        ws: Samoa
+        xk: Kosova
+        ye: Jemena
+        yt: Majota
+        za: Dienvidāfrikas Republika
+        zm: Zambija
+        zw: Zimbabve
+        zz: nezināms reģions
+      transform_names:
+        bgn: BGN
+        numeric: Ciparu
+        tone: Intonācija
+        ungegn: UNGEGN
+        x_accents: Diakritiskās zīmes
+        x_fullwidth: Pilna platuma
+        x_halfwidth: Pusplatuma
+        x_jamo: Džamo
+        x_pinyin: Piņjiņ
+        x_publishing: Izdevējdarbība
+      variants:
+        '1901': tradicionālā vācu ortogrāfija
+        '1994': '1994'
+        '1996': vācu ortogrāfija no 1996. gada
+        1606_nict: 1606NICT
+        1694_acad: 1694ACAD
+        1959_acad: akadēmiskā
+        abl1943: ABL1943
+        alalc97: ALALC97
+        aluku: ALUKU
+        ao1990: AO1990
+        arevela: austrumarmēņu
+        arevmda: rietumarmēņu
+        baku1926: BAKU1926
+        balanka: BALANKA
+        barla: BARLA
+        bauddha: BAUDDHA
+        biscayan: BISCAYAN
+        biske: BISKE
+        bohoric: BOHORIC
+        boont: BOONT
+        colb1945: COLB1945
+        dajnko: DAJNKO
+        ekavsk: EKAVSK
+        emodeng: EMODENG
+        fonipa: Starptautiskais fonētiskais alfabēts
+        fonupa: UPA fonētika
+        fonxsamp: FONXSAMP
+        hepburn: HEPBURN
+        hognorsk: HOGNORSK
+        ijekavsk: IJEKAVSK
+        itihasa: ITIHASA
+        jauer: JAUER
+        jyutping: JYUTPING
+        kkcor: tradicionālā ortogrāfija
+        kociewie: KOCIEWIE
+        kscor: KSCOR
+        laukika: LAUKIKA
+        lipaw: LIPAW
+        luna1918: LUNA1918
+        metelko: METELKO
+        monoton: monotons
+        ndyuka: NDYUKA
+        nedis: Natisona dialekts
+        njiva: NJIVA
+        nulik: NULIK
+        osojs: OSOJS
+        oxendict: OXENDICT
+        pamaka: PAMAKA
+        petr1708: PETR1708
+        pinyin: piņjiņa romanizācija
+        polyton: politons
+        posix: datoru
+        puter: PUTER
+        revised: REVISED
+        rigik: RIGIK
+        rozaj: ROZAJ
+        rumgr: RUMGR
+        saaho: saho
+        scotland: Skotijas angļu
+        scouse: SCOUSE
+        solba: SOLBA
+        sotav: SOTAV
+        surmiran: SURMIRAN
+        sursilv: SURSILV
+        sutsilv: SUTSILV
+        tarask: Taraškeviča ortogrāfija
+        uccor: vienotā ortogrāfija
+        ucrcor: UCRCOR
+        ulster: ULSTER
+        unifon: UNIFON
+        vaidika: VAIDIKA
+        valencia: valensiešu
+        vallader: VALLADER
+        wadegile: Veida-Džailza romanizācija
+    units:
+      long:
+        per:
+          compound_unit_pattern: "{0}/{1}"
+        acceleration_g_force:
+          display_name: 'Brīvās krišanas paātrinājums:'
+          unit_pattern_count_zero: 'Brīvās krišanas paātrinājums: {0}'
+          unit_pattern_count_one: 'Brīvās krišanas paātrinājums: {0}'
+          unit_pattern_count_other: 'Brīvās krišanas paātrinājums: {0}'
+        acceleration_meter_per_second_squared:
+          display_name: metri sekundē kvadrātā
+          unit_pattern_count_zero: "{0} metri sekundē kvadrātā"
+          unit_pattern_count_one: "{0} metrs sekundē kvadrātā"
+          unit_pattern_count_other: "{0} metri sekundē kvadrātā"
+        angle_revolution:
+          display_name: apgrieziens
+          unit_pattern_count_zero: "{0} apgriezieni"
+          unit_pattern_count_one: "{0} apgrieziens"
+          unit_pattern_count_other: "{0} apgriezieni"
+        angle_radian:
+          display_name: radiāni
+          unit_pattern_count_zero: "{0} radiāni"
+          unit_pattern_count_one: "{0} radiāns"
+          unit_pattern_count_other: "{0} radiāni"
+        angle_degree:
+          display_name: grādi
+          unit_pattern_count_zero: "{0} grādi"
+          unit_pattern_count_one: "{0} grāds"
+          unit_pattern_count_other: "{0} grādi"
+        angle_arc_minute:
+          display_name: leņķa minūtes
+          unit_pattern_count_zero: "{0} leņķa minūtes"
+          unit_pattern_count_one: "{0} leņķa minūte"
+          unit_pattern_count_other: "{0} leņķa minūtes"
+        angle_arc_second:
+          display_name: leņķa sekundes
+          unit_pattern_count_zero: "{0} leņķa sekundes"
+          unit_pattern_count_one: "{0} leņķa sekunde"
+          unit_pattern_count_other: "{0} leņķa sekundes"
+        area_square_kilometer:
+          display_name: kvadrātkilometri
+          unit_pattern_count_zero: "{0} kvadrātkilometri"
+          unit_pattern_count_one: "{0} kvadrātkilometrs"
+          unit_pattern_count_other: "{0} kvadrātkilometri"
+        area_hectare:
+          display_name: hektāri
+          unit_pattern_count_zero: "{0} hektāri"
+          unit_pattern_count_one: "{0} hektārs"
+          unit_pattern_count_other: "{0} hektāri"
+        area_square_meter:
+          display_name: kvadrātmetri
+          unit_pattern_count_zero: "{0} kvadrātmetri"
+          unit_pattern_count_one: "{0} kvadrātmetrs"
+          unit_pattern_count_other: "{0} kvadrātmetri"
+          per_unit_pattern: uz kvadrātmetru
+        area_square_centimeter:
+          display_name: kvadrātcentimetri
+          unit_pattern_count_zero: "{0} kvadrātcentimetri"
+          unit_pattern_count_one: "{0} kvadrātcentimetrs"
+          unit_pattern_count_other: "{0} kvadrātcentimetri"
+          per_unit_pattern: uz kvadrātcentimetru
+        area_square_mile:
+          display_name: kvadrātjūdzes
+          unit_pattern_count_zero: "{0} kvadrātjūdzes"
+          unit_pattern_count_one: "{0} kvadrātjūdze"
+          unit_pattern_count_other: "{0} kvadrātjūdzes"
+        area_acre:
+          display_name: akri
+          unit_pattern_count_zero: "{0} akri"
+          unit_pattern_count_one: "{0} akrs"
+          unit_pattern_count_other: "{0} akri"
+        area_square_yard:
+          display_name: kvadrātjardi
+          unit_pattern_count_zero: "{0} kvadrātjardi"
+          unit_pattern_count_one: "{0} kvadrātjards"
+          unit_pattern_count_other: "{0} kvadrātjardi"
+        area_square_foot:
+          display_name: kvadrātpēdas
+          unit_pattern_count_zero: "{0} kvadrātpēdas"
+          unit_pattern_count_one: "{0} kvadrātpēda"
+          unit_pattern_count_other: "{0} kvadrātpēdas"
+        area_square_inch:
+          display_name: kvadrātcollas
+          unit_pattern_count_zero: "{0} kvadrātcollas"
+          unit_pattern_count_one: "{0} kvadrātcolla"
+          unit_pattern_count_other: "{0} kvadrātcollas"
+          per_unit_pattern: "{0} uz kvadrātcollu"
+        consumption_liter_per_kilometer:
+          display_name: litri uz kilometru
+          unit_pattern_count_zero: "{0} litri uz kilometru"
+          unit_pattern_count_one: "{0} litrs uz kilometru"
+          unit_pattern_count_other: "{0} litri uz kilometru"
+        consumption_liter_per_100kilometers:
+          display_name: litri uz 100 kilometriem
+          unit_pattern_count_zero: "{0} litri uz 100 kilometriem"
+          unit_pattern_count_one: "{0} litrs uz 100 kilometriem"
+          unit_pattern_count_other: "{0} litri uz 100 kilometriem"
+        consumption_mile_per_gallon:
+          display_name: jūdzes ar galonu
+          unit_pattern_count_zero: "{0} jūdzes ar galonu"
+          unit_pattern_count_one: "{0} jūdze ar galonu"
+          unit_pattern_count_other: "{0} jūdzes ar galonu"
+        digital_terabyte:
+          display_name: terabaiti
+          unit_pattern_count_zero: "{0} terabaiti"
+          unit_pattern_count_one: "{0} terabaits"
+          unit_pattern_count_other: "{0} terabaiti"
+        digital_terabit:
+          display_name: terabiti
+          unit_pattern_count_zero: "{0} terabiti"
+          unit_pattern_count_one: "{0} terabits"
+          unit_pattern_count_other: "{0} terabiti"
+        digital_gigabyte:
+          display_name: gigabaiti
+          unit_pattern_count_zero: "{0} gigabaiti"
+          unit_pattern_count_one: "{0} gigabaits"
+          unit_pattern_count_other: "{0} gigabaiti"
+        digital_gigabit:
+          display_name: gigabiti
+          unit_pattern_count_zero: "{0} gigabiti"
+          unit_pattern_count_one: "{0} gigabits"
+          unit_pattern_count_other: "{0} gigabiti"
+        digital_megabyte:
+          display_name: megabaiti
+          unit_pattern_count_zero: "{0} megabaiti"
+          unit_pattern_count_one: "{0} megabaits"
+          unit_pattern_count_other: "{0} megabaits"
+        digital_megabit:
+          display_name: megabiti
+          unit_pattern_count_zero: "{0} megabiti"
+          unit_pattern_count_one: "{0} megabits"
+          unit_pattern_count_other: "{0} megabiti"
+        digital_kilobyte:
+          display_name: kilobaiti
+          unit_pattern_count_zero: "{0} kilobaiti"
+          unit_pattern_count_one: "{0} kilobaits"
+          unit_pattern_count_other: "{0} kilobaiti"
+        digital_kilobit:
+          display_name: kilobiti
+          unit_pattern_count_zero: "{0} kilobiti"
+          unit_pattern_count_one: "{0} kilobits"
+          unit_pattern_count_other: "{0} kilobiti"
+        digital_byte:
+          display_name: baiti
+          unit_pattern_count_zero: "{0} baiti"
+          unit_pattern_count_one: "{0} baits"
+          unit_pattern_count_other: "{0} baiti"
+        digital_bit:
+          display_name: biti
+          unit_pattern_count_zero: "{0} biti"
+          unit_pattern_count_one: "{0} bits"
+          unit_pattern_count_other: "{0} biti"
+        duration_century:
+          display_name: gadsimti
+          unit_pattern_count_zero: "{0} gadsimti"
+          unit_pattern_count_one: "{0} gadsimts"
+          unit_pattern_count_other: "{0} gadsimti"
+        duration_year:
+          display_name: gadi
+          unit_pattern_count_zero: "{0} gadi"
+          unit_pattern_count_one: "{0} gads"
+          unit_pattern_count_other: "{0} gadi"
+          per_unit_pattern: "{0}/g."
+        duration_month:
+          display_name: mēneši
+          unit_pattern_count_zero: "{0} mēneši"
+          unit_pattern_count_one: "{0} mēnesis"
+          unit_pattern_count_other: "{0} mēneši"
+          per_unit_pattern: "{0} mēnesī"
+        duration_week:
+          display_name: nedēļas
+          unit_pattern_count_zero: "{0} nedēļas"
+          unit_pattern_count_one: "{0} nedēļa"
+          unit_pattern_count_other: "{0} nedēļas"
+          per_unit_pattern: "{0} nedēļā"
+        duration_day:
+          display_name: dienas
+          unit_pattern_count_zero: "{0} dienas"
+          unit_pattern_count_one: "{0} diena"
+          unit_pattern_count_other: "{0} dienas"
+          per_unit_pattern: "{0} dienā"
+        duration_hour:
+          display_name: stundas
+          unit_pattern_count_zero: "{0} stundas"
+          unit_pattern_count_one: "{0} stunda"
+          unit_pattern_count_other: "{0} stundas"
+          per_unit_pattern: "{0} stundā"
+        duration_minute:
+          display_name: minūtes
+          unit_pattern_count_zero: "{0} minūtes"
+          unit_pattern_count_one: "{0} minūte"
+          unit_pattern_count_other: "{0} minūtes"
+          per_unit_pattern: "{0}/minūtē"
+        duration_second:
+          display_name: sekundes
+          unit_pattern_count_zero: "{0} sekundes"
+          unit_pattern_count_one: "{0} sekunde"
+          unit_pattern_count_other: "{0} sekundes"
+          per_unit_pattern: "{0} sekundē"
+        duration_millisecond:
+          display_name: milisekundes
+          unit_pattern_count_zero: "{0} milisekundes"
+          unit_pattern_count_one: "{0} milisekunde"
+          unit_pattern_count_other: "{0} milisekundes"
+        duration_microsecond:
+          display_name: mikrosekundes
+          unit_pattern_count_zero: "{0} mikrosekundes"
+          unit_pattern_count_one: "{0} mikrosekunde"
+          unit_pattern_count_other: "{0} mikrosekundes"
+        duration_nanosecond:
+          display_name: nanosekundes
+          unit_pattern_count_zero: "{0} nanosekundes"
+          unit_pattern_count_one: "{0} nanosekunde"
+          unit_pattern_count_other: "{0} nanosekundes"
+        electric_ampere:
+          display_name: ampēri
+          unit_pattern_count_zero: "{0} ampēri"
+          unit_pattern_count_one: "{0} ampērs"
+          unit_pattern_count_other: "{0} ampēri"
+        electric_milliampere:
+          display_name: miliampēri
+          unit_pattern_count_zero: "{0} miliampēri"
+          unit_pattern_count_one: "{0} miliampērs"
+          unit_pattern_count_other: "{0} miliampēri"
+        electric_ohm:
+          display_name: omi
+          unit_pattern_count_zero: "{0} omi"
+          unit_pattern_count_one: "{0} oms"
+          unit_pattern_count_other: "{0} omi"
+        electric_volt:
+          display_name: volti
+          unit_pattern_count_zero: "{0} volti"
+          unit_pattern_count_one: "{0} volts"
+          unit_pattern_count_other: "{0} volti"
+        energy_kilocalorie:
+          display_name: kilokalorijas
+          unit_pattern_count_zero: "{0} kilokalorijas"
+          unit_pattern_count_one: "{0} kilokalorija"
+          unit_pattern_count_other: "{0} kilokalorijas"
+        energy_calorie:
+          display_name: kalorijas
+          unit_pattern_count_zero: "{0} kalorijas"
+          unit_pattern_count_one: "{0} kalorija"
+          unit_pattern_count_other: "{0} kalorijas"
+        energy_foodcalorie:
+          display_name: kalorijas
+          unit_pattern_count_zero: "{0} kalorijas"
+          unit_pattern_count_one: "{0} kalorija"
+          unit_pattern_count_other: "{0} kalorijas"
+        energy_kilojoule:
+          display_name: kilodžouli
+          unit_pattern_count_zero: "{0} kilodžouli"
+          unit_pattern_count_one: "{0} kilodžouls"
+          unit_pattern_count_other: "{0} kilodžouli"
+        energy_joule:
+          display_name: džouli
+          unit_pattern_count_zero: "{0} džouli"
+          unit_pattern_count_one: "{0} džouls"
+          unit_pattern_count_other: "{0} džouli"
+        energy_kilowatt_hour:
+          display_name: kilovatstundas
+          unit_pattern_count_zero: "{0} kilovatstundas"
+          unit_pattern_count_one: "{0} kilovatstunda"
+          unit_pattern_count_other: "{0} kilovatstundas"
+        frequency_gigahertz:
+          display_name: gigaherci
+          unit_pattern_count_zero: "{0} gigaherci"
+          unit_pattern_count_one: "{0} gigahercs"
+          unit_pattern_count_other: "{0} gigaherci"
+        frequency_megahertz:
+          display_name: megaherci
+          unit_pattern_count_zero: "{0} megaherci"
+          unit_pattern_count_one: "{0} megahercs"
+          unit_pattern_count_other: "{0} megaherci"
+        frequency_kilohertz:
+          display_name: kiloherci
+          unit_pattern_count_zero: "{0} kiloherci"
+          unit_pattern_count_one: "{0} kilohercs"
+          unit_pattern_count_other: "{0} kiloherci"
+        frequency_hertz:
+          display_name: herci
+          unit_pattern_count_zero: "{0} herci"
+          unit_pattern_count_one: "{0} hercs"
+          unit_pattern_count_other: "{0} herci"
+        length_kilometer:
+          display_name: kilometri
+          unit_pattern_count_zero: "{0} kilometri"
+          unit_pattern_count_one: "{0} kilometrs"
+          unit_pattern_count_other: "{0} kilometri"
+          per_unit_pattern: "{0} kilometrā"
+        length_meter:
+          display_name: metri
+          unit_pattern_count_zero: "{0} metri"
+          unit_pattern_count_one: "{0} metrs"
+          unit_pattern_count_other: "{0} metri"
+          per_unit_pattern: "{0} metrā"
+        length_decimeter:
+          display_name: decimetri
+          unit_pattern_count_zero: "{0} decimetri"
+          unit_pattern_count_one: "{0} decimetrs"
+          unit_pattern_count_other: "{0} decimetri"
+        length_centimeter:
+          display_name: centimetri
+          unit_pattern_count_zero: "{0} centimetri"
+          unit_pattern_count_one: "{0} centimetrs"
+          unit_pattern_count_other: "{0} centimetri"
+          per_unit_pattern: "{0} centimetrā"
+        length_millimeter:
+          display_name: milimetri
+          unit_pattern_count_zero: "{0} milimetri"
+          unit_pattern_count_one: "{0} milimetrs"
+          unit_pattern_count_other: "{0} milimetri"
+        length_micrometer:
+          display_name: mikrometri
+          unit_pattern_count_zero: "{0} mikrometri"
+          unit_pattern_count_one: "{0} mikrometrs"
+          unit_pattern_count_other: "{0} mikrometri"
+        length_nanometer:
+          display_name: nanometri
+          unit_pattern_count_zero: "{0} nanometri"
+          unit_pattern_count_one: "{0} nanometrs"
+          unit_pattern_count_other: "{0} nanometri"
+        length_picometer:
+          display_name: pikometri
+          unit_pattern_count_zero: "{0} pikometri"
+          unit_pattern_count_one: "{0} pikometrs"
+          unit_pattern_count_other: "{0} pikometri"
+        length_mile:
+          display_name: jūdzes
+          unit_pattern_count_zero: "{0} jūdzes"
+          unit_pattern_count_one: "{0} jūdze"
+          unit_pattern_count_other: "{0} jūdzes"
+        length_yard:
+          display_name: jardi
+          unit_pattern_count_zero: "{0} jardi"
+          unit_pattern_count_one: "{0} jards"
+          unit_pattern_count_other: "{0} jardi"
+        length_foot:
+          display_name: pēdas
+          unit_pattern_count_zero: "{0} pēdas"
+          unit_pattern_count_one: "{0} pēda"
+          unit_pattern_count_other: "{0} pēdas"
+          per_unit_pattern: "{0} pēdā"
+        length_inch:
+          display_name: collas
+          unit_pattern_count_zero: "{0} collas"
+          unit_pattern_count_one: "{0} colla"
+          unit_pattern_count_other: "{0} collas"
+          per_unit_pattern: "{0} collā"
+        length_parsec:
+          display_name: parseki
+          unit_pattern_count_zero: "{0} parseki"
+          unit_pattern_count_one: "{0} parseks"
+          unit_pattern_count_other: "{0} parseki"
+        length_light_year:
+          display_name: gaismas gadi
+          unit_pattern_count_zero: "{0} gaismas gadi"
+          unit_pattern_count_one: "{0} gaismas gads"
+          unit_pattern_count_other: "{0} gaismas gadi"
+        length_astronomical_unit:
+          display_name: astronomiskās vienības
+          unit_pattern_count_zero: "{0} astronomiskās vienības"
+          unit_pattern_count_one: "{0} astronomiskā vienība"
+          unit_pattern_count_other: "{0} astronomiskās vienības"
+        length_furlong:
+          display_name: fur
+          unit_pattern_count_other: "{0} fur"
+        length_fathom:
+          display_name: fm
+          unit_pattern_count_other: "{0} fm"
+        length_nautical_mile:
+          display_name: jūras jūdzes
+          unit_pattern_count_zero: "{0} jūras jūdzes"
+          unit_pattern_count_one: "{0} jūras jūdze"
+          unit_pattern_count_other: "{0} jūras jūdzes"
+        length_mile_scandinavian:
+          display_name: skandināvu jūdze
+          unit_pattern_count_zero: "{0} skandināvu jūdzes"
+          unit_pattern_count_one: "{0} skandināvu jūdze"
+          unit_pattern_count_other: "{0} skandināvu jūdzes"
+        light_lux:
+          display_name: lukss
+          unit_pattern_count_zero: "{0} luksi"
+          unit_pattern_count_one: "{0} lukss"
+          unit_pattern_count_other: "{0} luksi"
+        mass_metric_ton:
+          display_name: metriskās tonnas
+          unit_pattern_count_zero: "{0} metriskās tonnas"
+          unit_pattern_count_one: "{0} metriskā tonna"
+          unit_pattern_count_other: "{0} metriskās tonnas"
+        mass_kilogram:
+          display_name: kilogrami
+          unit_pattern_count_zero: "{0} kilogrami"
+          unit_pattern_count_one: "{0} kilograms"
+          unit_pattern_count_other: "{0} kilogrami"
+          per_unit_pattern: "{0}/kg"
+        mass_gram:
+          display_name: grami
+          unit_pattern_count_zero: "{0} grami"
+          unit_pattern_count_one: "{0} grams"
+          unit_pattern_count_other: "{0} grami"
+          per_unit_pattern: "{0}/g"
+        mass_milligram:
+          display_name: miligrami
+          unit_pattern_count_zero: "{0} miligrami"
+          unit_pattern_count_one: "{0} miligrams"
+          unit_pattern_count_other: "{0} miligrami"
+        mass_microgram:
+          display_name: mikrogrami
+          unit_pattern_count_zero: "{0} mikrogrami"
+          unit_pattern_count_one: "{0} mikrograms"
+          unit_pattern_count_other: "{0} mikrogrami"
+        mass_ton:
+          display_name: tonnas
+          unit_pattern_count_zero: "{0} tonnas"
+          unit_pattern_count_one: "{0} tonna"
+          unit_pattern_count_other: "{0} tonnas"
+        mass_stone:
+          display_name: st
+          unit_pattern_count_other: "{0} st"
+        mass_pound:
+          display_name: mārciņas
+          unit_pattern_count_zero: "{0} mārciņas"
+          unit_pattern_count_one: "{0} mārciņa"
+          unit_pattern_count_other: "{0} mārciņas"
+          per_unit_pattern: "{0}/mārc."
+        mass_ounce:
+          display_name: unces
+          unit_pattern_count_zero: "{0} unces"
+          unit_pattern_count_one: "{0} unce"
+          unit_pattern_count_other: "{0} unces"
+          per_unit_pattern: "{0}/unce"
+        mass_ounce_troy:
+          display_name: Trojas unces
+          unit_pattern_count_zero: "{0} Trojas unces"
+          unit_pattern_count_one: "{0} Trojas unce"
+          unit_pattern_count_other: "{0} Trojas unces"
+        mass_carat:
+          display_name: karāti
+          unit_pattern_count_zero: "{0} karāti"
+          unit_pattern_count_one: "{0} karāts"
+          unit_pattern_count_other: "{0} karāti"
+        power_gigawatt:
+          display_name: gigavati
+          unit_pattern_count_zero: "{0} gigavati"
+          unit_pattern_count_one: "{0} gigavats"
+          unit_pattern_count_other: "{0} gigavati"
+        power_megawatt:
+          display_name: megavati
+          unit_pattern_count_zero: "{0} megavati"
+          unit_pattern_count_one: "{0} megavats"
+          unit_pattern_count_other: "{0} megavati"
+        power_kilowatt:
+          display_name: kilovati
+          unit_pattern_count_zero: "{0} kilovati"
+          unit_pattern_count_one: "{0} kilovats"
+          unit_pattern_count_other: "{0} kilovati"
+        power_watt:
+          display_name: vati
+          unit_pattern_count_zero: "{0} vati"
+          unit_pattern_count_one: "{0} vats"
+          unit_pattern_count_other: "{0} vati"
+        power_milliwatt:
+          display_name: milivati
+          unit_pattern_count_zero: "{0} milivati"
+          unit_pattern_count_one: "{0} milivats"
+          unit_pattern_count_other: "{0} milivati"
+        power_horsepower:
+          display_name: zirgspēki
+          unit_pattern_count_zero: "{0} zirgspēki"
+          unit_pattern_count_one: "{0} zirgspēks"
+          unit_pattern_count_other: "{0} zirgspēki"
+        pressure_hectopascal:
+          display_name: hektopaskāli
+          unit_pattern_count_zero: "{0} hektopaskāli"
+          unit_pattern_count_one: "{0} hektopaskāls"
+          unit_pattern_count_other: "{0} hektopaskāli"
+        pressure_millimeter_of_mercury:
+          display_name: dzīvsudraba staba milimetri
+          unit_pattern_count_zero: "{0} dzīvsudraba staba milimetri"
+          unit_pattern_count_one: "{0} dzīvsudraba staba milimetrs"
+          unit_pattern_count_other: "{0} dzīvsudraba staba milimetri"
+        pressure_pound_per_square_inch:
+          display_name: mārciņas uz kvadrātcollu
+          unit_pattern_count_zero: "{0} mārciņas uz kvadrātcollu"
+          unit_pattern_count_one: "{0} mārciņa uz kvadrātcollu"
+          unit_pattern_count_other: "{0} mārciņas uz kvadrātcollu"
+        pressure_inch_hg:
+          display_name: dzīvsudraba staba collas
+          unit_pattern_count_zero: "{0} dzīvsudraba staba collas"
+          unit_pattern_count_one: "{0} dzīvsudraba staba colla"
+          unit_pattern_count_other: "{0} dzīvsudraba staba collas"
+        pressure_millibar:
+          display_name: milibāri
+          unit_pattern_count_zero: "{0} milibāri"
+          unit_pattern_count_one: "{0} milibārs"
+          unit_pattern_count_other: "{0} milibāri"
+        proportion_karat:
+          display_name: karāti
+          unit_pattern_count_zero: "{0} karāti"
+          unit_pattern_count_one: "{0} karāts"
+          unit_pattern_count_other: "{0} karāti"
+        speed_kilometer_per_hour:
+          display_name: kilometri stundā
+          unit_pattern_count_zero: "{0} kilometri stundā"
+          unit_pattern_count_one: "{0} kilometrs stundā"
+          unit_pattern_count_other: "{0} kilometri stundā"
+        speed_meter_per_second:
+          display_name: metri sekundē
+          unit_pattern_count_zero: "{0} metri sekundē"
+          unit_pattern_count_one: "{0} metrs sekundē"
+          unit_pattern_count_other: "{0} metri sekundē"
+        speed_mile_per_hour:
+          display_name: jūdzes stundā
+          unit_pattern_count_zero: "{0} jūdzes stundā"
+          unit_pattern_count_one: "{0} jūdze stundā"
+          unit_pattern_count_other: "{0} jūdzes stundā"
+        speed_knot:
+          display_name: mezgls
+          unit_pattern_count_zero: "{0} mezgli"
+          unit_pattern_count_one: "{0} mezgls"
+          unit_pattern_count_other: "{0} mezgli"
+        temperature_generic:
+          display_name: "°"
+          unit_pattern_count_zero: "{0}°"
+          unit_pattern_count_one: "{0}°"
+          unit_pattern_count_other: "{0}°"
+        temperature_celsius:
+          display_name: Celsija grādi
+          unit_pattern_count_zero: "{0} Celsija grādi"
+          unit_pattern_count_one: "{0} Celsija grāds"
+          unit_pattern_count_other: "{0} Celsija grādi"
+        temperature_fahrenheit:
+          display_name: Fārenheita grādi
+          unit_pattern_count_zero: "{0} Fārenheita grādi"
+          unit_pattern_count_one: "{0} Fārenheita grāds"
+          unit_pattern_count_other: "{0} Fārenheita grādi"
+        temperature_kelvin:
+          display_name: kelvini
+          unit_pattern_count_zero: "{0} kelvini"
+          unit_pattern_count_one: "{0} kelvins"
+          unit_pattern_count_other: "{0} kelvini"
+        volume_cubic_kilometer:
+          display_name: kubikkilometri
+          unit_pattern_count_zero: "{0} kubikkilometri"
+          unit_pattern_count_one: "{0} kubikkilometrs"
+          unit_pattern_count_other: "{0} kubikkilometri"
+        volume_cubic_meter:
+          display_name: kubikmetri
+          unit_pattern_count_zero: "{0} kubikmetri"
+          unit_pattern_count_one: "{0} kubikmetrs"
+          unit_pattern_count_other: "{0} kubikmetri"
+          per_unit_pattern: uz kubikmetru
+        volume_cubic_centimeter:
+          display_name: kubikcentimetri
+          unit_pattern_count_zero: "{0} kubikcentimetri"
+          unit_pattern_count_one: "{0} kubikcentimetrs"
+          unit_pattern_count_other: "{0} kubikcentimetri"
+          per_unit_pattern: uz kubikcentimetru
+        volume_cubic_mile:
+          display_name: kubikjūdzes
+          unit_pattern_count_zero: "{0} kubikjūdzes"
+          unit_pattern_count_one: "{0} kubikjūdze"
+          unit_pattern_count_other: "{0} kubikjūdzes"
+        volume_cubic_yard:
+          display_name: kubikjardi
+          unit_pattern_count_zero: "{0} kubikjardi"
+          unit_pattern_count_one: "{0} kubikjards"
+          unit_pattern_count_other: "{0} kubikjardi"
+        volume_cubic_foot:
+          display_name: kubikpēdas
+          unit_pattern_count_zero: "{0} kubikpēdas"
+          unit_pattern_count_one: "{0} kubikpēda"
+          unit_pattern_count_other: "{0} kubikpēdas"
+        volume_cubic_inch:
+          display_name: kubikcollas
+          unit_pattern_count_zero: "{0} kubikcollas"
+          unit_pattern_count_one: "{0} kubikcolla"
+          unit_pattern_count_other: "{0} kubikcollas"
+        volume_megaliter:
+          display_name: megalitri
+          unit_pattern_count_zero: "{0} megalitri"
+          unit_pattern_count_one: "{0} megalitrs"
+          unit_pattern_count_other: "{0} megalitri"
+        volume_hectoliter:
+          display_name: hektolitri
+          unit_pattern_count_zero: "{0} hektolitri"
+          unit_pattern_count_one: "{0} hektolitrs"
+          unit_pattern_count_other: "{0} hektolitri"
+        volume_liter:
+          display_name: litri
+          unit_pattern_count_zero: "{0} litri"
+          unit_pattern_count_one: "{0} litrs"
+          unit_pattern_count_other: "{0} litri"
+          per_unit_pattern: uz litru
+        volume_deciliter:
+          display_name: decilitri
+          unit_pattern_count_zero: "{0} decilitri"
+          unit_pattern_count_one: "{0} decilitrs"
+          unit_pattern_count_other: "{0} decilitri"
+        volume_centiliter:
+          display_name: centilitri
+          unit_pattern_count_zero: "{0} centilitri"
+          unit_pattern_count_one: "{0} centilitrs"
+          unit_pattern_count_other: "{0} centilitri"
+        volume_milliliter:
+          display_name: mililitri
+          unit_pattern_count_zero: "{0} mililitri"
+          unit_pattern_count_one: "{0} mililitrs"
+          unit_pattern_count_other: "{0} mililitri"
+        volume_pint_metric:
+          display_name: metriskās pintes
+          unit_pattern_count_zero: "{0} metriskās pintes"
+          unit_pattern_count_one: "{0} metriskā pinte"
+          unit_pattern_count_other: "{0} metriskās pintes"
+        volume_cup_metric:
+          display_name: metr.gl.
+          unit_pattern_count_zero: "{0} metr.gl."
+          unit_pattern_count_one: "{0} metr.gl."
+          unit_pattern_count_other: "{0} metr.gl."
+        volume_acre_foot:
+          display_name: akrpēdas
+          unit_pattern_count_zero: "{0} akrpēdas"
+          unit_pattern_count_one: "{0} akrpēda"
+          unit_pattern_count_other: "{0} akrpēdas"
+        volume_bushel:
+          display_name: bu
+          unit_pattern_count_other: "{0} bu"
+        volume_gallon:
+          display_name: galoni
+          unit_pattern_count_zero: "{0} galoni"
+          unit_pattern_count_one: "{0} galons"
+          unit_pattern_count_other: "{0} galoni"
+          per_unit_pattern: "{0}/gal."
+        volume_quart:
+          display_name: kvartas
+          unit_pattern_count_zero: "{0} kvartas"
+          unit_pattern_count_one: "{0} kvarta"
+          unit_pattern_count_other: "{0} kvartas"
+        volume_pint:
+          display_name: pintes
+          unit_pattern_count_zero: "{0} pintes"
+          unit_pattern_count_one: "{0} pinte"
+          unit_pattern_count_other: "{0} pintes"
+        volume_cup:
+          display_name: glāzes
+          unit_pattern_count_zero: "{0} glāzes"
+          unit_pattern_count_one: "{0} glāze"
+          unit_pattern_count_other: "{0} glāzes"
+        volume_fluid_ounce:
+          display_name: "šķidruma unces"
+          unit_pattern_count_zero: "{0} šķidruma unces"
+          unit_pattern_count_one: "{0} šķidruma unce"
+          unit_pattern_count_other: "{0} šķidruma unces"
+        volume_tablespoon:
+          display_name: "ēdamkarotes"
+          unit_pattern_count_zero: "{0} ēdamkarotes"
+          unit_pattern_count_one: "{0} ēdamkarote"
+          unit_pattern_count_other: "{0} ēdamkarotes"
+        volume_teaspoon:
+          display_name: tējkarotes
+          unit_pattern_count_zero: "{0} tējkarotes"
+          unit_pattern_count_one: "{0} tējkarote"
+          unit_pattern_count_other: "{0} tējkarotes"
+        coordinate_unit:
+          east: "{0}A"
+          north: "{0}Z"
+          south: "{0}D"
+          west: "{0}R"
+      short:
+        per:
+          compound_unit_pattern: "{0}/{1}"
+        acceleration_g_force:
+          display_name: 'Brīvās krišanas paātrinājums:'
+          unit_pattern_count_zero: "{0} G"
+          unit_pattern_count_one: "{0} G"
+          unit_pattern_count_other: "{0} G"
+        acceleration_meter_per_second_squared:
+          display_name: m/s²
+          unit_pattern_count_zero: "{0} m/s²"
+          unit_pattern_count_one: "{0} m/s²"
+          unit_pattern_count_other: "{0} m/s²"
+        angle_revolution:
+          display_name: apgr.
+          unit_pattern_count_zero: "{0} apgr."
+          unit_pattern_count_one: "{0} apgr."
+          unit_pattern_count_other: "{0} apgr."
+        angle_radian:
+          display_name: rad
+          unit_pattern_count_zero: "{0} rad"
+          unit_pattern_count_one: "{0} rad"
+          unit_pattern_count_other: "{0} rad"
+        angle_degree:
+          display_name: "°"
+          unit_pattern_count_zero: "{0}°"
+          unit_pattern_count_one: "{0}°"
+          unit_pattern_count_other: "{0}°"
+        angle_arc_minute:
+          display_name: "′"
+          unit_pattern_count_zero: "{0}′"
+          unit_pattern_count_one: "{0}′"
+          unit_pattern_count_other: "{0}′"
+        angle_arc_second:
+          display_name: "″"
+          unit_pattern_count_zero: "{0}″"
+          unit_pattern_count_one: "{0}″"
+          unit_pattern_count_other: "{0}″"
+        area_square_kilometer:
+          display_name: km²
+          unit_pattern_count_zero: "{0} km²"
+          unit_pattern_count_one: "{0} km²"
+          unit_pattern_count_other: "{0} km²"
+        area_hectare:
+          display_name: ha
+          unit_pattern_count_zero: "{0} ha"
+          unit_pattern_count_one: "{0} ha"
+          unit_pattern_count_other: "{0} ha"
+        area_square_meter:
+          display_name: m²
+          unit_pattern_count_zero: "{0} m²"
+          unit_pattern_count_one: "{0} m²"
+          unit_pattern_count_other: "{0} m²"
+          per_unit_pattern: "{0} uz m²"
+        area_square_centimeter:
+          display_name: cm²
+          unit_pattern_count_zero: "{0} cm²"
+          unit_pattern_count_one: "{0} cm²"
+          unit_pattern_count_other: "{0} cm²"
+          per_unit_pattern: "{0} uz cm²"
+        area_square_mile:
+          display_name: mi²
+          unit_pattern_count_zero: "{0} mi²"
+          unit_pattern_count_one: "{0} mi²"
+          unit_pattern_count_other: "{0} mi²"
+        area_acre:
+          display_name: ac
+          unit_pattern_count_zero: "{0} ac"
+          unit_pattern_count_one: "{0} ac"
+          unit_pattern_count_other: "{0} ac"
+        area_square_yard:
+          display_name: yd²
+          unit_pattern_count_zero: "{0} yd²"
+          unit_pattern_count_one: "{0} yd²"
+          unit_pattern_count_other: "{0} yd²"
+        area_square_foot:
+          display_name: ft²
+          unit_pattern_count_zero: "{0} ft²"
+          unit_pattern_count_one: "{0} ft²"
+          unit_pattern_count_other: "{0} ft²"
+        area_square_inch:
+          display_name: in²
+          unit_pattern_count_zero: "{0} in²"
+          unit_pattern_count_one: "{0} in²"
+          unit_pattern_count_other: "{0} in²"
+          per_unit_pattern: "{0} uz collu²"
+        consumption_liter_per_kilometer:
+          display_name: l/km
+          unit_pattern_count_zero: "{0} l/km"
+          unit_pattern_count_one: "{0} l/km"
+          unit_pattern_count_other: "{0} l/km"
+        consumption_liter_per_100kilometers:
+          display_name: l/100 km
+          unit_pattern_count_zero: "{0} l/100 km"
+          unit_pattern_count_one: "{0} l/100 km"
+          unit_pattern_count_other: "{0} l/100 km"
+        consumption_mile_per_gallon:
+          display_name: mpg
+          unit_pattern_count_zero: "{0} mpg"
+          unit_pattern_count_one: "{0} mpg"
+          unit_pattern_count_other: "{0} mpg"
+        digital_terabyte:
+          display_name: TB
+          unit_pattern_count_zero: "{0} TB"
+          unit_pattern_count_one: "{0} TB"
+          unit_pattern_count_other: "{0} TB"
+        digital_terabit:
+          display_name: Tb
+          unit_pattern_count_zero: "{0} Tb"
+          unit_pattern_count_one: "{0} Tb"
+          unit_pattern_count_other: "{0} Tb"
+        digital_gigabyte:
+          display_name: GB
+          unit_pattern_count_zero: "{0} GB"
+          unit_pattern_count_one: "{0} GB"
+          unit_pattern_count_other: "{0} GB"
+        digital_gigabit:
+          display_name: Gb
+          unit_pattern_count_zero: "{0} Gb"
+          unit_pattern_count_one: "{0} Gb"
+          unit_pattern_count_other: "{0} Gb"
+        digital_megabyte:
+          display_name: MB
+          unit_pattern_count_zero: "{0} MB"
+          unit_pattern_count_one: "{0} MB"
+          unit_pattern_count_other: "{0} MB"
+        digital_megabit:
+          display_name: Mb
+          unit_pattern_count_zero: "{0} Mb"
+          unit_pattern_count_one: "{0} Mb"
+          unit_pattern_count_other: "{0} Mb"
+        digital_kilobyte:
+          display_name: KB
+          unit_pattern_count_zero: "{0} KB"
+          unit_pattern_count_one: "{0} KB"
+          unit_pattern_count_other: "{0} KB"
+        digital_kilobit:
+          display_name: Kb
+          unit_pattern_count_zero: "{0} Kb"
+          unit_pattern_count_one: "{0} Kb"
+          unit_pattern_count_other: "{0} Kb"
+        digital_byte:
+          display_name: B
+          unit_pattern_count_zero: "{0} B"
+          unit_pattern_count_one: "{0} B"
+          unit_pattern_count_other: "{0} B"
+        digital_bit:
+          display_name: b
+          unit_pattern_count_zero: "{0} b"
+          unit_pattern_count_one: "{0} b"
+          unit_pattern_count_other: "{0} b"
+        duration_century:
+          display_name: gs.
+          unit_pattern_count_zero: "{0} gs."
+          unit_pattern_count_one: "{0} gs."
+          unit_pattern_count_other: "{0} gs."
+        duration_year:
+          display_name: g.
+          unit_pattern_count_zero: "{0} g."
+          unit_pattern_count_one: "{0} g."
+          unit_pattern_count_other: "{0} g."
+          per_unit_pattern: "{0}/g."
+        duration_month:
+          display_name: mēneši
+          unit_pattern_count_zero: "{0} mēn."
+          unit_pattern_count_one: "{0} mēn."
+          unit_pattern_count_other: "{0} mēn."
+          per_unit_pattern: "{0}/mēn."
+        duration_week:
+          display_name: ned.
+          unit_pattern_count_zero: "{0} ned."
+          unit_pattern_count_one: "{0} ned."
+          unit_pattern_count_other: "{0} ned."
+          per_unit_pattern: "{0}/ned."
+        duration_day:
+          display_name: d.
+          unit_pattern_count_zero: "{0} d."
+          unit_pattern_count_one: "{0} d."
+          unit_pattern_count_other: "{0} d."
+          per_unit_pattern: "{0}/d."
+        duration_hour:
+          display_name: st.
+          unit_pattern_count_zero: "{0} st."
+          unit_pattern_count_one: "{0} st."
+          unit_pattern_count_other: "{0} st."
+          per_unit_pattern: "{0}/st."
+        duration_minute:
+          display_name: min.
+          unit_pattern_count_zero: "{0} min."
+          unit_pattern_count_one: "{0} min."
+          unit_pattern_count_other: "{0} min."
+          per_unit_pattern: "{0}/min."
+        duration_second:
+          display_name: sek.
+          unit_pattern_count_zero: "{0} sek."
+          unit_pattern_count_one: "{0} sek."
+          unit_pattern_count_other: "{0} sek."
+          per_unit_pattern: "{0}/sek."
+        duration_millisecond:
+          display_name: ms
+          unit_pattern_count_zero: "{0} ms"
+          unit_pattern_count_one: "{0} ms"
+          unit_pattern_count_other: "{0} ms"
+        duration_microsecond:
+          display_name: "μs"
+          unit_pattern_count_zero: "{0} μs"
+          unit_pattern_count_one: "{0} μs"
+          unit_pattern_count_other: "{0} μs"
+        duration_nanosecond:
+          display_name: ns
+          unit_pattern_count_zero: "{0} ns"
+          unit_pattern_count_one: "{0} ns"
+          unit_pattern_count_other: "{0} ns"
+        electric_ampere:
+          display_name: A
+          unit_pattern_count_zero: "{0} A"
+          unit_pattern_count_one: "{0} A"
+          unit_pattern_count_other: "{0} A"
+        electric_milliampere:
+          display_name: mA
+          unit_pattern_count_zero: "{0} mA"
+          unit_pattern_count_one: "{0} mA"
+          unit_pattern_count_other: "{0} mA"
+        electric_ohm:
+          display_name: "Ω"
+          unit_pattern_count_zero: "{0} Ω"
+          unit_pattern_count_one: "{0} Ω"
+          unit_pattern_count_other: "{0} Ω"
+        electric_volt:
+          display_name: V
+          unit_pattern_count_zero: "{0} V"
+          unit_pattern_count_one: "{0} V"
+          unit_pattern_count_other: "{0} V"
+        energy_kilocalorie:
+          display_name: kcal
+          unit_pattern_count_zero: "{0} kcal"
+          unit_pattern_count_one: "{0} kcal"
+          unit_pattern_count_other: "{0} kcal"
+        energy_calorie:
+          display_name: cal
+          unit_pattern_count_zero: "{0} cal"
+          unit_pattern_count_one: "{0} cal"
+          unit_pattern_count_other: "{0} cal"
+        energy_foodcalorie:
+          display_name: cal
+          unit_pattern_count_zero: "{0} cal"
+          unit_pattern_count_one: "{0} cal"
+          unit_pattern_count_other: "{0} cal"
+        energy_kilojoule:
+          display_name: kJ
+          unit_pattern_count_zero: "{0} kJ"
+          unit_pattern_count_one: "{0} kJ"
+          unit_pattern_count_other: "{0} kJ"
+        energy_joule:
+          display_name: J
+          unit_pattern_count_zero: "{0} J"
+          unit_pattern_count_one: "{0} J"
+          unit_pattern_count_other: "{0} J"
+        energy_kilowatt_hour:
+          display_name: kWh
+          unit_pattern_count_zero: "{0} kWh"
+          unit_pattern_count_one: "{0} kWh"
+          unit_pattern_count_other: "{0} kWh"
+        frequency_gigahertz:
+          display_name: GHz
+          unit_pattern_count_zero: "{0} GHz"
+          unit_pattern_count_one: "{0} GHz"
+          unit_pattern_count_other: "{0} GHz"
+        frequency_megahertz:
+          display_name: MHz
+          unit_pattern_count_zero: "{0} MHz"
+          unit_pattern_count_one: "{0} MHz"
+          unit_pattern_count_other: "{0} MHz"
+        frequency_kilohertz:
+          display_name: kHz
+          unit_pattern_count_zero: "{0} kHz"
+          unit_pattern_count_one: "{0} kHz"
+          unit_pattern_count_other: "{0} kHz"
+        frequency_hertz:
+          display_name: Hz
+          unit_pattern_count_zero: "{0} Hz"
+          unit_pattern_count_one: "{0} Hz"
+          unit_pattern_count_other: "{0} Hz"
+        length_kilometer:
+          display_name: kilometri
+          unit_pattern_count_zero: "{0} km"
+          unit_pattern_count_one: "{0} km"
+          unit_pattern_count_other: "{0} km"
+          per_unit_pattern: "{0}/km"
+        length_meter:
+          display_name: m
+          unit_pattern_count_zero: "{0} m"
+          unit_pattern_count_one: "{0} m"
+          unit_pattern_count_other: "{0} m"
+          per_unit_pattern: "{0}/m"
+        length_decimeter:
+          display_name: dm
+          unit_pattern_count_zero: "{0} dm"
+          unit_pattern_count_one: "{0} dm"
+          unit_pattern_count_other: "{0} dm"
+        length_centimeter:
+          display_name: cm
+          unit_pattern_count_zero: "{0} cm"
+          unit_pattern_count_one: "{0} cm"
+          unit_pattern_count_other: "{0} cm"
+          per_unit_pattern: "{0}/cm"
+        length_millimeter:
+          display_name: mm
+          unit_pattern_count_zero: "{0} mm"
+          unit_pattern_count_one: "{0} mm"
+          unit_pattern_count_other: "{0} mm"
+        length_micrometer:
+          display_name: "µm"
+          unit_pattern_count_zero: "{0} µm"
+          unit_pattern_count_one: "{0} µm"
+          unit_pattern_count_other: "{0} µm"
+        length_nanometer:
+          display_name: nm
+          unit_pattern_count_zero: "{0} nm"
+          unit_pattern_count_one: "{0} nm"
+          unit_pattern_count_other: "{0} nm"
+        length_picometer:
+          display_name: pm
+          unit_pattern_count_zero: "{0} pm"
+          unit_pattern_count_one: "{0} pm"
+          unit_pattern_count_other: "{0} pm"
+        length_mile:
+          display_name: mi
+          unit_pattern_count_zero: "{0} mi"
+          unit_pattern_count_one: "{0} mi"
+          unit_pattern_count_other: "{0} mi"
+        length_yard:
+          display_name: yd
+          unit_pattern_count_zero: "{0} yd"
+          unit_pattern_count_one: "{0} yd"
+          unit_pattern_count_other: "{0} yd"
+        length_foot:
+          display_name: ft
+          unit_pattern_count_zero: "{0} ft"
+          unit_pattern_count_one: "{0} ft"
+          unit_pattern_count_other: "{0} ft"
+          per_unit_pattern: "{0}/pēda"
+        length_inch:
+          display_name: c.
+          unit_pattern_count_zero: "{0} c."
+          unit_pattern_count_one: "{0} c."
+          unit_pattern_count_other: "{0} c."
+          per_unit_pattern: "{0}/colla"
+        length_parsec:
+          display_name: pc
+          unit_pattern_count_zero: "{0} pc"
+          unit_pattern_count_one: "{0} pc"
+          unit_pattern_count_other: "{0} pc"
+        length_light_year:
+          display_name: g.g.
+          unit_pattern_count_zero: "{0} g.g."
+          unit_pattern_count_one: "{0} g.g."
+          unit_pattern_count_other: "{0} g.g."
+        length_astronomical_unit:
+          display_name: a.v.
+          unit_pattern_count_zero: "{0} a.v."
+          unit_pattern_count_one: "{0} a.v."
+          unit_pattern_count_other: "{0} a.v."
+        length_furlong:
+          display_name: fur
+          unit_pattern_count_other: "{0} fur"
+        length_fathom:
+          display_name: fm
+          unit_pattern_count_other: "{0} fm"
+        length_nautical_mile:
+          display_name: nmi
+          unit_pattern_count_zero: "{0} nmi"
+          unit_pattern_count_one: "{0} nmi"
+          unit_pattern_count_other: "{0} nmi"
+        length_mile_scandinavian:
+          display_name: skandināvu jūdze
+          unit_pattern_count_zero: "{0} skandināvu jūdzes"
+          unit_pattern_count_one: "{0} skandināvu jūdze"
+          unit_pattern_count_other: "{0} skandināvu jūdzes"
+        light_lux:
+          display_name: lx
+          unit_pattern_count_zero: "{0} lx"
+          unit_pattern_count_one: "{0} lx"
+          unit_pattern_count_other: "{0} lx"
+        mass_metric_ton:
+          display_name: t
+          unit_pattern_count_zero: "{0} t"
+          unit_pattern_count_one: "{0} t"
+          unit_pattern_count_other: "{0} t"
+        mass_kilogram:
+          display_name: kg
+          unit_pattern_count_zero: "{0} kg"
+          unit_pattern_count_one: "{0} kg"
+          unit_pattern_count_other: "{0} kg"
+          per_unit_pattern: "{0}/kg"
+        mass_gram:
+          display_name: g
+          unit_pattern_count_zero: "{0} g"
+          unit_pattern_count_one: "{0} g"
+          unit_pattern_count_other: "{0} g"
+          per_unit_pattern: "{0}/g"
+        mass_milligram:
+          display_name: mg
+          unit_pattern_count_zero: "{0} mg"
+          unit_pattern_count_one: "{0} mg"
+          unit_pattern_count_other: "{0} mg"
+        mass_microgram:
+          display_name: "µg"
+          unit_pattern_count_zero: "{0} µg"
+          unit_pattern_count_one: "{0} µg"
+          unit_pattern_count_other: "{0} µg"
+        mass_ton:
+          display_name: tonnas
+          unit_pattern_count_zero: "{0} tonnas"
+          unit_pattern_count_one: "{0} tonna"
+          unit_pattern_count_other: "{0} tonnas"
+        mass_stone:
+          display_name: st
+          unit_pattern_count_other: "{0} st"
+        mass_pound:
+          display_name: lb
+          unit_pattern_count_zero: "{0} lb"
+          unit_pattern_count_one: "{0} lb"
+          unit_pattern_count_other: "{0} lb"
+          per_unit_pattern: "{0}/mārc."
+        mass_ounce:
+          display_name: oz
+          unit_pattern_count_zero: "{0} oz"
+          unit_pattern_count_one: "{0} oz"
+          unit_pattern_count_other: "{0} oz"
+          per_unit_pattern: "{0}/unce"
+        mass_ounce_troy:
+          display_name: oz t
+          unit_pattern_count_zero: "{0} oz t"
+          unit_pattern_count_one: "{0} oz t"
+          unit_pattern_count_other: "{0} oz t"
+        mass_carat:
+          display_name: CD
+          unit_pattern_count_zero: "{0} CD"
+          unit_pattern_count_one: "{0} CD"
+          unit_pattern_count_other: "{0} CD"
+        power_gigawatt:
+          display_name: GW
+          unit_pattern_count_zero: "{0} GW"
+          unit_pattern_count_one: "{0} GW"
+          unit_pattern_count_other: "{0} GW"
+        power_megawatt:
+          display_name: MW
+          unit_pattern_count_zero: "{0} MW"
+          unit_pattern_count_one: "{0} MW"
+          unit_pattern_count_other: "{0} MW"
+        power_kilowatt:
+          display_name: kW
+          unit_pattern_count_zero: "{0} kW"
+          unit_pattern_count_one: "{0} kW"
+          unit_pattern_count_other: "{0} kW"
+        power_watt:
+          display_name: W
+          unit_pattern_count_zero: "{0} W"
+          unit_pattern_count_one: "{0} W"
+          unit_pattern_count_other: "{0} W"
+        power_milliwatt:
+          display_name: mW
+          unit_pattern_count_zero: "{0} mW"
+          unit_pattern_count_one: "{0} mW"
+          unit_pattern_count_other: "{0} mW"
+        power_horsepower:
+          display_name: ZS
+          unit_pattern_count_zero: "{0} ZS"
+          unit_pattern_count_one: "{0} ZS"
+          unit_pattern_count_other: "{0} ZS"
+        pressure_hectopascal:
+          display_name: hPa
+          unit_pattern_count_zero: "{0} hPa"
+          unit_pattern_count_one: "{0} hPa"
+          unit_pattern_count_other: "{0} hPa"
+        pressure_millimeter_of_mercury:
+          display_name: mmHg
+          unit_pattern_count_zero: "{0} mmHg"
+          unit_pattern_count_one: "{0} mmHg"
+          unit_pattern_count_other: "{0} mmHg"
+        pressure_pound_per_square_inch:
+          display_name: psi
+          unit_pattern_count_zero: "{0} psi"
+          unit_pattern_count_one: "{0} psi"
+          unit_pattern_count_other: "{0} psi"
+        pressure_inch_hg:
+          display_name: inHg
+          unit_pattern_count_zero: "{0} inHg"
+          unit_pattern_count_one: "{0} inHg"
+          unit_pattern_count_other: "{0} inHg"
+        pressure_millibar:
+          display_name: mbar
+          unit_pattern_count_zero: "{0} mbar"
+          unit_pattern_count_one: "{0} mbar"
+          unit_pattern_count_other: "{0} mbar"
+        proportion_karat:
+          display_name: kt
+          unit_pattern_count_zero: "{0} kt"
+          unit_pattern_count_one: "{0} kt"
+          unit_pattern_count_other: "{0} kt"
+        speed_kilometer_per_hour:
+          display_name: km/st.
+          unit_pattern_count_zero: "{0} km/st."
+          unit_pattern_count_one: "{0} km/st."
+          unit_pattern_count_other: "{0} km/st."
+        speed_meter_per_second:
+          display_name: m/s
+          unit_pattern_count_zero: "{0} m/s"
+          unit_pattern_count_one: "{0} m/s"
+          unit_pattern_count_other: "{0} m/s"
+        speed_mile_per_hour:
+          display_name: mi/h
+          unit_pattern_count_zero: "{0} mi/h"
+          unit_pattern_count_one: "{0} mi/h"
+          unit_pattern_count_other: "{0} mi/h"
+        speed_knot:
+          display_name: mezgls
+          unit_pattern_count_zero: "{0} mezgli"
+          unit_pattern_count_one: "{0} mezgls"
+          unit_pattern_count_other: "{0} mezgli"
+        temperature_generic:
+          display_name: "°"
+          unit_pattern_count_zero: "{0}°"
+          unit_pattern_count_one: "{0}°"
+          unit_pattern_count_other: "{0}°"
+        temperature_celsius:
+          display_name: "°C"
+          unit_pattern_count_zero: "{0} °C"
+          unit_pattern_count_one: "{0} °C"
+          unit_pattern_count_other: "{0} °C"
+        temperature_fahrenheit:
+          display_name: "°F"
+          unit_pattern_count_zero: "{0} °F"
+          unit_pattern_count_one: "{0} °F"
+          unit_pattern_count_other: "{0} °F"
+        temperature_kelvin:
+          display_name: K
+          unit_pattern_count_zero: "{0} K"
+          unit_pattern_count_one: "{0} K"
+          unit_pattern_count_other: "{0} K"
+        volume_cubic_kilometer:
+          display_name: km³
+          unit_pattern_count_zero: "{0} km³"
+          unit_pattern_count_one: "{0} km³"
+          unit_pattern_count_other: "{0} km³"
+        volume_cubic_meter:
+          display_name: m³
+          unit_pattern_count_zero: "{0} m³"
+          unit_pattern_count_one: "{0} m³"
+          unit_pattern_count_other: "{0} m³"
+          per_unit_pattern: "{0}/m³"
+        volume_cubic_centimeter:
+          display_name: cm³
+          unit_pattern_count_zero: "{0} cm³"
+          unit_pattern_count_one: "{0} cm³"
+          unit_pattern_count_other: "{0} cm³"
+          per_unit_pattern: "{0}/cm³"
+        volume_cubic_mile:
+          display_name: mi³
+          unit_pattern_count_zero: "{0} mi³"
+          unit_pattern_count_one: "{0} mi³"
+          unit_pattern_count_other: "{0} mi³"
+        volume_cubic_yard:
+          display_name: yd³
+          unit_pattern_count_zero: "{0} yd³"
+          unit_pattern_count_one: "{0} yd³"
+          unit_pattern_count_other: "{0} yd³"
+        volume_cubic_foot:
+          display_name: ft³
+          unit_pattern_count_zero: "{0} ft³"
+          unit_pattern_count_one: "{0} ft³"
+          unit_pattern_count_other: "{0} ft³"
+        volume_cubic_inch:
+          display_name: in³
+          unit_pattern_count_zero: "{0} in³"
+          unit_pattern_count_one: "{0} in³"
+          unit_pattern_count_other: "{0} in³"
+        volume_megaliter:
+          display_name: ML
+          unit_pattern_count_zero: "{0} ML"
+          unit_pattern_count_one: "{0} ML"
+          unit_pattern_count_other: "{0} ML"
+        volume_hectoliter:
+          display_name: hl
+          unit_pattern_count_zero: "{0} hl"
+          unit_pattern_count_one: "{0} hl"
+          unit_pattern_count_other: "{0} hl"
+        volume_liter:
+          display_name: l
+          unit_pattern_count_zero: "{0} l"
+          unit_pattern_count_one: "{0} l"
+          unit_pattern_count_other: "{0} l"
+          per_unit_pattern: "{0}/l"
+        volume_deciliter:
+          display_name: dl
+          unit_pattern_count_zero: "{0} dl"
+          unit_pattern_count_one: "{0} dl"
+          unit_pattern_count_other: "{0} dl"
+        volume_centiliter:
+          display_name: cl
+          unit_pattern_count_zero: "{0} cl"
+          unit_pattern_count_one: "{0} cl"
+          unit_pattern_count_other: "{0} cl"
+        volume_milliliter:
+          display_name: ml
+          unit_pattern_count_zero: "{0} ml"
+          unit_pattern_count_one: "{0} ml"
+          unit_pattern_count_other: "{0} ml"
+        volume_pint_metric:
+          display_name: mpt
+          unit_pattern_count_zero: "{0} mpt"
+          unit_pattern_count_one: "{0} mpt"
+          unit_pattern_count_other: "{0} mpt"
+        volume_cup_metric:
+          display_name: metr.gl.
+          unit_pattern_count_zero: "{0} metr.gl."
+          unit_pattern_count_one: "{0} metr.gl."
+          unit_pattern_count_other: "{0} metr.gl."
+        volume_acre_foot:
+          display_name: ac ft
+          unit_pattern_count_zero: "{0} ac ft"
+          unit_pattern_count_one: "{0} ac ft"
+          unit_pattern_count_other: "{0} ac ft"
+        volume_bushel:
+          display_name: bu
+          unit_pattern_count_other: "{0} bu"
+        volume_gallon:
+          display_name: gal
+          unit_pattern_count_zero: "{0} gal"
+          unit_pattern_count_one: "{0} gal"
+          unit_pattern_count_other: "{0} gal"
+          per_unit_pattern: "{0}/gal."
+        volume_quart:
+          display_name: qt
+          unit_pattern_count_zero: "{0} qt"
+          unit_pattern_count_one: "{0} qt"
+          unit_pattern_count_other: "{0} qt"
+        volume_pint:
+          display_name: pt
+          unit_pattern_count_zero: "{0} pt"
+          unit_pattern_count_one: "{0} pt"
+          unit_pattern_count_other: "{0} pt"
+        volume_cup:
+          display_name: gl.
+          unit_pattern_count_zero: "{0} gl."
+          unit_pattern_count_one: "{0} gl."
+          unit_pattern_count_other: "{0} gl."
+        volume_fluid_ounce:
+          display_name: fl oz
+          unit_pattern_count_zero: "{0} fl oz"
+          unit_pattern_count_one: "{0} fl oz"
+          unit_pattern_count_other: "{0} fl oz"
+        volume_tablespoon:
+          display_name: "ĒK"
+          unit_pattern_count_zero: "{0} ĒK"
+          unit_pattern_count_one: "{0} ĒK"
+          unit_pattern_count_other: "{0} ĒK"
+        volume_teaspoon:
+          display_name: TK
+          unit_pattern_count_zero: "{0} TK"
+          unit_pattern_count_one: "{0} TK"
+          unit_pattern_count_other: "{0} TK"
+        coordinate_unit:
+          east: "{0}A"
+          north: "{0}Z"
+          south: "{0}D"
+          west: "{0}R"
+      narrow:
+        per:
+          compound_unit_pattern: "{0}/{1}"
+        acceleration_g_force:
+          display_name: 'Brīvās krišanas paātrinājums:'
+          unit_pattern_count_zero: "{0}G"
+          unit_pattern_count_one: "{0}G"
+          unit_pattern_count_other: "{0}G"
+        acceleration_meter_per_second_squared:
+          display_name: m/s²
+          unit_pattern_count_zero: "{0} m/s²"
+          unit_pattern_count_one: "{0} m/s²"
+          unit_pattern_count_other: "{0} m/s²"
+        angle_revolution:
+          display_name: apgr.
+          unit_pattern_count_zero: "{0} apgr."
+          unit_pattern_count_one: "{0} apgr."
+          unit_pattern_count_other: "{0} apgr."
+        angle_radian:
+          display_name: rad
+          unit_pattern_count_zero: "{0} rad"
+          unit_pattern_count_one: "{0} rad"
+          unit_pattern_count_other: "{0} rad"
+        angle_degree:
+          display_name: "°"
+          unit_pattern_count_zero: "{0}°"
+          unit_pattern_count_one: "{0}°"
+          unit_pattern_count_other: "{0}°"
+        angle_arc_minute:
+          display_name: "′"
+          unit_pattern_count_zero: "{0}′"
+          unit_pattern_count_one: "{0}′"
+          unit_pattern_count_other: "{0}′"
+        angle_arc_second:
+          display_name: "″"
+          unit_pattern_count_zero: "{0}″"
+          unit_pattern_count_one: "{0}″"
+          unit_pattern_count_other: "{0}″"
+        area_square_kilometer:
+          display_name: km²
+          unit_pattern_count_zero: "{0}km²"
+          unit_pattern_count_one: "{0}km²"
+          unit_pattern_count_other: "{0}km²"
+        area_hectare:
+          display_name: ha
+          unit_pattern_count_zero: "{0}ha"
+          unit_pattern_count_one: "{0}ha"
+          unit_pattern_count_other: "{0}ha"
+        area_square_meter:
+          display_name: m²
+          unit_pattern_count_zero: "{0}m²"
+          unit_pattern_count_one: "{0}m²"
+          unit_pattern_count_other: "{0}m²"
+          per_unit_pattern: "{0} uz m²"
+        area_square_centimeter:
+          display_name: cm²
+          unit_pattern_count_zero: "{0} cm²"
+          unit_pattern_count_one: "{0} cm²"
+          unit_pattern_count_other: "{0} cm²"
+          per_unit_pattern: "{0} uz cm²"
+        area_square_mile:
+          display_name: mi²
+          unit_pattern_count_zero: "{0}mi²"
+          unit_pattern_count_one: "{0}mi²"
+          unit_pattern_count_other: "{0}mi²"
+        area_acre:
+          display_name: ac
+          unit_pattern_count_zero: "{0}ac"
+          unit_pattern_count_one: "{0}ac"
+          unit_pattern_count_other: "{0}ac"
+        area_square_yard:
+          display_name: yd²
+          unit_pattern_count_zero: "{0} yd²"
+          unit_pattern_count_one: "{0} yd²"
+          unit_pattern_count_other: "{0} yd²"
+        area_square_foot:
+          display_name: ft²
+          unit_pattern_count_zero: "{0}ft²"
+          unit_pattern_count_one: "{0}ft²"
+          unit_pattern_count_other: "{0}ft²"
+        area_square_inch:
+          display_name: in²
+          unit_pattern_count_zero: "{0} in²"
+          unit_pattern_count_one: "{0} in²"
+          unit_pattern_count_other: "{0} in²"
+          per_unit_pattern: "{0} uz collu²"
+        consumption_liter_per_kilometer:
+          display_name: l/km
+          unit_pattern_count_zero: "{0} l/km"
+          unit_pattern_count_one: "{0} l/km"
+          unit_pattern_count_other: "{0} l/km"
+        consumption_liter_per_100kilometers:
+          display_name: l/100 km
+          unit_pattern_count_zero: "{0} l/100 km"
+          unit_pattern_count_one: "{0} l/100 km"
+          unit_pattern_count_other: "{0} l/100 km"
+        consumption_mile_per_gallon:
+          display_name: mpg
+          unit_pattern_count_zero: "{0} mpg"
+          unit_pattern_count_one: "{0} mpg"
+          unit_pattern_count_other: "{0} mpg"
+        digital_terabyte:
+          display_name: TB
+          unit_pattern_count_zero: "{0} TB"
+          unit_pattern_count_one: "{0} TB"
+          unit_pattern_count_other: "{0} TB"
+        digital_terabit:
+          display_name: Tb
+          unit_pattern_count_zero: "{0} Tb"
+          unit_pattern_count_one: "{0} Tb"
+          unit_pattern_count_other: "{0} Tb"
+        digital_gigabyte:
+          display_name: GB
+          unit_pattern_count_zero: "{0} GB"
+          unit_pattern_count_one: "{0} GB"
+          unit_pattern_count_other: "{0} GB"
+        digital_gigabit:
+          display_name: Gb
+          unit_pattern_count_zero: "{0} Gb"
+          unit_pattern_count_one: "{0} Gb"
+          unit_pattern_count_other: "{0} Gb"
+        digital_megabyte:
+          display_name: MB
+          unit_pattern_count_zero: "{0} MB"
+          unit_pattern_count_one: "{0} MB"
+          unit_pattern_count_other: "{0} MB"
+        digital_megabit:
+          display_name: Mb
+          unit_pattern_count_zero: "{0} Mb"
+          unit_pattern_count_one: "{0} Mb"
+          unit_pattern_count_other: "{0} Mb"
+        digital_kilobyte:
+          display_name: KB
+          unit_pattern_count_zero: "{0} KB"
+          unit_pattern_count_one: "{0} KB"
+          unit_pattern_count_other: "{0} KB"
+        digital_kilobit:
+          display_name: Kb
+          unit_pattern_count_zero: "{0} Kb"
+          unit_pattern_count_one: "{0} Kb"
+          unit_pattern_count_other: "{0} Kb"
+        digital_byte:
+          display_name: B
+          unit_pattern_count_zero: "{0} B"
+          unit_pattern_count_one: "{0} B"
+          unit_pattern_count_other: "{0} B"
+        digital_bit:
+          display_name: b
+          unit_pattern_count_zero: "{0} b"
+          unit_pattern_count_one: "{0} b"
+          unit_pattern_count_other: "{0} b"
+        duration_century:
+          display_name: gs.
+          unit_pattern_count_zero: "{0} gs."
+          unit_pattern_count_one: "{0} gs."
+          unit_pattern_count_other: "{0} gs."
+        duration_year:
+          display_name: g.
+          unit_pattern_count_zero: "{0}g."
+          unit_pattern_count_one: "{0}g."
+          unit_pattern_count_other: "{0}g."
+          per_unit_pattern: "{0}/g."
+        duration_month:
+          display_name: mēn.
+          unit_pattern_count_zero: "{0} mēn."
+          unit_pattern_count_one: "{0} mēn."
+          unit_pattern_count_other: "{0} mēn."
+          per_unit_pattern: "{0}/mēn."
+        duration_week:
+          display_name: ned.
+          unit_pattern_count_zero: "{0} ned."
+          unit_pattern_count_one: "{0} ned."
+          unit_pattern_count_other: "{0} ned."
+          per_unit_pattern: "{0}/ned."
+        duration_day:
+          display_name: d.
+          unit_pattern_count_zero: "{0}d"
+          unit_pattern_count_one: "{0}d"
+          unit_pattern_count_other: "{0}d"
+          per_unit_pattern: "{0}/d."
+        duration_hour:
+          display_name: h
+          unit_pattern_count_zero: "{0}h"
+          unit_pattern_count_one: "{0}h"
+          unit_pattern_count_other: "{0}h"
+          per_unit_pattern: "{0}/st."
+        duration_minute:
+          display_name: min
+          unit_pattern_count_zero: "{0} min"
+          unit_pattern_count_one: "{0} min"
+          unit_pattern_count_other: "{0} min"
+          per_unit_pattern: "{0}/min."
+        duration_second:
+          display_name: s
+          unit_pattern_count_zero: "{0}s"
+          unit_pattern_count_one: "{0}s"
+          unit_pattern_count_other: "{0}s"
+          per_unit_pattern: "{0}/sek."
+        duration_millisecond:
+          display_name: ms
+          unit_pattern_count_zero: "{0}ms"
+          unit_pattern_count_one: "{0}ms"
+          unit_pattern_count_other: "{0}ms"
+        duration_microsecond:
+          display_name: "μs"
+          unit_pattern_count_zero: "{0} μs"
+          unit_pattern_count_one: "{0} μs"
+          unit_pattern_count_other: "{0} μs"
+        duration_nanosecond:
+          display_name: ns
+          unit_pattern_count_zero: "{0} ns"
+          unit_pattern_count_one: "{0} ns"
+          unit_pattern_count_other: "{0} ns"
+        electric_ampere:
+          display_name: A
+          unit_pattern_count_zero: "{0} A"
+          unit_pattern_count_one: "{0} A"
+          unit_pattern_count_other: "{0} A"
+        electric_milliampere:
+          display_name: mA
+          unit_pattern_count_zero: "{0} mA"
+          unit_pattern_count_one: "{0} mA"
+          unit_pattern_count_other: "{0} mA"
+        electric_ohm:
+          display_name: "Ω"
+          unit_pattern_count_zero: "{0} Ω"
+          unit_pattern_count_one: "{0} Ω"
+          unit_pattern_count_other: "{0} Ω"
+        electric_volt:
+          display_name: V
+          unit_pattern_count_zero: "{0} V"
+          unit_pattern_count_one: "{0} V"
+          unit_pattern_count_other: "{0} V"
+        energy_kilocalorie:
+          display_name: kcal
+          unit_pattern_count_zero: "{0} kcal"
+          unit_pattern_count_one: "{0} kcal"
+          unit_pattern_count_other: "{0} kcal"
+        energy_calorie:
+          display_name: cal
+          unit_pattern_count_zero: "{0} cal"
+          unit_pattern_count_one: "{0} cal"
+          unit_pattern_count_other: "{0} cal"
+        energy_foodcalorie:
+          display_name: cal
+          unit_pattern_count_zero: "{0} cal"
+          unit_pattern_count_one: "{0} cal"
+          unit_pattern_count_other: "{0} cal"
+        energy_kilojoule:
+          display_name: kJ
+          unit_pattern_count_zero: "{0} kJ"
+          unit_pattern_count_one: "{0} kJ"
+          unit_pattern_count_other: "{0} kJ"
+        energy_joule:
+          display_name: J
+          unit_pattern_count_zero: "{0} J"
+          unit_pattern_count_one: "{0} J"
+          unit_pattern_count_other: "{0} J"
+        energy_kilowatt_hour:
+          display_name: kWh
+          unit_pattern_count_zero: "{0} kWh"
+          unit_pattern_count_one: "{0} kWh"
+          unit_pattern_count_other: "{0} kWh"
+        frequency_gigahertz:
+          display_name: GHz
+          unit_pattern_count_zero: "{0} GHz"
+          unit_pattern_count_one: "{0} GHz"
+          unit_pattern_count_other: "{0} GHz"
+        frequency_megahertz:
+          display_name: MHz
+          unit_pattern_count_zero: "{0} MHz"
+          unit_pattern_count_one: "{0} MHz"
+          unit_pattern_count_other: "{0} MHz"
+        frequency_kilohertz:
+          display_name: kHz
+          unit_pattern_count_zero: "{0} kHz"
+          unit_pattern_count_one: "{0} kHz"
+          unit_pattern_count_other: "{0} kHz"
+        frequency_hertz:
+          display_name: Hz
+          unit_pattern_count_zero: "{0} Hz"
+          unit_pattern_count_one: "{0} Hz"
+          unit_pattern_count_other: "{0} Hz"
+        length_kilometer:
+          display_name: km
+          unit_pattern_count_zero: "{0}km"
+          unit_pattern_count_one: "{0}km"
+          unit_pattern_count_other: "{0}km"
+          per_unit_pattern: "{0}/km"
+        length_meter:
+          display_name: m
+          unit_pattern_count_zero: "{0}m"
+          unit_pattern_count_one: "{0}m"
+          unit_pattern_count_other: "{0}m"
+          per_unit_pattern: "{0}/m"
+        length_decimeter:
+          display_name: dm
+          unit_pattern_count_zero: "{0} dm"
+          unit_pattern_count_one: "{0} dm"
+          unit_pattern_count_other: "{0} dm"
+        length_centimeter:
+          display_name: cm
+          unit_pattern_count_zero: "{0}cm"
+          unit_pattern_count_one: "{0}cm"
+          unit_pattern_count_other: "{0}cm"
+          per_unit_pattern: "{0}/cm"
+        length_millimeter:
+          display_name: mm
+          unit_pattern_count_zero: "{0}mm"
+          unit_pattern_count_one: "{0}mm"
+          unit_pattern_count_other: "{0}mm"
+        length_micrometer:
+          display_name: "µm"
+          unit_pattern_count_zero: "{0} µm"
+          unit_pattern_count_one: "{0} µm"
+          unit_pattern_count_other: "{0} µm"
+        length_nanometer:
+          display_name: nm
+          unit_pattern_count_zero: "{0} nm"
+          unit_pattern_count_one: "{0} nm"
+          unit_pattern_count_other: "{0} nm"
+        length_picometer:
+          display_name: pm
+          unit_pattern_count_zero: "{0}pm"
+          unit_pattern_count_one: "{0}pm"
+          unit_pattern_count_other: "{0}pm"
+        length_mile:
+          display_name: mi
+          unit_pattern_count_zero: "{0}mi"
+          unit_pattern_count_one: "{0}mi"
+          unit_pattern_count_other: "{0}mi"
+        length_yard:
+          display_name: yd
+          unit_pattern_count_zero: "{0}yd"
+          unit_pattern_count_one: "{0}yd"
+          unit_pattern_count_other: "{0}yd"
+        length_foot:
+          display_name: ft
+          unit_pattern_count_zero: "{0}ft"
+          unit_pattern_count_one: "{0}ft"
+          unit_pattern_count_other: "{0}ft"
+          per_unit_pattern: "{0}/pēda"
+        length_inch:
+          display_name: c.
+          unit_pattern_count_zero: "{0}in"
+          unit_pattern_count_one: "{0}in"
+          unit_pattern_count_other: "{0}in"
+          per_unit_pattern: "{0}/colla"
+        length_parsec:
+          display_name: pc
+          unit_pattern_count_zero: "{0} pc"
+          unit_pattern_count_one: "{0} pc"
+          unit_pattern_count_other: "{0} pc"
+        length_light_year:
+          display_name: g.g.
+          unit_pattern_count_zero: "{0}g.g."
+          unit_pattern_count_one: "{0}g.g."
+          unit_pattern_count_other: "{0}g.g."
+        length_astronomical_unit:
+          display_name: a.v.
+          unit_pattern_count_zero: "{0} a.v."
+          unit_pattern_count_one: "{0} a.v."
+          unit_pattern_count_other: "{0} a.v."
+        length_furlong:
+          display_name: fur
+          unit_pattern_count_other: "{0} fur"
+        length_fathom:
+          display_name: fm
+          unit_pattern_count_other: "{0} fm"
+        length_nautical_mile:
+          display_name: nmi
+          unit_pattern_count_zero: "{0} nmi"
+          unit_pattern_count_one: "{0} nmi"
+          unit_pattern_count_other: "{0} nmi"
+        length_mile_scandinavian:
+          display_name: skandināvu jūdze
+          unit_pattern_count_zero: "{0} skandināvu jūdzes"
+          unit_pattern_count_one: "{0} skandināvu jūdzes"
+          unit_pattern_count_other: "{0} skandināvu jūdzes"
+        light_lux:
+          display_name: lx
+          unit_pattern_count_zero: "{0} lx"
+          unit_pattern_count_one: "{0} lx"
+          unit_pattern_count_other: "{0} lx"
+        mass_metric_ton:
+          display_name: t
+          unit_pattern_count_zero: "{0} t"
+          unit_pattern_count_one: "{0} t"
+          unit_pattern_count_other: "{0} t"
+        mass_kilogram:
+          display_name: kg
+          unit_pattern_count_zero: "{0}kg"
+          unit_pattern_count_one: "{0}kg"
+          unit_pattern_count_other: "{0}kg"
+          per_unit_pattern: "{0}/kg"
+        mass_gram:
+          display_name: g
+          unit_pattern_count_zero: "{0}g"
+          unit_pattern_count_one: "{0}g"
+          unit_pattern_count_other: "{0}g"
+          per_unit_pattern: "{0}/g"
+        mass_milligram:
+          display_name: mg
+          unit_pattern_count_zero: "{0} mg"
+          unit_pattern_count_one: "{0} mg"
+          unit_pattern_count_other: "{0} mg"
+        mass_microgram:
+          display_name: "µg"
+          unit_pattern_count_zero: "{0} µg"
+          unit_pattern_count_one: "{0} µg"
+          unit_pattern_count_other: "{0} µg"
+        mass_ton:
+          display_name: tonnas
+          unit_pattern_count_zero: "{0} tonnas"
+          unit_pattern_count_one: "{0} tonnas"
+          unit_pattern_count_other: "{0} tonnas"
+        mass_stone:
+          display_name: st
+          unit_pattern_count_other: "{0} st"
+        mass_pound:
+          display_name: lb
+          unit_pattern_count_zero: "{0}lb"
+          unit_pattern_count_one: "{0}lb"
+          unit_pattern_count_other: "{0}lb"
+          per_unit_pattern: "{0}/mārc."
+        mass_ounce:
+          display_name: oz
+          unit_pattern_count_zero: "{0}oz"
+          unit_pattern_count_one: "{0}oz"
+          unit_pattern_count_other: "{0}oz"
+          per_unit_pattern: "{0}/unce"
+        mass_ounce_troy:
+          display_name: oz t
+          unit_pattern_count_zero: "{0} oz t"
+          unit_pattern_count_one: "{0} oz t"
+          unit_pattern_count_other: "{0} oz t"
+        mass_carat:
+          display_name: CD
+          unit_pattern_count_zero: "{0} CD"
+          unit_pattern_count_one: "{0} CD"
+          unit_pattern_count_other: "{0} CD"
+        power_gigawatt:
+          display_name: GW
+          unit_pattern_count_zero: "{0} GW"
+          unit_pattern_count_one: "{0} GW"
+          unit_pattern_count_other: "{0} GW"
+        power_megawatt:
+          display_name: MW
+          unit_pattern_count_zero: "{0} MW"
+          unit_pattern_count_one: "{0} MW"
+          unit_pattern_count_other: "{0} MW"
+        power_kilowatt:
+          display_name: kW
+          unit_pattern_count_zero: "{0}kW"
+          unit_pattern_count_one: "{0}kW"
+          unit_pattern_count_other: "{0}kW"
+        power_watt:
+          display_name: W
+          unit_pattern_count_zero: "{0}W"
+          unit_pattern_count_one: "{0}W"
+          unit_pattern_count_other: "{0}W"
+        power_milliwatt:
+          display_name: mW
+          unit_pattern_count_zero: "{0} mW"
+          unit_pattern_count_one: "{0} mW"
+          unit_pattern_count_other: "{0} mW"
+        power_horsepower:
+          display_name: ZS
+          unit_pattern_count_zero: "{0} ZS"
+          unit_pattern_count_one: "{0} ZS"
+          unit_pattern_count_other: "{0} ZS"
+        pressure_hectopascal:
+          display_name: hPa
+          unit_pattern_count_zero: "{0}hPa"
+          unit_pattern_count_one: "{0}hPa"
+          unit_pattern_count_other: "{0}hPa"
+        pressure_millimeter_of_mercury:
+          display_name: mmHg
+          unit_pattern_count_zero: "{0} mmHg"
+          unit_pattern_count_one: "{0} mmHg"
+          unit_pattern_count_other: "{0} mmHg"
+        pressure_pound_per_square_inch:
+          display_name: psi
+          unit_pattern_count_zero: "{0} psi"
+          unit_pattern_count_one: "{0} psi"
+          unit_pattern_count_other: "{0} psi"
+        pressure_inch_hg:
+          display_name: inHg
+          unit_pattern_count_zero: "{0}inHg"
+          unit_pattern_count_one: "{0}inHg"
+          unit_pattern_count_other: "{0}inHg"
+        pressure_millibar:
+          display_name: mbar
+          unit_pattern_count_zero: "{0}mbar"
+          unit_pattern_count_one: "{0}mbar"
+          unit_pattern_count_other: "{0}mbar"
+        proportion_karat:
+          display_name: kt
+          unit_pattern_count_zero: "{0} kt"
+          unit_pattern_count_one: "{0} kt"
+          unit_pattern_count_other: "{0} kt"
+        speed_kilometer_per_hour:
+          display_name: km/h
+          unit_pattern_count_zero: "{0}km/h"
+          unit_pattern_count_one: "{0}km/h"
+          unit_pattern_count_other: "{0}km/h"
+        speed_meter_per_second:
+          display_name: m/s
+          unit_pattern_count_zero: "{0}m/s"
+          unit_pattern_count_one: "{0}m/s"
+          unit_pattern_count_other: "{0}m/s"
+        speed_mile_per_hour:
+          display_name: mi/h
+          unit_pattern_count_zero: "{0}mi/h"
+          unit_pattern_count_one: "{0}mi/h"
+          unit_pattern_count_other: "{0}mi/h"
+        speed_knot:
+          display_name: mezgls
+          unit_pattern_count_zero: "{0} mezgli"
+          unit_pattern_count_one: "{0} mezgli"
+          unit_pattern_count_other: "{0} mezgli"
+        temperature_generic:
+          display_name: "°"
+          unit_pattern_count_zero: "{0}°"
+          unit_pattern_count_one: "{0}°"
+          unit_pattern_count_other: "{0}°"
+        temperature_celsius:
+          display_name: "°C"
+          unit_pattern_count_zero: "{0} °C"
+          unit_pattern_count_one: "{0} °C"
+          unit_pattern_count_other: "{0} °C"
+        temperature_fahrenheit:
+          display_name: "°F"
+          unit_pattern_count_zero: "{0}°F"
+          unit_pattern_count_one: "{0}°F"
+          unit_pattern_count_other: "{0}°F"
+        temperature_kelvin:
+          display_name: K
+          unit_pattern_count_zero: "{0} K"
+          unit_pattern_count_one: "{0} K"
+          unit_pattern_count_other: "{0} K"
+        volume_cubic_kilometer:
+          display_name: km³
+          unit_pattern_count_zero: "{0}km³"
+          unit_pattern_count_one: "{0}km³"
+          unit_pattern_count_other: "{0}km³"
+        volume_cubic_meter:
+          display_name: m³
+          unit_pattern_count_zero: "{0} m³"
+          unit_pattern_count_one: "{0} m³"
+          unit_pattern_count_other: "{0} m³"
+          per_unit_pattern: "{0}/m³"
+        volume_cubic_centimeter:
+          display_name: cm³
+          unit_pattern_count_zero: "{0} cm³"
+          unit_pattern_count_one: "{0} cm³"
+          unit_pattern_count_other: "{0} cm³"
+          per_unit_pattern: "{0}/cm³"
+        volume_cubic_mile:
+          display_name: mi³
+          unit_pattern_count_zero: "{0}mi³"
+          unit_pattern_count_one: "{0}mi³"
+          unit_pattern_count_other: "{0}mi³"
+        volume_cubic_yard:
+          display_name: yd³
+          unit_pattern_count_zero: "{0} yd³"
+          unit_pattern_count_one: "{0} yd³"
+          unit_pattern_count_other: "{0} yd³"
+        volume_cubic_foot:
+          display_name: ft³
+          unit_pattern_count_zero: "{0} ft³"
+          unit_pattern_count_one: "{0} ft³"
+          unit_pattern_count_other: "{0} ft³"
+        volume_cubic_inch:
+          display_name: in³
+          unit_pattern_count_zero: "{0} in³"
+          unit_pattern_count_one: "{0} in³"
+          unit_pattern_count_other: "{0} in³"
+        volume_megaliter:
+          display_name: ML
+          unit_pattern_count_zero: "{0} ML"
+          unit_pattern_count_one: "{0} ML"
+          unit_pattern_count_other: "{0} ML"
+        volume_hectoliter:
+          display_name: hl
+          unit_pattern_count_zero: "{0} hl"
+          unit_pattern_count_one: "{0} hl"
+          unit_pattern_count_other: "{0} hl"
+        volume_liter:
+          display_name: l
+          unit_pattern_count_zero: "{0}l"
+          unit_pattern_count_one: "{0}l"
+          unit_pattern_count_other: "{0}l"
+          per_unit_pattern: "{0}/l"
+        volume_deciliter:
+          display_name: dl
+          unit_pattern_count_zero: "{0} dl"
+          unit_pattern_count_one: "{0} dl"
+          unit_pattern_count_other: "{0} dl"
+        volume_centiliter:
+          display_name: cl
+          unit_pattern_count_zero: "{0} cl"
+          unit_pattern_count_one: "{0} cl"
+          unit_pattern_count_other: "{0} cl"
+        volume_milliliter:
+          display_name: ml
+          unit_pattern_count_zero: "{0} ml"
+          unit_pattern_count_one: "{0} ml"
+          unit_pattern_count_other: "{0} ml"
+        volume_pint_metric:
+          display_name: mpt
+          unit_pattern_count_zero: "{0} mpt"
+          unit_pattern_count_one: "{0} mpt"
+          unit_pattern_count_other: "{0} mpt"
+        volume_cup_metric:
+          display_name: metr.gl.
+          unit_pattern_count_zero: "{0} metr.gl."
+          unit_pattern_count_one: "{0} metr.gl."
+          unit_pattern_count_other: "{0} metr.gl."
+        volume_acre_foot:
+          display_name: ac ft
+          unit_pattern_count_zero: "{0} ac ft"
+          unit_pattern_count_one: "{0} ac ft"
+          unit_pattern_count_other: "{0} ac ft"
+        volume_bushel:
+          display_name: bu
+          unit_pattern_count_other: "{0} bu"
+        volume_gallon:
+          display_name: gal
+          unit_pattern_count_zero: "{0} gal"
+          unit_pattern_count_one: "{0} gal"
+          unit_pattern_count_other: "{0} gal"
+          per_unit_pattern: "{0}/gal."
+        volume_quart:
+          display_name: qt
+          unit_pattern_count_zero: "{0} qt"
+          unit_pattern_count_one: "{0} qt"
+          unit_pattern_count_other: "{0} qt"
+        volume_pint:
+          display_name: pt
+          unit_pattern_count_zero: "{0} pt"
+          unit_pattern_count_one: "{0} pt"
+          unit_pattern_count_other: "{0} pt"
+        volume_cup:
+          display_name: gl.
+          unit_pattern_count_zero: "{0} gl."
+          unit_pattern_count_one: "{0} gl."
+          unit_pattern_count_other: "{0} gl."
+        volume_fluid_ounce:
+          display_name: fl oz
+          unit_pattern_count_zero: "{0} fl oz"
+          unit_pattern_count_one: "{0} fl oz"
+          unit_pattern_count_other: "{0} fl oz"
+        volume_tablespoon:
+          display_name: "ĒK"
+          unit_pattern_count_zero: "{0} ĒK"
+          unit_pattern_count_one: "{0} ĒK"
+          unit_pattern_count_other: "{0} ĒK"
+        volume_teaspoon:
+          display_name: TK
+          unit_pattern_count_zero: "{0} TK"
+          unit_pattern_count_one: "{0} TK"
+          unit_pattern_count_other: "{0} TK"
+        coordinate_unit:
+          east: "{0}A"
+          north: "{0}Z"
+          south: "{0}D"
+          west: "{0}R"
+      duration_unit_type_hm:
+        duration_unit_pattern: h:mm
+      duration_unit_type_hms:
+        duration_unit_pattern: h:mm:ss
+      duration_unit_type_ms:
+        duration_unit_pattern: m:ss

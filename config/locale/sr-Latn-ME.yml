@@ -1,0 +1,5756 @@
+---
+sr-Latn-ME:
+  cldr:
+    dates:
+      calendars:
+        gregorian:
+          months:
+            format:
+              abbreviated:
+                '1': jan
+                '2': feb
+                '3': mar
+                '4': apr
+                '5': maj
+                '6': jun
+                '7': jul
+                '8': avg
+                '9': sep
+                '10': okt
+                '11': nov
+                '12': dec
+              narrow:
+                '1': j
+                '2': f
+                '3': m
+                '4': a
+                '5': m
+                '6': j
+                '7': j
+                '8': a
+                '9': s
+                '10': o
+                '11': n
+                '12': d
+              wide:
+                '1': januar
+                '2': februar
+                '3': mart
+                '4': april
+                '5': maj
+                '6': jun
+                '7': jul
+                '8': avgust
+                '9': septembar
+                '10': oktobar
+                '11': novembar
+                '12': decembar
+            stand_alone:
+              abbreviated:
+                '1': jan
+                '2': feb
+                '3': mar
+                '4': apr
+                '5': maj
+                '6': jun
+                '7': jul
+                '8': avg
+                '9': sep
+                '10': okt
+                '11': nov
+                '12': dec
+              narrow:
+                '1': j
+                '2': f
+                '3': m
+                '4': a
+                '5': m
+                '6': j
+                '7': j
+                '8': a
+                '9': s
+                '10': o
+                '11': n
+                '12': d
+              wide:
+                '1': januar
+                '2': februar
+                '3': mart
+                '4': april
+                '5': maj
+                '6': jun
+                '7': jul
+                '8': avgust
+                '9': septembar
+                '10': oktobar
+                '11': novembar
+                '12': decembar
+          days:
+            format:
+              abbreviated:
+                sun: ned
+                mon: pon
+                tue: uto
+                wed: sre
+                thu: "čet"
+                fri: pet
+                sat: sub
+              narrow:
+                sun: n
+                mon: p
+                tue: u
+                wed: s
+                thu: "č"
+                fri: p
+                sat: s
+              short:
+                sun: ned
+                mon: pon
+                tue: uto
+                wed: sre
+                thu: "čet"
+                fri: pet
+                sat: sub
+              wide:
+                sun: nedelja
+                mon: ponedeljak
+                tue: utorak
+                wed: sreda
+                thu: "četvrtak"
+                fri: petak
+                sat: subota
+            stand_alone:
+              abbreviated:
+                sun: ned
+                mon: pon
+                tue: uto
+                wed: sre
+                thu: "čet"
+                fri: pet
+                sat: sub
+              narrow:
+                sun: n
+                mon: p
+                tue: u
+                wed: s
+                thu: "č"
+                fri: p
+                sat: s
+              short:
+                sun: ne
+                mon: po
+                tue: ut
+                wed: sr
+                thu: "če"
+                fri: pe
+                sat: su
+              wide:
+                sun: nedelja
+                mon: ponedeljak
+                tue: utorak
+                wed: sreda
+                thu: "četvrtak"
+                fri: petak
+                sat: subota
+          quarters:
+            format:
+              abbreviated:
+                '1': K1
+                '2': K2
+                '3': K3
+                '4': K4
+              narrow:
+                '1': '1.'
+                '2': '2.'
+                '3': '3.'
+                '4': '4.'
+              wide:
+                '1': prvi kvartal
+                '2': drugi kvartal
+                '3': treći kvartal
+                '4': "četvrti kvartal"
+            stand_alone:
+              abbreviated:
+                '1': K1
+                '2': K2
+                '3': K3
+                '4': K4
+              narrow:
+                '1': '1.'
+                '2': '2.'
+                '3': '3.'
+                '4': '4.'
+              wide:
+                '1': prvi kvartal
+                '2': drugi kvartal
+                '3': treći kvartal
+                '4': "četvrti kvartal"
+          day_periods:
+            format:
+              abbreviated:
+                midnight: ponoć
+                am: pre podne
+                noon: podne
+                pm: po podne
+                morning1: jutro
+                afternoon1: po pod.
+                evening1: veče
+                night1: noć
+              narrow:
+                midnight: u ponoć
+                am: a
+                noon: u podne
+                pm: p
+                morning1: ujutru
+                afternoon1: po podne
+                evening1: uveče
+                night1: noću
+              wide:
+                midnight: ponoć
+                am: pre podne
+                noon: podne
+                pm: po podne
+                morning1: jutro
+                afternoon1: popodne
+                evening1: veče
+                night1: noć
+            stand_alone:
+              abbreviated:
+                midnight: ponoć
+                am: pre podne
+                noon: podne
+                pm: po podne
+                morning1: jutro
+                afternoon1: popodne
+                evening1: veče
+                night1: noć
+              narrow:
+                midnight: ponoć
+                am: pre podne
+                noon: podne
+                pm: po podne
+                morning1: jutro
+                afternoon1: popodne
+                evening1: veče
+                night1: noć
+              wide:
+                midnight: ponoć
+                am: pre podne
+                noon: podne
+                pm: po podne
+                morning1: jutro
+                afternoon1: popodne
+                evening1: veče
+                night1: noć
+          eras:
+            era_names:
+              '0': pre nove ere
+              0_alt_variant: p. n. e.
+              '1': nove ere
+              1_alt_variant: n. e.
+            era_abbr:
+              '0': p. n. e.
+              0_alt_variant: BCE
+              '1': n. e.
+              1_alt_variant: CE
+            era_narrow:
+              '0': p.n.e.
+              0_alt_variant: BCE
+              '1': n.e.
+              1_alt_variant: CE
+          date_formats:
+            full: EEEE, dd. MMMM y.
+            long: dd. MMMM y.
+            medium: dd.MM.y.
+            short: d.M.yy.
+          time_formats:
+            full: HH.mm.ss zzzz
+            long: HH.mm.ss z
+            medium: HH.mm.ss
+            short: HH.mm
+          date_time_formats:
+            full: "{1} {0}"
+            long: "{1} {0}"
+            medium: "{1} {0}"
+            short: "{1} {0}"
+            available_formats:
+              d: d
+              e: E
+              ed: E d.
+              ehm: E, h.mm a
+              e_hm: E, HH.mm
+              ehms: E, h.mm.ss a
+              e_hms: E, HH.mm.ss
+              gy: y. G
+              gy_mmm: MMM y. G
+              gy_mm_md: d. MMM y. G
+              gy_mmm_ed: E, d. MMM y. G
+              h: HH
+              hm: HH.mm
+              hms: HH.mm.ss
+              hmsv: HH.mm.ss v
+              hmv: HH.mm v
+              m: L
+              md: d/M
+              m_ed: E, d.M.
+              m_mdd: MM-dd
+              mmm: LLL
+              mm_md: d. MMM
+              mm_mdd: dd.MMM
+              mmm_ed: E d. MMM
+              mmm_md: d. MMMM
+              mmmm_ed: E, d. MMMM
+              ms: mm.ss
+              y: y.
+              y_m: M.y.
+              y_md: d.M.y.
+              y_m_ed: E, d.M.y.
+              y_mm: MM.y.
+              y_m_mdd: dd.MM.y.
+              y_mmm: MMM y.
+              y_mm_md: d. MMM y.
+              y_mmm_ed: E, d. MMM y.
+              y_mmmm: MMMM y.
+              y_qqq: QQQ. y
+              y_qqqq: QQQQ. y
+            append_items:
+              day: "{0} ({2}: {1})"
+              day_of_week: "{0} {1}"
+              era: "{1} {0}"
+              hour: "{0} ({2}: {1})"
+              minute: "{0} ({2}: {1})"
+              month: "{0} ({2}: {1})"
+              quarter: "{0} ({2}: {1})"
+              second: "{0} ({2}: {1})"
+              timezone: "{0} {1}"
+              week: "{0} ({2}: {1})"
+              year: "{1} {0}"
+            interval_formats:
+              interval_format_fallback: "{0} – {1}"
+              d:
+                d: d–d
+              h:
+                h: HH–HH
+              hm:
+                h: HH.mm–HH.mm
+                m: HH.mm–HH.mm
+              hmv:
+                h: HH.mm–HH.mm v
+                m: HH.mm–HH.mm v
+              hv:
+                h: HH–HH v
+              m:
+                m: M–M
+              md:
+                d: d.M – d.M
+                m: d.M – d.M
+              m_ed:
+                d: E, d.M – E, d.M
+                m: E, d.M – E, d.M
+              mmm:
+                m: MMM–MMM
+              mm_md:
+                d: dd.–dd. MMM
+                m: dd. MMM – dd. MMM
+              mmm_ed:
+                d: E, dd. – E, dd. MMM
+                m: E, dd. MMM – E, dd. MMM
+              y:
+                y: y–y
+              y_m:
+                m: M – M, y
+                y: M.y. – M.y.
+              y_md:
+                d: d.M.y. – d.M.y.
+                m: d.M.y. – d.M.y.
+                y: d.M.y. – d.M.y.
+              y_m_ed:
+                d: E, d.M.y. – E, d.M.y.
+                m: E, d.M.y. – E, d.M.y.
+                y: E, d.M.y. – E, d.M.y.
+              y_mmm:
+                m: MMM–MMM y.
+                y: MMM y. – MMM y.
+              y_mm_md:
+                d: dd.–dd. MMM y.
+                m: dd. MMM – dd. MMM y.
+                y: dd. MMM y. – dd. MMM y.
+              y_mmm_ed:
+                d: E, dd. – E, dd. MMM y.
+                m: E, dd. MMM – E, dd. MMM y.
+                y: E, dd. MMM y. – E, dd. MMM y.
+              y_mmmm:
+                m: MMMM – MMMM y.
+                y: MMMM y – MMMM y.
+      fields:
+        era:
+          display_name: era
+        year:
+          display_name: godina
+          relative_type__1: prošle godine
+          relative_type_0: ove godine
+          relative_type_1: sledeće godine
+          relative_time_type_future:
+            relative_time_pattern_count_one: za {0} godinu
+            relative_time_pattern_count_few: za {0} godine
+            relative_time_pattern_count_other: za {0} godina
+          relative_time_type_past:
+            relative_time_pattern_count_one: pre {0} godine
+            relative_time_pattern_count_few: pre {0} godine
+            relative_time_pattern_count_other: pre {0} godina
+        year_short:
+          display_name: god.
+          relative_type__1: prošle godine
+          relative_type_0: ove godine
+          relative_type_1: sledeće godine
+          relative_time_type_future:
+            relative_time_pattern_count_one: za {0} god.
+            relative_time_pattern_count_few: za {0} god.
+            relative_time_pattern_count_other: za {0} god.
+          relative_time_type_past:
+            relative_time_pattern_count_one: pre {0} god.
+            relative_time_pattern_count_few: pre {0} god.
+            relative_time_pattern_count_other: pre {0} god.
+        year_narrow:
+          display_name: g.
+          relative_type__1: prošle godine
+          relative_type_0: ove godine
+          relative_type_1: sledeće godine
+          relative_time_type_future:
+            relative_time_pattern_count_one: za {0} g.
+            relative_time_pattern_count_few: za {0} g.
+            relative_time_pattern_count_other: za {0} g.
+          relative_time_type_past:
+            relative_time_pattern_count_one: pre {0} g.
+            relative_time_pattern_count_few: pre {0} g.
+            relative_time_pattern_count_other: pre {0} g.
+        quarter:
+          display_name: kvartal
+          relative_type__1: prošlog kvartala
+          relative_type_0: ovog kvartala
+          relative_type_1: sledećeg kvartala
+          relative_time_type_future:
+            relative_time_pattern_count_one: za {0} kvartal
+            relative_time_pattern_count_few: za {0} kvartala
+            relative_time_pattern_count_other: za {0} kvartala
+          relative_time_type_past:
+            relative_time_pattern_count_one: pre {0} kvartala
+            relative_time_pattern_count_few: pre {0} kvartala
+            relative_time_pattern_count_other: pre {0} kvartala
+        quarter_short:
+          display_name: kv.
+          relative_type__1: prošlog kvartala
+          relative_type_0: ovog kvartala
+          relative_type_1: sledećeg kvartala
+          relative_time_type_future:
+            relative_time_pattern_count_one: za {0} kv.
+            relative_time_pattern_count_few: za {0} kv.
+            relative_time_pattern_count_other: za {0} kv.
+          relative_time_type_past:
+            relative_time_pattern_count_one: pre {0} kv.
+            relative_time_pattern_count_few: pre {0} kv.
+            relative_time_pattern_count_other: pre {0} kv.
+        quarter_narrow:
+          display_name: kv.
+          relative_type__1: prošlog kvartala
+          relative_type_0: ovog kvartala
+          relative_type_1: sledećeg kvartala
+          relative_time_type_future:
+            relative_time_pattern_count_one: za {0} kv.
+            relative_time_pattern_count_few: za {0} kv.
+            relative_time_pattern_count_other: za {0} kv.
+          relative_time_type_past:
+            relative_time_pattern_count_one: pre {0} kv.
+            relative_time_pattern_count_few: pre {0} kv.
+            relative_time_pattern_count_other: pre {0} kv.
+        month:
+          display_name: mesec
+          relative_type__1: prošlog meseca
+          relative_type_0: ovog meseca
+          relative_type_1: sledećeg meseca
+          relative_time_type_future:
+            relative_time_pattern_count_one: za {0} mesec
+            relative_time_pattern_count_few: za {0} meseca
+            relative_time_pattern_count_other: za {0} meseci
+          relative_time_type_past:
+            relative_time_pattern_count_one: pre {0} meseca
+            relative_time_pattern_count_few: pre {0} meseca
+            relative_time_pattern_count_other: pre {0} meseci
+        month_short:
+          display_name: mes.
+          relative_type__1: prošlog meseca
+          relative_type_0: ovog meseca
+          relative_type_1: sledećeg meseca
+          relative_time_type_future:
+            relative_time_pattern_count_one: za {0} mes.
+            relative_time_pattern_count_few: za {0} mes.
+            relative_time_pattern_count_other: za {0} mes.
+          relative_time_type_past:
+            relative_time_pattern_count_one: pre {0} mes.
+            relative_time_pattern_count_few: pre {0} mes.
+            relative_time_pattern_count_other: pre {0} mes.
+        month_narrow:
+          display_name: m.
+          relative_type__1: prošlog meseca
+          relative_type_0: ovog meseca
+          relative_type_1: sledećeg meseca
+          relative_time_type_future:
+            relative_time_pattern_count_one: za {0} m.
+            relative_time_pattern_count_few: za {0} m.
+            relative_time_pattern_count_other: za {0} m.
+          relative_time_type_past:
+            relative_time_pattern_count_one: pre {0} m.
+            relative_time_pattern_count_few: pre {0} m.
+            relative_time_pattern_count_other: pre {0} m.
+        week:
+          display_name: nedelja
+          relative_type__1: prošle nedelje
+          relative_type_0: ove nedelje
+          relative_type_1: sledeće nedelje
+          relative_time_type_future:
+            relative_time_pattern_count_one: za {0} nedelju
+            relative_time_pattern_count_few: za {0} nedelje
+            relative_time_pattern_count_other: za {0} nedelja
+          relative_time_type_past:
+            relative_time_pattern_count_one: pre {0} nedelje
+            relative_time_pattern_count_few: pre {0} nedelje
+            relative_time_pattern_count_other: pre {0} nedelja
+        week_short:
+          display_name: ned.
+          relative_type__1: prošle nedelje
+          relative_type_0: ove nedelje
+          relative_type_1: sledeće nedelje
+          relative_time_type_future:
+            relative_time_pattern_count_one: za {0} ned.
+            relative_time_pattern_count_few: za {0} ned.
+            relative_time_pattern_count_other: za {0} ned.
+          relative_time_type_past:
+            relative_time_pattern_count_one: pre {0} ned.
+            relative_time_pattern_count_few: pre {0} ned.
+            relative_time_pattern_count_other: pre {0} ned.
+        week_narrow:
+          display_name: n.
+          relative_type__1: prošle nedelje
+          relative_type_0: ove nedelje
+          relative_type_1: sledeće nedelje
+          relative_time_type_future:
+            relative_time_pattern_count_one: za {0} n.
+            relative_time_pattern_count_few: za {0} n.
+            relative_time_pattern_count_other: za {0} n.
+          relative_time_type_past:
+            relative_time_pattern_count_one: pre {0} n.
+            relative_time_pattern_count_few: pre {0} n.
+            relative_time_pattern_count_other: pre {0} n.
+        day:
+          display_name: dan
+          relative_type__2: prekjuče
+          relative_type__1: juče
+          relative_type_0: danas
+          relative_type_1: sutra
+          relative_type_2: prekosutra
+          relative_time_type_future:
+            relative_time_pattern_count_one: za {0} dan
+            relative_time_pattern_count_few: za {0} dana
+            relative_time_pattern_count_other: za {0} dana
+          relative_time_type_past:
+            relative_time_pattern_count_one: pre {0} dana
+            relative_time_pattern_count_few: pre {0} dana
+            relative_time_pattern_count_other: pre {0} dana
+        day_short:
+          display_name: d.
+          relative_type__2: prekjuče
+          relative_type__1: juče
+          relative_type_0: danas
+          relative_type_1: sutra
+          relative_type_2: prekosutra
+          relative_time_type_future:
+            relative_time_pattern_count_one: za {0} d.
+            relative_time_pattern_count_few: za {0} d.
+            relative_time_pattern_count_other: za {0} d.
+          relative_time_type_past:
+            relative_time_pattern_count_one: pre {0} d.
+            relative_time_pattern_count_few: pre {0} d.
+            relative_time_pattern_count_other: pre {0} d.
+        day_narrow:
+          display_name: d.
+          relative_type__2: prekjuče
+          relative_type__1: juče
+          relative_type_0: danas
+          relative_type_1: sutra
+          relative_type_2: prekosutra
+          relative_time_type_future:
+            relative_time_pattern_count_one: za {0} d.
+            relative_time_pattern_count_few: za {0} d.
+            relative_time_pattern_count_other: za {0} d.
+          relative_time_type_past:
+            relative_time_pattern_count_one: pre {0} d.
+            relative_time_pattern_count_few: pre {0} d.
+            relative_time_pattern_count_other: pre {0} d.
+        weekday:
+          display_name: dan u nedelji
+        sun:
+          relative_type__1: prošle nedelje
+          relative_type_0: u nedelju
+          relative_type_1: sledeće nedelje
+        sun_short:
+          relative_type__1: prošle ned
+          relative_type_0: u ned
+          relative_type_1: sledeće ned
+        sun_narrow:
+          relative_type__1: prošle ned
+          relative_type_0: u ned
+          relative_type_1: sledeće ned
+        mon:
+          relative_type__1: prošlog ponedeljka
+          relative_type_0: u ponedeljak
+          relative_type_1: sledećeg ponedeljka
+        mon_short:
+          relative_type__1: prošlog pon
+          relative_type_0: u pon
+          relative_type_1: sledećeg pon
+        mon_narrow:
+          relative_type__1: prošlog pon
+          relative_type_0: u pon
+          relative_type_1: sledećeg pon
+        tue:
+          relative_type__1: prošlog utorka
+          relative_type_0: u utorak
+          relative_type_1: sledećeg utorka
+        tue_short:
+          relative_type__1: prošlog uto
+          relative_type_0: u uto
+          relative_type_1: sledećeg uto
+        tue_narrow:
+          relative_type__1: prošlog uto
+          relative_type_0: u uto
+          relative_type_1: sledećeg uto
+        wed:
+          relative_type__1: prošle srede
+          relative_type_0: u sredu
+          relative_type_1: sledeće srede
+        wed_short:
+          relative_type__1: prošle sre
+          relative_type_0: u sre
+          relative_type_1: sledeće sre
+        wed_narrow:
+          relative_type__1: prošle sre
+          relative_type_0: u sre
+          relative_type_1: sledeće sre
+        thu:
+          relative_type__1: prošlog četvrtka
+          relative_type_0: u četvrtak
+          relative_type_1: sledećeg četvrtka
+        thu_short:
+          relative_type__1: prošlog čet
+          relative_type_0: u čet
+          relative_type_1: sledećeg čet
+        thu_narrow:
+          relative_type__1: prošlog čet
+          relative_type_0: u čet
+          relative_type_1: sledećeg čet
+        fri:
+          relative_type__1: prošlog petka
+          relative_type_0: u petak
+          relative_type_1: sledećeg petka
+        fri_short:
+          relative_type__1: prošlog pet
+          relative_type_0: u pet
+          relative_type_1: sledećeg pet
+        fri_narrow:
+          relative_type__1: prošlog pet
+          relative_type_0: u pet
+          relative_type_1: sledećeg pet
+        sat:
+          relative_type__1: prošle subote
+          relative_type_0: u subotu
+          relative_type_1: sledeće subote
+        sat_short:
+          relative_type__1: prošle sub
+          relative_type_0: u sub
+          relative_type_1: sledeće sub
+        sat_narrow:
+          relative_type__1: prošle sub
+          relative_type_0: u sub
+          relative_type_1: sledeće sub
+        dayperiod:
+          display_name: pre podne/po podne
+        hour:
+          display_name: sat
+          relative_time_type_future:
+            relative_time_pattern_count_one: za {0} sat
+            relative_time_pattern_count_few: za {0} sata
+            relative_time_pattern_count_other: za {0} sati
+          relative_time_type_past:
+            relative_time_pattern_count_one: pre {0} sata
+            relative_time_pattern_count_few: pre {0} sata
+            relative_time_pattern_count_other: pre {0} sati
+        hour_short:
+          display_name: "č."
+          relative_time_type_future:
+            relative_time_pattern_count_one: za {0} č.
+            relative_time_pattern_count_few: za {0} č.
+            relative_time_pattern_count_other: za {0} č.
+          relative_time_type_past:
+            relative_time_pattern_count_one: pre {0} č.
+            relative_time_pattern_count_few: pre {0} č.
+            relative_time_pattern_count_other: pre {0} č.
+        hour_narrow:
+          display_name: "č."
+          relative_time_type_future:
+            relative_time_pattern_count_one: za {0} č.
+            relative_time_pattern_count_few: za {0} č.
+            relative_time_pattern_count_other: za {0} č.
+          relative_time_type_past:
+            relative_time_pattern_count_one: pre {0} č.
+            relative_time_pattern_count_few: pre {0} č.
+            relative_time_pattern_count_other: pre {0} č.
+        minute:
+          display_name: minut
+          relative_time_type_future:
+            relative_time_pattern_count_one: za {0} minut
+            relative_time_pattern_count_few: za {0} minuta
+            relative_time_pattern_count_other: za {0} minuta
+          relative_time_type_past:
+            relative_time_pattern_count_one: pre {0} minuta
+            relative_time_pattern_count_few: pre {0} minuta
+            relative_time_pattern_count_other: pre {0} minuta
+        minute_short:
+          display_name: min.
+          relative_time_type_future:
+            relative_time_pattern_count_one: za {0} min.
+            relative_time_pattern_count_few: za {0} min.
+            relative_time_pattern_count_other: za {0} min.
+          relative_time_type_past:
+            relative_time_pattern_count_one: pre {0} min.
+            relative_time_pattern_count_few: pre {0} min.
+            relative_time_pattern_count_other: pre {0} min.
+        minute_narrow:
+          display_name: min.
+          relative_time_type_future:
+            relative_time_pattern_count_one: za {0} min.
+            relative_time_pattern_count_few: za {0} min.
+            relative_time_pattern_count_other: za {0} min.
+          relative_time_type_past:
+            relative_time_pattern_count_one: pre {0} min.
+            relative_time_pattern_count_few: pre {0} min.
+            relative_time_pattern_count_other: pre {0} min.
+        second:
+          display_name: sekund
+          relative_type_0: sada
+          relative_time_type_future:
+            relative_time_pattern_count_one: za {0} sekundu
+            relative_time_pattern_count_few: za {0} sekunde
+            relative_time_pattern_count_other: za {0} sekundi
+          relative_time_type_past:
+            relative_time_pattern_count_one: pre {0} sekunde
+            relative_time_pattern_count_few: pre {0} sekunde
+            relative_time_pattern_count_other: pre {0} sekundi
+        second_short:
+          display_name: sek.
+          relative_type_0: sada
+          relative_time_type_future:
+            relative_time_pattern_count_one: za {0} sek.
+            relative_time_pattern_count_few: za {0} sek.
+            relative_time_pattern_count_other: za {0} sek.
+          relative_time_type_past:
+            relative_time_pattern_count_one: pre {0} sek.
+            relative_time_pattern_count_few: pre {0} sek.
+            relative_time_pattern_count_other: pre {0} sek.
+        second_narrow:
+          display_name: s.
+          relative_type_0: sada
+          relative_time_type_future:
+            relative_time_pattern_count_one: za {0} s.
+            relative_time_pattern_count_few: za {0} s.
+            relative_time_pattern_count_other: za {0} s.
+          relative_time_type_past:
+            relative_time_pattern_count_one: pre {0} s.
+            relative_time_pattern_count_few: pre {0} s.
+            relative_time_pattern_count_other: pre {0} s.
+        zone:
+          display_name: vremenska zona
+      time_zone_names:
+        hour_format: "+HHmm;-HHmm"
+        gmt_format: GMT{0}
+        gmt_zero_format: GMT
+        region_format: 'Vreme u zemlji: {0}'
+        region_format_type_daylight: "{0}, letnje vreme"
+        region_format_type_standard: "{0}, standardno vreme"
+        fallback_format: "{1} ({0})"
+        zone:
+          america:
+            adak:
+              exemplar_city: Adak
+            anchorage:
+              exemplar_city: Enkoridž
+            anguilla:
+              exemplar_city: Angvila
+            antigua:
+              exemplar_city: Antigva
+            araguaina:
+              exemplar_city: Aragvajana
+            argentina:
+              rio_gallegos:
+                exemplar_city: Rio Gelegos
+              san_juan:
+                exemplar_city: San Huan
+              ushuaia:
+                exemplar_city: Ušuaija
+              la_rioja:
+                exemplar_city: La Rioha
+              san_luis:
+                exemplar_city: San Lui
+              salta:
+                exemplar_city: Salta
+              tucuman:
+                exemplar_city: Tukuman
+            aruba:
+              exemplar_city: Aruba
+            asuncion:
+              exemplar_city: Asunsion
+            bahia:
+              exemplar_city: Baija
+            bahia_banderas:
+              exemplar_city: Baija Banderas
+            barbados:
+              exemplar_city: Barbados
+            belem:
+              exemplar_city: Belem
+            belize:
+              exemplar_city: Belize
+            blanc_sablon:
+              exemplar_city: Blank-Sejblon
+            boa_vista:
+              exemplar_city: Boa Vista
+            bogota:
+              exemplar_city: Bogota
+            boise:
+              exemplar_city: Bojzi
+            buenos_aires:
+              exemplar_city: Buenos Ajres
+            cambridge_bay:
+              exemplar_city: Kembridž Bej
+            campo_grande:
+              exemplar_city: Kampo Grande
+            cancun:
+              exemplar_city: Kankun
+            caracas:
+              exemplar_city: Karakas
+            catamarca:
+              exemplar_city: Katamarka
+            cayenne:
+              exemplar_city: Kajen
+            cayman:
+              exemplar_city: Kajmanska Ostrva
+            chicago:
+              exemplar_city: "Čikago"
+            chihuahua:
+              exemplar_city: "Čihuahua"
+            coral_harbour:
+              exemplar_city: Koral Harbur
+            cordoba:
+              exemplar_city: Kordoba
+            costa_rica:
+              exemplar_city: Kostarika
+            creston:
+              exemplar_city: Kreston
+            cuiaba:
+              exemplar_city: Kuiaba
+            curacao:
+              exemplar_city: Kiraso
+            danmarkshavn:
+              exemplar_city: Danmarkshagen
+            dawson:
+              exemplar_city: Doson
+            dawson_creek:
+              exemplar_city: Doson Krik
+            denver:
+              exemplar_city: Denver
+            detroit:
+              exemplar_city: Detroit
+            dominica:
+              exemplar_city: Dominika
+            edmonton:
+              exemplar_city: Edmonton
+            eirunepe:
+              exemplar_city: Eirunepe
+            el_salvador:
+              exemplar_city: Salvador
+            fortaleza:
+              exemplar_city: Fortaleza
+            glace_bay:
+              exemplar_city: Glejs Bej
+            godthab:
+              exemplar_city: Gothab
+            goose_bay:
+              exemplar_city: Gus Bej
+            grand_turk:
+              exemplar_city: Grand Turk
+            grenada:
+              exemplar_city: Grenada
+            guadeloupe:
+              exemplar_city: Gvadalupe
+            guatemala:
+              exemplar_city: Gvatemala
+            guayaquil:
+              exemplar_city: Gvajakil
+            guyana:
+              exemplar_city: Gvajana
+            halifax:
+              exemplar_city: Halifaks
+            havana:
+              exemplar_city: Havana
+            hermosillo:
+              exemplar_city: Hermosiljo
+            indiana:
+              vincennes:
+                exemplar_city: Vincenes, Indijana
+              petersburg:
+                exemplar_city: Pitersburg, Indijana
+              tell_city:
+                exemplar_city: Tel Siti
+              knox:
+                exemplar_city: Noks, Indijana
+              winamac:
+                exemplar_city: Vinamak, Indijana
+              marengo:
+                exemplar_city: Marengo, Indijana
+              vevay:
+                exemplar_city: Vevaj, Indijana
+            indianapolis:
+              exemplar_city: Indianapolis
+            inuvik:
+              exemplar_city: Inuvik
+            iqaluit:
+              exemplar_city: Ikvaluit
+            jamaica:
+              exemplar_city: Jamajka
+            jujuy:
+              exemplar_city: "Žužui"
+            juneau:
+              exemplar_city: "Žuno"
+            kentucky:
+              monticello:
+                exemplar_city: Montičelo, Kentaki
+            kralendijk:
+              exemplar_city: Kralendajk
+            la_paz:
+              exemplar_city: La Paz
+            lima:
+              exemplar_city: Lima
+            los_angeles:
+              exemplar_city: Los Anđeles
+            louisville:
+              exemplar_city: Luivile
+            lower_princes:
+              exemplar_city: Louer Prinsiz Kvorter
+            maceio:
+              exemplar_city: Masejo
+            managua:
+              exemplar_city: Managva
+            manaus:
+              exemplar_city: Manaus
+            marigot:
+              exemplar_city: Marigo
+            martinique:
+              exemplar_city: Martinik
+            matamoros:
+              exemplar_city: Matamoros
+            mazatlan:
+              exemplar_city: Mazatlan
+            mendoza:
+              exemplar_city: Mendosa
+            menominee:
+              exemplar_city: Menomini
+            merida:
+              exemplar_city: Merida
+            metlakatla:
+              exemplar_city: Metlakatla
+            mexico_city:
+              exemplar_city: Meksiko Siti
+            miquelon:
+              exemplar_city: Mikelon
+            moncton:
+              exemplar_city: Monkton
+            monterrey:
+              exemplar_city: Monterej
+            montevideo:
+              exemplar_city: Montevideo
+            montserrat:
+              exemplar_city: Montserat
+            nassau:
+              exemplar_city: Nasau
+            new_york:
+              exemplar_city: Njujork
+            nipigon:
+              exemplar_city: Nipigon
+            nome:
+              exemplar_city: Nom
+            noronha:
+              exemplar_city: Noronja
+            north_dakota:
+              beulah:
+                exemplar_city: Bijula, Severna Dakota
+              new_salem:
+                exemplar_city: Novi Salem, Severna Dakota
+              center:
+                exemplar_city: Centar, Severna Dakota
+            ojinaga:
+              exemplar_city: Ohinaga
+            panama:
+              exemplar_city: Panama
+            pangnirtung:
+              exemplar_city: Pangnirtung
+            paramaribo:
+              exemplar_city: Paramaribo
+            phoenix:
+              exemplar_city: Finiks
+            port_au_prince:
+              exemplar_city: Port-o-Prens
+            port_of_spain:
+              exemplar_city: Port of Spejn
+            porto_velho:
+              exemplar_city: Porto Veljo
+            puerto_rico:
+              exemplar_city: Porto Riko
+            rainy_river:
+              exemplar_city: Rejni River
+            rankin_inlet:
+              exemplar_city: Rankin Inlet
+            recife:
+              exemplar_city: Resife
+            regina:
+              exemplar_city: Regina
+            resolute:
+              exemplar_city: Resolut
+            rio_branco:
+              exemplar_city: Rio Branko
+            santa_isabel:
+              exemplar_city: Santa Izabel
+            santarem:
+              exemplar_city: Santarem
+            santiago:
+              exemplar_city: Santjago
+            santo_domingo:
+              exemplar_city: Santo Domingo
+            sao_paulo:
+              exemplar_city: Sao Paolo
+            scoresbysund:
+              exemplar_city: Skorezbisund
+            sitka:
+              exemplar_city: Sitka
+            st_barthelemy:
+              exemplar_city: Sv. Bartolomej
+            st_johns:
+              exemplar_city: Sv. Džon
+            st_kitts:
+              exemplar_city: Sent Kits
+            st_lucia:
+              exemplar_city: Sv. Lucija
+            st_thomas:
+              exemplar_city: Sv. Toma
+            st_vincent:
+              exemplar_city: Sent Vinsent
+            swift_current:
+              exemplar_city: Svift Kurent
+            tegucigalpa:
+              exemplar_city: Tegusigalpa
+            thule:
+              exemplar_city: Tul
+            thunder_bay:
+              exemplar_city: Tander Bej
+            tijuana:
+              exemplar_city: Tihuana
+            toronto:
+              exemplar_city: Toronto
+            tortola:
+              exemplar_city: Tortola
+            vancouver:
+              exemplar_city: Vankuver
+            whitehorse:
+              exemplar_city: Vajthors
+            winnipeg:
+              exemplar_city: Vinipeg
+            yakutat:
+              exemplar_city: Jakutat
+            yellowknife:
+              exemplar_city: Jelounajf
+          atlantic:
+            azores:
+              exemplar_city: Azori
+            bermuda:
+              exemplar_city: Bermuda
+            canary:
+              exemplar_city: Kanarska ostrva
+            cape_verde:
+              exemplar_city: Zelenortska Ostrva
+            faeroe:
+              exemplar_city: Farska Ostrva
+            madeira:
+              exemplar_city: Madeira
+            reykjavik:
+              exemplar_city: Rejkjavik
+            south_georgia:
+              exemplar_city: Južna Džordžija
+            st_helena:
+              exemplar_city: Sveta Jelena
+            stanley:
+              exemplar_city: Stenli
+          europe:
+            amsterdam:
+              exemplar_city: Amsterdam
+            andorra:
+              exemplar_city: Andora
+            athens:
+              exemplar_city: Atina
+            belgrade:
+              exemplar_city: Beograd
+            berlin:
+              exemplar_city: Berlin
+            bratislava:
+              exemplar_city: Bratislava
+            brussels:
+              exemplar_city: Brisel
+            bucharest:
+              exemplar_city: Bukurešt
+            budapest:
+              exemplar_city: Budimpešta
+            busingen:
+              exemplar_city: Bisingen
+            chisinau:
+              exemplar_city: Kišinjev
+            copenhagen:
+              exemplar_city: Kopenhagen
+            dublin:
+              long:
+                daylight: Irska standardno vreme
+              exemplar_city: Dablin
+            gibraltar:
+              exemplar_city: Gibraltar
+            guernsey:
+              exemplar_city: Gernzi
+            helsinki:
+              exemplar_city: Helsinki
+            isle_of_man:
+              exemplar_city: Ostrvo Man
+            istanbul:
+              exemplar_city: Istanbul
+            jersey:
+              exemplar_city: Džersi
+            kaliningrad:
+              exemplar_city: Kalinjingrad
+            kiev:
+              exemplar_city: Kijev
+            lisbon:
+              exemplar_city: Lisabon
+            ljubljana:
+              exemplar_city: Ljubljana
+            london:
+              long:
+                daylight: Britanija letnje računanje vremena
+              exemplar_city: London
+            luxembourg:
+              exemplar_city: Luksemburg
+            madrid:
+              exemplar_city: Madrid
+            malta:
+              exemplar_city: Malta
+            mariehamn:
+              exemplar_city: Marihamn
+            minsk:
+              exemplar_city: Minsk
+            monaco:
+              exemplar_city: Monako
+            moscow:
+              exemplar_city: Moskva
+            oslo:
+              exemplar_city: Oslo
+            paris:
+              exemplar_city: Pariz
+            podgorica:
+              exemplar_city: Podgorica
+            prague:
+              exemplar_city: Prag
+            riga:
+              exemplar_city: Riga
+            rome:
+              exemplar_city: Rim
+            samara:
+              exemplar_city: Samara
+            san_marino:
+              exemplar_city: San Marino
+            sarajevo:
+              exemplar_city: Sarajevo
+            simferopol:
+              exemplar_city: Simferopolj
+            skopje:
+              exemplar_city: Skoplje
+            sofia:
+              exemplar_city: Sofija
+            stockholm:
+              exemplar_city: Stokholm
+            tallinn:
+              exemplar_city: Talin
+            tirane:
+              exemplar_city: Tirana
+            uzhgorod:
+              exemplar_city: Užgorod
+            vaduz:
+              exemplar_city: Vaduz
+            vatican:
+              exemplar_city: Vatikan
+            vienna:
+              exemplar_city: Beč
+            vilnius:
+              exemplar_city: Vilnjus
+            volgograd:
+              exemplar_city: Volgograd
+            warsaw:
+              exemplar_city: Varšava
+            zagreb:
+              exemplar_city: Zagreb
+            zaporozhye:
+              exemplar_city: Zaporožje
+            zurich:
+              exemplar_city: Cirih
+          africa:
+            abidjan:
+              exemplar_city: Abidžan
+            accra:
+              exemplar_city: Akra
+            addis_ababa:
+              exemplar_city: Adis Abeba
+            algiers:
+              exemplar_city: Alžir
+            asmera:
+              exemplar_city: Asmera
+            bamako:
+              exemplar_city: Bamako
+            bangui:
+              exemplar_city: Bangui
+            banjul:
+              exemplar_city: Banžul
+            bissau:
+              exemplar_city: Bisao
+            blantyre:
+              exemplar_city: Blantir
+            brazzaville:
+              exemplar_city: Brazavil
+            bujumbura:
+              exemplar_city: Budžumbura
+            cairo:
+              exemplar_city: Kairo
+            casablanca:
+              exemplar_city: Kazablanka
+            ceuta:
+              exemplar_city: Seuta
+            conakry:
+              exemplar_city: Konakri
+            dakar:
+              exemplar_city: Dakar
+            dar_es_salaam:
+              exemplar_city: Dar-es-Salam
+            djibouti:
+              exemplar_city: Džibuti
+            douala:
+              exemplar_city: Duala
+            el_aaiun:
+              exemplar_city: El Ajun
+            freetown:
+              exemplar_city: Fritaun
+            gaborone:
+              exemplar_city: Gaboron
+            harare:
+              exemplar_city: Harare
+            johannesburg:
+              exemplar_city: Johanesburg
+            juba:
+              exemplar_city: Džuba
+            kampala:
+              exemplar_city: Kampala
+            khartoum:
+              exemplar_city: Kartum
+            kigali:
+              exemplar_city: Kigali
+            kinshasa:
+              exemplar_city: Kinšasa
+            lagos:
+              exemplar_city: Lagos
+            libreville:
+              exemplar_city: Librevil
+            lome:
+              exemplar_city: Lome
+            luanda:
+              exemplar_city: Luanda
+            lubumbashi:
+              exemplar_city: Lubumbaši
+            lusaka:
+              exemplar_city: Lusaka
+            malabo:
+              exemplar_city: Malabo
+            maputo:
+              exemplar_city: Maputo
+            maseru:
+              exemplar_city: Maseru
+            mbabane:
+              exemplar_city: Mbabane
+            mogadishu:
+              exemplar_city: Mogadiš
+            monrovia:
+              exemplar_city: Monrovija
+            nairobi:
+              exemplar_city: Najrobi
+            ndjamena:
+              exemplar_city: Ndžamena
+            niamey:
+              exemplar_city: Nijamej
+            nouakchott:
+              exemplar_city: Nuakšot
+            ouagadougou:
+              exemplar_city: Uagadugu
+            porto_novo:
+              exemplar_city: Porto Novo
+            sao_tome:
+              exemplar_city: Sao Tome
+            tripoli:
+              exemplar_city: Tripoli
+            tunis:
+              exemplar_city: Tunis
+            windhoek:
+              exemplar_city: Vindhuk
+          asia:
+            aden:
+              exemplar_city: Aden
+            almaty:
+              exemplar_city: Almati
+            amman:
+              exemplar_city: Aman
+            anadyr:
+              exemplar_city: Anadir
+            aqtau:
+              exemplar_city: Aktau
+            aqtobe:
+              exemplar_city: Akutobe
+            ashgabat:
+              exemplar_city: Ašhabad
+            baghdad:
+              exemplar_city: Bagdad
+            bahrain:
+              exemplar_city: Bahrein
+            baku:
+              exemplar_city: Baku
+            bangkok:
+              exemplar_city: Bankok
+            beirut:
+              exemplar_city: Bejrut
+            bishkek:
+              exemplar_city: Biškek
+            brunei:
+              exemplar_city: Bruneji
+            calcutta:
+              exemplar_city: Kalkuta
+            chita:
+              exemplar_city: "Čita"
+            choibalsan:
+              exemplar_city: "Čojbalsan"
+            colombo:
+              exemplar_city: Kolombo
+            damascus:
+              exemplar_city: Damask
+            dhaka:
+              exemplar_city: Daka
+            dili:
+              exemplar_city: Dili
+            dubai:
+              exemplar_city: Dubai
+            dushanbe:
+              exemplar_city: Dušanbe
+            gaza:
+              exemplar_city: Gaza
+            hebron:
+              exemplar_city: Hebron
+            hong_kong:
+              exemplar_city: Hong Kong
+            hovd:
+              exemplar_city: Hovd
+            irkutsk:
+              exemplar_city: Irkuck
+            jakarta:
+              exemplar_city: Džakarta
+            jayapura:
+              exemplar_city: Džajapura
+            jerusalem:
+              exemplar_city: Jerusalim
+            kabul:
+              exemplar_city: Kabul
+            kamchatka:
+              exemplar_city: Kamčatka
+            karachi:
+              exemplar_city: Karači
+            katmandu:
+              exemplar_city: Katmandu
+            khandyga:
+              exemplar_city: Handiga
+            krasnoyarsk:
+              exemplar_city: Krasnojarsk
+            kuala_lumpur:
+              exemplar_city: Kuala Lumpur
+            kuching:
+              exemplar_city: Kučing
+            kuwait:
+              exemplar_city: Kuvajt
+            macau:
+              exemplar_city: Makao
+            magadan:
+              exemplar_city: Magadan
+            makassar:
+              exemplar_city: Makasar
+            manila:
+              exemplar_city: Manila
+            muscat:
+              exemplar_city: Muskat
+            nicosia:
+              exemplar_city: Nikozija
+            novokuznetsk:
+              exemplar_city: Novokuznjeck
+            novosibirsk:
+              exemplar_city: Novosibirsk
+            omsk:
+              exemplar_city: Omsk
+            oral:
+              exemplar_city: Oral
+            phnom_penh:
+              exemplar_city: Pnom Pen
+            pontianak:
+              exemplar_city: Pontijanak
+            pyongyang:
+              exemplar_city: Pjongjang
+            qatar:
+              exemplar_city: Katar
+            qyzylorda:
+              exemplar_city: Kizilorda
+            rangoon:
+              exemplar_city: Rangun
+            riyadh:
+              exemplar_city: Rijad
+            saigon:
+              exemplar_city: Ho Ši Min
+            sakhalin:
+              exemplar_city: Sahalin
+            samarkand:
+              exemplar_city: Samarkand
+            seoul:
+              exemplar_city: Seul
+            shanghai:
+              exemplar_city: "Šangaj"
+            singapore:
+              exemplar_city: Singapur
+            srednekolymsk:
+              exemplar_city: Srednjekolimsk
+            taipei:
+              exemplar_city: Tajpej
+            tashkent:
+              exemplar_city: Taškent
+            tbilisi:
+              exemplar_city: Tbilisi
+            tehran:
+              exemplar_city: Teheran
+            thimphu:
+              exemplar_city: Timpu
+            tokyo:
+              exemplar_city: Tokio
+            ulaanbaatar:
+              exemplar_city: Ulan Bator
+            urumqi:
+              exemplar_city: Urumkvi
+            ust_nera:
+              exemplar_city: Ust-Nera
+            vientiane:
+              exemplar_city: Vijentijan
+            vladivostok:
+              exemplar_city: Vladivostok
+            yakutsk:
+              exemplar_city: Jakutsk
+            yekaterinburg:
+              exemplar_city: Jekaterinburg
+            yerevan:
+              exemplar_city: Jerevan
+          indian:
+            antananarivo:
+              exemplar_city: Antananarivo
+            chagos:
+              exemplar_city: "Čagos"
+            christmas:
+              exemplar_city: Božić
+            cocos:
+              exemplar_city: Kokos
+            comoro:
+              exemplar_city: Komoro
+            kerguelen:
+              exemplar_city: Kergelen
+            mahe:
+              exemplar_city: Mahe
+            maldives:
+              exemplar_city: Maldivi
+            mauritius:
+              exemplar_city: Mauricijus
+            mayotte:
+              exemplar_city: Majot
+            reunion:
+              exemplar_city: Reunion
+          australia:
+            adelaide:
+              exemplar_city: Adelejd
+            brisbane:
+              exemplar_city: Brizbejn
+            broken_hill:
+              exemplar_city: Broken Hil
+            currie:
+              exemplar_city: Kari
+            darwin:
+              exemplar_city: Darvin
+            eucla:
+              exemplar_city: Iukla
+            hobart:
+              exemplar_city: Hobart
+            lindeman:
+              exemplar_city: Lindeman
+            lord_howe:
+              exemplar_city: Lord Hau
+            melbourne:
+              exemplar_city: Melburn
+            perth:
+              exemplar_city: Pert
+            sydney:
+              exemplar_city: Sidnej
+          pacific:
+            apia:
+              exemplar_city: Apija
+            auckland:
+              exemplar_city: Okland
+            bougainville:
+              exemplar_city: Buganvil
+            chatham:
+              exemplar_city: "Čatam"
+            easter:
+              exemplar_city: Uskršnje ostrvo
+            efate:
+              exemplar_city: Efat
+            enderbury:
+              exemplar_city: Enderberi
+            fakaofo:
+              exemplar_city: Fakaofo
+            fiji:
+              exemplar_city: Fidži
+            funafuti:
+              exemplar_city: Funafuti
+            galapagos:
+              exemplar_city: Galapagos
+            gambier:
+              exemplar_city: Gambije
+            guadalcanal:
+              exemplar_city: Gvadalkanal
+            guam:
+              exemplar_city: Guam
+            honolulu:
+              exemplar_city: Honolulu
+            johnston:
+              exemplar_city: Džonston
+            kiritimati:
+              exemplar_city: Kiritimati
+            kosrae:
+              exemplar_city: Košre
+            kwajalein:
+              exemplar_city: Kvadžalejin
+            majuro:
+              exemplar_city: Majuro
+            marquesas:
+              exemplar_city: Markiz
+            midway:
+              exemplar_city: Midvej
+            nauru:
+              exemplar_city: Nauru
+            niue:
+              exemplar_city: Niue
+            norfolk:
+              exemplar_city: Norfolk
+            noumea:
+              exemplar_city: Numea
+            pago_pago:
+              exemplar_city: Pago Pago
+            palau:
+              exemplar_city: Palau
+            pitcairn:
+              exemplar_city: Pitkern
+            ponape:
+              exemplar_city: Ponape
+            port_moresby:
+              exemplar_city: Port Morzbi
+            rarotonga:
+              exemplar_city: Rarotonga
+            saipan:
+              exemplar_city: Sajpan
+            tahiti:
+              exemplar_city: Tahiti
+            tarawa:
+              exemplar_city: Tarava
+            tongatapu:
+              exemplar_city: Tongatapu
+            truk:
+              exemplar_city: Truk
+            wake:
+              exemplar_city: Vejk
+            wallis:
+              exemplar_city: Valis
+          arctic:
+            longyearbyen:
+              exemplar_city: Longjerbjen
+          antarctica:
+            casey:
+              exemplar_city: Kejsi
+            davis:
+              exemplar_city: Dejvis
+            dumont_d_urville:
+              exemplar_city: Dimon d’Urvil
+            macquarie:
+              exemplar_city: Mekvori
+            mawson:
+              exemplar_city: Moson
+            mc_murdo:
+              exemplar_city: Makmurdo
+            palmer:
+              exemplar_city: Palmer
+            rothera:
+              exemplar_city: Rotera
+            syowa:
+              exemplar_city: "Šova"
+            troll:
+              exemplar_city: Trol
+            vostok:
+              exemplar_city: Vostok
+          etc:
+            gmt:
+              exemplar_city: GMT
+            gmt1:
+              exemplar_city: GMT+1
+            gmt10:
+              exemplar_city: GMT+10
+            gmt11:
+              exemplar_city: GMT+11
+            gmt12:
+              exemplar_city: GMT+12
+            gmt2:
+              exemplar_city: GMT+2
+            gmt3:
+              exemplar_city: GMT+3
+            gmt4:
+              exemplar_city: GMT+4
+            gmt5:
+              exemplar_city: GMT+5
+            gmt6:
+              exemplar_city: GMT+6
+            gmt7:
+              exemplar_city: GMT+7
+            gmt8:
+              exemplar_city: GMT+8
+            gmt9:
+              exemplar_city: GMT+9
+            gmt_1:
+              exemplar_city: GMT-1
+            gmt_10:
+              exemplar_city: GMT-10
+            gmt_11:
+              exemplar_city: GMT-11
+            gmt_12:
+              exemplar_city: GMT-12
+            gmt_13:
+              exemplar_city: GMT-13
+            gmt_14:
+              exemplar_city: GMT-14
+            gmt_2:
+              exemplar_city: GMT-2
+            gmt_3:
+              exemplar_city: GMT-3
+            gmt_4:
+              exemplar_city: GMT-4
+            gmt_5:
+              exemplar_city: GMT-5
+            gmt_6:
+              exemplar_city: GMT-6
+            gmt_7:
+              exemplar_city: GMT-7
+            gmt_8:
+              exemplar_city: GMT-8
+            gmt_9:
+              exemplar_city: GMT-9
+            unknown:
+              exemplar_city: Nepoznat grad
+        metazone:
+          acre:
+            long:
+              generic: Akre vreme
+              standard: Akre standardno vreme
+              daylight: Akre letnje računanje vremena
+          afghanistan:
+            long:
+              standard: Avganistan vreme
+          africa_central:
+            long:
+              standard: Centralno-afričko vreme
+          africa_eastern:
+            long:
+              standard: Istočno-afričko vreme
+          africa_southern:
+            long:
+              standard: Južno-afričko vreme
+          africa_western:
+            long:
+              generic: Zapadno-afričko vreme
+              standard: Zapadno-afričko standardno vreme
+              daylight: Zapadno-afričko letnje računanje vremena
+          alaska:
+            long:
+              generic: Aljaska
+              standard: Aljaska, standardno vreme
+              daylight: Aljaska, letnje računanje vremena
+          almaty:
+            long:
+              generic: Almati vreme
+              standard: Almati standardno vreme
+              daylight: Almati letnje računanje vremena
+          amazon:
+            long:
+              generic: Amazon vreme
+              standard: Amazon standardno vreme
+              daylight: Amazon letnje računanje vremena
+          america_central:
+            long:
+              generic: Severnoamerički Centralno vreme
+              standard: Severnoamerički Centralno standardno vreme
+              daylight: Severnoamerički Centralno letnje računanje vremena
+          america_eastern:
+            long:
+              generic: Severnoamerički Istočno vreme
+              standard: Severnoamerički Istočno standardno vreme
+              daylight: Severnoamerički Istočno letnje računanje vremena
+          america_mountain:
+            long:
+              generic: Severnoamerički Planinsko vreme
+              standard: Severnoamerički Planinsko standardno vreme
+              daylight: Severnoamerički Planinsko letnje računanje vremena
+          america_pacific:
+            long:
+              generic: Severnoamerički Pacifičko vreme
+              standard: Severnoamerički Pacifičko standardno vreme
+              daylight: Severnoamerički Pacifičko letnje računanje vremena
+          anadyr:
+            long:
+              generic: Anadir vreme
+              standard: Anadir standardno vreme
+              daylight: Anadir letnje računanje vremena
+          apia:
+            long:
+              generic: Apija vreme
+              standard: Apija standardno vreme
+              daylight: Apija letnje računanje vremena
+          aqtau:
+            long:
+              generic: Akvatau vreme
+              standard: Akvatau standardno vreme
+              daylight: Akvatau letnje računanje vremena
+          aqtobe:
+            long:
+              generic: Akutobe vreme
+              standard: Akutobe standardno vreme
+              daylight: Akutobe letnje računanje vremena
+          arabian:
+            long:
+              generic: Arabijsko vreme
+              standard: Arabijsko standardno vreme
+              daylight: Arabijsko letnje računanje vremena
+          argentina:
+            long:
+              generic: Argentina vreme
+              standard: Argentina standardno vreme
+              daylight: Argentina letnje računanje vremena
+          argentina_western:
+            long:
+              generic: Zapadna Argentina vreme
+              standard: Zapadna Argentina standardno vreme
+              daylight: Zapadna Argentina letnje računanje vremena
+          armenia:
+            long:
+              generic: Jermenija vreme
+              standard: Jermenija standardno vreme
+              daylight: Jermenija letnje računanje vremena
+          atlantic:
+            long:
+              generic: Atlansko vreme
+              standard: Atlansko standardno vreme
+              daylight: Atlansko ltnje računanje vremena
+          australia_central:
+            long:
+              generic: Australijsko centralno vreme
+              standard: Australijsko centralno standardno vreme
+              daylight: Australijsko centralno letnje računanje vremena
+          australia_central_western:
+            long:
+              generic: Australijsko centralno zapadno vreme
+              standard: Australijsko centralno zapadno standardno vreme
+              daylight: Australijsko centralno zapadno letnje računanje vremena
+          australia_eastern:
+            long:
+              generic: Australijsko istočno vreme
+              standard: Australijsko istočno standardno vreme
+              daylight: Australijsko istočno letnje računanje vremena
+          australia_western:
+            long:
+              generic: Australijsko zapadno vreme
+              standard: Australijsko zapadno standardno vreme
+              daylight: Australijsko zapadno letnje računanje vremena
+          azerbaijan:
+            long:
+              generic: Azerbejdžan vreme
+              standard: Azerbejdžan standardno vreme
+              daylight: Azerbejdžan letnje računanje vremena
+          azores:
+            long:
+              generic: Azori vreme
+              standard: Azori standardno vreme
+              daylight: Azori letnje računanje vremena
+          bangladesh:
+            long:
+              generic: Bangladeš vreme
+              standard: Bangladeš standardno vreme
+              daylight: Bangladeš letnje računanje vremena
+          bhutan:
+            long:
+              standard: Butan vreme
+          bolivia:
+            long:
+              standard: Bolivija vreme
+          brasilia:
+            long:
+              generic: Brazilija vreme
+              standard: Brazilija standardno vreme
+              daylight: Brazilija letnje računanje vremena
+          brunei:
+            long:
+              standard: Brunej Darusalum vreme
+          cape_verde:
+            long:
+              generic: Zelenortska Ostrva vreme
+              standard: Zelenortska Ostrva standardno vreme
+              daylight: Zelenortska Ostrva letnje računanje vremena
+          chamorro:
+            long:
+              standard: "Čamoro vreme"
+          chatham:
+            long:
+              generic: "Čatam vreme"
+              standard: "Čatam standardno vreme"
+              daylight: "Čatam letnje računanje vremena"
+          chile:
+            long:
+              generic: "Čile vreme"
+              standard: "Čile standardno vreme"
+              daylight: "Čile letnje računanje vremena"
+          china:
+            long:
+              generic: Kina vreme
+              standard: Kinesko standardno vreme
+              daylight: Kina letnje računanje vremena
+          choibalsan:
+            long:
+              generic: "Čojbalsan vreme"
+              standard: "Čojbalsan standardno vreme"
+              daylight: "Čojbalsan letnje računanje vremena"
+          christmas:
+            long:
+              standard: Božićno ostrvo vreme
+          cocos:
+            long:
+              standard: Kokos (Keling) Ostrva vreme
+          colombia:
+            long:
+              generic: Kolumbija vreme
+              standard: Kolumbija standardno vreme
+              daylight: Kolumbija letnje računanje vremena
+          cook:
+            long:
+              generic: Kukova ostrva vreme
+              standard: Kukova ostrva standardno vreme
+              daylight: Kukova ostrva polu-letnje računanje vremena
+          cuba:
+            long:
+              generic: Kuba vreme
+              standard: Kuba standardno vreme
+              daylight: Kuba letnje računanje vremena
+          davis:
+            long:
+              standard: Dejvis vreme
+          dumont_d_urville:
+            long:
+              standard: Dimon d’Urvil vreme
+          east_timor:
+            long:
+              standard: Istočni timor vreme
+          easter:
+            long:
+              generic: Uskršnja ostrva vreme
+              standard: Uskršnja ostrva standardno vreme
+              daylight: Uskršnja ostrva letnje računanje vremena
+          ecuador:
+            long:
+              standard: Ekvador vreme
+          europe_central:
+            long:
+              generic: Srednjeevropsko vreme
+              standard: Srednjeevropsko standardno vreme
+              daylight: Srednjeevropsko letnje računanje vremena
+            short:
+              generic: CET
+              standard: CET
+              daylight: CEST
+          europe_eastern:
+            long:
+              generic: Istočnoevropsko vreme
+              standard: Istočnoevropsko standardno vreme
+              daylight: Istočnoevropsko letnje računanje vremena
+            short:
+              generic: EET
+              standard: EET
+              daylight: EEST
+          europe_further_eastern:
+            long:
+              standard: dalji istok Evrope
+          europe_western:
+            long:
+              generic: Zapadnoevropsko vreme
+              standard: Zapadnoevropsko standardno vreme
+              daylight: Zapadnoevropsko letnje računanje vremena
+            short:
+              generic: WET
+              standard: WET
+              daylight: WEST
+          falkland:
+            long:
+              generic: Folklandska Ostrva vreme
+              standard: Folklandska Ostrva standardno vreme
+              daylight: Folklandska Ostrva letnje računanje vremena
+          fiji:
+            long:
+              generic: Fidži vreme
+              standard: Fidži standardno vreme
+              daylight: Fidži letnje računanje vremena
+          french_guiana:
+            long:
+              standard: Francuska Gvajana vreme
+          french_southern:
+            long:
+              standard: Francusko južno i antarktičko vreme
+          galapagos:
+            long:
+              standard: Galapagos vreme
+          gambier:
+            long:
+              standard: Gambije vreme
+          georgia:
+            long:
+              generic: Gruzija vreme
+              standard: Gruzija standardno vreme
+              daylight: Gruzija letnje računanje vremena
+          gilbert_islands:
+            long:
+              standard: Gilbert ostrva vreme
+          gmt:
+            long:
+              standard: Srednje vreme po Griniču
+            short:
+              standard: GMT
+          greenland_eastern:
+            long:
+              generic: Istočni Grenland vreme
+              standard: Istočni Grenland standardno vreme
+              daylight: Istočni Grenland letnje računanje vremena
+          greenland_western:
+            long:
+              generic: Zapadni Grenland vreme
+              standard: Zapadni Grenland standardno vreme
+              daylight: Zapadni Grenland letnje računanje vremena
+          guam:
+            long:
+              standard: Guam standardno vreme
+          gulf:
+            long:
+              standard: Zalivsko vreme
+          guyana:
+            long:
+              standard: Gvajana vreme
+          hawaii_aleutian:
+            long:
+              generic: Havajsko-aleutsko vreme
+              standard: Havajsko-aleutsko standardno vreme
+              daylight: Havajsko-aleutsko letnje računanje vremena
+          hong_kong:
+            long:
+              generic: Hong Kong vreme
+              standard: Hong Kong standardno vreme
+              daylight: Hong Kong letnje računanje vremena
+          hovd:
+            long:
+              generic: Hovd vreme
+              standard: Hovd standardno vreme
+              daylight: Hovd letnje računanje vremena
+          india:
+            long:
+              standard: Indijsko standardno vreme
+          indian_ocean:
+            long:
+              standard: Indijsko okeansko vreme
+          indochina:
+            long:
+              standard: Indokina vreme
+          indonesia_central:
+            long:
+              standard: Centralno-indonezijsko vreme
+          indonesia_eastern:
+            long:
+              standard: Istočno-indonezijsko vreme
+          indonesia_western:
+            long:
+              standard: Zapadno-indonezijsko vreme
+          iran:
+            long:
+              generic: Iran vreme
+              standard: Iran standardno vreme
+              daylight: Iran letnje računanje vremena
+          irkutsk:
+            long:
+              generic: Irkuck vreme
+              standard: Irkuck standardno vreme
+              daylight: Irkuck letnje računanje vremena
+          israel:
+            long:
+              generic: Izraelsko vreme
+              standard: Izraelsko standardno vreme
+              daylight: Izraelsko letnje računanje vremena
+          japan:
+            long:
+              generic: Japansko vreme
+              standard: Japansko standardno vreme
+              daylight: Japansko letnje računanje vremena
+          kamchatka:
+            long:
+              generic: Petropavlovsko-kamčatsko vreme
+              standard: Petropavlovsko-kamčatsko standardno vreme
+              daylight: Petropavlovsko-kamčatsko letnje računanje vremena
+          kazakhstan_eastern:
+            long:
+              standard: Istočno-kazahstansko vreme
+          kazakhstan_western:
+            long:
+              standard: Zapadno-kazahstansko vreme
+          korea:
+            long:
+              generic: Korejsko vreme
+              standard: Korejsko standardno vreme
+              daylight: Korejsko letnje računanje vremena
+          kosrae:
+            long:
+              standard: Košre vreme
+          krasnoyarsk:
+            long:
+              generic: Krasnojarsk vreme
+              standard: Krasnojarsk standardno vreme
+              daylight: Krasnojarsk letnje računanje vremena
+          kyrgystan:
+            long:
+              standard: Kirgizstan vreme
+          lanka:
+            long:
+              standard: "Šri Lanka vreme"
+          line_islands:
+            long:
+              standard: Ostrva Lajn vreme
+          lord_howe:
+            long:
+              generic: Lord Hov vreme
+              standard: Lord Hov standardno vreme
+              daylight: Lord Hov letnje računanje vremena
+          macau:
+            long:
+              generic: Makao vreme
+              standard: Makao standardno vreme
+              daylight: Makao letnje računanje vremena
+          macquarie:
+            long:
+              standard: Ostrvo Makveri vreme
+          magadan:
+            long:
+              generic: Magadan vreme
+              standard: Magadan standardno vreme
+              daylight: Magadan letnje računanje vremena
+          malaysia:
+            long:
+              standard: Malezija vreme
+          maldives:
+            long:
+              standard: Maldivi vreme
+          marquesas:
+            long:
+              standard: Markiz vreme
+          marshall_islands:
+            long:
+              standard: Maršalska Ostrva vreme
+          mauritius:
+            long:
+              generic: Mauricijus vreme
+              standard: Mauricijus standardno vreme
+              daylight: Mauricijus letnje računanje vremena
+          mawson:
+            long:
+              standard: Moson vreme
+          mexico_northwest:
+            long:
+              generic: Severni Meksiko
+              standard: Severozapadni Meksiko standardno vreme
+              daylight: Severozapadni Meksiko letnje računanje vremena
+          mexico_pacific:
+            long:
+              generic: Meksički Pacifik
+              standard: Meksički Pacifik standardno vreme
+              daylight: Meksički Pacifik letnje računanje vremena
+          mongolia:
+            long:
+              generic: Ulan Bator vreme
+              standard: Ulan Bator standardno vreme
+              daylight: Ulan Bator letnje računanje vremena
+          moscow:
+            long:
+              generic: Moskva vreme
+              standard: Moskva standardno vreme
+              daylight: Moskva letnje računanje vremena
+          myanmar:
+            long:
+              standard: Mijanmar vreme
+          nauru:
+            long:
+              standard: Nauru vreme
+          nepal:
+            long:
+              standard: Nepal vreme
+          new_caledonia:
+            long:
+              generic: Nova Kaledonija vreme
+              standard: Nova Kaledonija standardno vreme
+              daylight: Nova Kaledonija letnje računanje vremena
+          new_zealand:
+            long:
+              generic: Novi Zeland vreme
+              standard: Novi Zeland standardno vreme
+              daylight: Novi Zeland letnje računanje vremena
+          newfoundland:
+            long:
+              generic: Njufaundlend vreme
+              standard: Njufaundlend standardno vreme
+              daylight: Njufaundlend letnje računanje vremena
+          niue:
+            long:
+              standard: Niue vreme
+          norfolk:
+            long:
+              standard: Norfolk Ostrvo vreme
+          noronha:
+            long:
+              generic: Fernando de Noronja vreme
+              standard: Fernando de Noronja standardno vreme
+              daylight: Fernando de Noronja letnje računanje vremena
+          north_mariana:
+            long:
+              standard: Severna Marijanska Ostrva vreme
+          novosibirsk:
+            long:
+              generic: Novosibirsk vreme
+              standard: Novosibirsk standardno vreme
+              daylight: Novosibirsk letnje računanje vremena
+          omsk:
+            long:
+              generic: Omsk vreme
+              standard: Omsk standardno vreme
+              daylight: Omsk letnje računanje vremena
+          pakistan:
+            long:
+              generic: Pakistan vreme
+              standard: Pakistan standardno vreme
+              daylight: Pakistan letnje računanje vremena
+          palau:
+            long:
+              standard: Palau vreme
+          papua_new_guinea:
+            long:
+              standard: Papua Nova Gvineja vreme
+          paraguay:
+            long:
+              generic: Paragvaj vreme
+              standard: Paragvaj standardno vreme
+              daylight: Paragvaj letnje računanje vremena
+          peru:
+            long:
+              generic: Peru vreme
+              standard: Peru standardno vreme
+              daylight: Peru letnje računanje vremena
+          philippines:
+            long:
+              generic: Filipini vreme
+              standard: Filipini standardno vreme
+              daylight: Filipini letnje računanje vremena
+          phoenix_islands:
+            long:
+              standard: Feniks ostrva vreme
+          pierre_miquelon:
+            long:
+              generic: Sen Pjer i Mikelon vreme
+              standard: Sen Pjer i Mikelon standardno vreme
+              daylight: Sen Pjer i Mikelon letnje računanje vremena
+          pitcairn:
+            long:
+              standard: Pitkern vreme
+          ponape:
+            long:
+              standard: Ponpej vreme
+          qyzylorda:
+            long:
+              generic: Kizilorda vreme
+              standard: Kizilorda standardno vreme
+              daylight: Kizilorda letnje računanje vremena
+          reunion:
+            long:
+              standard: Reinion vreme
+          rothera:
+            long:
+              standard: Rotera vreme
+          sakhalin:
+            long:
+              generic: Sahalin vreme
+              standard: Sahalin standardno vreme
+              daylight: Sahalin letnje računanje vremena
+          samara:
+            long:
+              generic: Samara vreme
+              standard: Samara standardno vreme
+              daylight: Samara letnje računanje vremena
+          samoa:
+            long:
+              generic: Samoa vreme
+              standard: Samoa standardno vreme
+              daylight: Samoa letnje računanje vremena
+          seychelles:
+            long:
+              standard: Sejšeli vreme
+          singapore:
+            long:
+              standard: Singapur standardno vreme
+          solomon:
+            long:
+              standard: Solomonska Ostrva vreme
+          south_georgia:
+            long:
+              standard: Južna Džordžija vreme
+          suriname:
+            long:
+              standard: Surinam vreme
+          syowa:
+            long:
+              standard: "Šova vreme"
+          tahiti:
+            long:
+              standard: Tahiti vreme
+          taipei:
+            long:
+              generic: Taipei vreme
+              standard: Taipei standardno vreme
+              daylight: Taipei letnje računanje vremena
+          tajikistan:
+            long:
+              standard: Tadžikistan vreme
+          tokelau:
+            long:
+              standard: Tokelau vreme
+          tonga:
+            long:
+              generic: Tonga vreme
+              standard: Tonga standardno vreme
+              daylight: Tonga letnje računanje vremena
+          truk:
+            long:
+              standard: "Čuuk vreme"
+          turkmenistan:
+            long:
+              generic: Turkmenistan vreme
+              standard: Turkmenistan standardno vreme
+              daylight: Turkmenistan letnje računanje vremena
+          tuvalu:
+            long:
+              standard: Tuvalu vreme
+          uruguay:
+            long:
+              generic: Urugvaj vreme
+              standard: Urugvaj standardno vreme
+              daylight: Urugvaj letnje računanje vremena
+          uzbekistan:
+            long:
+              generic: Uzbekistan vreme
+              standard: Uzbekistan standardno vreme
+              daylight: Uzbekistan letnje računanje vremena
+          vanuatu:
+            long:
+              generic: Vanuatu vreme
+              standard: Vanuatu standardno vreme
+              daylight: Vanuatu letnje računanje vremena
+          venezuela:
+            long:
+              standard: Venecuela vreme
+          vladivostok:
+            long:
+              generic: Vladivostok vreme
+              standard: Vladivostok standardno vreme
+              daylight: Vladivostok letnje računanje vremena
+          volgograd:
+            long:
+              generic: Volgograd vreme
+              standard: Volgograd standardno vreme
+              daylight: Volgograd letnje računanje vremena
+          vostok:
+            long:
+              standard: Vostok vreme
+          wake:
+            long:
+              standard: Vejk ostrvo vreme
+          wallis:
+            long:
+              standard: Valis i Futuna Ostrva vreme
+          yakutsk:
+            long:
+              generic: Jakutsk vreme
+              standard: Jakutsk standardno vreme
+              daylight: Jakutsk letnje računanje vremena
+          yekaterinburg:
+            long:
+              generic: Jekaterinburg vreme
+              standard: Jekaterinburg standardno vreme
+              daylight: Jekaterinburg letnje računanje vremena
+    locale_display_names:
+      languages:
+        aa: Afarski
+        ab: abhaski
+        ace: Ačineski
+        ach: Akoli
+        ada: Adangmejski
+        ady: Adigejski
+        ae: Avestanski
+        aeb: aeb
+        af: afrikans
+        afh: Afrihili
+        agq: agem
+        ain: Ainu
+        ak: akan
+        akk: Akadijski
+        akz: akz
+        ale: Aljut
+        aln: aln
+        alt: Južni altai
+        am: amharski
+        an: Aragonežanski
+        ang: Staroengleski
+        anp: Angika
+        ar: arapski
+        ar_001: moderan standardni arapski
+        arc: Armajski
+        arn: mapuče
+        aro: aro
+        arp: Arapaho
+        arq: arq
+        arw: Aravak
+        ary: ary
+        arz: arz
+        as: asamski
+        asa: asu
+        ase: ase
+        ast: Asturijski
+        av: Avarski
+        avk: avk
+        awa: Avadhi
+        ay: Ajmara
+        az: azerbejdžanski
+        az_alt_short: azerski
+        ba: baškirski
+        bal: Baluči
+        ban: Balinezijski
+        bar: bar
+        bas: Basa
+        bax: bax
+        bbc: bbc
+        bbj: bbj
+        be: beloruski
+        bej: Beja
+        bem: bemba
+        bew: bew
+        bez: bena
+        bfd: bfd
+        bfq: bfq
+        bg: bugarski
+        bgn: zapadni belučki
+        bho: Bojpuri
+        bi: Bislama
+        bik: Bikol
+        bin: Bini
+        bjn: bjn
+        bkm: bkm
+        bla: Sisika
+        bm: bambara
+        bn: bengalski
+        bo: tibetanski
+        bpy: bpy
+        bqi: bqi
+        br: bretonski
+        bra: Braj
+        brh: brh
+        brx: bodo
+        bs: bosanski
+        bss: bss
+        bua: Buriat
+        bug: Buginežanski
+        bum: bum
+        byn: Blin
+        byv: byv
+        ca: katalonski
+        cad: Kado
+        car: Karipski
+        cay: cay
+        cch: Atsamski
+        ce: "Čečenski"
+        ceb: Cebuano
+        cgg: "čiga"
+        ch: "Čamoro"
+        chb: "Čibča"
+        chg: "Čagatai"
+        chk: "Čukeski"
+        chm: Mari
+        chn: "Činukski"
+        cho: "Čoktavski"
+        chp: "Čipvijanski"
+        chr: "čeroki"
+        chy: "Čejenski"
+        ckb: sorani kurdski
+        co: korzikanski
+        cop: Koptski
+        cps: cps
+        cr: Kri
+        crh: Krimeanski turski
+        cs: "češki"
+        csb: Kašubijanski
+        cu: Staroslovenski
+        cv: "Čuvaški"
+        cy: velški
+        da: danski
+        dak: Dakota
+        dar: Dargva
+        dav: taita
+        de: nemački
+        de_at: nemački (Austrija)
+        de_ch: "švajcarski visoki nemački"
+        del: Delaver
+        den: Slavski
+        dgr: Dogrib
+        din: Dinka
+        dje: zarma
+        doi: Dogri
+        dsb: donji lužičkosrpski
+        dtp: dtp
+        dua: duala
+        dum: Srednji holandski
+        dv: Divehijski
+        dyo: džola fonji
+        dyu: "Đula"
+        dz: džonga
+        dzg: dzg
+        ebu: embu
+        ee: eve
+        efi: Efikski
+        egl: egl
+        egy: Staroegipatski
+        eka: Ekajuk
+        el: grčki
+        elx: Elamitski
+        en: engleski
+        en_au: engleski (Australija)
+        en_ca: engleski (Kanada)
+        en_gb: engleski (Velika Britanija)
+        en_gb_alt_short: engleski (UK)
+        en_us: engleski (Sjedinjene Američke Države)
+        en_us_alt_short: engleski (SAD)
+        enm: Srednji engleski
+        eo: esperanto
+        es: "španski"
+        es_419: "španski (Latinska Amerika)"
+        es_es: "španski (Španija)"
+        es_mx: "španski (Meksiko)"
+        esu: esu
+        et: estonski
+        eu: baskijski
+        ewo: Evondo
+        ext: ext
+        fa: persijski
+        fan: Fang
+        fat: Fanti
+        ff: Fulah
+        fi: finski
+        fil: filipinski
+        fit: fit
+        fj: fidžijski
+        fo: farski
+        fon: Fon
+        fr: francuski
+        fr_ca: francuski (Kanada)
+        fr_ch: francuski (Švajcarska)
+        frc: frc
+        frm: Srednji francuski
+        fro: Starofrancuski
+        frp: frp
+        frr: Severno-frizijski
+        frs: Istočni frizijski
+        fur: Friulijski
+        fy: zapadni frizijski
+        ga: irski
+        gaa: Ga
+        gag: gagauz
+        gan: gan
+        gay: Gajo
+        gba: Gbaja
+        gbz: gbz
+        gd: "Škotski Galski"
+        gez: Džiz
+        gil: Gilbertški
+        gl: galicijski
+        glk: glk
+        gmh: Srednji visoki nemački
+        gn: gvarani
+        goh: Staronemački
+        gom: gom
+        gon: Gondi
+        gor: Gorontalo
+        got: Gotski
+        grb: Grebo
+        grc: Starogrčki
+        gsw: "Švajcarski nemački"
+        gu: gudžarati
+        guc: guc
+        gur: gur
+        guz: gusi
+        gv: manski
+        gwi: Gvič’in
+        ha: hausa
+        hai: Haida
+        hak: hak
+        haw: havajski
+        he: hebrejski
+        hi: hindi
+        hif: hif
+        hil: Hiligajnon
+        hit: Hitite
+        hmn: Hmong
+        ho: Hiri Motu
+        hr: hrvatski
+        hsb: gornji lužičkosrpski
+        hsn: hsn
+        ht: haićanski
+        hu: mađarski
+        hup: Hupa
+        hy: jermenski
+        hz: Herero
+        ia: Interlingva
+        iba: Iban
+        ibb: ibb
+        id: indonežanski
+        ie: Međujezički
+        ig: igbo
+        ii: sečuan ji
+        ik: Unupiak
+        ilo: Iloko
+        inh: Ingviški
+        io: Ido
+        is: islandski
+        it: italijanski
+        iu: inuktitut
+        izh: izh
+        ja: japanski
+        jam: jam
+        jbo: Lojban
+        jgo: ngomba
+        jmc: mačame
+        jpr: Judeo-persijski
+        jrb: Judeo-arapski
+        jut: jut
+        jv: javanski
+        ka: gruzijski
+        kaa: Kara-kalpaški
+        kab: kabile
+        kac: Kačin
+        kaj: "Đu"
+        kam: kamba
+        kaw: Kavi
+        kbd: Kabardijski
+        kbl: kbl
+        kcg: Tjap
+        kde: makonde
+        kea: zelenortski kreolski
+        ken: ken
+        kfo: Koro
+        kg: Kongo
+        kgp: kgp
+        kha: Kasi
+        kho: Kotaneški
+        khq: kojra čiini
+        khw: khw
+        ki: kikuju
+        kiu: kiu
+        kj: Kuanjama
+        kk: kazaški
+        kkj: kkj
+        kl: kalalisut
+        kln: kalendžin
+        km: kmerski
+        kmb: Kimbundu
+        kn: kanada
+        ko: korejski
+        koi: komi-permski
+        kok: konkani
+        kos: Kosreanski
+        kpe: Kpele
+        kr: Kanuri
+        krc: Karačaj-balkar
+        kri: kri
+        krj: krj
+        krl: Karelijski
+        kru: Kurukh
+        ks: kašmirski
+        ksb: "šambala"
+        ksf: bafija
+        ksh: ksh
+        ku: kurdski
+        kum: Kumik
+        kut: Kutenai
+        kv: Komi
+        kw: kornvolski
+        ky: kirgiski
+        la: latinski
+        lad: Ladino
+        lag: langi
+        lah: Landa
+        lam: Lamba
+        lb: luksemburški
+        lez: Lezgian
+        lfn: lfn
+        lg: ganda
+        li: Limburgiš
+        lij: lij
+        liv: liv
+        lkt: lakota
+        lmo: lmo
+        ln: lingala
+        lo: laoški
+        lol: Mongo
+        loz: Lozi
+        lrc: severni luri
+        lt: litvanski
+        ltg: ltg
+        lu: luba-katanga
+        lua: Luba-lulua
+        lui: Luiseno
+        lun: Lunda
+        luo: luo
+        lus: Lušai
+        luy: lujia
+        lv: letonski
+        lzh: lzh
+        lzz: lzz
+        mad: Madureški
+        maf: maf
+        mag: Magahi
+        mai: Maitili
+        mak: Makasar
+        man: Mandingo
+        mas: masai
+        mde: mde
+        mdf: Mokša
+        mdh: mdh
+        mdr: Mandar
+        men: Mende
+        mer: meru
+        mfe: morisjen
+        mg: malgaški
+        mga: Srednji irski
+        mgh: makuva-meeto
+        mgo: meta
+        mh: Maršalski
+        mi: maorski
+        mic: Mikmak
+        min: Minangkabau
+        mis: mis
+        mk: makedonski
+        ml: malajalam
+        mn: mongolski
+        mnc: Manču
+        mni: Manipuri
+        moh: mohok
+        mos: Mosi
+        mr: marati
+        mrj: mrj
+        ms: malajski
+        mt: malteški
+        mua: mundang
+        mul: Više jezika
+        mus: Kriški
+        mwl: Mirandeški
+        mwr: Marvari
+        mwv: mwv
+        my: burmanski
+        mye: mye
+        myv: Erzija
+        mzn: mazanderanski
+        na: Nauru
+        nan: nan
+        nap: Neapolitanski
+        naq: nama
+        nb: norveški bokmal
+        nd: severni ndebele
+        nds: Niski nemački
+        nds_nl: niskosaksonski
+        ne: nepalski
+        new: Nevari
+        ng: Ndonga
+        nia: Nias
+        niu: Niuean
+        njo: njo
+        nl: holandski
+        nl_be: flamanski
+        nmg: kvasio
+        nn: norveški ninorsk
+        nnh: nnh
+        'no': Norveški
+        nog: Nogai
+        non: Stari norski
+        nov: nov
+        nqo: n’ko
+        nr: Južni ndebele
+        nso: Severni soto
+        nus: nuer
+        nv: Navaho
+        nwc: Klasični nevari
+        ny: Njanja
+        nym: Njamvezi
+        nyn: njankole
+        nyo: Njoro
+        nzi: Nzima
+        oc: Provansalski
+        oj: Ojibva
+        om: oromo
+        or: orija
+        os: Osetski
+        osa: Osage
+        ota: Otomanski turski
+        pa: pandžabi
+        pag: Pangasinski
+        pal: Pahlavi
+        pam: Pampanga
+        pap: Papiamento
+        pau: Palauanski
+        pcd: pcd
+        pdc: pdc
+        pdt: pdt
+        peo: Staropersijski
+        pfl: pfl
+        phn: Feničanski
+        pi: Pali
+        pl: poljski
+        pms: pms
+        pnt: pnt
+        pon: Ponpejski
+        prg: prg
+        pro: Staroprovansalski
+        ps: paštunski
+        ps_alt_variant: pašto
+        pt: portugalski
+        pt_br: Brazilski portugalski
+        pt_pt: Iberijski portugalski
+        qu: kečua
+        quc: k’iče
+        qug: qug
+        raj: Rađastani
+        rap: Rapanui
+        rar: Rarotongan
+        rgn: rgn
+        rif: rif
+        rm: reto-romanski
+        rn: rundi
+        ro: rumunski
+        ro_md: moldavski
+        rof: rombo
+        rom: Romani
+        root: Rut
+        rtm: rtm
+        ru: ruski
+        rue: rue
+        rug: rug
+        rup: Aromanijski
+        rw: kinjaruanda
+        rwk: rua
+        sa: sanskrit
+        sad: Sandave
+        sah: Jakut
+        sam: Samaritanski aramejski
+        saq: samburu
+        sas: Sasak
+        sat: Santali
+        saz: saz
+        sba: sba
+        sbp: sangu
+        sc: Sardinjaski
+        scn: Sicilijanski
+        sco: "Škotski"
+        sd: sindi
+        sdc: sdc
+        sdh: južnokurdski
+        se: severni sami
+        see: see
+        seh: sena
+        sei: sei
+        sel: Selkap
+        ses: kojraboro seni
+        sg: sango
+        sga: Staroirski
+        sgs: sgs
+        sh: Srpskohrvatski
+        shi: tašelhit
+        shn: "Šan"
+        shu: shu
+        si: sinhalski
+        sid: Sidamo
+        sk: slovački
+        sl: slovenački
+        sli: sli
+        sly: sly
+        sm: Samoanski
+        sma: južni sami
+        smj: lule sami
+        smn: inari sami
+        sms: skolt sami
+        sn: "šona"
+        snk: Soninke
+        so: somalski
+        sog: Sodžijenski
+        sq: albanski
+        sr: srpski
+        srn: Srananski tongo
+        srr: Serer
+        ss: Svati
+        ssy: ssy
+        st: Sesoto
+        stq: stq
+        su: sundanski
+        suk: Sukuma
+        sus: Susu
+        sux: Sumerski
+        sv: "švedski"
+        sw: svahili
+        swb: Komorski
+        swc: kongo svahili
+        syc: Klasični sirijski
+        syr: Sirijski
+        szl: szl
+        ta: tamilski
+        tcy: tcy
+        te: telugu
+        tem: Timne
+        teo: teso
+        ter: Tereno
+        tet: Tetum
+        tg: tadžički
+        th: tajlandski
+        ti: tigrinja
+        tig: Tigre
+        tiv: Tiv
+        tk: turkmenski
+        tkl: Tokelau
+        tkr: tkr
+        tl: Tagalski
+        tlh: Klingonski
+        tli: Tlingit
+        tly: tly
+        tmh: Tamašek
+        tn: Tsvana
+        to: tonga
+        tog: Njasa tonga
+        tpi: Tok Pisin
+        tr: turski
+        tru: tru
+        trv: trv
+        ts: Tsonga
+        tsd: tsd
+        tsi: Tsimšian
+        tt: tatarski
+        ttt: ttt
+        tum: Tumbuka
+        tvl: Tuvalu
+        tw: Tvi
+        twq: tasavak
+        ty: Tahićanski
+        tyv: Tuvinijski
+        tzm: centralnoatlaski tamazigt
+        udm: Udmurt
+        ug: ujgurski
+        uga: Ugaritski
+        uk: ukrajinski
+        umb: Umbundu
+        und: nepoznat jezik
+        ur: urdu
+        uz: uzbečki
+        vai: vai
+        ve: Venda
+        vec: vec
+        vep: vep
+        vi: vijetnamski
+        vls: vls
+        vmf: vmf
+        vo: Volapuk
+        vot: Votski
+        vro: vro
+        vun: vundžo
+        wa: Valun
+        wae: wae
+        wal: Valamo
+        war: Varaj
+        was: Vašo
+        wbp: varlpiri
+        wo: volof
+        wuu: wuu
+        xal: Kalmik
+        xh: kosa
+        xmf: xmf
+        xog: soga
+        yao: Jao
+        yap: Japeški
+        yav: yav
+        ybb: ybb
+        yi: Jidiš
+        yo: joruba
+        yrl: yrl
+        yue: Kantonski
+        za: "Žuang"
+        zap: Zapotečki
+        zbl: Blisimboli
+        zea: zea
+        zen: Zenaga
+        zgh: standardni marokanski tamazigt
+        zh: kineski
+        zh_hans: kineski (pojednostavljeno kinesko pismo)
+        zh_hant: kineski (tradicionalno kinesko pismo)
+        zu: zulu
+        zun: Zuni
+        zxx: bez lingvističkog sadržaja
+        zza: Zaza
+      locale_display_pattern:
+        locale_pattern: "{0} ({1})"
+        locale_separator: "{0}, {1}"
+        locale_key_type_pattern: "{0}: {1}"
+      keys:
+        calendar: kalendar
+        cf: cf
+        col_alternate: Sortiranje uz ignorisanje simbola
+        col_backwards: Sortiranje prema obrnutim akcentima
+        col_case_first: Ređanje prema malom/velikom slovu
+        col_case_level: Sortiranje prema malom/velikom slovu
+        col_hiragana_quaternary: Sortiranje prema kana simbolima
+        collation: Sortiranje
+        col_normalization: Normalizovano sortiranje
+        col_numeric: Numeričko sortiranje
+        col_strength: Sortiranje prema jačini
+        currency: valuta
+        hc: hc
+        lb: stil preloma reda
+        ms: ms
+        numbers: brojevi
+        timezone: Vremenska zona
+        va: Varijanta lokaliteta
+        variable_top: Sortiraj kao simbole
+        x: Privatna upotreba
+      types:
+        calendar:
+          buddhist: budistički kalendar
+          chinese: kineski kalendar
+          coptic: koptski kalendar
+          dangi: dangi kalendar
+          ethiopic: etiopski kalendar
+          ethiopic_amete_alem: etiopski amet alem kalendar
+          gregorian: gregorijanski kalendar
+          hebrew: hebrejski kalendar
+          indian: Indijski nacionalni kalendar
+          islamic: islamski kalendar
+          islamic_civil: Islamski civilni kalendar
+          islamic_rgsa: islamic-rgsa
+          islamic_tbla: islamic-tbla
+          islamic_umalqura: islamic-umalqura
+          iso8601: ISO-8601 kalendar
+          japanese: japanski kalendar
+          persian: persijski kalendar
+          roc: kalendar Republike Kine
+        cf:
+          account: account
+          standard: standard
+        col_alternate:
+          non_ignorable: Sortiraj simbole
+          shifted: Sortiranje uz ignorisanje simbola
+        col_backwards:
+          'no': Sortiraj akcente normalno
+          'yes': Sortiraj akcente obrnuto
+        col_case_first:
+          lower: Sortiraj prvo mala slova
+          'no': Sortiraj normalan redosled velikih i malih slova
+          upper: Sortiraj prvo velika slova
+        col_case_level:
+          'no': Sortiraj bez obzira na velika i mala slova
+          'yes': Sortiraj mala i velika slova
+        col_hiragana_quaternary:
+          'no': Sortiraj kana simbole odvojeno
+          'yes': Sortiraj kana simbole drugačije
+        collation:
+          big5han: Tradicionalno kinesko sortiranje
+          compat: compat
+          dictionary: Redosled sortiranja u rečniku
+          ducet: Podrazumevani Unicode redosled sortiranja
+          emoji: emoji
+          eor: eor
+          gb2312han: Pojednostavljeno kinesko sortiranje
+          phonebook: Sortiranje kao telefonski imenik
+          phonetic: Fonetski redosled sortiranja
+          pinyin: Pinjin sortiranje
+          reformed: Reformisani redosled sortiranja
+          search: pretraga opšte namene
+          searchjl: Pretraga prema hangul početnom suglasniku
+          standard: standardni redosled sortiranja
+          stroke: Sortiranje po broju crta
+          traditional: Tradicionalno sortiranje
+          unihan: Redosled sortiranja radikalnim crticama
+          zhuyin: zhuyin
+        col_normalization:
+          'no': Sortiraj bez normalizacije
+          'yes': Sortiraj Unicode normalizovano
+        col_numeric:
+          'no': Sortiraj cifre pojedinačno
+          'yes': Sortiraj cifre numerički
+        col_strength:
+          identical: Sortiraj sve
+          primary: Sortiraj samo osnovna slova
+          quaternary: Sortiraj akcente/mala i velika slova/širinu/kana simbole
+          secondary: Sortiraj akcente
+          tertiary: Sortiraj akcente/mala i velika slova/širinu
+        hc:
+          h11: h11
+          h12: h12
+          h23: h23
+          h24: h24
+        lb:
+          loose: loose
+          normal: normal
+          strict: strict
+        ms:
+          metric: metric
+          uksystem: uksystem
+          ussystem: ussystem
+        numbers:
+          ahom: ahom
+          arab: arapsko-indijske cifre
+          arabext: produžene arapsko-indijske cifre
+          armn: jermenski brojevi
+          armnlow: mali jermenski brojevi
+          bali: bali
+          beng: bengalske cifre
+          brah: brah
+          cakm: cakm
+          cham: cham
+          cyrl: cyrl
+          deva: devangari cifre
+          ethi: etiopski brojevi
+          finance: Finansijski brojevi
+          fullwide: cifre pune širine
+          geor: gruzijski brojevi
+          grek: grčki brojevi
+          greklow: mali grčki brojevi
+          gujr: gudžaratske cifre
+          guru: gurmuki cifre
+          hanidec: kineski decimalni brojevi
+          hans: pojednostavljeni kineski brojevi
+          hansfin: pojednostavljeni kineski finansijski brojevi
+          hant: tradicionalni kineski brojevi
+          hantfin: tradicionalni kineski finansijski brojevi
+          hebr: hebrejski brojevi
+          hmng: hmng
+          java: java
+          jpan: japanski brojevi
+          jpanfin: japanski finansijski brojevi
+          kali: kali
+          khmr: kmerske cifre
+          knda: kanada cifre
+          lana: lana
+          lanatham: lanatham
+          laoo: laoške cifre
+          latn: zapadne cifre
+          lepc: lepc
+          limb: limb
+          mathbold: mathbold
+          mathdbl: mathdbl
+          mathmono: mathmono
+          mathsanb: mathsanb
+          mathsans: mathsans
+          mlym: malajalam cifre
+          modi: modi
+          mong: mongolske cifre
+          mroo: mroo
+          mtei: mtei
+          mymr: mijanmarske cifre
+          mymrshan: mymrshan
+          mymrtlng: mymrtlng
+          native: Lokalne cifre
+          nkoo: nkoo
+          olck: olck
+          orya: orija cifre
+          osma: osma
+          roman: rimski brojevi
+          romanlow: mali rimski brojevi
+          saur: saur
+          shrd: shrd
+          sind: sind
+          sinh: sinh
+          sora: sora
+          sund: sund
+          takr: takr
+          talu: talu
+          taml: tamilski brojevi
+          tamldec: tamilske cifre
+          telu: telugu cifre
+          thai: tajske cifre
+          tibt: tibetanske cifre
+          tirh: tirh
+          traditional: Tradicionalni brojevi
+          vaii: Vai cifre
+          wara: wara
+      code_patterns:
+        language: 'Jezik: {0}'
+        script: 'pismo: {0}'
+        territory: 'Region: {0}'
+      scripts:
+        aghb: Aghb
+        ahom: Ahom
+        arab: arapsko pismo
+        arab_alt_variant: persijsko-arapsko pismo
+        armi: imperijsko aramejsko pismo
+        armn: jermensko pismo
+        avst: avestansko pismo
+        bali: balijsko pismo
+        bamu: Bamu
+        bass: Bass
+        batk: batak pismo
+        beng: bengalsko pismo
+        blis: blisimbolično pismo
+        bopo: bopomofo pismo
+        brah: bramansko pismo
+        brai: Brajevo pismo
+        bugi: buginsko pismo
+        buhd: buhidsko pismo
+        cakm: "čakmansko pismo"
+        cans: ujedinjeni kanadski aboridžinski silabici
+        cari: karijsko pismo
+        cham: "čamsko pismo"
+        cher: "Čeroki"
+        cirt: cirt pismo
+        copt: koptičko pismo
+        cprt: kiparsko pismo
+        cyrl: "ćirilica"
+        cyrs: Staroslovenska crkvena ćirilica
+        deva: devanagari
+        dsrt: Dezeret
+        dupl: Dupl
+        egyd: egipatsko narodno pismo
+        egyh: egipatsko hijeratsko pismo
+        egyp: egipatski hijeroglifi
+        elba: Elba
+        ethi: etiopsko pismo
+        geok: gruzijsko khutsuri pismo
+        geor: gruzijsko pismo
+        glag: glagoljica
+        goth: Gotika
+        gran: Gran
+        grek: grčko pismo
+        gujr: gudžaratsko pismo
+        guru: gurmuki pismo
+        hang: hangul
+        hani: han
+        hano: hanuno
+        hans: pojednostavljeno kinesko pismo
+        hans_alt_stand_alone: pojednostavljeno han pismo
+        hant: tradicionalno kinesko pismo
+        hant_alt_stand_alone: tradicionalno han pismo
+        hatr: Hatr
+        hebr: hebrejsko pismo
+        hira: hiragana
+        hluw: Hluw
+        hmng: pahav hmong pismo
+        hrkt: Katakana ili Hiragana
+        hung: staromađarsko pismo
+        inds: induško pismo
+        ital: stari italik
+        java: javansko pismo
+        jpan: japansko pismo
+        kali: kajah-li pismo
+        kana: katakana
+        khar: karošti pismo
+        khmr: kmersko pismo
+        khoj: Khoj
+        knda: kanada pismo
+        kore: korejsko pismo
+        kthi: kaiti
+        lana: lanna pismo
+        laoo: laoško pismo
+        latf: latinica (fraktur varijanta)
+        latg: galska latinica
+        latn: latinica
+        lepc: lepča pismo
+        limb: limbu pismo
+        lina: linearno A pismo
+        linb: linearno B pismo
+        lisu: Lisu
+        lyci: lisijsko pismo
+        lydi: lidijsko pismo
+        mahj: Mahj
+        mand: mandeansko pismo
+        mani: manihejsko pismo
+        maya: majanski hijeroglifi
+        mend: Mend
+        merc: Merc
+        mero: meroitik pismo
+        mlym: malajalam pismo
+        modi: Modi
+        mong: mongolsko pismo
+        moon: mesečevo pismo
+        mroo: Mroo
+        mtei: meitei majek pismo
+        mult: Mult
+        mymr: mijanmarsko pismo
+        narb: Narb
+        nbat: Nbat
+        nkoo: n’ko pismo
+        ogam: ogamsko pismo
+        olck: ol čiki pismo
+        orkh: orkonsko pismo
+        orya: orijansko pismo
+        osma: osmanjansko pismo
+        palm: Palm
+        pauc: Pauc
+        perm: staro permiksko pismo
+        phag: pags-pa pismo
+        phli: pisani pahlavi
+        phlp: psalter pahlavi
+        phlv: pahlavi pismo
+        phnx: Feničansko pismo
+        plrd: porald fonetsko pismo
+        prti: pisani partian
+        qaaa: Qaaa
+        qaab: Qaab
+        qaac: Qaac
+        qaad: Qaad
+        qaae: Qaae
+        qaaf: Qaaf
+        qaag: Qaag
+        qaah: Qaah
+        qaaj: Qaaj
+        qaak: Qaak
+        qaal: Qaal
+        qaam: Qaam
+        qaan: Qaan
+        qaao: Qaao
+        qaap: Qaap
+        qaaq: Qaaq
+        qaar: Qaar
+        qaas: Qaas
+        qaat: Qaat
+        qaau: Qaau
+        qaav: Qaav
+        qaaw: Qaaw
+        qaax: Qaax
+        qaay: Qaay
+        qaaz: Qaaz
+        qaba: Qaba
+        qabb: Qabb
+        qabc: Qabc
+        qabd: Qabd
+        qabe: Qabe
+        qabf: Qabf
+        qabg: Qabg
+        qabh: Qabh
+        qabi: Qabi
+        qabj: Qabj
+        qabk: Qabk
+        qabl: Qabl
+        qabm: Qabm
+        qabn: Qabn
+        qabo: Qabo
+        qabp: Qabp
+        qabq: Qabq
+        qabr: Qabr
+        qabs: Qabs
+        qabt: Qabt
+        qabu: Qabu
+        qabv: Qabv
+        qabw: Qabw
+        qabx: Qabx
+        rjng: rejang pismo
+        roro: rongorongo pismo
+        runr: runsko pismo
+        samr: samaritansko pismo
+        sara: sarati pismo
+        sarb: Sarb
+        saur: sauraštra pismo
+        sgnw: znakovno pismo
+        shaw: "šavijansko pismo"
+        shrd: Shrd
+        sidd: Sidd
+        sind: Sind
+        sinh: sinhalsko pismo
+        sora: Sora
+        sund: sundansko pismo
+        sylo: siloti nagri pismo
+        syrc: sirijsko pismo
+        syre: sirijsko estrangelo pismo
+        syrj: zapadnosirijsko pismo
+        syrn: pismo istočne Sirije
+        tagb: tagbanva pismo
+        takr: Takr
+        tale: tai le pismo
+        talu: novi tai lue
+        taml: tamilsko pismo
+        tavt: tai viet pismo
+        telu: telugu pismo
+        teng: tengvar pismo
+        tfng: tifinag pismo
+        tglg: Tagalog
+        thaa: thana pismo
+        thai: tajlandsko pismo
+        tibt: tibetansko pismo
+        tirh: Tirh
+        ugar: ugaritsko pismo
+        vaii: vai pismo
+        visp: vidljivi govor
+        wara: Wara
+        xpeo: staropersijsko pismo
+        xsux: sumersko-akadsko kuneiform pismo
+        yiii: ji pismo
+        zinh: nasledno pismo
+        zmth: matematička notacija
+        zsym: simboli
+        zxxx: nepisani jezik
+        zyyy: zajedničko pismo
+        zzzz: nepoznato pismo
+      territories:
+        '001': svet
+        '002': Afrika
+        '003': Severnoamerički kontinent
+        '005': Južna Amerika
+        009: Okeanija
+        '011': Zapadna Afrika
+        '013': Centralna Amerika
+        '014': Istočna Afrika
+        '015': Severna Afrika
+        '017': Centralna Afrika
+        018: Južna Afrika
+        019: Severna i Južna Amerika
+        '021': Severna Amerika
+        029: Karibi
+        '030': Istočna Azija
+        '034': Južna Azija
+        '035': Jugoistočna Azija
+        039: Južna Evropa
+        '053': Australija i Novi Zeland
+        '054': Melanezija
+        '057': Mikronezijski region
+        '061': Polinezija
+        '142': Azija
+        '143': Centralna Azija
+        '145': Zapadna Azija
+        '150': Evropa
+        '151': Istočna Evropa
+        '154': Severna Evropa
+        '155': Zapadna Evropa
+        '419': Latinska Amerika
+        ac: Ostrvo Asension
+        ad: Andora
+        ae: Ujedinjeni Arapski Emirati
+        af: Avganistan
+        ag: Antigva i Barbuda
+        ai: Angvila
+        al: Albanija
+        am: Jermenija
+        an: Holandski Antili
+        ao: Angola
+        aq: Antarktik
+        ar: Argentina
+        as: Američka Samoa
+        at: Austrija
+        au: Australija
+        aw: Aruba
+        ax: Olandska ostrva
+        az: Azerbejdžan
+        ba: Bosna i Hercegovina
+        bb: Barbados
+        bd: Bangladeš
+        be: Belgija
+        bf: Burkina Faso
+        bg: Bugarska
+        bh: Bahrein
+        bi: Burundi
+        bj: Benin
+        bl: Sveti Bartolomej
+        bm: Bermuda
+        bn: Brunej
+        bo: Bolivija
+        bq: Karipska Holandija
+        br: Brazil
+        bs: Bahami
+        bt: Butan
+        bv: Ostrvo Buve
+        bw: Bocvana
+        by: Belorusija
+        bz: Belize
+        ca: Kanada
+        cc: Kokosova (Kilingova) Ostrva
+        cd: Kongo - Kinšasa
+        cd_alt_variant: Kongo (DRK)
+        cf: Centralnoafrička Republika
+        cg: Kongo - Brazavil
+        cg_alt_variant: Kongo (Republika)
+        ch: "Švajcarska"
+        ci: Obala Slonovače
+        ci_alt_variant: CI
+        ck: Kukova Ostrva
+        cl: "Čile"
+        cm: Kamerun
+        cn: Kina
+        co: Kolumbija
+        cp: Ostrvo Kliperton
+        cr: Kostarika
+        cu: Kuba
+        cv: Zelenortska Ostrva
+        cw: Kurasao
+        cx: Božićno ostrvo
+        cy: Kipar
+        cz: "Češka"
+        de: Nemačka
+        dg: Dijego Garsija
+        dj: Džibuti
+        dk: Danska
+        dm: Dominika
+        do: Dominikanska Republika
+        dz: Alžir
+        ea: Seuta i Melilja
+        ec: Ekvador
+        ee: Estonija
+        eg: Egipat
+        eh: Zapadna Sahara
+        er: Eritreja
+        es: "Španija"
+        et: Etiopija
+        eu: Evropska Unija
+        fi: Finska
+        fj: Fidži
+        fk: Foklandska ostrva
+        fk_alt_variant: Foklandska (Malvinska) ostrva
+        fm: Mikronezija
+        fo: Farska Ostrva
+        fr: Francuska
+        ga: Gabon
+        gb: Velika Britanija
+        gb_alt_short: UK
+        gd: Grenada
+        ge: Gruzija
+        gf: Francuska Gvajana
+        gg: Gurnsi
+        gh: Gana
+        gi: Gibraltar
+        gl: Grenland
+        gm: Gambija
+        gn: Gvineja
+        gp: Gvadelupe
+        gq: Ekvatorijalna Gvineja
+        gr: Grčka
+        gs: Južna Džordžija i Južna Sendvič Ostrva
+        gt: Gvatemala
+        gu: Guam
+        gw: Gvineja-Bisao
+        gy: Gvajana
+        hk: SAR Hongkong (Kina)
+        hk_alt_short: Hong Kong
+        hm: Ostrva Herd i Mekdonald
+        hn: Honduras
+        hr: Hrvatska
+        ht: Haiti
+        hu: Mađarska
+        ic: Kanarska ostrva
+        id: Indonezija
+        ie: Irska
+        il: Izrael
+        im: Ostrvo Man
+        in: Indija
+        io: Britanska teritorija u Indijskom okeanu
+        iq: Irak
+        ir: Iran
+        is: Island
+        it: Italija
+        je: Džersi
+        jm: Jamajka
+        jo: Jordan
+        jp: Japan
+        ke: Kenija
+        kg: Kirgistan
+        kh: Kambodža
+        ki: Kiribati
+        km: Komorska Ostrva
+        kn: Sent Kits i Nevis
+        kp: Severna Koreja
+        kr: Južna Koreja
+        kw: Kuvajt
+        ky: Kajmanska Ostrva
+        kz: Kazahstan
+        la: Laos
+        lb: Liban
+        lc: Sveta Lucija
+        li: Lihtenštajn
+        lk: "Šri Lanka"
+        lr: Liberija
+        ls: Lesoto
+        lt: Litvanija
+        lu: Luksemburg
+        lv: Letonija
+        ly: Libija
+        ma: Maroko
+        mc: Monako
+        md: Moldavija
+        me: Crna Gora
+        mf: Sent Martin
+        mg: Madagaskar
+        mh: Maršalska Ostrva
+        mk: Makedonija
+        mk_alt_variant: Makedonija (BJRM)
+        ml: Mali
+        mm: Mijanmar (Burma)
+        mn: Mongolija
+        mo: SAR Makao (Kina)
+        mo_alt_short: Makao
+        mp: Severna Marijanska Ostrva
+        mq: Martinik
+        mr: Mauritanija
+        ms: Monserat
+        mt: Malta
+        mu: Mauricijus
+        mv: Maldivi
+        mw: Malavi
+        mx: Meksiko
+        my: Malezija
+        mz: Mozambik
+        na: Namibija
+        nc: Nova Kaledonija
+        ne: Niger
+        nf: Ostrvo Norfok
+        ng: Nigerija
+        ni: Nikaragva
+        nl: Holandija
+        'no': Norveška
+        np: Nepal
+        nr: Nauru
+        nu: Niue
+        nz: Novi Zeland
+        om: Oman
+        pa: Panama
+        pe: Peru
+        pf: Francuska Polinezija
+        pg: Papua Nova Gvineja
+        ph: Filipini
+        pk: Pakistan
+        pl: Poljska
+        pm: Sen Pjer i Mikelon
+        pn: Pitkern
+        pr: Portoriko
+        ps: Palestinske teritorije
+        ps_alt_short: Palestina
+        pt: Portugal
+        pw: Palau
+        py: Paragvaj
+        qa: Katar
+        qo: Okeanija (udaljena ostrva)
+        re: Reinion
+        ro: Rumunija
+        rs: Srbija
+        ru: Rusija
+        rw: Ruanda
+        sa: Saudijska Arabija
+        sb: Solomonska Ostrva
+        sc: Sejšeli
+        sd: Sudan
+        se: "Švedska"
+        sg: Singapur
+        sh: Sveta Jelena
+        si: Slovenija
+        sj: Svalbard i Jan Majen
+        sk: Slovačka
+        sl: Sijera Leone
+        sm: San Marino
+        sn: Senegal
+        so: Somalija
+        sr: Surinam
+        ss: Južni Sudan
+        st: Sao Tome i Principe
+        sv: Salvador
+        sx: Sveti Martin
+        sy: Sirija
+        sz: Svazilend
+        ta: Tristan da Kunja
+        tc: Ostrva Turks i Kaikos
+        td: "Čad"
+        tf: Francuske Južne Teritorije
+        tg: Togo
+        th: Tajland
+        tj: Tadžikistan
+        tk: Tokelau
+        tl: Istočni Timor
+        tl_alt_variant: TL
+        tm: Turkmenistan
+        tn: Tunis
+        to: Tonga
+        tr: Turska
+        tt: Trinidad i Tobago
+        tv: Tuvalu
+        tw: Tajvan
+        tz: Tanzanija
+        ua: Ukrajina
+        ug: Uganda
+        um: Udaljena ostrva SAD
+        us: Sjedinjene Američke Države
+        us_alt_short: SAD
+        uy: Urugvaj
+        uz: Uzbekistan
+        va: Vatikan
+        vc: Sent Vinsent i Grenadini
+        ve: Venecuela
+        vg: Britanska Devičanska Ostrva
+        vi: Američka Devičanska Ostrva
+        vn: Vijetnam
+        vu: Vanuatu
+        wf: Valis i Futuna
+        ws: Samoa
+        xk: Kosovo
+        ye: Jemen
+        yt: Majot
+        za: Južnoafrička Republika
+        zm: Zambija
+        zw: Zimbabve
+        zz: Nepoznat region
+      transform_names:
+        bgn: BGN (BGN)
+        numeric: Numerička
+        tone: Ton
+        ungegn: UNGEGN (BGN)
+        x_accents: Akcenti
+        x_fullwidth: puna širina
+        x_halfwidth: pola širine
+        x_jamo: Džamo
+        x_pinyin: Pinjin
+        x_publishing: Izdavački
+      variants:
+        '1901': Tradicionalna nemačka ortografija
+        '1994': Standardnizovana resijanska ortografija
+        '1996': Nemačka ortografija iz 1996
+        1606_nict: Francuski iz kasnog srednjeg veka do 1606.
+        1694_acad: Rani moderni francuski
+        1959_acad: 1959ACAD
+        abl1943: ABL1943
+        alalc97: ALALC97
+        aluku: ALUKU
+        ao1990: AO1990
+        arevela: Istočni armenijski
+        arevmda: Zapadno jermenska
+        baku1926: Ujedinjen turski latinični alfabet
+        balanka: BALANKA
+        barla: BARLA
+        bauddha: BAUDDHA
+        biscayan: BISCAYAN
+        biske: San Đorđio/Bila dijalekt
+        bohoric: BOHORIC
+        boont: Buntling
+        colb1945: COLB1945
+        dajnko: DAJNKO
+        ekavsk: EKAVSK
+        emodeng: EMODENG
+        fonipa: IPA fonetika
+        fonupa: UPA fonetika
+        fonxsamp: FONXSAMP
+        hepburn: HEPBURN
+        hognorsk: HOGNORSK
+        ijekavsk: IJEKAVSK
+        itihasa: ITIHASA
+        jauer: JAUER
+        jyutping: JYUTPING
+        kkcor: KKCOR
+        kociewie: KOCIEWIE
+        kscor: KSCOR
+        laukika: LAUKIKA
+        lipaw: Lipovički dijalekt resijanski
+        luna1918: LUNA1918
+        metelko: METELKO
+        monoton: Monotonik
+        ndyuka: NDYUKA
+        nedis: Natisone dijalekt
+        njiva: Gnjiva/Njiva dijalkekt
+        nulik: NULIK
+        osojs: Oseako/Osojane dijalekt
+        oxendict: OXENDICT
+        pamaka: PAMAKA
+        petr1708: PETR1708
+        pinyin: PINYIN
+        polyton: Politonik
+        posix: Kompjuter
+        puter: PUTER
+        revised: Revidirana ortografija
+        rigik: RIGIK
+        rozaj: Resijan
+        rumgr: RUMGR
+        saaho: Saho
+        scotland: "Škotski standardni Engleski"
+        scouse: Skauz
+        solba: Stolvica/Solbica dijalekt
+        sotav: SOTAV
+        surmiran: SURMIRAN
+        sursilv: SURSILV
+        sutsilv: SUTSILV
+        tarask: Taraskijevička ortografija
+        uccor: UCCOR
+        ucrcor: UCRCOR
+        ulster: ULSTER
+        unifon: UNIFON
+        vaidika: VAIDIKA
+        valencia: Valencijska
+        vallader: VALLADER
+        wadegile: WADEGILE
+    units:
+      long:
+        per:
+          compound_unit_pattern: "{0}/{1}"
+        acceleration_g_force:
+          display_name: ge sila
+          unit_pattern_count_one: "{0} ge sila"
+          unit_pattern_count_few: "{0} ge sila"
+          unit_pattern_count_other: "{0} ge sila"
+        acceleration_meter_per_second_squared:
+          display_name: metri u sekundi na kvadrat
+          unit_pattern_count_one: "{0} metar u sekundi na kvadrat"
+          unit_pattern_count_few: "{0} metra u sekundi na kvadrat"
+          unit_pattern_count_other: "{0} metara u sekundi na kvadrat"
+        angle_revolution:
+          display_name: obrtaj
+          unit_pattern_count_one: "{0} obrtaj"
+          unit_pattern_count_few: "{0} obrtaja"
+          unit_pattern_count_other: "{0} obrtaja"
+        angle_radian:
+          display_name: radijani
+          unit_pattern_count_one: "{0} radijan"
+          unit_pattern_count_few: "{0} radijana"
+          unit_pattern_count_other: "{0} radijana"
+        angle_degree:
+          display_name: stepeni
+          unit_pattern_count_one: "{0} stepen"
+          unit_pattern_count_few: "{0} stepena"
+          unit_pattern_count_other: "{0} stepeni"
+        angle_arc_minute:
+          display_name: lučni minuti
+          unit_pattern_count_one: "{0} lučni minut"
+          unit_pattern_count_few: "{0} lučna minuta"
+          unit_pattern_count_other: "{0} lučnih minuta"
+        angle_arc_second:
+          display_name: lučne sekunde
+          unit_pattern_count_one: "{0} lučna sekunda"
+          unit_pattern_count_few: "{0} lučne sekunde"
+          unit_pattern_count_other: "{0} lučnih sekundi"
+        area_square_kilometer:
+          display_name: kvadratni kilometri
+          unit_pattern_count_one: "{0} kvadratni kilometar"
+          unit_pattern_count_few: "{0} kvadratna kilometra"
+          unit_pattern_count_other: "{0} kvadratnih kilometara"
+        area_hectare:
+          display_name: hektari
+          unit_pattern_count_one: "{0} hektar"
+          unit_pattern_count_few: "{0} hektara"
+          unit_pattern_count_other: "{0} hektara"
+        area_square_meter:
+          display_name: kvadratni metri
+          unit_pattern_count_one: "{0} kvadratni metar"
+          unit_pattern_count_few: "{0} kvadratna metra"
+          unit_pattern_count_other: "{0} kvadratnih metara"
+          per_unit_pattern: "{0}/m²"
+        area_square_centimeter:
+          display_name: kvadratni centimetri
+          unit_pattern_count_one: "{0} kvadratni centimetar"
+          unit_pattern_count_few: "{0} kvadratna centimetra"
+          unit_pattern_count_other: "{0} kvadratnih centimetara"
+          per_unit_pattern: "{0}/cm²"
+        area_square_mile:
+          display_name: kvadratne milje
+          unit_pattern_count_one: "{0} kvadratna milja"
+          unit_pattern_count_few: "{0} kvadratne milje"
+          unit_pattern_count_other: "{0} kvadratnih milja"
+        area_acre:
+          display_name: akeri
+          unit_pattern_count_one: "{0} aker"
+          unit_pattern_count_few: "{0} akera"
+          unit_pattern_count_other: "{0} akera"
+        area_square_yard:
+          display_name: kvadratni jardi
+          unit_pattern_count_one: "{0} kvadratni jard"
+          unit_pattern_count_few: "{0} kvadratna jarda"
+          unit_pattern_count_other: "{0} kvadratnih jardi"
+        area_square_foot:
+          display_name: kvadratne stope
+          unit_pattern_count_one: "{0} kvadratna stopa"
+          unit_pattern_count_few: "{0} kvadratne stope"
+          unit_pattern_count_other: "{0} kvadratnih stopa"
+        area_square_inch:
+          display_name: kvadratni inči
+          unit_pattern_count_one: "{0} kvadratni inč"
+          unit_pattern_count_few: "{0} kvadratna inča"
+          unit_pattern_count_other: "{0} kvadratnih inča"
+          per_unit_pattern: "{0}/in²"
+        consumption_liter_per_kilometer:
+          display_name: litri po kilometru
+          unit_pattern_count_one: "{0} litar po kilometru"
+          unit_pattern_count_few: "{0} litra po kilometru"
+          unit_pattern_count_other: "{0} litara po kilometru"
+        consumption_liter_per_100kilometers:
+          display_name: L/100km
+          unit_pattern_count_one: "{0} litar na 100 kilometara"
+          unit_pattern_count_few: "{0} litra na 100 kilometara"
+          unit_pattern_count_other: "{0} litara na 100 kilometara"
+        consumption_mile_per_gallon:
+          display_name: milja po galonu
+          unit_pattern_count_one: "{0} milja po galonu"
+          unit_pattern_count_few: "{0} milje po galonu"
+          unit_pattern_count_other: "{0} milja po galonu"
+        digital_terabyte:
+          display_name: terabajti
+          unit_pattern_count_one: "{0} terabajt"
+          unit_pattern_count_few: "{0} terabajta"
+          unit_pattern_count_other: "{0} terabajta"
+        digital_terabit:
+          display_name: terabitovi
+          unit_pattern_count_one: "{0} terabit"
+          unit_pattern_count_few: "{0} terabita"
+          unit_pattern_count_other: "{0} terabita"
+        digital_gigabyte:
+          display_name: gigabajti
+          unit_pattern_count_one: "{0} gigabajt"
+          unit_pattern_count_few: "{0} gigabajta"
+          unit_pattern_count_other: "{0} gigabajta"
+        digital_gigabit:
+          display_name: gigabitovi
+          unit_pattern_count_one: "{0} gigabit"
+          unit_pattern_count_few: "{0} gigabita"
+          unit_pattern_count_other: "{0} gigabita"
+        digital_megabyte:
+          display_name: megabajti
+          unit_pattern_count_one: "{0} megabajt"
+          unit_pattern_count_few: "{0} megabajta"
+          unit_pattern_count_other: "{0} megabajta"
+        digital_megabit:
+          display_name: megabitovi
+          unit_pattern_count_one: "{0} megabit"
+          unit_pattern_count_few: "{0} megabita"
+          unit_pattern_count_other: "{0} megabita"
+        digital_kilobyte:
+          display_name: kilobajti
+          unit_pattern_count_one: "{0} kilobajt"
+          unit_pattern_count_few: "{0} kilobajta"
+          unit_pattern_count_other: "{0} kilobajta"
+        digital_kilobit:
+          display_name: kilobitovi
+          unit_pattern_count_one: "{0} kilobit"
+          unit_pattern_count_few: "{0} kilobita"
+          unit_pattern_count_other: "{0} kilobita"
+        digital_byte:
+          display_name: bajtovi
+          unit_pattern_count_one: "{0} bajt"
+          unit_pattern_count_few: "{0} bajta"
+          unit_pattern_count_other: "{0} bajtova"
+        digital_bit:
+          display_name: bitovi
+          unit_pattern_count_one: "{0} bit"
+          unit_pattern_count_few: "{0} bita"
+          unit_pattern_count_other: "{0} bitova"
+        duration_century:
+          display_name: vekovi
+          unit_pattern_count_one: "{0} vek"
+          unit_pattern_count_few: "{0} veka"
+          unit_pattern_count_other: "{0} vekova"
+        duration_year:
+          display_name: godine
+          unit_pattern_count_one: "{0} godina"
+          unit_pattern_count_few: "{0} godine"
+          unit_pattern_count_other: "{0} godina"
+          per_unit_pattern: "{0} godišnje"
+        duration_month:
+          display_name: meseci
+          unit_pattern_count_one: "{0} mesec"
+          unit_pattern_count_few: "{0} meseca"
+          unit_pattern_count_other: "{0} meseci"
+          per_unit_pattern: "{0} mesečno"
+        duration_week:
+          display_name: nedelje
+          unit_pattern_count_one: "{0} nedelja"
+          unit_pattern_count_few: "{0} nedelje"
+          unit_pattern_count_other: "{0} nedelja"
+          per_unit_pattern: "{0} nedeljno"
+        duration_day:
+          display_name: dani
+          unit_pattern_count_one: "{0} dan"
+          unit_pattern_count_few: "{0} dana"
+          unit_pattern_count_other: "{0} dana"
+          per_unit_pattern: "{0}/dnevno"
+        duration_hour:
+          display_name: sati
+          unit_pattern_count_one: "{0} sat"
+          unit_pattern_count_few: "{0} sata"
+          unit_pattern_count_other: "{0} sati"
+          per_unit_pattern: "{0}/sat"
+        duration_minute:
+          display_name: minuti
+          unit_pattern_count_one: "{0} minut"
+          unit_pattern_count_few: "{0} minuta"
+          unit_pattern_count_other: "{0} minuta"
+          per_unit_pattern: "{0} u minutu"
+        duration_second:
+          display_name: sekunde
+          unit_pattern_count_one: "{0} sekunda"
+          unit_pattern_count_few: "{0} sekunde"
+          unit_pattern_count_other: "{0} sekundi"
+          per_unit_pattern: "{0}/sek"
+        duration_millisecond:
+          display_name: milisekunde
+          unit_pattern_count_one: "{0} milisekunda"
+          unit_pattern_count_few: "{0} milisekunde"
+          unit_pattern_count_other: "{0} milisekundi"
+        duration_microsecond:
+          display_name: mikrosekunde
+          unit_pattern_count_one: "{0} mikrosekunda"
+          unit_pattern_count_few: "{0} mikrosekunde"
+          unit_pattern_count_other: "{0} mikrosekundi"
+        duration_nanosecond:
+          display_name: nanosekunde
+          unit_pattern_count_one: "{0} nanosekunda"
+          unit_pattern_count_few: "{0} nanosekunde"
+          unit_pattern_count_other: "{0} nanosekundi"
+        electric_ampere:
+          display_name: amperi
+          unit_pattern_count_one: "{0} amper"
+          unit_pattern_count_few: "{0} ampera"
+          unit_pattern_count_other: "{0} ampera"
+        electric_milliampere:
+          display_name: miliamperi
+          unit_pattern_count_one: "{0} miliamper"
+          unit_pattern_count_few: "{0} miliampera"
+          unit_pattern_count_other: "{0} miliampera"
+        electric_ohm:
+          display_name: om
+          unit_pattern_count_one: "{0} om"
+          unit_pattern_count_few: "{0} oma"
+          unit_pattern_count_other: "{0} oma"
+        electric_volt:
+          display_name: volti
+          unit_pattern_count_one: "{0} volt"
+          unit_pattern_count_few: "{0} volta"
+          unit_pattern_count_other: "{0} volti"
+        energy_kilocalorie:
+          display_name: kilokalorije
+          unit_pattern_count_one: "{0} kilokalorija"
+          unit_pattern_count_few: "{0} kilokalorije"
+          unit_pattern_count_other: "{0} kilokalorija"
+        energy_calorie:
+          display_name: kalorije
+          unit_pattern_count_one: "{0} kalorija"
+          unit_pattern_count_few: "{0} kalorije"
+          unit_pattern_count_other: "{0} kalorija"
+        energy_foodcalorie:
+          display_name: Kalorije
+          unit_pattern_count_one: "{0} kalorija"
+          unit_pattern_count_few: "{0} kalorije"
+          unit_pattern_count_other: "{0} kalorija"
+        energy_kilojoule:
+          display_name: kilodžuli
+          unit_pattern_count_one: "{0} kilodžul"
+          unit_pattern_count_few: "{0} kilodžula"
+          unit_pattern_count_other: "{0} kilodžula"
+        energy_joule:
+          display_name: džuli
+          unit_pattern_count_one: "{0} džul"
+          unit_pattern_count_few: "{0} džula"
+          unit_pattern_count_other: "{0} džula"
+        energy_kilowatt_hour:
+          display_name: kilovat-sati
+          unit_pattern_count_one: "{0} kilovat-sat"
+          unit_pattern_count_few: "{0} kilovat-sata"
+          unit_pattern_count_other: "{0} kilovat-sati"
+        frequency_gigahertz:
+          display_name: gigaherci
+          unit_pattern_count_one: "{0} gigaherc"
+          unit_pattern_count_few: "{0} gigaherca"
+          unit_pattern_count_other: "{0} gigaherca"
+        frequency_megahertz:
+          display_name: megaherci
+          unit_pattern_count_one: "{0} megaherc"
+          unit_pattern_count_few: "{0} megaherca"
+          unit_pattern_count_other: "{0} megaherca"
+        frequency_kilohertz:
+          display_name: kiloherci
+          unit_pattern_count_one: "{0} kiloherc"
+          unit_pattern_count_few: "{0} kiloherca"
+          unit_pattern_count_other: "{0} kiloherca"
+        frequency_hertz:
+          display_name: herci
+          unit_pattern_count_one: "{0} herc"
+          unit_pattern_count_few: "{0} herca"
+          unit_pattern_count_other: "{0} herca"
+        length_kilometer:
+          display_name: kilometri
+          unit_pattern_count_one: "{0} kilometar"
+          unit_pattern_count_few: "{0} kilometra"
+          unit_pattern_count_other: "{0} kilometara"
+          per_unit_pattern: "{0}/km"
+        length_meter:
+          display_name: metri
+          unit_pattern_count_one: "{0} metar"
+          unit_pattern_count_few: "{0} metra"
+          unit_pattern_count_other: "{0} metara"
+          per_unit_pattern: "{0}/m"
+        length_decimeter:
+          display_name: decimetri
+          unit_pattern_count_one: "{0} decimetar"
+          unit_pattern_count_few: "{0} decimetra"
+          unit_pattern_count_other: "{0} decimetara"
+        length_centimeter:
+          display_name: centimetri
+          unit_pattern_count_one: "{0} centimetar"
+          unit_pattern_count_few: "{0} centimentra"
+          unit_pattern_count_other: "{0} centimetara"
+          per_unit_pattern: "{0}/cm"
+        length_millimeter:
+          display_name: milimetri
+          unit_pattern_count_one: "{0} milimetar"
+          unit_pattern_count_few: "{0} milimetra"
+          unit_pattern_count_other: "{0} milimetara"
+        length_micrometer:
+          display_name: mikrometri
+          unit_pattern_count_one: "{0} mikrometar"
+          unit_pattern_count_few: "{0} mikrometra"
+          unit_pattern_count_other: "{0} mikrometara"
+        length_nanometer:
+          display_name: nanometri
+          unit_pattern_count_one: "{0} nanometar"
+          unit_pattern_count_few: "{0} nanometra"
+          unit_pattern_count_other: "{0} nanometara"
+        length_picometer:
+          display_name: pikometri
+          unit_pattern_count_one: "{0} pikometar"
+          unit_pattern_count_few: "{0} pikometra"
+          unit_pattern_count_other: "{0} pikometara"
+        length_mile:
+          display_name: milje
+          unit_pattern_count_one: "{0} milja"
+          unit_pattern_count_few: "{0} milje"
+          unit_pattern_count_other: "{0} milja"
+        length_yard:
+          display_name: jardi
+          unit_pattern_count_one: "{0} jard"
+          unit_pattern_count_few: "{0} jarda"
+          unit_pattern_count_other: "{0} jardi"
+        length_foot:
+          display_name: stope
+          unit_pattern_count_one: "{0} stopa"
+          unit_pattern_count_few: "{0} stope"
+          unit_pattern_count_other: "{0} stopa"
+          per_unit_pattern: "{0}/ft"
+        length_inch:
+          display_name: inči
+          unit_pattern_count_one: "{0} inč"
+          unit_pattern_count_few: "{0} inča"
+          unit_pattern_count_other: "{0} inča"
+          per_unit_pattern: "{0}/in"
+        length_parsec:
+          display_name: parseci
+          unit_pattern_count_one: "{0} parsek"
+          unit_pattern_count_few: "{0} parseka"
+          unit_pattern_count_other: "{0} parseka"
+        length_light_year:
+          display_name: svetlosne godine
+          unit_pattern_count_one: "{0} svetlosna godina"
+          unit_pattern_count_few: "{0} svetlosne godine"
+          unit_pattern_count_other: "{0} svetlosnih godina"
+        length_astronomical_unit:
+          display_name: astronomske jedinice
+          unit_pattern_count_one: "{0} astronomska jedinica"
+          unit_pattern_count_few: "{0} astronomske jedinice"
+          unit_pattern_count_other: "{0} astronomskih jedinica"
+        length_furlong:
+          display_name: fur
+          unit_pattern_count_other: "{0} fur"
+        length_fathom:
+          display_name: fm
+          unit_pattern_count_other: "{0} fm"
+        length_nautical_mile:
+          display_name: nautičke milje
+          unit_pattern_count_one: "{0} nautička milja"
+          unit_pattern_count_few: "{0} nautičke milje"
+          unit_pattern_count_other: "{0} nautičkih milja"
+        length_mile_scandinavian:
+          display_name: skandinavska milja
+          unit_pattern_count_one: "{0} smi"
+          unit_pattern_count_few: "{0} smi"
+          unit_pattern_count_other: "{0} smi"
+        light_lux:
+          display_name: luks
+          unit_pattern_count_one: "{0} luks"
+          unit_pattern_count_few: "{0} luksa"
+          unit_pattern_count_other: "{0} luksa"
+        mass_metric_ton:
+          display_name: metričke tone
+          unit_pattern_count_one: "{0} metrička tona"
+          unit_pattern_count_few: "{0} metričke tone"
+          unit_pattern_count_other: "{0} metričkih tona"
+        mass_kilogram:
+          display_name: kilogrami
+          unit_pattern_count_one: "{0} kilogram"
+          unit_pattern_count_few: "{0} kilograma"
+          unit_pattern_count_other: "{0} kilograma"
+          per_unit_pattern: "{0} po kilogramu"
+        mass_gram:
+          display_name: grami
+          unit_pattern_count_one: "{0} gram"
+          unit_pattern_count_few: "{0} grama"
+          unit_pattern_count_other: "{0} grama"
+          per_unit_pattern: "{0} po gramu"
+        mass_milligram:
+          display_name: miligrami
+          unit_pattern_count_one: "{0} miligram"
+          unit_pattern_count_few: "{0} miligrama"
+          unit_pattern_count_other: "{0} miligrama"
+        mass_microgram:
+          display_name: mikrogrami
+          unit_pattern_count_one: "{0} mikrogram"
+          unit_pattern_count_few: "{0} mikrograma"
+          unit_pattern_count_other: "{0} mikrograma"
+        mass_ton:
+          display_name: tone
+          unit_pattern_count_one: "{0} tona"
+          unit_pattern_count_few: "{0} tone"
+          unit_pattern_count_other: "{0} tona"
+        mass_stone:
+          display_name: st
+          unit_pattern_count_other: "{0} st"
+        mass_pound:
+          display_name: funte
+          unit_pattern_count_one: "{0} funta"
+          unit_pattern_count_few: "{0} funte"
+          unit_pattern_count_other: "{0} funti"
+          per_unit_pattern: "{0} po funti"
+        mass_ounce:
+          display_name: unce
+          unit_pattern_count_one: "{0} unca"
+          unit_pattern_count_few: "{0} unce"
+          unit_pattern_count_other: "{0} unci"
+          per_unit_pattern: "{0} po unci"
+        mass_ounce_troy:
+          display_name: fine unce
+          unit_pattern_count_one: "{0} fina unca"
+          unit_pattern_count_few: "{0} fine unce"
+          unit_pattern_count_other: "{0} finih unci"
+        mass_carat:
+          display_name: karati
+          unit_pattern_count_one: "{0} karat"
+          unit_pattern_count_few: "{0} karata"
+          unit_pattern_count_other: "{0} karata"
+        power_gigawatt:
+          display_name: gigavati
+          unit_pattern_count_one: "{0} gigavat"
+          unit_pattern_count_few: "{0} gigavata"
+          unit_pattern_count_other: "{0} gigavati"
+        power_megawatt:
+          display_name: megavati
+          unit_pattern_count_one: "{0} megavat"
+          unit_pattern_count_few: "{0} megavata"
+          unit_pattern_count_other: "{0} megavati"
+        power_kilowatt:
+          display_name: kilovati
+          unit_pattern_count_one: "{0} kilovat"
+          unit_pattern_count_few: "{0} kilovata"
+          unit_pattern_count_other: "{0} kilovati"
+        power_watt:
+          display_name: vati
+          unit_pattern_count_one: "{0} vat"
+          unit_pattern_count_few: "{0} vata"
+          unit_pattern_count_other: "{0} vati"
+        power_milliwatt:
+          display_name: milivati
+          unit_pattern_count_one: "{0} milivat"
+          unit_pattern_count_few: "{0} milivata"
+          unit_pattern_count_other: "{0} milivati"
+        power_horsepower:
+          display_name: konjske snage
+          unit_pattern_count_one: "{0} konjska snaga"
+          unit_pattern_count_few: "{0} konjske snage"
+          unit_pattern_count_other: "{0} konjskih snaga"
+        pressure_hectopascal:
+          display_name: hektopaskali
+          unit_pattern_count_one: "{0} hektopaskal"
+          unit_pattern_count_few: "{0} hektopaskala"
+          unit_pattern_count_other: "{0} hektopaskala"
+        pressure_millimeter_of_mercury:
+          display_name: milimetri živinog stuba
+          unit_pattern_count_one: "{0} milimetar živinog stuba"
+          unit_pattern_count_few: "{0} milimetra živinog stuba"
+          unit_pattern_count_other: "{0} milimetara živinog stuba"
+        pressure_pound_per_square_inch:
+          display_name: funte po kvadratnom inču
+          unit_pattern_count_one: "{0} funta po kvadratnom inču"
+          unit_pattern_count_few: "{0} funte po kvadratnom inču"
+          unit_pattern_count_other: "{0} funti po kvadratnom inču"
+        pressure_inch_hg:
+          display_name: inči živinog stuba
+          unit_pattern_count_one: "{0} inč živinog stuba"
+          unit_pattern_count_few: "{0} inča živinog stuba"
+          unit_pattern_count_other: "{0} inča živinog stuba"
+        pressure_millibar:
+          display_name: milibari
+          unit_pattern_count_one: "{0} milibar"
+          unit_pattern_count_few: "{0} milibara"
+          unit_pattern_count_other: "{0} milibara"
+        proportion_karat:
+          display_name: karati
+          unit_pattern_count_one: "{0} karat"
+          unit_pattern_count_few: "{0} karata"
+          unit_pattern_count_other: "{0} karata"
+        speed_kilometer_per_hour:
+          display_name: kilometri na sat
+          unit_pattern_count_one: "{0} kilometar na sat"
+          unit_pattern_count_few: "{0} kilometra na sat"
+          unit_pattern_count_other: "{0} kilometara na sat"
+        speed_meter_per_second:
+          display_name: metri u sekundi
+          unit_pattern_count_one: "{0} metar u sekundi"
+          unit_pattern_count_few: "{0} metra u sekundi"
+          unit_pattern_count_other: "{0} metara u sekundi"
+        speed_mile_per_hour:
+          display_name: milje na sat
+          unit_pattern_count_one: "{0} milja na sat"
+          unit_pattern_count_few: "{0} milje na sat"
+          unit_pattern_count_other: "{0} milja na sat"
+        speed_knot:
+          display_name: kn
+          unit_pattern_count_other: "{0} kn"
+        temperature_generic:
+          display_name: "°"
+          unit_pattern_count_one: "{0}°"
+          unit_pattern_count_few: "{0}°"
+          unit_pattern_count_other: "{0}°"
+        temperature_celsius:
+          display_name: stepeni Celzijusa
+          unit_pattern_count_one: "{0} stepen Celzijusa"
+          unit_pattern_count_few: "{0} stepena Celzijusa"
+          unit_pattern_count_other: "{0} stepeni Celzijusa"
+        temperature_fahrenheit:
+          display_name: stepeni Farenhajta
+          unit_pattern_count_one: "{0} stepen Farenhajta"
+          unit_pattern_count_few: "{0} stepena Farenhajta"
+          unit_pattern_count_other: "{0} stepeni Farenhajta"
+        temperature_kelvin:
+          display_name: kelvin
+          unit_pattern_count_one: "{0} kelvin"
+          unit_pattern_count_few: "{0} kelvina"
+          unit_pattern_count_other: "{0} kelvina"
+        volume_cubic_kilometer:
+          display_name: kubni kilometri
+          unit_pattern_count_one: "{0} kubni kilometar"
+          unit_pattern_count_few: "{0} kubna kilometra"
+          unit_pattern_count_other: "{0} kubnih kilometara"
+        volume_cubic_meter:
+          display_name: kubni metri
+          unit_pattern_count_one: "{0} kubni metar"
+          unit_pattern_count_few: "{0} kubna metra"
+          unit_pattern_count_other: "{0} kubnih metara"
+          per_unit_pattern: "{0}/m³"
+        volume_cubic_centimeter:
+          display_name: kubni centimetri
+          unit_pattern_count_one: "{0} kubni centimetar"
+          unit_pattern_count_few: "{0} kubna centimetra"
+          unit_pattern_count_other: "{0} kubnih centimetara"
+          per_unit_pattern: "{0}/cm³"
+        volume_cubic_mile:
+          display_name: kubne milje
+          unit_pattern_count_one: "{0} kubna milja"
+          unit_pattern_count_few: "{0} kubne milje"
+          unit_pattern_count_other: "{0} kubnih milja"
+        volume_cubic_yard:
+          display_name: kubni jardi
+          unit_pattern_count_one: "{0} kubni jard"
+          unit_pattern_count_few: "{0} kubna jarda"
+          unit_pattern_count_other: "{0} kubnih jardi"
+        volume_cubic_foot:
+          display_name: kubne stope
+          unit_pattern_count_one: "{0} kubna stopa"
+          unit_pattern_count_few: "{0} kubne stope"
+          unit_pattern_count_other: "{0} kubnih stopa"
+        volume_cubic_inch:
+          display_name: kubni inči
+          unit_pattern_count_one: "{0} kubni inč"
+          unit_pattern_count_few: "{0} kubna inča"
+          unit_pattern_count_other: "{0} kubnih inča"
+        volume_megaliter:
+          display_name: megalitri
+          unit_pattern_count_one: "{0} megalitar"
+          unit_pattern_count_few: "{0} megalitra"
+          unit_pattern_count_other: "{0} megalitara"
+        volume_hectoliter:
+          display_name: hektolitri
+          unit_pattern_count_one: "{0} hektolitar"
+          unit_pattern_count_few: "{0} hektolitra"
+          unit_pattern_count_other: "{0} hektolitara"
+        volume_liter:
+          display_name: litri
+          unit_pattern_count_one: "{0} litar"
+          unit_pattern_count_few: "{0} litra"
+          unit_pattern_count_other: "{0} litara"
+          per_unit_pattern: po litri
+        volume_deciliter:
+          display_name: decilitri
+          unit_pattern_count_one: "{0} decilitar"
+          unit_pattern_count_few: "{0} decilitra"
+          unit_pattern_count_other: "{0} decilitara"
+        volume_centiliter:
+          display_name: centilitri
+          unit_pattern_count_one: "{0} centilitar"
+          unit_pattern_count_few: "{0} centilitra"
+          unit_pattern_count_other: "{0} centilitara"
+        volume_milliliter:
+          display_name: mililitri
+          unit_pattern_count_one: "{0} mililitar"
+          unit_pattern_count_few: "{0} mililitra"
+          unit_pattern_count_other: "{0} mililitara"
+        volume_pint_metric:
+          display_name: metričke pinte
+          unit_pattern_count_one: "{0} metrička pinta"
+          unit_pattern_count_few: "{0} metričke pinte"
+          unit_pattern_count_other: "{0} metričkih pinti"
+        volume_cup_metric:
+          display_name: metrička šolja
+          unit_pattern_count_one: "{0} metrička šolja"
+          unit_pattern_count_few: "{0} metričke šolje"
+          unit_pattern_count_other: "{0} metričkih šolja"
+        volume_acre_foot:
+          display_name: aker stope
+          unit_pattern_count_one: "{0} aker stopa"
+          unit_pattern_count_few: "{0} aker stope"
+          unit_pattern_count_other: "{0} aker stopa"
+        volume_bushel:
+          display_name: bu
+          unit_pattern_count_other: "{0} bu"
+        volume_gallon:
+          display_name: galoni
+          unit_pattern_count_one: "{0} galon"
+          unit_pattern_count_few: "{0} galona"
+          unit_pattern_count_other: "{0} galona"
+          per_unit_pattern: "{0} po galonu"
+        volume_quart:
+          display_name: kvarti
+          unit_pattern_count_one: "{0} kvarat"
+          unit_pattern_count_few: "{0} kvarta"
+          unit_pattern_count_other: "{0} kvarata"
+        volume_pint:
+          display_name: pinte
+          unit_pattern_count_one: "{0} pinta"
+          unit_pattern_count_few: "{0} pinte"
+          unit_pattern_count_other: "{0} pinti"
+        volume_cup:
+          display_name: "šolje"
+          unit_pattern_count_one: "{0} šolja"
+          unit_pattern_count_few: "{0} šolje"
+          unit_pattern_count_other: "{0} šolja"
+        volume_fluid_ounce:
+          display_name: unce tečnosti
+          unit_pattern_count_one: "{0} unca tečnosti"
+          unit_pattern_count_few: "{0} unce tečnosti"
+          unit_pattern_count_other: "{0} unci tečnosti"
+        volume_tablespoon:
+          display_name: kašike
+          unit_pattern_count_one: "{0} kašika"
+          unit_pattern_count_few: "{0} kašike"
+          unit_pattern_count_other: "{0} kašika"
+        volume_teaspoon:
+          display_name: kašičice
+          unit_pattern_count_one: "{0} kašičica"
+          unit_pattern_count_few: "{0} kašičice"
+          unit_pattern_count_other: "{0} kašičica"
+        coordinate_unit:
+          east: "{0}E"
+          north: "{0}N"
+          south: "{0}S"
+          west: "{0}W"
+      short:
+        per:
+          compound_unit_pattern: "{0}/{1}"
+        acceleration_g_force:
+          display_name: ge sila
+          unit_pattern_count_one: "{0} G"
+          unit_pattern_count_few: "{0} G"
+          unit_pattern_count_other: "{0} G"
+        acceleration_meter_per_second_squared:
+          display_name: m/s²
+          unit_pattern_count_one: "{0} m/s²"
+          unit_pattern_count_few: "{0} m/s²"
+          unit_pattern_count_other: "{0} m/s²"
+        angle_revolution:
+          display_name: rev
+          unit_pattern_count_one: "{0} rev"
+          unit_pattern_count_few: "{0} rev"
+          unit_pattern_count_other: "{0} rev"
+        angle_radian:
+          display_name: rad
+          unit_pattern_count_one: "{0} rad"
+          unit_pattern_count_few: "{0} rad"
+          unit_pattern_count_other: "{0} rad"
+        angle_degree:
+          display_name: stepeni
+          unit_pattern_count_one: "{0}°"
+          unit_pattern_count_few: "{0}°"
+          unit_pattern_count_other: "{0}°"
+        angle_arc_minute:
+          display_name: lučni min
+          unit_pattern_count_one: "{0}′"
+          unit_pattern_count_few: "{0}′"
+          unit_pattern_count_other: "{0}′"
+        angle_arc_second:
+          display_name: sekundi
+          unit_pattern_count_one: "{0}″"
+          unit_pattern_count_few: "{0}″"
+          unit_pattern_count_other: "{0}″"
+        area_square_kilometer:
+          display_name: kvadratni kilometri
+          unit_pattern_count_one: "{0} km²"
+          unit_pattern_count_few: "{0} km²"
+          unit_pattern_count_other: "{0} km²"
+        area_hectare:
+          display_name: hektari
+          unit_pattern_count_one: "{0} ha"
+          unit_pattern_count_few: "{0} ha"
+          unit_pattern_count_other: "{0} ha"
+        area_square_meter:
+          display_name: kvadratni metri
+          unit_pattern_count_one: "{0} m²"
+          unit_pattern_count_few: "{0} m²"
+          unit_pattern_count_other: "{0} m²"
+          per_unit_pattern: "{0}/m²"
+        area_square_centimeter:
+          display_name: cm²
+          unit_pattern_count_one: "{0} cm²"
+          unit_pattern_count_few: "{0} cm²"
+          unit_pattern_count_other: "{0} cm²"
+          per_unit_pattern: "{0}/cm²"
+        area_square_mile:
+          display_name: mi²
+          unit_pattern_count_one: "{0} mi²"
+          unit_pattern_count_few: "{0} mi²"
+          unit_pattern_count_other: "{0} mi²"
+        area_acre:
+          display_name: akeri
+          unit_pattern_count_one: "{0} ac"
+          unit_pattern_count_few: "{0} ac"
+          unit_pattern_count_other: "{0} ac"
+        area_square_yard:
+          display_name: yd²
+          unit_pattern_count_one: "{0} yd²"
+          unit_pattern_count_few: "{0} yd²"
+          unit_pattern_count_other: "{0} yd²"
+        area_square_foot:
+          display_name: kvadratne stope
+          unit_pattern_count_one: "{0} ft²"
+          unit_pattern_count_few: "{0} ft²"
+          unit_pattern_count_other: "{0} ft²"
+        area_square_inch:
+          display_name: in²
+          unit_pattern_count_one: "{0} in²"
+          unit_pattern_count_few: "{0} in²"
+          unit_pattern_count_other: "{0} in²"
+          per_unit_pattern: "{0}/in²"
+        consumption_liter_per_kilometer:
+          display_name: L/km
+          unit_pattern_count_one: "{0} L/km"
+          unit_pattern_count_few: "{0} L/km"
+          unit_pattern_count_other: "{0} L/km"
+        consumption_liter_per_100kilometers:
+          display_name: L/100km
+          unit_pattern_count_one: "{0} L/100km"
+          unit_pattern_count_few: "{0} L/100km"
+          unit_pattern_count_other: "{0} L/100km"
+        consumption_mile_per_gallon:
+          display_name: mpg
+          unit_pattern_count_one: "{0} mpg"
+          unit_pattern_count_few: "{0} mpg"
+          unit_pattern_count_other: "{0} mpg"
+        digital_terabyte:
+          display_name: TB
+          unit_pattern_count_one: "{0} TB"
+          unit_pattern_count_few: "{0} TB"
+          unit_pattern_count_other: "{0} TB"
+        digital_terabit:
+          display_name: Tb
+          unit_pattern_count_one: "{0} Tb"
+          unit_pattern_count_few: "{0} Tb"
+          unit_pattern_count_other: "{0} Tb"
+        digital_gigabyte:
+          display_name: GB
+          unit_pattern_count_one: "{0} GB"
+          unit_pattern_count_few: "{0} GB"
+          unit_pattern_count_other: "{0} GB"
+        digital_gigabit:
+          display_name: Gb
+          unit_pattern_count_one: "{0} Gb"
+          unit_pattern_count_few: "{0} Gb"
+          unit_pattern_count_other: "{0} Gb"
+        digital_megabyte:
+          display_name: MB
+          unit_pattern_count_one: "{0} MB"
+          unit_pattern_count_few: "{0} MB"
+          unit_pattern_count_other: "{0} MB"
+        digital_megabit:
+          display_name: Mb
+          unit_pattern_count_one: "{0} Mb"
+          unit_pattern_count_few: "{0} Mb"
+          unit_pattern_count_other: "{0} Mb"
+        digital_kilobyte:
+          display_name: kB
+          unit_pattern_count_one: "{0} kB"
+          unit_pattern_count_few: "{0} kB"
+          unit_pattern_count_other: "{0} kB"
+        digital_kilobit:
+          display_name: kb
+          unit_pattern_count_one: "{0} kb"
+          unit_pattern_count_few: "{0} kb"
+          unit_pattern_count_other: "{0} kb"
+        digital_byte:
+          display_name: bajt
+          unit_pattern_count_one: "{0} B"
+          unit_pattern_count_few: "{0} B"
+          unit_pattern_count_other: "{0} B"
+        digital_bit:
+          display_name: bit
+          unit_pattern_count_one: "{0} b"
+          unit_pattern_count_few: "{0} b"
+          unit_pattern_count_other: "{0} b"
+        duration_century:
+          display_name: v.
+          unit_pattern_count_one: "{0} v"
+          unit_pattern_count_few: "{0} v"
+          unit_pattern_count_other: "{0} v"
+        duration_year:
+          display_name: god.
+          unit_pattern_count_one: "{0} god"
+          unit_pattern_count_few: "{0} god."
+          unit_pattern_count_other: "{0} god."
+          per_unit_pattern: "{0}/god"
+        duration_month:
+          display_name: meseci
+          unit_pattern_count_one: "{0} mes."
+          unit_pattern_count_few: "{0} mes."
+          unit_pattern_count_other: "{0} mes."
+          per_unit_pattern: "{0}/m"
+        duration_week:
+          display_name: ned.
+          unit_pattern_count_one: "{0} ned."
+          unit_pattern_count_few: "{0} ned."
+          unit_pattern_count_other: "{0} ned."
+          per_unit_pattern: "{0}/n"
+        duration_day:
+          display_name: d.
+          unit_pattern_count_one: "{0} dan"
+          unit_pattern_count_few: "{0} dana"
+          unit_pattern_count_other: "{0} dana"
+          per_unit_pattern: "{0}/d"
+        duration_hour:
+          display_name: sati
+          unit_pattern_count_one: "{0} sat"
+          unit_pattern_count_few: "{0} sata"
+          unit_pattern_count_other: "{0} sati"
+          per_unit_pattern: "{0}/s"
+        duration_minute:
+          display_name: min
+          unit_pattern_count_one: "{0} min"
+          unit_pattern_count_few: "{0} min"
+          unit_pattern_count_other: "{0} min"
+          per_unit_pattern: "{0}/min"
+        duration_second:
+          display_name: sek
+          unit_pattern_count_one: "{0} sek"
+          unit_pattern_count_few: "{0} sek"
+          unit_pattern_count_other: "{0} sek"
+          per_unit_pattern: "{0}/sek"
+        duration_millisecond:
+          display_name: ms
+          unit_pattern_count_one: "{0} ms"
+          unit_pattern_count_few: "{0} ms"
+          unit_pattern_count_other: "{0} ms"
+        duration_microsecond:
+          display_name: "μs"
+          unit_pattern_count_one: "{0} μs"
+          unit_pattern_count_few: "{0} μs"
+          unit_pattern_count_other: "{0} μs"
+        duration_nanosecond:
+          display_name: ns
+          unit_pattern_count_one: "{0} ns"
+          unit_pattern_count_few: "{0} ns"
+          unit_pattern_count_other: "{0} ns"
+        electric_ampere:
+          display_name: amperi
+          unit_pattern_count_one: "{0} A"
+          unit_pattern_count_few: "{0} A"
+          unit_pattern_count_other: "{0} A"
+        electric_milliampere:
+          display_name: mA
+          unit_pattern_count_one: "{0} mA"
+          unit_pattern_count_few: "{0} mA"
+          unit_pattern_count_other: "{0} mA"
+        electric_ohm:
+          display_name: omi
+          unit_pattern_count_one: "{0} Ω"
+          unit_pattern_count_few: "{0} Ω"
+          unit_pattern_count_other: "{0} Ω"
+        electric_volt:
+          display_name: volti
+          unit_pattern_count_one: "{0} V"
+          unit_pattern_count_few: "{0} V"
+          unit_pattern_count_other: "{0} V"
+        energy_kilocalorie:
+          display_name: kcal
+          unit_pattern_count_one: "{0} kcal"
+          unit_pattern_count_few: "{0} kcal"
+          unit_pattern_count_other: "{0} kcal"
+        energy_calorie:
+          display_name: cal
+          unit_pattern_count_one: "{0} cal"
+          unit_pattern_count_few: "{0} cal"
+          unit_pattern_count_other: "{0} cal"
+        energy_foodcalorie:
+          display_name: Cal
+          unit_pattern_count_one: "{0} Cal"
+          unit_pattern_count_few: "{0} Cal"
+          unit_pattern_count_other: "{0} Cal"
+        energy_kilojoule:
+          display_name: kJ
+          unit_pattern_count_one: "{0} kJ"
+          unit_pattern_count_few: "{0} kJ"
+          unit_pattern_count_other: "{0} kJ"
+        energy_joule:
+          display_name: džuli
+          unit_pattern_count_one: "{0} J"
+          unit_pattern_count_few: "{0} J"
+          unit_pattern_count_other: "{0} J"
+        energy_kilowatt_hour:
+          display_name: kWh
+          unit_pattern_count_one: "{0} kWh"
+          unit_pattern_count_few: "{0} kWh"
+          unit_pattern_count_other: "{0} kWh"
+        frequency_gigahertz:
+          display_name: GHz
+          unit_pattern_count_one: "{0} GHz"
+          unit_pattern_count_few: "{0} GHz"
+          unit_pattern_count_other: "{0} GHz"
+        frequency_megahertz:
+          display_name: MHz
+          unit_pattern_count_one: "{0} MHz"
+          unit_pattern_count_few: "{0} MHz"
+          unit_pattern_count_other: "{0} MHz"
+        frequency_kilohertz:
+          display_name: kHz
+          unit_pattern_count_one: "{0} kHz"
+          unit_pattern_count_few: "{0} kHz"
+          unit_pattern_count_other: "{0} kHz"
+        frequency_hertz:
+          display_name: Hz
+          unit_pattern_count_one: "{0} Hz"
+          unit_pattern_count_few: "{0} Hz"
+          unit_pattern_count_other: "{0} Hz"
+        length_kilometer:
+          display_name: km
+          unit_pattern_count_one: "{0} km"
+          unit_pattern_count_few: "{0} km"
+          unit_pattern_count_other: "{0} km"
+          per_unit_pattern: "{0}/km"
+        length_meter:
+          display_name: metri
+          unit_pattern_count_one: "{0} m"
+          unit_pattern_count_few: "{0} m"
+          unit_pattern_count_other: "{0} m"
+          per_unit_pattern: "{0}/m"
+        length_decimeter:
+          display_name: dm
+          unit_pattern_count_one: "{0} dm"
+          unit_pattern_count_few: "{0} dm"
+          unit_pattern_count_other: "{0} dm"
+        length_centimeter:
+          display_name: cm
+          unit_pattern_count_one: "{0} cm"
+          unit_pattern_count_few: "{0} cm"
+          unit_pattern_count_other: "{0} cm"
+          per_unit_pattern: "{0}/cm"
+        length_millimeter:
+          display_name: mm
+          unit_pattern_count_one: "{0} mm"
+          unit_pattern_count_few: "{0} mm"
+          unit_pattern_count_other: "{0} mm"
+        length_micrometer:
+          display_name: "µm"
+          unit_pattern_count_one: "{0} µm"
+          unit_pattern_count_few: "{0} µm"
+          unit_pattern_count_other: "{0} µm"
+        length_nanometer:
+          display_name: nm
+          unit_pattern_count_one: "{0} nm"
+          unit_pattern_count_few: "{0} nm"
+          unit_pattern_count_other: "{0} nm"
+        length_picometer:
+          display_name: pikometri
+          unit_pattern_count_one: "{0} pm"
+          unit_pattern_count_few: "{0} pm"
+          unit_pattern_count_other: "{0} pm"
+        length_mile:
+          display_name: milje
+          unit_pattern_count_one: "{0} mi"
+          unit_pattern_count_few: "{0} mi"
+          unit_pattern_count_other: "{0} mi"
+        length_yard:
+          display_name: jardi
+          unit_pattern_count_one: "{0} jrd"
+          unit_pattern_count_few: "{0} jrd"
+          unit_pattern_count_other: "{0} jrd"
+        length_foot:
+          display_name: ft
+          unit_pattern_count_one: "{0} ft"
+          unit_pattern_count_few: "{0} ft"
+          unit_pattern_count_other: "{0} ft"
+          per_unit_pattern: "{0}/ft"
+        length_inch:
+          display_name: inči
+          unit_pattern_count_one: "{0} inč"
+          unit_pattern_count_few: "{0} inča"
+          unit_pattern_count_other: "{0} inča"
+          per_unit_pattern: "{0}/in"
+        length_parsec:
+          display_name: parseci
+          unit_pattern_count_one: "{0} pc"
+          unit_pattern_count_few: "{0} pc"
+          unit_pattern_count_other: "{0} pc"
+        length_light_year:
+          display_name: svetlosne god.
+          unit_pattern_count_one: "{0} sg"
+          unit_pattern_count_few: "{0} sg"
+          unit_pattern_count_other: "{0} sg"
+        length_astronomical_unit:
+          display_name: aj
+          unit_pattern_count_one: "{0} aj"
+          unit_pattern_count_few: "{0} aj"
+          unit_pattern_count_other: "{0} aj"
+        length_furlong:
+          display_name: fur
+          unit_pattern_count_other: "{0} fur"
+        length_fathom:
+          display_name: fm
+          unit_pattern_count_other: "{0} fm"
+        length_nautical_mile:
+          display_name: nmi
+          unit_pattern_count_one: "{0} nmi"
+          unit_pattern_count_few: "{0} nmi"
+          unit_pattern_count_other: "{0} nmi"
+        length_mile_scandinavian:
+          display_name: smi
+          unit_pattern_count_one: "{0} smi"
+          unit_pattern_count_few: "{0} smi"
+          unit_pattern_count_other: "{0} smi"
+        light_lux:
+          display_name: lx
+          unit_pattern_count_one: "{0} lx"
+          unit_pattern_count_few: "{0} lx"
+          unit_pattern_count_other: "{0} lx"
+        mass_metric_ton:
+          display_name: t
+          unit_pattern_count_one: "{0} t"
+          unit_pattern_count_few: "{0} t"
+          unit_pattern_count_other: "{0} t"
+        mass_kilogram:
+          display_name: kg
+          unit_pattern_count_one: "{0} kg"
+          unit_pattern_count_few: "{0} kg"
+          unit_pattern_count_other: "{0} kg"
+          per_unit_pattern: "{0}/kg"
+        mass_gram:
+          display_name: grami
+          unit_pattern_count_one: "{0} g"
+          unit_pattern_count_few: "{0} g"
+          unit_pattern_count_other: "{0} g"
+          per_unit_pattern: "{0}/g"
+        mass_milligram:
+          display_name: mg
+          unit_pattern_count_one: "{0} mg"
+          unit_pattern_count_few: "{0} mg"
+          unit_pattern_count_other: "{0} mg"
+        mass_microgram:
+          display_name: "µg"
+          unit_pattern_count_one: "{0} µg"
+          unit_pattern_count_few: "{0} µg"
+          unit_pattern_count_other: "{0} µg"
+        mass_ton:
+          display_name: tn
+          unit_pattern_count_one: "{0} tn"
+          unit_pattern_count_few: "{0} tn"
+          unit_pattern_count_other: "{0} tn"
+        mass_stone:
+          display_name: st
+          unit_pattern_count_other: "{0} st"
+        mass_pound:
+          display_name: lb
+          unit_pattern_count_one: "{0} lb"
+          unit_pattern_count_few: "{0} lb"
+          unit_pattern_count_other: "{0} lb"
+          per_unit_pattern: "{0}/lb"
+        mass_ounce:
+          display_name: oz
+          unit_pattern_count_one: "{0} unca"
+          unit_pattern_count_few: "{0} unce"
+          unit_pattern_count_other: "{0} unci"
+          per_unit_pattern: "{0}/oz"
+        mass_ounce_troy:
+          display_name: oz t
+          unit_pattern_count_one: "{0} oz t"
+          unit_pattern_count_few: "{0} oz t"
+          unit_pattern_count_other: "{0} oz t"
+        mass_carat:
+          display_name: karati
+          unit_pattern_count_one: "{0} CD"
+          unit_pattern_count_few: "{0} CD"
+          unit_pattern_count_other: "{0} CD"
+        power_gigawatt:
+          display_name: GW
+          unit_pattern_count_one: "{0} GW"
+          unit_pattern_count_few: "{0} GW"
+          unit_pattern_count_other: "{0} GW"
+        power_megawatt:
+          display_name: MW
+          unit_pattern_count_one: "{0} MW"
+          unit_pattern_count_few: "{0} MW"
+          unit_pattern_count_other: "{0} MW"
+        power_kilowatt:
+          display_name: kW
+          unit_pattern_count_one: "{0} kW"
+          unit_pattern_count_few: "{0} kW"
+          unit_pattern_count_other: "{0} kW"
+        power_watt:
+          display_name: vati
+          unit_pattern_count_one: "{0} W"
+          unit_pattern_count_few: "{0} W"
+          unit_pattern_count_other: "{0} W"
+        power_milliwatt:
+          display_name: mW
+          unit_pattern_count_one: "{0} mW"
+          unit_pattern_count_few: "{0} mW"
+          unit_pattern_count_other: "{0} mW"
+        power_horsepower:
+          display_name: ks
+          unit_pattern_count_one: "{0} ks"
+          unit_pattern_count_few: "{0} ks"
+          unit_pattern_count_other: "{0} ks"
+        pressure_hectopascal:
+          display_name: hPa
+          unit_pattern_count_one: "{0} hPa"
+          unit_pattern_count_few: "{0} hPa"
+          unit_pattern_count_other: "{0} hPa"
+        pressure_millimeter_of_mercury:
+          display_name: mm Hg
+          unit_pattern_count_one: "{0} mm Hg"
+          unit_pattern_count_few: "{0} mm Hg"
+          unit_pattern_count_other: "{0} mm Hg"
+        pressure_pound_per_square_inch:
+          display_name: psi
+          unit_pattern_count_one: "{0} psi"
+          unit_pattern_count_few: "{0} psi"
+          unit_pattern_count_other: "{0} psi"
+        pressure_inch_hg:
+          display_name: inHg
+          unit_pattern_count_one: "{0} inHg"
+          unit_pattern_count_few: "{0} inHg"
+          unit_pattern_count_other: "{0} inHg"
+        pressure_millibar:
+          display_name: mbar
+          unit_pattern_count_one: "{0} mbar"
+          unit_pattern_count_few: "{0} mbar"
+          unit_pattern_count_other: "{0} mbar"
+        proportion_karat:
+          display_name: kt
+          unit_pattern_count_one: "{0} kt"
+          unit_pattern_count_few: "{0} kt"
+          unit_pattern_count_other: "{0} kt"
+        speed_kilometer_per_hour:
+          display_name: kilometri na sat
+          unit_pattern_count_one: "{0} km/h"
+          unit_pattern_count_few: "{0} km/h"
+          unit_pattern_count_other: "{0} km/h"
+        speed_meter_per_second:
+          display_name: metri u sekundi
+          unit_pattern_count_one: "{0} m/s"
+          unit_pattern_count_few: "{0} m/s"
+          unit_pattern_count_other: "{0} m/s"
+        speed_mile_per_hour:
+          display_name: milje na sat
+          unit_pattern_count_one: "{0} mi/h"
+          unit_pattern_count_few: "{0} mi/h"
+          unit_pattern_count_other: "{0} mi/h"
+        speed_knot:
+          display_name: kn
+          unit_pattern_count_other: "{0} kn"
+        temperature_generic:
+          display_name: "°"
+          unit_pattern_count_one: "{0}°"
+          unit_pattern_count_few: "{0}°"
+          unit_pattern_count_other: "{0}°"
+        temperature_celsius:
+          display_name: "°C"
+          unit_pattern_count_one: "{0}°C"
+          unit_pattern_count_few: "{0}°C"
+          unit_pattern_count_other: "{0}°C"
+        temperature_fahrenheit:
+          display_name: stepeni Farenhajta
+          unit_pattern_count_one: "{0}°F"
+          unit_pattern_count_few: "{0}°F"
+          unit_pattern_count_other: "{0}°F"
+        temperature_kelvin:
+          display_name: K
+          unit_pattern_count_one: "{0} K"
+          unit_pattern_count_few: "{0} K"
+          unit_pattern_count_other: "{0} K"
+        volume_cubic_kilometer:
+          display_name: km³
+          unit_pattern_count_one: "{0} km³"
+          unit_pattern_count_few: "{0} km³"
+          unit_pattern_count_other: "{0} km³"
+        volume_cubic_meter:
+          display_name: m³
+          unit_pattern_count_one: "{0} m³"
+          unit_pattern_count_few: "{0} m³"
+          unit_pattern_count_other: "{0} m³"
+          per_unit_pattern: "{0}/m³"
+        volume_cubic_centimeter:
+          display_name: cm³
+          unit_pattern_count_one: "{0} cm³"
+          unit_pattern_count_few: "{0} cm³"
+          unit_pattern_count_other: "{0} cm³"
+          per_unit_pattern: "{0}/cm³"
+        volume_cubic_mile:
+          display_name: mi³
+          unit_pattern_count_one: "{0} mi³"
+          unit_pattern_count_few: "{0} mi³"
+          unit_pattern_count_other: "{0} mi³"
+        volume_cubic_yard:
+          display_name: yd³
+          unit_pattern_count_one: "{0} yd³"
+          unit_pattern_count_few: "{0} yd³"
+          unit_pattern_count_other: "{0} yd³"
+        volume_cubic_foot:
+          display_name: ft³
+          unit_pattern_count_one: "{0} ft³"
+          unit_pattern_count_few: "{0} ft³"
+          unit_pattern_count_other: "{0} ft³"
+        volume_cubic_inch:
+          display_name: in³
+          unit_pattern_count_one: "{0} in³"
+          unit_pattern_count_few: "{0} in³"
+          unit_pattern_count_other: "{0} in³"
+        volume_megaliter:
+          display_name: ML
+          unit_pattern_count_one: "{0} ML"
+          unit_pattern_count_few: "{0} ML"
+          unit_pattern_count_other: "{0} ML"
+        volume_hectoliter:
+          display_name: hL
+          unit_pattern_count_one: "{0} hL"
+          unit_pattern_count_few: "{0} hL"
+          unit_pattern_count_other: "{0} hL"
+        volume_liter:
+          display_name: litri
+          unit_pattern_count_one: "{0} l"
+          unit_pattern_count_few: "{0} l"
+          unit_pattern_count_other: "{0} l"
+          per_unit_pattern: "{0}/l"
+        volume_deciliter:
+          display_name: dL
+          unit_pattern_count_one: "{0} dL"
+          unit_pattern_count_few: "{0} dL"
+          unit_pattern_count_other: "{0} dL"
+        volume_centiliter:
+          display_name: cL
+          unit_pattern_count_one: "{0} cL"
+          unit_pattern_count_few: "{0} cL"
+          unit_pattern_count_other: "{0} cL"
+        volume_milliliter:
+          display_name: mL
+          unit_pattern_count_one: "{0} mL"
+          unit_pattern_count_few: "{0} mL"
+          unit_pattern_count_other: "{0} mL"
+        volume_pint_metric:
+          display_name: mpt
+          unit_pattern_count_one: "{0} mpt"
+          unit_pattern_count_few: "{0} mpt"
+          unit_pattern_count_other: "{0} mpt"
+        volume_cup_metric:
+          display_name: mcup
+          unit_pattern_count_one: "{0} mc"
+          unit_pattern_count_few: "{0} mc"
+          unit_pattern_count_other: "{0} mc"
+        volume_acre_foot:
+          display_name: ac ft
+          unit_pattern_count_one: "{0} ac ft"
+          unit_pattern_count_few: "{0} ac ft"
+          unit_pattern_count_other: "{0} ac ft"
+        volume_bushel:
+          display_name: bu
+          unit_pattern_count_other: "{0} bu"
+        volume_gallon:
+          display_name: gal
+          unit_pattern_count_one: "{0} gal"
+          unit_pattern_count_few: "{0} gal"
+          unit_pattern_count_other: "{0} gal"
+          per_unit_pattern: "{0}/gal"
+        volume_quart:
+          display_name: qt
+          unit_pattern_count_one: "{0} qt"
+          unit_pattern_count_few: "{0} qt"
+          unit_pattern_count_other: "{0} qt"
+        volume_pint:
+          display_name: pt
+          unit_pattern_count_one: "{0} pt"
+          unit_pattern_count_few: "{0} pt"
+          unit_pattern_count_other: "{0} pt"
+        volume_cup:
+          display_name: "šolje"
+          unit_pattern_count_one: "{0} š."
+          unit_pattern_count_few: "{0} š."
+          unit_pattern_count_other: "{0} š."
+        volume_fluid_ounce:
+          display_name: fl oz
+          unit_pattern_count_one: "{0} fl oz"
+          unit_pattern_count_few: "{0} fl oz"
+          unit_pattern_count_other: "{0} fl oz"
+        volume_tablespoon:
+          display_name: kaš.
+          unit_pattern_count_one: "{0} kaš."
+          unit_pattern_count_few: "{0} kaš."
+          unit_pattern_count_other: "{0} kaš."
+        volume_teaspoon:
+          display_name: kašič.
+          unit_pattern_count_one: "{0} kašič."
+          unit_pattern_count_few: "{0} kašič."
+          unit_pattern_count_other: "{0} kašič."
+        coordinate_unit:
+          east: "{0}E"
+          north: "{0}N"
+          south: "{0}S"
+          west: "{0}W"
+      narrow:
+        per:
+          compound_unit_pattern: "{0}/{1}"
+        acceleration_g_force:
+          display_name: ge sila
+          unit_pattern_count_one: "{0} G"
+          unit_pattern_count_few: "{0} G"
+          unit_pattern_count_other: "{0} G"
+        acceleration_meter_per_second_squared:
+          display_name: m/s²
+          unit_pattern_count_one: "{0} m/s²"
+          unit_pattern_count_few: "{0} m/s²"
+          unit_pattern_count_other: "{0} m/s²"
+        angle_revolution:
+          display_name: rev
+          unit_pattern_count_one: "{0} rev"
+          unit_pattern_count_few: "{0} rev"
+          unit_pattern_count_other: "{0} rev"
+        angle_radian:
+          display_name: rad
+          unit_pattern_count_one: "{0} rad"
+          unit_pattern_count_few: "{0} rad"
+          unit_pattern_count_other: "{0} rad"
+        angle_degree:
+          display_name: stepeni
+          unit_pattern_count_one: "{0}°"
+          unit_pattern_count_few: "{0}°"
+          unit_pattern_count_other: "{0}°"
+        angle_arc_minute:
+          display_name: lučni min
+          unit_pattern_count_one: "{0}′"
+          unit_pattern_count_few: "{0}′"
+          unit_pattern_count_other: "{0}′"
+        angle_arc_second:
+          display_name: sekundi
+          unit_pattern_count_one: "{0}″"
+          unit_pattern_count_few: "{0}″"
+          unit_pattern_count_other: "{0}″"
+        area_square_kilometer:
+          display_name: kvadratni kilometri
+          unit_pattern_count_one: "{0} km²"
+          unit_pattern_count_few: "{0} km²"
+          unit_pattern_count_other: "{0} km²"
+        area_hectare:
+          display_name: hektari
+          unit_pattern_count_one: "{0} ha"
+          unit_pattern_count_few: "{0} ha"
+          unit_pattern_count_other: "{0} ha"
+        area_square_meter:
+          display_name: kvadratni metri
+          unit_pattern_count_one: "{0} m²"
+          unit_pattern_count_few: "{0} m²"
+          unit_pattern_count_other: "{0} m²"
+          per_unit_pattern: "{0}/m²"
+        area_square_centimeter:
+          display_name: cm²
+          unit_pattern_count_one: "{0} cm²"
+          unit_pattern_count_few: "{0} cm²"
+          unit_pattern_count_other: "{0} cm²"
+          per_unit_pattern: "{0}/cm²"
+        area_square_mile:
+          display_name: mi²
+          unit_pattern_count_one: "{0} mi²"
+          unit_pattern_count_few: "{0} mi²"
+          unit_pattern_count_other: "{0} mi²"
+        area_acre:
+          display_name: akeri
+          unit_pattern_count_one: "{0} ac"
+          unit_pattern_count_few: "{0} ac"
+          unit_pattern_count_other: "{0} ac"
+        area_square_yard:
+          display_name: yd²
+          unit_pattern_count_one: "{0} yd²"
+          unit_pattern_count_few: "{0} yd²"
+          unit_pattern_count_other: "{0} yd²"
+        area_square_foot:
+          display_name: kvadratne stope
+          unit_pattern_count_one: "{0} ft²"
+          unit_pattern_count_few: "{0} ft²"
+          unit_pattern_count_other: "{0} ft²"
+        area_square_inch:
+          display_name: in²
+          unit_pattern_count_one: "{0} in²"
+          unit_pattern_count_few: "{0} in²"
+          unit_pattern_count_other: "{0} in²"
+          per_unit_pattern: "{0}/in²"
+        consumption_liter_per_kilometer:
+          display_name: L/km
+          unit_pattern_count_one: "{0} L/km"
+          unit_pattern_count_few: "{0} L/km"
+          unit_pattern_count_other: "{0} L/km"
+        consumption_liter_per_100kilometers:
+          display_name: L/100km
+          unit_pattern_count_one: "{0} L/100km"
+          unit_pattern_count_few: "{0} L/100km"
+          unit_pattern_count_other: "{0} L/100km"
+        consumption_mile_per_gallon:
+          display_name: mpg
+          unit_pattern_count_one: "{0} mpg"
+          unit_pattern_count_few: "{0} mpg"
+          unit_pattern_count_other: "{0} mpg"
+        digital_terabyte:
+          display_name: TB
+          unit_pattern_count_one: "{0} TB"
+          unit_pattern_count_few: "{0} TB"
+          unit_pattern_count_other: "{0} TB"
+        digital_terabit:
+          display_name: Tb
+          unit_pattern_count_one: "{0} Tb"
+          unit_pattern_count_few: "{0} Tb"
+          unit_pattern_count_other: "{0} Tb"
+        digital_gigabyte:
+          display_name: GB
+          unit_pattern_count_one: "{0} GB"
+          unit_pattern_count_few: "{0} GB"
+          unit_pattern_count_other: "{0} GB"
+        digital_gigabit:
+          display_name: Gb
+          unit_pattern_count_one: "{0} Gb"
+          unit_pattern_count_few: "{0} Gb"
+          unit_pattern_count_other: "{0} Gb"
+        digital_megabyte:
+          display_name: MB
+          unit_pattern_count_one: "{0} MB"
+          unit_pattern_count_few: "{0} MB"
+          unit_pattern_count_other: "{0} MB"
+        digital_megabit:
+          display_name: Mb
+          unit_pattern_count_one: "{0} Mb"
+          unit_pattern_count_few: "{0} Mb"
+          unit_pattern_count_other: "{0} Mb"
+        digital_kilobyte:
+          display_name: kB
+          unit_pattern_count_one: "{0} kB"
+          unit_pattern_count_few: "{0} kB"
+          unit_pattern_count_other: "{0} kB"
+        digital_kilobit:
+          display_name: kb
+          unit_pattern_count_one: "{0} kb"
+          unit_pattern_count_few: "{0} kb"
+          unit_pattern_count_other: "{0} kb"
+        digital_byte:
+          display_name: bajt
+          unit_pattern_count_one: "{0} B"
+          unit_pattern_count_few: "{0} B"
+          unit_pattern_count_other: "{0} B"
+        digital_bit:
+          display_name: bit
+          unit_pattern_count_one: "{0} b"
+          unit_pattern_count_few: "{0} b"
+          unit_pattern_count_other: "{0} b"
+        duration_century:
+          display_name: v.
+          unit_pattern_count_one: "{0} v"
+          unit_pattern_count_few: "{0} v"
+          unit_pattern_count_other: "{0} v"
+        duration_year:
+          display_name: g.
+          unit_pattern_count_one: "{0} g"
+          unit_pattern_count_few: "{0} g"
+          unit_pattern_count_other: "{0} g"
+          per_unit_pattern: "{0}/god"
+        duration_month:
+          display_name: m.
+          unit_pattern_count_one: "{0} m"
+          unit_pattern_count_few: "{0} m"
+          unit_pattern_count_other: "{0} m"
+          per_unit_pattern: "{0}/m"
+        duration_week:
+          display_name: n.
+          unit_pattern_count_one: "{0} n"
+          unit_pattern_count_few: "{0} n"
+          unit_pattern_count_other: "{0} n"
+          per_unit_pattern: "{0}/n"
+        duration_day:
+          display_name: d.
+          unit_pattern_count_one: "{0} d"
+          unit_pattern_count_few: "{0} d"
+          unit_pattern_count_other: "{0} d"
+          per_unit_pattern: "{0}/d"
+        duration_hour:
+          display_name: sat
+          unit_pattern_count_one: "{0} sat"
+          unit_pattern_count_few: "{0} sata"
+          unit_pattern_count_other: "{0} sati"
+          per_unit_pattern: "{0}/s"
+        duration_minute:
+          display_name: min
+          unit_pattern_count_one: "{0} m"
+          unit_pattern_count_few: "{0} m"
+          unit_pattern_count_other: "{0} m"
+          per_unit_pattern: "{0}/min"
+        duration_second:
+          display_name: sek
+          unit_pattern_count_one: "{0} sek"
+          unit_pattern_count_few: "{0} sek"
+          unit_pattern_count_other: "{0} sek"
+          per_unit_pattern: "{0}/sek"
+        duration_millisecond:
+          display_name: ms
+          unit_pattern_count_one: "{0} ms"
+          unit_pattern_count_few: "{0} ms"
+          unit_pattern_count_other: "{0} ms"
+        duration_microsecond:
+          display_name: "μs"
+          unit_pattern_count_one: "{0} μs"
+          unit_pattern_count_few: "{0} μs"
+          unit_pattern_count_other: "{0} μs"
+        duration_nanosecond:
+          display_name: ns
+          unit_pattern_count_one: "{0} ns"
+          unit_pattern_count_few: "{0} ns"
+          unit_pattern_count_other: "{0} ns"
+        electric_ampere:
+          display_name: amperi
+          unit_pattern_count_one: "{0} A"
+          unit_pattern_count_few: "{0} A"
+          unit_pattern_count_other: "{0} A"
+        electric_milliampere:
+          display_name: mA
+          unit_pattern_count_one: "{0} mA"
+          unit_pattern_count_few: "{0} mA"
+          unit_pattern_count_other: "{0} mA"
+        electric_ohm:
+          display_name: omi
+          unit_pattern_count_one: "{0} Ω"
+          unit_pattern_count_few: "{0} Ω"
+          unit_pattern_count_other: "{0} Ω"
+        electric_volt:
+          display_name: volti
+          unit_pattern_count_one: "{0} V"
+          unit_pattern_count_few: "{0} V"
+          unit_pattern_count_other: "{0} V"
+        energy_kilocalorie:
+          display_name: kcal
+          unit_pattern_count_one: "{0} kcal"
+          unit_pattern_count_few: "{0} kcal"
+          unit_pattern_count_other: "{0} kcal"
+        energy_calorie:
+          display_name: cal
+          unit_pattern_count_one: "{0} cal"
+          unit_pattern_count_few: "{0} cal"
+          unit_pattern_count_other: "{0} cal"
+        energy_foodcalorie:
+          display_name: Cal
+          unit_pattern_count_one: "{0} Cal"
+          unit_pattern_count_few: "{0} Cal"
+          unit_pattern_count_other: "{0} Cal"
+        energy_kilojoule:
+          display_name: kJ
+          unit_pattern_count_one: "{0} kJ"
+          unit_pattern_count_few: "{0} kJ"
+          unit_pattern_count_other: "{0} kJ"
+        energy_joule:
+          display_name: džuli
+          unit_pattern_count_one: "{0} J"
+          unit_pattern_count_few: "{0} J"
+          unit_pattern_count_other: "{0} J"
+        energy_kilowatt_hour:
+          display_name: kWh
+          unit_pattern_count_one: "{0} kWh"
+          unit_pattern_count_few: "{0} kWh"
+          unit_pattern_count_other: "{0} kWh"
+        frequency_gigahertz:
+          display_name: GHz
+          unit_pattern_count_one: "{0} GHz"
+          unit_pattern_count_few: "{0} GHz"
+          unit_pattern_count_other: "{0} GHz"
+        frequency_megahertz:
+          display_name: MHz
+          unit_pattern_count_one: "{0} MHz"
+          unit_pattern_count_few: "{0} MHz"
+          unit_pattern_count_other: "{0} MHz"
+        frequency_kilohertz:
+          display_name: kHz
+          unit_pattern_count_one: "{0} kHz"
+          unit_pattern_count_few: "{0} kHz"
+          unit_pattern_count_other: "{0} kHz"
+        frequency_hertz:
+          display_name: Hz
+          unit_pattern_count_one: "{0} Hz"
+          unit_pattern_count_few: "{0} Hz"
+          unit_pattern_count_other: "{0} Hz"
+        length_kilometer:
+          display_name: km
+          unit_pattern_count_one: "{0} km"
+          unit_pattern_count_few: "{0} km"
+          unit_pattern_count_other: "{0} km"
+          per_unit_pattern: "{0}/km"
+        length_meter:
+          display_name: metar
+          unit_pattern_count_one: "{0} m"
+          unit_pattern_count_few: "{0} m"
+          unit_pattern_count_other: "{0} m"
+          per_unit_pattern: "{0}/m"
+        length_decimeter:
+          display_name: dm
+          unit_pattern_count_one: "{0} dm"
+          unit_pattern_count_few: "{0} dm"
+          unit_pattern_count_other: "{0} dm"
+        length_centimeter:
+          display_name: cm
+          unit_pattern_count_one: "{0} cm"
+          unit_pattern_count_few: "{0} cm"
+          unit_pattern_count_other: "{0} cm"
+          per_unit_pattern: "{0}/cm"
+        length_millimeter:
+          display_name: mm
+          unit_pattern_count_one: "{0} mm"
+          unit_pattern_count_few: "{0} mm"
+          unit_pattern_count_other: "{0} mm"
+        length_micrometer:
+          display_name: "µm"
+          unit_pattern_count_one: "{0} µm"
+          unit_pattern_count_few: "{0} µm"
+          unit_pattern_count_other: "{0} µm"
+        length_nanometer:
+          display_name: nm
+          unit_pattern_count_one: "{0} nm"
+          unit_pattern_count_few: "{0} nm"
+          unit_pattern_count_other: "{0} nm"
+        length_picometer:
+          display_name: pikometri
+          unit_pattern_count_one: "{0} pm"
+          unit_pattern_count_few: "{0} pm"
+          unit_pattern_count_other: "{0} pm"
+        length_mile:
+          display_name: milje
+          unit_pattern_count_one: "{0} milja"
+          unit_pattern_count_few: "{0} milje"
+          unit_pattern_count_other: "{0} milja"
+        length_yard:
+          display_name: jardi
+          unit_pattern_count_one: "{0} jrd"
+          unit_pattern_count_few: "{0} jrd"
+          unit_pattern_count_other: "{0} jrd"
+        length_foot:
+          display_name: ft
+          unit_pattern_count_one: "{0} ft"
+          unit_pattern_count_few: "{0} ft"
+          unit_pattern_count_other: "{0} ft"
+          per_unit_pattern: "{0}/ft"
+        length_inch:
+          display_name: inči
+          unit_pattern_count_one: "{0} inč"
+          unit_pattern_count_few: "{0} inča"
+          unit_pattern_count_other: "{0} inča"
+          per_unit_pattern: "{0}/in"
+        length_parsec:
+          display_name: parseci
+          unit_pattern_count_one: "{0} pc"
+          unit_pattern_count_few: "{0} pc"
+          unit_pattern_count_other: "{0} pc"
+        length_light_year:
+          display_name: svetlosne god.
+          unit_pattern_count_one: "{0} sg"
+          unit_pattern_count_few: "{0} sg"
+          unit_pattern_count_other: "{0} sg"
+        length_astronomical_unit:
+          display_name: aj
+          unit_pattern_count_one: "{0} aj"
+          unit_pattern_count_few: "{0} aj"
+          unit_pattern_count_other: "{0} aj"
+        length_furlong:
+          display_name: fur
+          unit_pattern_count_other: "{0} fur"
+        length_fathom:
+          display_name: fm
+          unit_pattern_count_other: "{0} fm"
+        length_nautical_mile:
+          display_name: nmi
+          unit_pattern_count_one: "{0} nmi"
+          unit_pattern_count_few: "{0} nmi"
+          unit_pattern_count_other: "{0} nmi"
+        length_mile_scandinavian:
+          display_name: smi
+          unit_pattern_count_one: "{0} smi"
+          unit_pattern_count_few: "{0} smi"
+          unit_pattern_count_other: "{0} smi"
+        light_lux:
+          display_name: lx
+          unit_pattern_count_one: "{0} lx"
+          unit_pattern_count_few: "{0} lx"
+          unit_pattern_count_other: "{0} lx"
+        mass_metric_ton:
+          display_name: t
+          unit_pattern_count_one: "{0} t"
+          unit_pattern_count_few: "{0} t"
+          unit_pattern_count_other: "{0} t"
+        mass_kilogram:
+          display_name: kg
+          unit_pattern_count_one: "{0} kg"
+          unit_pattern_count_few: "{0} kg"
+          unit_pattern_count_other: "{0} kg"
+          per_unit_pattern: "{0}/kg"
+        mass_gram:
+          display_name: g
+          unit_pattern_count_one: "{0} g"
+          unit_pattern_count_few: "{0} g"
+          unit_pattern_count_other: "{0} g"
+          per_unit_pattern: "{0}/g"
+        mass_milligram:
+          display_name: mg
+          unit_pattern_count_one: "{0} mg"
+          unit_pattern_count_few: "{0} mg"
+          unit_pattern_count_other: "{0} mg"
+        mass_microgram:
+          display_name: "µg"
+          unit_pattern_count_one: "{0} µg"
+          unit_pattern_count_few: "{0} µg"
+          unit_pattern_count_other: "{0} µg"
+        mass_ton:
+          display_name: tn
+          unit_pattern_count_one: "{0} tn"
+          unit_pattern_count_few: "{0} tn"
+          unit_pattern_count_other: "{0} tn"
+        mass_stone:
+          display_name: st
+          unit_pattern_count_other: "{0} st"
+        mass_pound:
+          display_name: lb
+          unit_pattern_count_one: "{0} lb"
+          unit_pattern_count_few: "{0} lb"
+          unit_pattern_count_other: "{0} lb"
+          per_unit_pattern: "{0}/lb"
+        mass_ounce:
+          display_name: oz
+          unit_pattern_count_one: "{0} unca"
+          unit_pattern_count_few: "{0} unce"
+          unit_pattern_count_other: "{0} unci"
+          per_unit_pattern: "{0}/oz"
+        mass_ounce_troy:
+          display_name: oz t
+          unit_pattern_count_one: "{0} oz t"
+          unit_pattern_count_few: "{0} oz t"
+          unit_pattern_count_other: "{0} oz t"
+        mass_carat:
+          display_name: karati
+          unit_pattern_count_one: "{0} CD"
+          unit_pattern_count_few: "{0} CD"
+          unit_pattern_count_other: "{0} CD"
+        power_gigawatt:
+          display_name: GW
+          unit_pattern_count_one: "{0} GW"
+          unit_pattern_count_few: "{0} GW"
+          unit_pattern_count_other: "{0} GW"
+        power_megawatt:
+          display_name: MW
+          unit_pattern_count_one: "{0} MW"
+          unit_pattern_count_few: "{0} MW"
+          unit_pattern_count_other: "{0} MW"
+        power_kilowatt:
+          display_name: kW
+          unit_pattern_count_one: "{0} kW"
+          unit_pattern_count_few: "{0} kW"
+          unit_pattern_count_other: "{0} kW"
+        power_watt:
+          display_name: vati
+          unit_pattern_count_one: "{0} W"
+          unit_pattern_count_few: "{0} W"
+          unit_pattern_count_other: "{0} W"
+        power_milliwatt:
+          display_name: mW
+          unit_pattern_count_one: "{0} mW"
+          unit_pattern_count_few: "{0} mW"
+          unit_pattern_count_other: "{0} mW"
+        power_horsepower:
+          display_name: ks
+          unit_pattern_count_one: "{0} ks"
+          unit_pattern_count_few: "{0} ks"
+          unit_pattern_count_other: "{0} ks"
+        pressure_hectopascal:
+          display_name: hPa
+          unit_pattern_count_one: "{0} hPa"
+          unit_pattern_count_few: "{0} hPa"
+          unit_pattern_count_other: "{0} hPa"
+        pressure_millimeter_of_mercury:
+          display_name: mm Hg
+          unit_pattern_count_one: "{0} mm Hg"
+          unit_pattern_count_few: "{0} mm Hg"
+          unit_pattern_count_other: "{0} mm Hg"
+        pressure_pound_per_square_inch:
+          display_name: psi
+          unit_pattern_count_one: "{0} psi"
+          unit_pattern_count_few: "{0} psi"
+          unit_pattern_count_other: "{0} psi"
+        pressure_inch_hg:
+          display_name: inHg
+          unit_pattern_count_one: "{0} inHg"
+          unit_pattern_count_few: "{0} inHg"
+          unit_pattern_count_other: "{0} inHg"
+        pressure_millibar:
+          display_name: mbar
+          unit_pattern_count_one: "{0} mbar"
+          unit_pattern_count_few: "{0} mbar"
+          unit_pattern_count_other: "{0} mbar"
+        proportion_karat:
+          display_name: kt
+          unit_pattern_count_one: "{0} kt"
+          unit_pattern_count_few: "{0} kt"
+          unit_pattern_count_other: "{0} kt"
+        speed_kilometer_per_hour:
+          display_name: km/h
+          unit_pattern_count_one: "{0} km/h"
+          unit_pattern_count_few: "{0} km/h"
+          unit_pattern_count_other: "{0} km/h"
+        speed_meter_per_second:
+          display_name: metri u sekundi
+          unit_pattern_count_one: "{0} m/s"
+          unit_pattern_count_few: "{0} m/s"
+          unit_pattern_count_other: "{0} m/s"
+        speed_mile_per_hour:
+          display_name: milje na sat
+          unit_pattern_count_one: "{0} mi/h"
+          unit_pattern_count_few: "{0} mi/h"
+          unit_pattern_count_other: "{0} mi/h"
+        speed_knot:
+          display_name: kn
+          unit_pattern_count_other: "{0} kn"
+        temperature_generic:
+          display_name: "°"
+          unit_pattern_count_one: "{0}°"
+          unit_pattern_count_few: "{0}°"
+          unit_pattern_count_other: "{0}°"
+        temperature_celsius:
+          display_name: "°C"
+          unit_pattern_count_one: "{0}°"
+          unit_pattern_count_few: "{0}°"
+          unit_pattern_count_other: "{0}°"
+        temperature_fahrenheit:
+          display_name: stepeni Farenhajta
+          unit_pattern_count_one: "{0}°F"
+          unit_pattern_count_few: "{0}°F"
+          unit_pattern_count_other: "{0}°F"
+        temperature_kelvin:
+          display_name: K
+          unit_pattern_count_one: "{0} K"
+          unit_pattern_count_few: "{0} K"
+          unit_pattern_count_other: "{0} K"
+        volume_cubic_kilometer:
+          display_name: km³
+          unit_pattern_count_one: "{0} km³"
+          unit_pattern_count_few: "{0} km³"
+          unit_pattern_count_other: "{0} km³"
+        volume_cubic_meter:
+          display_name: m³
+          unit_pattern_count_one: "{0} m³"
+          unit_pattern_count_few: "{0} m³"
+          unit_pattern_count_other: "{0} m³"
+          per_unit_pattern: "{0}/m³"
+        volume_cubic_centimeter:
+          display_name: cm³
+          unit_pattern_count_one: "{0} cm³"
+          unit_pattern_count_few: "{0} cm³"
+          unit_pattern_count_other: "{0} cm³"
+          per_unit_pattern: "{0}/cm³"
+        volume_cubic_mile:
+          display_name: mi³
+          unit_pattern_count_one: "{0} mi³"
+          unit_pattern_count_few: "{0} mi³"
+          unit_pattern_count_other: "{0} mi³"
+        volume_cubic_yard:
+          display_name: yd³
+          unit_pattern_count_one: "{0} yd³"
+          unit_pattern_count_few: "{0} yd³"
+          unit_pattern_count_other: "{0} yd³"
+        volume_cubic_foot:
+          display_name: ft³
+          unit_pattern_count_one: "{0} ft³"
+          unit_pattern_count_few: "{0} ft³"
+          unit_pattern_count_other: "{0} ft³"
+        volume_cubic_inch:
+          display_name: in³
+          unit_pattern_count_one: "{0} in³"
+          unit_pattern_count_few: "{0} in³"
+          unit_pattern_count_other: "{0} in³"
+        volume_megaliter:
+          display_name: ML
+          unit_pattern_count_one: "{0} ML"
+          unit_pattern_count_few: "{0} ML"
+          unit_pattern_count_other: "{0} ML"
+        volume_hectoliter:
+          display_name: hL
+          unit_pattern_count_one: "{0} hL"
+          unit_pattern_count_few: "{0} hL"
+          unit_pattern_count_other: "{0} hL"
+        volume_liter:
+          display_name: l
+          unit_pattern_count_one: "{0} l"
+          unit_pattern_count_few: "{0} l"
+          unit_pattern_count_other: "{0} l"
+          per_unit_pattern: "{0}/l"
+        volume_deciliter:
+          display_name: dL
+          unit_pattern_count_one: "{0} dL"
+          unit_pattern_count_few: "{0} dL"
+          unit_pattern_count_other: "{0} dL"
+        volume_centiliter:
+          display_name: cL
+          unit_pattern_count_one: "{0} cL"
+          unit_pattern_count_few: "{0} cL"
+          unit_pattern_count_other: "{0} cL"
+        volume_milliliter:
+          display_name: mL
+          unit_pattern_count_one: "{0} mL"
+          unit_pattern_count_few: "{0} mL"
+          unit_pattern_count_other: "{0} mL"
+        volume_pint_metric:
+          display_name: mpt
+          unit_pattern_count_one: "{0} mpt"
+          unit_pattern_count_few: "{0} mpt"
+          unit_pattern_count_other: "{0} mpt"
+        volume_cup_metric:
+          display_name: mcup
+          unit_pattern_count_one: "{0} mc"
+          unit_pattern_count_few: "{0} mc"
+          unit_pattern_count_other: "{0} mc"
+        volume_acre_foot:
+          display_name: ac ft
+          unit_pattern_count_one: "{0} ac ft"
+          unit_pattern_count_few: "{0} ac ft"
+          unit_pattern_count_other: "{0} ac ft"
+        volume_bushel:
+          display_name: bu
+          unit_pattern_count_other: "{0} bu"
+        volume_gallon:
+          display_name: gal
+          unit_pattern_count_one: "{0} gal"
+          unit_pattern_count_few: "{0} gal"
+          unit_pattern_count_other: "{0} gal"
+          per_unit_pattern: "{0}/gal"
+        volume_quart:
+          display_name: qt
+          unit_pattern_count_one: "{0} qt"
+          unit_pattern_count_few: "{0} qt"
+          unit_pattern_count_other: "{0} qt"
+        volume_pint:
+          display_name: pt
+          unit_pattern_count_one: "{0} pt"
+          unit_pattern_count_few: "{0} pt"
+          unit_pattern_count_other: "{0} pt"
+        volume_cup:
+          display_name: "šolje"
+          unit_pattern_count_one: "{0} š."
+          unit_pattern_count_few: "{0} š."
+          unit_pattern_count_other: "{0} š."
+        volume_fluid_ounce:
+          display_name: fl oz
+          unit_pattern_count_one: "{0} fl oz"
+          unit_pattern_count_few: "{0} fl oz"
+          unit_pattern_count_other: "{0} fl oz"
+        volume_tablespoon:
+          display_name: kaš.
+          unit_pattern_count_one: "{0} kaš."
+          unit_pattern_count_few: "{0} kaš."
+          unit_pattern_count_other: "{0} kaš."
+        volume_teaspoon:
+          display_name: kašič.
+          unit_pattern_count_one: "{0} kašič."
+          unit_pattern_count_few: "{0} kašič."
+          unit_pattern_count_other: "{0} kašič."
+        coordinate_unit:
+          east: "{0}E"
+          north: "{0}N"
+          south: "{0}S"
+          west: "{0}W"
+      duration_unit_type_hm:
+        duration_unit_pattern: h.mm
+      duration_unit_type_hms:
+        duration_unit_pattern: h.mm.ss
+      duration_unit_type_ms:
+        duration_unit_pattern: m.ss

@@ -1,0 +1,5345 @@
+---
+hu:
+  cldr:
+    dates:
+      calendars:
+        gregorian:
+          months:
+            format:
+              abbreviated:
+                '1': jan.
+                '2': febr.
+                '3': márc.
+                '4': "ápr."
+                '5': máj.
+                '6': jún.
+                '7': júl.
+                '8': aug.
+                '9': szept.
+                '10': okt.
+                '11': nov.
+                '12': dec.
+              narrow:
+                '1': J
+                '2': F
+                '3': M
+                '4': "Á"
+                '5': M
+                '6': J
+                '7': J
+                '8': A
+                '9': Sz
+                '10': O
+                '11': N
+                '12': D
+              wide:
+                '1': január
+                '2': február
+                '3': március
+                '4': "április"
+                '5': május
+                '6': június
+                '7': július
+                '8': augusztus
+                '9': szeptember
+                '10': október
+                '11': november
+                '12': december
+            stand_alone:
+              abbreviated:
+                '1': jan.
+                '2': febr.
+                '3': márc.
+                '4': "ápr."
+                '5': máj.
+                '6': jún.
+                '7': júl.
+                '8': aug.
+                '9': szept.
+                '10': okt.
+                '11': nov.
+                '12': dec.
+              narrow:
+                '1': J
+                '2': F
+                '3': M
+                '4': "Á"
+                '5': M
+                '6': J
+                '7': J
+                '8': A
+                '9': Sz
+                '10': O
+                '11': N
+                '12': D
+              wide:
+                '1': január
+                '2': február
+                '3': március
+                '4': "április"
+                '5': május
+                '6': június
+                '7': július
+                '8': augusztus
+                '9': szeptember
+                '10': október
+                '11': november
+                '12': december
+          days:
+            format:
+              abbreviated:
+                sun: V
+                mon: H
+                tue: K
+                wed: Sze
+                thu: Cs
+                fri: P
+                sat: Szo
+              narrow:
+                sun: V
+                mon: H
+                tue: K
+                wed: Sz
+                thu: Cs
+                fri: P
+                sat: Sz
+              short:
+                sun: V
+                mon: H
+                tue: K
+                wed: Sze
+                thu: Cs
+                fri: P
+                sat: Szo
+              wide:
+                sun: vasárnap
+                mon: hétfő
+                tue: kedd
+                wed: szerda
+                thu: csütörtök
+                fri: péntek
+                sat: szombat
+            stand_alone:
+              abbreviated:
+                sun: V
+                mon: H
+                tue: K
+                wed: Sze
+                thu: Cs
+                fri: P
+                sat: Szo
+              narrow:
+                sun: V
+                mon: H
+                tue: K
+                wed: Sz
+                thu: Cs
+                fri: P
+                sat: Sz
+              short:
+                sun: V
+                mon: H
+                tue: K
+                wed: Sze
+                thu: Cs
+                fri: P
+                sat: Szo
+              wide:
+                sun: vasárnap
+                mon: hétfő
+                tue: kedd
+                wed: szerda
+                thu: csütörtök
+                fri: péntek
+                sat: szombat
+          quarters:
+            format:
+              abbreviated:
+                '1': N1
+                '2': N2
+                '3': N3
+                '4': N4
+              narrow:
+                '1': '1.'
+                '2': '2.'
+                '3': '3.'
+                '4': '4.'
+              wide:
+                '1': I. negyedév
+                '2': II. negyedév
+                '3': III. negyedév
+                '4': IV. negyedév
+            stand_alone:
+              abbreviated:
+                '1': N1
+                '2': N2
+                '3': N3
+                '4': N4
+              narrow:
+                '1': '1.'
+                '2': '2.'
+                '3': '3.'
+                '4': '4.'
+              wide:
+                '1': 1. negyedév
+                '2': 2. negyedév
+                '3': 3. negyedév
+                '4': 4. negyedév
+          day_periods:
+            format:
+              abbreviated:
+                midnight: "éjfél"
+                am: de.
+                noon: dél
+                pm: du.
+                morning1: reggel
+                morning2: reggel
+                afternoon1: délután
+                evening1: este
+                night1: "éjszaka"
+                night2: "éjszaka"
+              narrow:
+                midnight: "éjfél"
+                am: de.
+                noon: dél
+                pm: du.
+                morning1: reggel
+                morning2: reggel
+                afternoon1: délután
+                evening1: délután
+                night1: "éjszaka"
+                night2: "éjszaka"
+              wide:
+                midnight: "éjfél"
+                am: de.
+                noon: dél
+                pm: du.
+                morning1: reggel
+                morning2: reggel
+                afternoon1: délután
+                evening1: este
+                night1: "éjszaka"
+                night2: "éjszaka"
+            stand_alone:
+              abbreviated:
+                midnight: "éjfél"
+                am: de.
+                noon: dél
+                pm: du.
+                morning1: reggel
+                morning2: délelőtt
+                afternoon1: délután
+                evening1: este
+                night1: "éjjel"
+                night2: hajnal
+              narrow:
+                midnight: "éjfél"
+                am: de.
+                noon: dél
+                pm: du.
+                morning1: reggel
+                morning2: délelőtt
+                afternoon1: délután
+                evening1: este
+                night1: "éjjel"
+                night2: hajnal
+              wide:
+                midnight: "éjfél"
+                am: de.
+                noon: dél
+                pm: du.
+                morning1: reggel
+                morning2: délelőtt
+                afternoon1: délután
+                evening1: este
+                night1: "éjjel"
+                night2: hajnal
+          eras:
+            era_names:
+              '0': időszámításunk előtt
+              0_alt_variant: i. e.
+              '1': időszámításunk szerint
+              1_alt_variant: i. sz.
+            era_abbr:
+              '0': i. e.
+              0_alt_variant: BCE
+              '1': i. sz.
+              1_alt_variant: CE
+            era_narrow:
+              '0': ie.
+              0_alt_variant: BCE
+              '1': isz.
+              1_alt_variant: CE
+          date_formats:
+            full: y. MMMM d., EEEE
+            long: y. MMMM d.
+            medium: y. MMM d.
+            short: y. MM. dd.
+          time_formats:
+            full: H:mm:ss zzzz
+            long: H:mm:ss z
+            medium: H:mm:ss
+            short: H:mm
+          date_time_formats:
+            full: "{1} {0}"
+            long: "{1} {0}"
+            medium: "{1} {0}"
+            short: "{1} {0}"
+            available_formats:
+              d: d
+              e: ccc
+              ed: d., E
+              ehm: E h:mm a
+              e_hm: E HH:mm
+              ehms: E h:mm:ss a
+              e_hms: E HH:mm:ss
+              gy: G y.
+              gy_mmm: G y. MMM
+              gy_mm_md: G y. MMM d.
+              gy_mmm_ed: G y. MMM d., E
+              h: H
+              hm: H:mm
+              hms: H:mm:ss
+              hmsv: HH:mm:ss v
+              hmv: HH:mm v
+              m: L
+              md: M. d.
+              m_ed: M. d., E
+              mmm: LLL
+              mm_md: MMM d.
+              mmm_ed: MMM d., E
+              mmm_md: MMMM d.
+              mmss: mm:ss
+              ms: mm:ss
+              y: y.
+              y_m: y. M.
+              y_md: y. MM. dd.
+              y_m_ed: y. MM. dd., E
+              y_mmm: y. MMM
+              y_mm_md: y. MMM d.
+              y_mmm_ed: y. MMM d., E
+              y_mmmm: y. MMMM
+              y_qqq: y. QQQ
+              y_qqqq: y. QQQQ
+            append_items:
+              day: "{0} ({2}: {1})"
+              day_of_week: "{0} {1}"
+              era: "{1} {0}"
+              hour: "{0} ({2}: {1})"
+              minute: "{0} ({2}: {1})"
+              month: "{0} ({2}: {1})"
+              quarter: "{0} ({2}: {1})"
+              second: "{0} ({2}: {1})"
+              timezone: "{0} {1}"
+              week: "{0} ({2}: {1})"
+              year: "{1} {0}"
+            interval_formats:
+              interval_format_fallback: "{0} – {1}"
+              d:
+                d: d–d.
+              h:
+                h: H–H
+              hm:
+                h: H:mm–H:mm
+                m: H:mm–H:mm
+              hmv:
+                h: H:mm–H:mm v
+                m: H:mm–H:mm v
+              hv:
+                h: H–H v
+              m:
+                m: M–M.
+              md:
+                d: M. d–d.
+                m: M. d. – M. d.
+              m_ed:
+                d: M. dd., E – M. d., E
+                m: M. d., E – M. d., E
+              mmm:
+                m: MMM–MMM
+              mm_md:
+                d: MMM d–d.
+                m: MMM d. – MMM d.
+              mmm_ed:
+                d: MMM d., E – d., E
+                m: MMM d., E – MMM d., E
+              y:
+                y: y–y
+              y_m:
+                m: y. MM–MM.
+                y: y. MM. – y. MM.
+              y_md:
+                d: y. MM. dd–dd.
+                m: y. MM. dd. – MM. dd.
+                y: y. MM. dd. – y. MM. dd.
+              y_m_ed:
+                d: y. MM. dd., E – dd., E
+                m: y. MM. dd., E – MM. dd., E
+                y: y. MM. dd., E – y. MM. dd., E
+              y_mmm:
+                m: y. MMM–MMM
+                y: y. MMM – y. MMM
+              y_mm_md:
+                d: y. MMM d–d.
+                m: y. MMM d. – MMM d.
+                y: y. MMM d. – y. MMM d.
+              y_mmm_ed:
+                d: y. MMM d., E – d., E
+                m: y. MMM d., E – MMM d., E
+                y: y. MMM d., E – y. MMM d., E
+              y_mmmm:
+                m: y. MMMM–MMMM
+                y: y. MMMM – y. MMMM
+      fields:
+        era:
+          display_name: "éra"
+        year:
+          display_name: "év"
+          relative_type__1: előző év
+          relative_type_0: ez az év
+          relative_type_1: következő év
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} év múlva"
+            relative_time_pattern_count_other: "{0} év múlva"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} évvel ezelőtt"
+            relative_time_pattern_count_other: "{0} évvel ezelőtt"
+        year_short:
+          display_name: "év"
+          relative_type__1: előző év
+          relative_type_0: ez az év
+          relative_type_1: következő év
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} év múlva"
+            relative_time_pattern_count_other: "{0} év múlva"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} évvel ezelőtt"
+            relative_time_pattern_count_other: "{0} évvel ezelőtt"
+        year_narrow:
+          display_name: "év"
+          relative_type__1: előző év
+          relative_type_0: ez az év
+          relative_type_1: következő év
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} év múlva"
+            relative_time_pattern_count_other: "{0} év múlva"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} évvel ezelőtt"
+            relative_time_pattern_count_other: "{0} évvel ezelőtt"
+        quarter:
+          display_name: negyedév
+          relative_type__1: előző negyedév
+          relative_type_0: ez a negyedév
+          relative_type_1: következő negyedév
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} negyedév múlva"
+            relative_time_pattern_count_other: "{0} negyedév múlva"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} negyedévvel ezelőtt"
+            relative_time_pattern_count_other: "{0} negyedévvel ezelőtt"
+        quarter_short:
+          display_name: negyedév
+          relative_type__1: előző negyedév
+          relative_type_0: ez a negyedév
+          relative_type_1: következő negyedév
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} negyedév múlva"
+            relative_time_pattern_count_other: "{0} negyedév múlva"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} negyedévvel ezelőtt"
+            relative_time_pattern_count_other: "{0} negyedévvel ezelőtt"
+        quarter_narrow:
+          display_name: negyedév
+          relative_type__1: előző negyedév
+          relative_type_0: ez a negyedév
+          relative_type_1: következő negyedév
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} negyedév múlva"
+            relative_time_pattern_count_other: "{0} negyedév múlva"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} negyedévvel ezelőtt"
+            relative_time_pattern_count_other: "{0} negyedévvel ezelőtt"
+        month:
+          display_name: hónap
+          relative_type__1: előző hónap
+          relative_type_0: ez a hónap
+          relative_type_1: következő hónap
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} hónap múlva"
+            relative_time_pattern_count_other: "{0} hónap múlva"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} hónappal ezelőtt"
+            relative_time_pattern_count_other: "{0} hónappal ezelőtt"
+        month_short:
+          display_name: hónap
+          relative_type__1: előző hónap
+          relative_type_0: ez a hónap
+          relative_type_1: következő hónap
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} hónap múlva"
+            relative_time_pattern_count_other: "{0} hónap múlva"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} hónappal ezelőtt"
+            relative_time_pattern_count_other: "{0} hónappal ezelőtt"
+        month_narrow:
+          display_name: hónap
+          relative_type__1: előző hónap
+          relative_type_0: ez a hónap
+          relative_type_1: következő hónap
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} hónap múlva"
+            relative_time_pattern_count_other: "{0} hónap múlva"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} hónappal ezelőtt"
+            relative_time_pattern_count_other: "{0} hónappal ezelőtt"
+        week:
+          display_name: hét
+          relative_type__1: előző hét
+          relative_type_0: ez a hét
+          relative_type_1: következő hét
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} hét múlva"
+            relative_time_pattern_count_other: "{0} hét múlva"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} héttel ezelőtt"
+            relative_time_pattern_count_other: "{0} héttel ezelőtt"
+        week_short:
+          display_name: hét
+          relative_type__1: előző hét
+          relative_type_0: ez a hét
+          relative_type_1: következő hét
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} hét múlva"
+            relative_time_pattern_count_other: "{0} hét múlva"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} héttel ezelőtt"
+            relative_time_pattern_count_other: "{0} héttel ezelőtt"
+        week_narrow:
+          display_name: hét
+          relative_type__1: előző hét
+          relative_type_0: ez a hét
+          relative_type_1: következő hét
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} hét múlva"
+            relative_time_pattern_count_other: "{0} hét múlva"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} héttel ezelőtt"
+            relative_time_pattern_count_other: "{0} héttel ezelőtt"
+        day:
+          display_name: nap
+          relative_type__2: tegnapelőtt
+          relative_type__1: tegnap
+          relative_type_0: ma
+          relative_type_1: holnap
+          relative_type_2: holnapután
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} nap múlva"
+            relative_time_pattern_count_other: "{0} nap múlva"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} nappal ezelőtt"
+            relative_time_pattern_count_other: "{0} nappal ezelőtt"
+        day_short:
+          display_name: nap
+          relative_type__2: tegnapelőtt
+          relative_type__1: tegnap
+          relative_type_0: ma
+          relative_type_1: holnap
+          relative_type_2: holnapután
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} nap múlva"
+            relative_time_pattern_count_other: "{0} nap múlva"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} napja"
+            relative_time_pattern_count_other: "{0} napja"
+        day_narrow:
+          display_name: nap
+          relative_type__2: tegnapelőtt
+          relative_type__1: tegnap
+          relative_type_0: ma
+          relative_type_1: holnap
+          relative_type_2: holnapután
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} nap múlva"
+            relative_time_pattern_count_other: "{0} nap múlva"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} napja"
+            relative_time_pattern_count_other: "{0} napja"
+        weekday:
+          display_name: hét napja
+        sun:
+          relative_type__1: előző vasárnap
+          relative_type_0: ez a vasárnap
+          relative_type_1: következő vasárnap
+        sun_short:
+          relative_type__1: előző vasárnap
+          relative_type_0: ez a vasárnap
+          relative_type_1: következő vasárnap
+        sun_narrow:
+          relative_type__1: előző vasárnap
+          relative_type_0: ez a vasárnap
+          relative_type_1: következő vasárnap
+        mon:
+          relative_type__1: előző hétfő
+          relative_type_0: ez a hétfő
+          relative_type_1: következő hétfő
+        mon_short:
+          relative_type__1: előző hétfő
+          relative_type_0: ez a hétfő
+          relative_type_1: következő hétfő
+        mon_narrow:
+          relative_type__1: előző hétfő
+          relative_type_0: ez a hétfő
+          relative_type_1: következő hétfő
+        tue:
+          relative_type__1: előző kedd
+          relative_type_0: ez a kedd
+          relative_type_1: következő kedd
+        tue_short:
+          relative_type__1: előző kedd
+          relative_type_0: ez a kedd
+          relative_type_1: következő kedd
+        tue_narrow:
+          relative_type__1: előző kedd
+          relative_type_0: ez a kedd
+          relative_type_1: következő kedd
+        wed:
+          relative_type__1: előző szerda
+          relative_type_0: ez a szerda
+          relative_type_1: következő szerda
+        wed_short:
+          relative_type__1: előző szerda
+          relative_type_0: ez a szerda
+          relative_type_1: következő szerda
+        wed_narrow:
+          relative_type__1: előző szerda
+          relative_type_0: ez a szerda
+          relative_type_1: következő szerda
+        thu:
+          relative_type__1: előző csütörtök
+          relative_type_0: ez a csütörtök
+          relative_type_1: következő csütörtök
+        thu_short:
+          relative_type__1: előző csütörtök
+          relative_type_0: ez a csütörtök
+          relative_type_1: következő csütörtök
+        thu_narrow:
+          relative_type__1: előző csütörtök
+          relative_type_0: ez a csütörtök
+          relative_type_1: következő csütörtök
+        fri:
+          relative_type__1: előző péntek
+          relative_type_0: ez a péntek
+          relative_type_1: következő péntek
+        fri_short:
+          relative_type__1: előző péntek
+          relative_type_0: ez a péntek
+          relative_type_1: következő péntek
+        fri_narrow:
+          relative_type__1: előző péntek
+          relative_type_0: ez a péntek
+          relative_type_1: következő péntek
+        sat:
+          relative_type__1: előző szombat
+          relative_type_0: ez a szombat
+          relative_type_1: következő szombat
+        sat_short:
+          relative_type__1: előző szombat
+          relative_type_0: ez a szombat
+          relative_type_1: következő szombat
+        sat_narrow:
+          relative_type__1: előző szombat
+          relative_type_0: ez a szombat
+          relative_type_1: következő szombat
+        dayperiod:
+          display_name: napszak
+        hour:
+          display_name: "óra"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} óra múlva"
+            relative_time_pattern_count_other: "{0} óra múlva"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} órával ezelőtt"
+            relative_time_pattern_count_other: "{0} órával ezelőtt"
+        hour_short:
+          display_name: "óra"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} óra múlva"
+            relative_time_pattern_count_other: "{0} óra múlva"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} órával ezelőtt"
+            relative_time_pattern_count_other: "{0} órával ezelőtt"
+        hour_narrow:
+          display_name: "óra"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} óra múlva"
+            relative_time_pattern_count_other: "{0} óra múlva"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} órával ezelőtt"
+            relative_time_pattern_count_other: "{0} órával ezelőtt"
+        minute:
+          display_name: perc
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} perc múlva"
+            relative_time_pattern_count_other: "{0} perc múlva"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} perccel ezelőtt"
+            relative_time_pattern_count_other: "{0} perccel ezelőtt"
+        minute_short:
+          display_name: perc
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} perc múlva"
+            relative_time_pattern_count_other: "{0} perc múlva"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} perccel ezelőtt"
+            relative_time_pattern_count_other: "{0} perccel ezelőtt"
+        minute_narrow:
+          display_name: perc
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} perc múlva"
+            relative_time_pattern_count_other: "{0} perc múlva"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} perccel ezelőtt"
+            relative_time_pattern_count_other: "{0} perccel ezelőtt"
+        second:
+          display_name: másodperc
+          relative_type_0: most
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} másodperc múlva"
+            relative_time_pattern_count_other: "{0} másodperc múlva"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} másodperccel ezelőtt"
+            relative_time_pattern_count_other: "{0} másodperccel ezelőtt"
+        second_short:
+          display_name: másodperc
+          relative_type_0: most
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} másodperc múlva"
+            relative_time_pattern_count_other: "{0} másodperc múlva"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} másodperccel ezelőtt"
+            relative_time_pattern_count_other: "{0} másodperccel ezelőtt"
+        second_narrow:
+          display_name: másodperc
+          relative_type_0: most
+          relative_time_type_future:
+            relative_time_pattern_count_one: "{0} másodperc múlva"
+            relative_time_pattern_count_other: "{0} másodperc múlva"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "{0} másodperccel ezelőtt"
+            relative_time_pattern_count_other: "{0} másodperccel ezelőtt"
+        zone:
+          display_name: időzóna
+      time_zone_names:
+        hour_format: "+HH:mm;-HH:mm"
+        gmt_format: GMT{0}
+        gmt_zero_format: GMT
+        region_format: "{0} idő"
+        region_format_type_daylight: "{0} nyári idő"
+        region_format_type_standard: "{0} zónaidő"
+        fallback_format: "{1} ({0})"
+        zone:
+          america:
+            adak:
+              exemplar_city: Adak
+            anchorage:
+              exemplar_city: Anchorage
+            anguilla:
+              exemplar_city: Anguilla
+            antigua:
+              exemplar_city: Antigua
+            araguaina:
+              exemplar_city: Araguaína
+            argentina:
+              rio_gallegos:
+                exemplar_city: Río Gallegos
+              san_juan:
+                exemplar_city: San Juan
+              ushuaia:
+                exemplar_city: Ushuaia
+              la_rioja:
+                exemplar_city: La Rioja
+              san_luis:
+                exemplar_city: San Luis
+              salta:
+                exemplar_city: Salta
+              tucuman:
+                exemplar_city: Tucumán
+            aruba:
+              exemplar_city: Aruba
+            asuncion:
+              exemplar_city: Asunción
+            bahia:
+              exemplar_city: Bahia
+            bahia_banderas:
+              exemplar_city: Bahia Banderas
+            barbados:
+              exemplar_city: Barbados
+            belem:
+              exemplar_city: Belém
+            belize:
+              exemplar_city: Belize
+            blanc_sablon:
+              exemplar_city: Blanc-Sablon
+            boa_vista:
+              exemplar_city: Boa Vista
+            bogota:
+              exemplar_city: Bogotá
+            boise:
+              exemplar_city: Boise
+            buenos_aires:
+              exemplar_city: Buenos Aires
+            cambridge_bay:
+              exemplar_city: Cambridge Bay
+            campo_grande:
+              exemplar_city: Campo Grande
+            cancun:
+              exemplar_city: Cancún
+            caracas:
+              exemplar_city: Caracas
+            catamarca:
+              exemplar_city: Catamarca
+            cayenne:
+              exemplar_city: Cayenne
+            cayman:
+              exemplar_city: Kajmán-szigetek
+            chicago:
+              exemplar_city: Chicago
+            chihuahua:
+              exemplar_city: Chihuahua
+            coral_harbour:
+              exemplar_city: Atikokan
+            cordoba:
+              exemplar_city: Córdoba
+            costa_rica:
+              exemplar_city: Costa Rica
+            creston:
+              exemplar_city: Creston
+            cuiaba:
+              exemplar_city: Cuiabá
+            curacao:
+              exemplar_city: Curacao
+            danmarkshavn:
+              exemplar_city: Danmarkshavn
+            dawson:
+              exemplar_city: Dawson
+            dawson_creek:
+              exemplar_city: Dawson Creek
+            denver:
+              exemplar_city: Denver
+            detroit:
+              exemplar_city: Detroit
+            dominica:
+              exemplar_city: Dominika
+            edmonton:
+              exemplar_city: Edmonton
+            eirunepe:
+              exemplar_city: Eirunepé
+            el_salvador:
+              exemplar_city: Salvador
+            fortaleza:
+              exemplar_city: Fortaleza
+            glace_bay:
+              exemplar_city: Glace Bay
+            godthab:
+              exemplar_city: Nuuk
+            goose_bay:
+              exemplar_city: Goose Bay
+            grand_turk:
+              exemplar_city: Grand Turk
+            grenada:
+              exemplar_city: Grenada
+            guadeloupe:
+              exemplar_city: Guadeloupe
+            guatemala:
+              exemplar_city: Guatemala
+            guayaquil:
+              exemplar_city: Guayaquil
+            guyana:
+              exemplar_city: Guyana
+            halifax:
+              exemplar_city: Halifax
+            havana:
+              exemplar_city: Havanna
+            hermosillo:
+              exemplar_city: Hermosillo
+            indiana:
+              vincennes:
+                exemplar_city: Vincennes, Indiana
+              petersburg:
+                exemplar_city: Petersburg, Indiana
+              tell_city:
+                exemplar_city: Tell City, Indiana
+              knox:
+                exemplar_city: Knox, Indiana
+              winamac:
+                exemplar_city: Winamac, Indiana
+              marengo:
+                exemplar_city: Marengo, Indiana
+              vevay:
+                exemplar_city: Vevay, Indiana
+            indianapolis:
+              exemplar_city: Indianapolis
+            inuvik:
+              exemplar_city: Inuvik
+            iqaluit:
+              exemplar_city: Iqaluit
+            jamaica:
+              exemplar_city: Jamaica
+            jujuy:
+              exemplar_city: Jujuy
+            juneau:
+              exemplar_city: Juneau
+            kentucky:
+              monticello:
+                exemplar_city: Monticello, Kentucky
+            kralendijk:
+              exemplar_city: Kralendijk
+            la_paz:
+              exemplar_city: La Paz
+            lima:
+              exemplar_city: Lima
+            los_angeles:
+              exemplar_city: Los Angeles
+            louisville:
+              exemplar_city: Louisville
+            lower_princes:
+              exemplar_city: Lower Prince’s Quarter
+            maceio:
+              exemplar_city: Maceió
+            managua:
+              exemplar_city: Managua
+            manaus:
+              exemplar_city: Manaus
+            marigot:
+              exemplar_city: Marigot
+            martinique:
+              exemplar_city: Martinique
+            matamoros:
+              exemplar_city: Matamoros
+            mazatlan:
+              exemplar_city: Mazatlán
+            mendoza:
+              exemplar_city: Mendoza
+            menominee:
+              exemplar_city: Menominee
+            merida:
+              exemplar_city: Mérida
+            metlakatla:
+              exemplar_city: Metlakatla
+            mexico_city:
+              exemplar_city: Mexikóváros
+            miquelon:
+              exemplar_city: Miquelon
+            moncton:
+              exemplar_city: Moncton
+            monterrey:
+              exemplar_city: Monterrey
+            montevideo:
+              exemplar_city: Montevideo
+            montserrat:
+              exemplar_city: Montserrat
+            nassau:
+              exemplar_city: Nassau
+            new_york:
+              exemplar_city: New York
+            nipigon:
+              exemplar_city: Nipigon
+            nome:
+              exemplar_city: Nome
+            noronha:
+              exemplar_city: Noronha
+            north_dakota:
+              beulah:
+                exemplar_city: Beulah, Észak-Dakota
+              new_salem:
+                exemplar_city: New Salem, Észak-Dakota
+              center:
+                exemplar_city: Középső, Észak-Dakota
+            ojinaga:
+              exemplar_city: Ojinaga
+            panama:
+              exemplar_city: Panama
+            pangnirtung:
+              exemplar_city: Pangnirtung
+            paramaribo:
+              exemplar_city: Paramaribo
+            phoenix:
+              exemplar_city: Phoenix
+            port_au_prince:
+              exemplar_city: Port-au-Prince
+            port_of_spain:
+              exemplar_city: Port of Spain
+            porto_velho:
+              exemplar_city: Porto Velho
+            puerto_rico:
+              exemplar_city: Puerto Rico
+            rainy_river:
+              exemplar_city: Rainy River
+            rankin_inlet:
+              exemplar_city: Rankin Inlet
+            recife:
+              exemplar_city: Recife
+            regina:
+              exemplar_city: Regina
+            resolute:
+              exemplar_city: Resolute
+            rio_branco:
+              exemplar_city: Río Branco
+            santa_isabel:
+              exemplar_city: Santa Isabel
+            santarem:
+              exemplar_city: Santarem
+            santiago:
+              exemplar_city: Santiago
+            santo_domingo:
+              exemplar_city: Santo Domingo
+            sao_paulo:
+              exemplar_city: São Paulo
+            scoresbysund:
+              exemplar_city: Ittoqqortoormiit
+            sitka:
+              exemplar_city: Sitka
+            st_barthelemy:
+              exemplar_city: Saint-Barthélemy
+            st_johns:
+              exemplar_city: St. John’s
+            st_kitts:
+              exemplar_city: St. Kitts
+            st_lucia:
+              exemplar_city: St. Lucia
+            st_thomas:
+              exemplar_city: St. Thomas
+            st_vincent:
+              exemplar_city: St. Vincent
+            swift_current:
+              exemplar_city: Swift Current
+            tegucigalpa:
+              exemplar_city: Tegucigalpa
+            thule:
+              exemplar_city: Thule
+            thunder_bay:
+              exemplar_city: Thunder Bay
+            tijuana:
+              exemplar_city: Tijuana
+            toronto:
+              exemplar_city: Toronto
+            tortola:
+              exemplar_city: Tortola
+            vancouver:
+              exemplar_city: Vancouver
+            whitehorse:
+              exemplar_city: Whitehorse
+            winnipeg:
+              exemplar_city: Winnipeg
+            yakutat:
+              exemplar_city: Yakutat
+            yellowknife:
+              exemplar_city: Yellowknife
+          atlantic:
+            azores:
+              exemplar_city: Azori-szigetek
+            bermuda:
+              exemplar_city: Bermuda
+            canary:
+              exemplar_city: Kanári-szigetek
+            cape_verde:
+              exemplar_city: Zöld-Foki Szigetek
+            faeroe:
+              exemplar_city: Faroe
+            madeira:
+              exemplar_city: Madeira
+            reykjavik:
+              exemplar_city: Reykjavík
+            south_georgia:
+              exemplar_city: Déli-Georgia
+            st_helena:
+              exemplar_city: Szent Ilona
+            stanley:
+              exemplar_city: Stanley
+          europe:
+            amsterdam:
+              exemplar_city: Amszterdam
+            andorra:
+              exemplar_city: Andorra
+            athens:
+              exemplar_city: Athén
+            belgrade:
+              exemplar_city: Belgrád
+            berlin:
+              exemplar_city: Berlin
+            bratislava:
+              exemplar_city: Pozsony
+            brussels:
+              exemplar_city: Brüsszel
+            bucharest:
+              exemplar_city: Bukarest
+            budapest:
+              exemplar_city: Budapest
+            busingen:
+              exemplar_city: Büsingen
+            chisinau:
+              exemplar_city: Chisinau
+            copenhagen:
+              exemplar_city: Koppenhága
+            dublin:
+              long:
+                daylight: "ír nyári idő"
+              exemplar_city: Dublin
+            gibraltar:
+              exemplar_city: Gibraltár
+            guernsey:
+              exemplar_city: Guernsey
+            helsinki:
+              exemplar_city: Helsinki
+            isle_of_man:
+              exemplar_city: Man-sziget
+            istanbul:
+              exemplar_city: Isztanbul
+            jersey:
+              exemplar_city: Jersey
+            kaliningrad:
+              exemplar_city: Kalinyingrád
+            kiev:
+              exemplar_city: Kijev
+            lisbon:
+              exemplar_city: Lisszabon
+            ljubljana:
+              exemplar_city: Ljubljana
+            london:
+              long:
+                daylight: brit nyári idő
+              exemplar_city: London
+            luxembourg:
+              exemplar_city: Luxemburg
+            madrid:
+              exemplar_city: Madrid
+            malta:
+              exemplar_city: Málta
+            mariehamn:
+              exemplar_city: Mariehamn
+            minsk:
+              exemplar_city: Minszk
+            monaco:
+              exemplar_city: Monaco
+            moscow:
+              exemplar_city: Moszkva
+            oslo:
+              exemplar_city: Oslo
+            paris:
+              exemplar_city: Párizs
+            podgorica:
+              exemplar_city: Podgorica
+            prague:
+              exemplar_city: Prága
+            riga:
+              exemplar_city: Riga
+            rome:
+              exemplar_city: Róma
+            samara:
+              exemplar_city: Szamara
+            san_marino:
+              exemplar_city: San Marino
+            sarajevo:
+              exemplar_city: Szarajevó
+            simferopol:
+              exemplar_city: Szimferopol
+            skopje:
+              exemplar_city: Skopje
+            sofia:
+              exemplar_city: Szófia
+            stockholm:
+              exemplar_city: Stockholm
+            tallinn:
+              exemplar_city: Tallin
+            tirane:
+              exemplar_city: Tirana
+            uzhgorod:
+              exemplar_city: Ungvár
+            vaduz:
+              exemplar_city: Vaduz
+            vatican:
+              exemplar_city: Vatikán
+            vienna:
+              exemplar_city: Bécs
+            vilnius:
+              exemplar_city: Vilnius
+            volgograd:
+              exemplar_city: Volgográd
+            warsaw:
+              exemplar_city: Varsó
+            zagreb:
+              exemplar_city: Zágráb
+            zaporozhye:
+              exemplar_city: Zaporozsje
+            zurich:
+              exemplar_city: Zürich
+          africa:
+            abidjan:
+              exemplar_city: Abidjan
+            accra:
+              exemplar_city: Accra
+            addis_ababa:
+              exemplar_city: Addisz-Abeba
+            algiers:
+              exemplar_city: Algír
+            asmera:
+              exemplar_city: Asmera
+            bamako:
+              exemplar_city: Bamako
+            bangui:
+              exemplar_city: Bangui
+            banjul:
+              exemplar_city: Banjul
+            bissau:
+              exemplar_city: Bissau
+            blantyre:
+              exemplar_city: Blantyre
+            brazzaville:
+              exemplar_city: Brazzaville
+            bujumbura:
+              exemplar_city: Bujumbura
+            cairo:
+              exemplar_city: Kairó
+            casablanca:
+              exemplar_city: Casablanca
+            ceuta:
+              exemplar_city: Ceuta
+            conakry:
+              exemplar_city: Conakry
+            dakar:
+              exemplar_city: Dakar
+            dar_es_salaam:
+              exemplar_city: Dar es-Salaam
+            djibouti:
+              exemplar_city: Dzsibuti
+            douala:
+              exemplar_city: Douala
+            el_aaiun:
+              exemplar_city: El-Ajún
+            freetown:
+              exemplar_city: Freetown
+            gaborone:
+              exemplar_city: Gaborone
+            harare:
+              exemplar_city: Harare
+            johannesburg:
+              exemplar_city: Johannesburg
+            juba:
+              exemplar_city: Juba
+            kampala:
+              exemplar_city: Kampala
+            khartoum:
+              exemplar_city: Kartúm
+            kigali:
+              exemplar_city: Kigali
+            kinshasa:
+              exemplar_city: Kinshasa
+            lagos:
+              exemplar_city: Lagos
+            libreville:
+              exemplar_city: Libreville
+            lome:
+              exemplar_city: Lome
+            luanda:
+              exemplar_city: Luanda
+            lubumbashi:
+              exemplar_city: Lubumbashi
+            lusaka:
+              exemplar_city: Lusaka
+            malabo:
+              exemplar_city: Malabó
+            maputo:
+              exemplar_city: Maputo
+            maseru:
+              exemplar_city: Maseru
+            mbabane:
+              exemplar_city: Mbabane
+            mogadishu:
+              exemplar_city: Mogadishu
+            monrovia:
+              exemplar_city: Monrovia
+            nairobi:
+              exemplar_city: Nairobi
+            ndjamena:
+              exemplar_city: Ndjamena
+            niamey:
+              exemplar_city: Niamey
+            nouakchott:
+              exemplar_city: Nouakchott
+            ouagadougou:
+              exemplar_city: Ouagadougou
+            porto_novo:
+              exemplar_city: Porto-Novo
+            sao_tome:
+              exemplar_city: São Tomé
+            tripoli:
+              exemplar_city: Tripoli
+            tunis:
+              exemplar_city: Tunisz
+            windhoek:
+              exemplar_city: Windhoek
+          asia:
+            aden:
+              exemplar_city: "Áden"
+            almaty:
+              exemplar_city: Alma-Ata
+            amman:
+              exemplar_city: Ammán
+            anadyr:
+              exemplar_city: Anadir
+            aqtau:
+              exemplar_city: Aktau
+            aqtobe:
+              exemplar_city: Aktöbe
+            ashgabat:
+              exemplar_city: Asgabat
+            baghdad:
+              exemplar_city: Bagdad
+            bahrain:
+              exemplar_city: Bahrein
+            baku:
+              exemplar_city: Baku
+            bangkok:
+              exemplar_city: Bangkok
+            beirut:
+              exemplar_city: Bejrút
+            bishkek:
+              exemplar_city: Biskek
+            brunei:
+              exemplar_city: Brunei
+            calcutta:
+              exemplar_city: Kalkutta
+            chita:
+              exemplar_city: Csita
+            choibalsan:
+              exemplar_city: Csojbalszan
+            colombo:
+              exemplar_city: Colombo
+            damascus:
+              exemplar_city: Damaszkusz
+            dhaka:
+              exemplar_city: Dháka
+            dili:
+              exemplar_city: Dili
+            dubai:
+              exemplar_city: Dubai
+            dushanbe:
+              exemplar_city: Dushanbe
+            gaza:
+              exemplar_city: Gáza
+            hebron:
+              exemplar_city: Hebron
+            hong_kong:
+              exemplar_city: Hongkong
+            hovd:
+              exemplar_city: Hovd
+            irkutsk:
+              exemplar_city: Irkutszk
+            jakarta:
+              exemplar_city: Jakarta
+            jayapura:
+              exemplar_city: Jayapura
+            jerusalem:
+              exemplar_city: Jeruzsálem
+            kabul:
+              exemplar_city: Kabul
+            kamchatka:
+              exemplar_city: Kamcsatka
+            karachi:
+              exemplar_city: Karacsi
+            katmandu:
+              exemplar_city: Katmandu
+            khandyga:
+              exemplar_city: Handiga
+            krasnoyarsk:
+              exemplar_city: Krasznojarszk
+            kuala_lumpur:
+              exemplar_city: Kuala Lumpur
+            kuching:
+              exemplar_city: Kucseng
+            kuwait:
+              exemplar_city: Kuvait
+            macau:
+              exemplar_city: Makaó
+            magadan:
+              exemplar_city: Magadán
+            makassar:
+              exemplar_city: Makasar
+            manila:
+              exemplar_city: Manila
+            muscat:
+              exemplar_city: Muscat
+            nicosia:
+              exemplar_city: Nicosia
+            novokuznetsk:
+              exemplar_city: Novokuznyeck
+            novosibirsk:
+              exemplar_city: Novoszibirszk
+            omsk:
+              exemplar_city: Omszk
+            oral:
+              exemplar_city: Oral
+            phnom_penh:
+              exemplar_city: Phnom Penh
+            pontianak:
+              exemplar_city: Pontianak
+            pyongyang:
+              exemplar_city: Phenjan
+            qatar:
+              exemplar_city: Katar
+            qyzylorda:
+              exemplar_city: Kizilorda
+            rangoon:
+              exemplar_city: Rangoon
+            riyadh:
+              exemplar_city: Rijád
+            saigon:
+              exemplar_city: Ho Si Minh-város
+            sakhalin:
+              exemplar_city: Szahalin
+            samarkand:
+              exemplar_city: Szamarkand
+            seoul:
+              exemplar_city: Szöul
+            shanghai:
+              exemplar_city: Sanghaj
+            singapore:
+              exemplar_city: Szingapúr
+            srednekolymsk:
+              exemplar_city: Szrednekolimszk
+            taipei:
+              exemplar_city: Tajpej
+            tashkent:
+              exemplar_city: Taskent
+            tbilisi:
+              exemplar_city: Tbiliszi
+            tehran:
+              exemplar_city: Teherán
+            thimphu:
+              exemplar_city: Thimphu
+            tokyo:
+              exemplar_city: Tokió
+            ulaanbaatar:
+              exemplar_city: Ulánbátor
+            urumqi:
+              exemplar_city: "Ürümqi"
+            ust_nera:
+              exemplar_city: Uszty-Nyera
+            vientiane:
+              exemplar_city: Vientián
+            vladivostok:
+              exemplar_city: Vlagyivosztok
+            yakutsk:
+              exemplar_city: Jakutszk
+            yekaterinburg:
+              exemplar_city: Jekatyerinburg
+            yerevan:
+              exemplar_city: Jereván
+          indian:
+            antananarivo:
+              exemplar_city: Antananarivo
+            chagos:
+              exemplar_city: Chagos
+            christmas:
+              exemplar_city: Karácsony-sziget
+            cocos:
+              exemplar_city: Kókusz-sziget
+            comoro:
+              exemplar_city: Komoró
+            kerguelen:
+              exemplar_city: Kerguelen
+            mahe:
+              exemplar_city: Mahe
+            maldives:
+              exemplar_city: Maldív-szigetek
+            mauritius:
+              exemplar_city: Mauritius
+            mayotte:
+              exemplar_city: Mayotte
+            reunion:
+              exemplar_city: Réunion
+          australia:
+            adelaide:
+              exemplar_city: Adelaide
+            brisbane:
+              exemplar_city: Brisbane
+            broken_hill:
+              exemplar_city: Broken Hill
+            currie:
+              exemplar_city: Currie
+            darwin:
+              exemplar_city: Darwin
+            eucla:
+              exemplar_city: Eucla
+            hobart:
+              exemplar_city: Hobart
+            lindeman:
+              exemplar_city: Lindeman
+            lord_howe:
+              exemplar_city: Lord Howe
+            melbourne:
+              exemplar_city: Melbourne
+            perth:
+              exemplar_city: Perth
+            sydney:
+              exemplar_city: Sydney
+          pacific:
+            apia:
+              exemplar_city: Apia
+            auckland:
+              exemplar_city: Auckland
+            bougainville:
+              exemplar_city: Bougainville
+            chatham:
+              exemplar_city: Chatham-szigetek
+            easter:
+              exemplar_city: Húsvét-szigetek
+            efate:
+              exemplar_city: Efate
+            enderbury:
+              exemplar_city: Enderbury
+            fakaofo:
+              exemplar_city: Fakaofo
+            fiji:
+              exemplar_city: Fidzsi
+            funafuti:
+              exemplar_city: Funafuti
+            galapagos:
+              exemplar_city: Galapagos-szigetek
+            gambier:
+              exemplar_city: Gambier-szigetek
+            guadalcanal:
+              exemplar_city: Guadalcanal
+            guam:
+              exemplar_city: Guam
+            honolulu:
+              exemplar_city: Honolulu
+            johnston:
+              exemplar_city: Johnston
+            kiritimati:
+              exemplar_city: Kiritimati-sziget
+            kosrae:
+              exemplar_city: Kosrae-szigetek
+            kwajalein:
+              exemplar_city: Kwajalein-zátony
+            majuro:
+              exemplar_city: Majuro-zátony
+            marquesas:
+              exemplar_city: Marquesas-szigetek
+            midway:
+              exemplar_city: Midway-szigetek
+            nauru:
+              exemplar_city: Nauru
+            niue:
+              exemplar_city: Niue
+            norfolk:
+              exemplar_city: Norfolk
+            noumea:
+              exemplar_city: Noumea
+            pago_pago:
+              exemplar_city: Pago Pago
+            palau:
+              exemplar_city: Palau
+            pitcairn:
+              exemplar_city: Pitcairn-szigetek
+            ponape:
+              exemplar_city: Ponape-szigetek
+            port_moresby:
+              exemplar_city: Port Moresby
+            rarotonga:
+              exemplar_city: Rarotonga
+            saipan:
+              exemplar_city: Saipan
+            tahiti:
+              exemplar_city: Tahiti
+            tarawa:
+              exemplar_city: Tarawa
+            tongatapu:
+              exemplar_city: Tongatapu
+            truk:
+              exemplar_city: Chuuk
+            wake:
+              exemplar_city: Wake-sziget
+            wallis:
+              exemplar_city: Wallis
+          arctic:
+            longyearbyen:
+              exemplar_city: Longyearbyen
+          antarctica:
+            casey:
+              exemplar_city: Casey
+            davis:
+              exemplar_city: Davis
+            dumont_d_urville:
+              exemplar_city: Dumont d’Urville
+            macquarie:
+              exemplar_city: Macquarie
+            mawson:
+              exemplar_city: Mawson
+            mc_murdo:
+              exemplar_city: McMurdo
+            palmer:
+              exemplar_city: Palmer
+            rothera:
+              exemplar_city: Rothera
+            syowa:
+              exemplar_city: Syowa
+            troll:
+              exemplar_city: Troll
+            vostok:
+              exemplar_city: Vosztok
+          etc:
+            gmt:
+              exemplar_city: GMT
+            gmt1:
+              exemplar_city: GMT+1
+            gmt10:
+              exemplar_city: GMT+10
+            gmt11:
+              exemplar_city: GMT+11
+            gmt12:
+              exemplar_city: GMT+12
+            gmt2:
+              exemplar_city: GMT+2
+            gmt3:
+              exemplar_city: GMT+3
+            gmt4:
+              exemplar_city: GMT+4
+            gmt5:
+              exemplar_city: GMT+5
+            gmt6:
+              exemplar_city: GMT+6
+            gmt7:
+              exemplar_city: GMT+7
+            gmt8:
+              exemplar_city: GMT+8
+            gmt9:
+              exemplar_city: GMT+9
+            gmt_1:
+              exemplar_city: GMT-1
+            gmt_10:
+              exemplar_city: GMT-10
+            gmt_11:
+              exemplar_city: GMT-11
+            gmt_12:
+              exemplar_city: GMT-12
+            gmt_13:
+              exemplar_city: GMT-13
+            gmt_14:
+              exemplar_city: GMT-14
+            gmt_2:
+              exemplar_city: GMT-2
+            gmt_3:
+              exemplar_city: GMT-3
+            gmt_4:
+              exemplar_city: GMT-4
+            gmt_5:
+              exemplar_city: GMT-5
+            gmt_6:
+              exemplar_city: GMT-6
+            gmt_7:
+              exemplar_city: GMT-7
+            gmt_8:
+              exemplar_city: GMT-8
+            gmt_9:
+              exemplar_city: GMT-9
+            unknown:
+              exemplar_city: Ismeretlen város
+        metazone:
+          acre:
+            long:
+              generic: Acre idő
+              standard: Acre zónaidő
+              daylight: Acre nyári idő
+          afghanistan:
+            long:
+              standard: afganisztáni idő
+          africa_central:
+            long:
+              standard: közép-afrikai téli idő
+          africa_eastern:
+            long:
+              standard: kelet-afrikai téli idő
+          africa_southern:
+            long:
+              standard: dél-afrikai téli idő
+          africa_western:
+            long:
+              generic: nyugat-afrikai időzóna
+              standard: nyugat-afrikai téli idő
+              daylight: nyugat-afrikai nyári idő
+          alaska:
+            long:
+              generic: alaszkai idő
+              standard: alaszkai zónaidő
+              daylight: alaszkai nyári idő
+          almaty:
+            long:
+              generic: Almati idő
+              standard: Almati zónaidő
+              daylight: Almati nyári idő
+          amazon:
+            long:
+              generic: amazóniai idő
+              standard: amazóniai téli idő
+              daylight: amazóniai nyári idő
+          america_central:
+            long:
+              generic: középső államokbeli idő
+              standard: középső államokbeli zónaidő
+              daylight: középső államokbeli nyári idő
+          america_eastern:
+            long:
+              generic: keleti államokbeli idő
+              standard: keleti államokbeli zónaidő
+              daylight: keleti államokbeli nyári idő
+          america_mountain:
+            long:
+              generic: hegyvidéki idő
+              standard: hegyvidéki zónaidő
+              daylight: hegyvidéki nyári idő
+          america_pacific:
+            long:
+              generic: csendes-óceáni idő
+              standard: csendes-óceáni zónaidő
+              daylight: csendes-óceáni nyári idő
+          anadyr:
+            long:
+              generic: Anadiri idő
+              standard: Anadíri zónaidő
+              daylight: Anadíri nyári idő
+          apia:
+            long:
+              generic: apiai idő
+              standard: apiai téli idő
+              daylight: apiai nyári idő
+          aqtau:
+            long:
+              generic: Aqtaui idő
+              standard: Aqtaui zónaidő
+              daylight: Aqtaui nyári idő
+          aqtobe:
+            long:
+              generic: Aqtobei idő
+              standard: Aqtobei zónaidő
+              daylight: Aqtobei nyári idő
+          arabian:
+            long:
+              generic: arab idő
+              standard: arab téli idő
+              daylight: arab nyári idő
+          argentina:
+            long:
+              generic: argentínai idő
+              standard: argentínai téli idő
+              daylight: Argentínai nyári idő
+          argentina_western:
+            long:
+              generic: nyugat-argentínai időzóna
+              standard: nyugat-argentínai téli idő
+              daylight: nyugat-argentínai nyári idő
+          armenia:
+            long:
+              generic: "örményországi idő"
+              standard: "örményországi téli idő"
+              daylight: "örményországi nyári idő"
+          atlantic:
+            long:
+              generic: atlanti-óceáni idő
+              standard: atlanti-óceáni zónaidő
+              daylight: atlanti-óceáni nyári idő
+          australia_central:
+            long:
+              generic: közép-ausztráliai idő
+              standard: közép-ausztráliai téli idő
+              daylight: közép-ausztráliai nyári idő
+          australia_central_western:
+            long:
+              generic: közép-nyugat-ausztráliai idő
+              standard: közép-nyugat-ausztráliai téli idő
+              daylight: közép-nyugat-ausztráliai nyári idő
+          australia_eastern:
+            long:
+              generic: kelet-ausztráliai idő
+              standard: kelet-ausztráliai téli idő
+              daylight: kelet-ausztráliai nyári idő
+          australia_western:
+            long:
+              generic: nyugat-ausztráliai idő
+              standard: nyugat-ausztráliai téli idő
+              daylight: nyugat-ausztráliai nyári idő
+          azerbaijan:
+            long:
+              generic: Azerbajdzsáni idő
+              standard: azerbajdzsáni téli idő
+              daylight: azerbajdzsáni nyári idő
+          azores:
+            long:
+              generic: azori időzóna
+              standard: azori téli idő
+              daylight: azori nyári idő
+          bangladesh:
+            long:
+              generic: bangladesi idő
+              standard: bangladesi téli idő
+              daylight: bangladesi nyári idő
+          bhutan:
+            long:
+              standard: butáni idő
+          bolivia:
+            long:
+              standard: bolíviai téli idő
+          brasilia:
+            long:
+              generic: brazíliai idő
+              standard: brazíliai téli idő
+              daylight: brazíliai nyári idő
+          brunei:
+            long:
+              standard: Brunei Darussalam-i idő
+          cape_verde:
+            long:
+              generic: zöld-foki-szigeteki időzóna
+              standard: zöld-foki-szigeteki téli idő
+              daylight: zöld-foki-szigeteki nyári idő
+          chamorro:
+            long:
+              standard: chamorrói téli idő
+          chatham:
+            long:
+              generic: chathami idő
+              standard: chathami téli idő
+              daylight: chathami nyári idő
+          chile:
+            long:
+              generic: chilei időzóna
+              standard: chilei téli idő
+              daylight: chilei nyári idő
+          china:
+            long:
+              generic: kínai idő
+              standard: kínai téli idő
+              daylight: kínai nyári idő
+          choibalsan:
+            long:
+              generic: csojbalszani idő
+              standard: csojbalszani téli idő
+              daylight: csojbalszani nyári idő
+          christmas:
+            long:
+              standard: karácsony-szigeti téli idő
+          cocos:
+            long:
+              standard: kókusz-szigeteki téli idő
+          colombia:
+            long:
+              generic: kolumbiai idő
+              standard: kolumbiai téli idő
+              daylight: kolumbiai nyári idő
+          cook:
+            long:
+              generic: cook-szigeteki idő
+              standard: cook-szigeteki téli idő
+              daylight: cook-szigeteki fél nyári idő
+          cuba:
+            long:
+              generic: kubai időzóna
+              standard: kubai téli idő
+              daylight: kubai nyári idő
+          davis:
+            long:
+              standard: davisi idő
+          dumont_d_urville:
+            long:
+              standard: dumont-d’Urville-i idő
+          east_timor:
+            long:
+              standard: kelet-timori téli idő
+          easter:
+            long:
+              generic: húsvét-szigeti időzóna
+              standard: húsvét-szigeti téli idő
+              daylight: húsvét-szigeti nyári idő
+          ecuador:
+            long:
+              standard: ecuadori téli idő
+          europe_central:
+            long:
+              generic: közép-európai időzóna
+              standard: közép-európai téli idő
+              daylight: közép-európai nyári idő
+            short:
+              generic: CET
+              standard: CET
+              daylight: CEST
+          europe_eastern:
+            long:
+              generic: kelet-európai időzóna
+              standard: kelet-európai téli idő
+              daylight: kelet-európai nyári idő
+            short:
+              generic: EET
+              standard: EET
+              daylight: EEST
+          europe_further_eastern:
+            long:
+              standard: minszki idő
+          europe_western:
+            long:
+              generic: nyugat-európai időzóna
+              standard: nyugat-európai téli idő
+              daylight: nyugat-európai nyári idő
+            short:
+              generic: WET
+              standard: WET
+              daylight: WEST
+          falkland:
+            long:
+              generic: falkland-szigeteki idő
+              standard: falkland-szigeteki téli idő
+              daylight: falkland-szigeteki nyári idő
+          fiji:
+            long:
+              generic: fidzsi idő
+              standard: fidzsi téli idő
+              daylight: fidzsi nyári idő
+          french_guiana:
+            long:
+              standard: francia-guianai idő
+          french_southern:
+            long:
+              standard: francia déli és antarktiszi idő
+          galapagos:
+            long:
+              standard: galápagosi téli idő
+          gambier:
+            long:
+              standard: gambieri idő
+          georgia:
+            long:
+              generic: grúziai idő
+              standard: grúziai téli idő
+              daylight: grúziai nyári idő
+          gilbert_islands:
+            long:
+              standard: gilbert-szigeteki idő
+          gmt:
+            long:
+              standard: greenwichi középidő, téli idő
+            short:
+              standard: GMT
+          greenland_eastern:
+            long:
+              generic: kelet-grönlandi időzóna
+              standard: kelet-grönlandi téli idő
+              daylight: kelet-grönlandi nyári idő
+          greenland_western:
+            long:
+              generic: nyugat-grönlandi időzóna
+              standard: nyugat-grönlandi téli idő
+              daylight: nyugat-grönlandi nyári idő
+          guam:
+            long:
+              standard: Guami zónaidő
+          gulf:
+            long:
+              standard: "öbölbeli téli idő"
+          guyana:
+            long:
+              standard: guyanai téli idő
+          hawaii_aleutian:
+            long:
+              generic: hawaii-aleut időzóna
+              standard: hawaii-aleuti téli idő
+              daylight: hawaii-aleuti nyári idő
+          hong_kong:
+            long:
+              generic: hongkongi időzóna
+              standard: hongkongi téli idő
+              daylight: hongkongi nyári idő
+          hovd:
+            long:
+              generic: hovdi idő
+              standard: hovdi téli idő
+              daylight: hovdi nyári idő
+          india:
+            long:
+              standard: indiai téli idő
+          indian_ocean:
+            long:
+              standard: indiai-óceáni idő
+          indochina:
+            long:
+              standard: indokínai idő
+          indonesia_central:
+            long:
+              standard: közép-indonéziai idő
+          indonesia_eastern:
+            long:
+              standard: kelet-indonéziai idő
+          indonesia_western:
+            long:
+              standard: nyugat-indonéziai téli idő
+          iran:
+            long:
+              generic: iráni idő
+              standard: iráni téli idő
+              daylight: iráni nyári idő
+          irkutsk:
+            long:
+              generic: irkutszki idő
+              standard: irkutszki téli idő
+              daylight: irkutszki nyári idő
+          israel:
+            long:
+              generic: izraeli idő
+              standard: izraeli téli idő
+              daylight: izraeli nyári idő
+          japan:
+            long:
+              generic: japán idő
+              standard: japán téli idő
+              daylight: japán nyári idő
+          kamchatka:
+            long:
+              generic: Petropavlovszk-kamcsatkai idő
+              standard: Petropavlovszk-kamcsatkai zónaidő
+              daylight: Petropavlovszk-kamcsatkai nyári idő
+          kazakhstan_eastern:
+            long:
+              standard: kelet-kazahsztáni idő
+          kazakhstan_western:
+            long:
+              standard: nyugat-kazahsztáni idő
+          korea:
+            long:
+              generic: koreai idő
+              standard: koreai téli idő
+              daylight: koreai nyári idő
+          kosrae:
+            long:
+              standard: kosraei idő
+          krasnoyarsk:
+            long:
+              generic: krasznojarszki idő
+              standard: krasznojarszki téli idő
+              daylight: krasznojarszki nyári idő
+          kyrgystan:
+            long:
+              standard: kirgizisztáni idő
+          lanka:
+            long:
+              standard: Lankai idő
+          line_islands:
+            long:
+              standard: sor-szigeteki idő
+          lord_howe:
+            long:
+              generic: Lord Howe-szigeti idő
+              standard: Lord Howe-szigeti téli idő
+              daylight: Lord Howe-szigeti nyári idő
+          macau:
+            long:
+              generic: Macaui idő
+              standard: Macaui zónaidő
+              daylight: Macaui nyári idő
+          macquarie:
+            long:
+              standard: macquarie-szigeti téli idő
+          magadan:
+            long:
+              generic: magadáni idő
+              standard: magadani téli idő
+              daylight: magadáni nyári idő
+          malaysia:
+            long:
+              standard: malajziai idő
+          maldives:
+            long:
+              standard: maldív-szigeteki idő
+          marquesas:
+            long:
+              standard: marquises-szigeteki idő
+          marshall_islands:
+            long:
+              standard: marshall-szigeteki idő
+          mauritius:
+            long:
+              generic: mauritiusi időzóna
+              standard: mauritiusi téli idő
+              daylight: mauritiusi nyári idő
+          mawson:
+            long:
+              standard: mawsoni idő
+          mexico_northwest:
+            long:
+              generic: "északnyugat-mexikói idő"
+              standard: "északnyugat-mexikói zónaidő"
+              daylight: "északnyugat-mexikói nyári idő"
+          mexico_pacific:
+            long:
+              generic: mexikói csendes-óceáni idő
+              standard: mexikói csendes-óceáni zónaidő
+              daylight: mexikói csendes-óceáni nyári idő
+          mongolia:
+            long:
+              generic: ulánbátori idő
+              standard: ulánbátori téli idő
+              daylight: ulánbátori nyári idő
+          moscow:
+            long:
+              generic: moszkvai idő
+              standard: moszkvai téli idő
+              daylight: moszkvai nyári idő
+          myanmar:
+            long:
+              standard: mianmari idő
+          nauru:
+            long:
+              standard: naurui idő
+          nepal:
+            long:
+              standard: nepáli idő
+          new_caledonia:
+            long:
+              generic: "új-kaledóniai idő"
+              standard: "új-kaledóniai téli idő"
+              daylight: "új-kaledóniai nyári idő"
+          new_zealand:
+            long:
+              generic: "új-zélandi idő"
+              standard: "új-zélandi téli idő"
+              daylight: "új-zélandi nyári idő"
+          newfoundland:
+            long:
+              generic: "új-fundlandi idő"
+              standard: "új-fundlandi zónaidő"
+              daylight: "új-fundlandi nyári idő"
+          niue:
+            long:
+              standard: niuei idő
+          norfolk:
+            long:
+              standard: norfolk-szigeteki idő
+          noronha:
+            long:
+              generic: Fernando de Noronha-i idő
+              standard: Fernando de Noronha-i téli idő
+              daylight: Fernando de Noronha-i nyári idő
+          north_mariana:
+            long:
+              standard: "Észak-mariana-szigeteki idő"
+          novosibirsk:
+            long:
+              generic: novoszibirszki idő
+              standard: novoszibirszki téli idő
+              daylight: novoszibirszki nyári idő
+          omsk:
+            long:
+              generic: omszki idő
+              standard: omszki téli idő
+              daylight: omszki nyári idő
+          pakistan:
+            long:
+              generic: pakisztáni idő
+              standard: pakisztáni téli idő
+              daylight: pakisztáni nyári idő
+          palau:
+            long:
+              standard: palaui idő
+          papua_new_guinea:
+            long:
+              standard: pápua új-guineai idő
+          paraguay:
+            long:
+              generic: paraguayi idő
+              standard: paraguayi téli idő
+              daylight: paraguayi nyári idő
+          peru:
+            long:
+              generic: perui idő
+              standard: perui téli idő
+              daylight: perui nyári idő
+          philippines:
+            long:
+              generic: fülöp-szigeteki idő
+              standard: fülöp-szigeteki téli idő
+              daylight: fülöp-szigeteki nyári idő
+          phoenix_islands:
+            long:
+              standard: phoenix-szigeteki téli idő
+          pierre_miquelon:
+            long:
+              generic: Saint Pierre és Miquelon-i idő
+              standard: Saint Pierre és Miquelon-i zónaidő
+              daylight: Saint Pierre és Miquelon-i nyári idő
+          pitcairn:
+            long:
+              standard: pitcairn-szigeteki idő
+          ponape:
+            long:
+              standard: ponape-szigeti idő
+          qyzylorda:
+            long:
+              generic: Qyzylordai idő
+              standard: Qyzylordai zónaidő
+              daylight: Qyzylordai nyári idő
+          reunion:
+            long:
+              standard: réunioni idő
+          rothera:
+            long:
+              standard: rotherai idő
+          sakhalin:
+            long:
+              generic: szahalini idő
+              standard: szahalini téli idő
+              daylight: szahalini nyári idő
+          samara:
+            long:
+              generic: Szamarai idő
+              standard: Szamarai zónaidő
+              daylight: Szamarai nyári idő
+          samoa:
+            long:
+              generic: szamoai idő
+              standard: szamoai téli idő
+              daylight: szamoai nyári idő
+          seychelles:
+            long:
+              standard: seychelle-szigeteki idő
+          singapore:
+            long:
+              standard: szingapúri téli idő
+          solomon:
+            long:
+              standard: salamon-szigeteki idő
+          south_georgia:
+            long:
+              standard: déli-georgiai idő
+          suriname:
+            long:
+              standard: szurinámi idő
+          syowa:
+            long:
+              standard: syowai idő
+          tahiti:
+            long:
+              standard: tahiti idő
+          taipei:
+            long:
+              generic: taipei idő
+              standard: taipei téli idő
+              daylight: taipei nyári idő
+          tajikistan:
+            long:
+              standard: tádzsikisztáni idő
+          tokelau:
+            long:
+              standard: tokelaui idő
+          tonga:
+            long:
+              generic: tongai idő
+              standard: tongai téli idő
+              daylight: tongai nyári idő
+          truk:
+            long:
+              standard: truki idő
+          turkmenistan:
+            long:
+              generic: türkmenisztáni idő
+              standard: türkmenisztáni téli idő
+              daylight: türkmenisztáni nyári idő
+          tuvalu:
+            long:
+              standard: tuvalui idő
+          uruguay:
+            long:
+              generic: uruguayi idő
+              standard: uruguayi téli idő
+              daylight: uruguayi nyári idő
+          uzbekistan:
+            long:
+              generic: "üzbegisztáni idő"
+              standard: "üzbegisztáni téli idő"
+              daylight: "üzbegisztáni nyári idő"
+          vanuatu:
+            long:
+              generic: vanuatui idő
+              standard: vanuatui téli idő
+              daylight: vanuatui nyári idő
+          venezuela:
+            long:
+              standard: venezuelai idő
+          vladivostok:
+            long:
+              generic: vlagyivosztoki idő
+              standard: vlagyivosztoki téli idő
+              daylight: vlagyivosztoki nyári idő
+          volgograd:
+            long:
+              generic: volgográdi idő
+              standard: volgográdi téli idő
+              daylight: volgográdi nyári idő
+          vostok:
+            long:
+              standard: vosztoki idő
+          wake:
+            long:
+              standard: wake-szigeti idő
+          wallis:
+            long:
+              standard: Wallis és Futuna-i idő
+          yakutsk:
+            long:
+              generic: jakutszki idő
+              standard: jakutszki téli idő
+              daylight: Jakutszki nyári idő
+          yekaterinburg:
+            long:
+              generic: Jekatyerinburgi idő
+              standard: jekatyerinburgi téli idő
+              daylight: Jekatyerinburgi nyári idő
+    locale_display_names:
+      languages:
+        aa: afar
+        ab: abház
+        ace: achinéz
+        ach: akoli
+        ada: adangme
+        ady: adyghe
+        ae: avesztán
+        aeb: aeb
+        af: afrikaans
+        afh: afrihili
+        agq: agem
+        ain: ainu
+        ak: akan
+        akk: akkád
+        akz: akz
+        ale: aleut
+        aln: aln
+        alt: dél-altaji
+        am: amhara
+        an: aragonéz
+        ang: "óangol"
+        anp: angika
+        ar: arab
+        ar_001: modern szabányos arab
+        arc: arámi
+        arn: araucani
+        aro: aro
+        arp: arapaho
+        arq: arq
+        arw: aravak
+        ary: ary
+        arz: arz
+        as: asszámi
+        asa: asu
+        ase: ase
+        ast: asztúr
+        av: avar
+        avk: avk
+        awa: awádi
+        ay: ajmara
+        az: azerbajdzsáni
+        az_alt_short: azeri
+        ba: baskír
+        bal: balucsi
+        ban: balinéz
+        bar: bar
+        bas: basza
+        bax: bamun
+        bbc: bbc
+        bbj: gomala
+        be: belorusz
+        bej: bedzsa
+        bem: bemba
+        bew: bew
+        bez: bena
+        bfd: bafut
+        bfq: bfq
+        bg: bolgár
+        bgn: nyugati beludzs
+        bho: bodzspuri
+        bi: bislama
+        bik: bikol
+        bin: bini
+        bjn: bjn
+        bkm: kom
+        bla: siksika
+        bm: bambara
+        bn: bengáli
+        bo: tibeti
+        bpy: bpy
+        bqi: bqi
+        br: breton
+        bra: braj
+        brh: brh
+        brx: bodo
+        bs: bosnyák
+        bss: koszi
+        bua: burját
+        bug: buginéz
+        bum: bulu
+        byn: blin
+        byv: medumba
+        ca: katalán
+        cad: caddo
+        car: karib
+        cay: kajuga
+        cch: atszam
+        ce: csecsen
+        ceb: cebui
+        cgg: kiga
+        ch: csamoró
+        chb: csibcsa
+        chg: csagatáj
+        chk: csukéz
+        chm: mari
+        chn: csinuk zsargon
+        cho: csoktó
+        chp: csipevé
+        chr: cseroki
+        chy: csejen
+        ckb: szoráni kurd
+        co: korzikai
+        cop: kopt
+        cps: cps
+        cr: krí
+        crh: krími tatár
+        cs: cseh
+        csb: kasub
+        cu: egyházi szláv
+        cv: csuvas
+        cy: walesi
+        da: dán
+        dak: dakota
+        dar: dargva
+        dav: taita
+        de: német
+        de_at: osztrák német
+        de_ch: svájci felnémet
+        del: delavár
+        den: szlevi
+        dgr: dogrib
+        din: dinka
+        dje: zarma
+        doi: dogri
+        dsb: alsó szorb
+        dtp: dtp
+        dua: duala
+        dum: közép holland
+        dv: divehi
+        dyo: jola-fonyi
+        dyu: diula
+        dz: butáni
+        dzg: dazaga
+        ebu: embu
+        ee: eve
+        efi: efik
+        egl: egl
+        egy: "óegyiptomi"
+        eka: ekadzsuk
+        el: görög
+        elx: elamit
+        en: angol
+        en_au: ausztrál angol
+        en_ca: kanadai angol
+        en_gb: brit angol
+        en_gb_alt_short: angol (UK)
+        en_us: amerikai angol
+        en_us_alt_short: angol (USA)
+        enm: közép angol
+        eo: eszperantó
+        es: spanyol
+        es_419: latin-amerikai spanyol
+        es_es: európai spanyol
+        es_mx: spanyol (mexikói)
+        esu: esu
+        et: "észt"
+        eu: baszk
+        ewo: evondo
+        ext: ext
+        fa: perzsa
+        fan: fang
+        fat: fanti
+        ff: fulani
+        fi: finn
+        fil: filippínó
+        fit: fit
+        fj: fidzsi
+        fo: feröeri
+        fon: fon
+        fr: francia
+        fr_ca: kanadai francia
+        fr_ch: svájci francia
+        frc: frc
+        frm: közép francia
+        fro: "ófrancia"
+        frp: frp
+        frr: "északi fríz"
+        frs: keleti fríz
+        fur: friuli
+        fy: fríz
+        ga: "ír"
+        gaa: ga
+        gag: gagauz
+        gan: gan
+        gay: gajo
+        gba: gbaja
+        gbz: gbz
+        gd: skót gael
+        gez: geez
+        gil: ikiribati
+        gl: galíciai
+        glk: glk
+        gmh: közép felső német
+        gn: guarani
+        goh: "ófelső német"
+        gom: gom
+        gon: gondi
+        gor: gorontalo
+        got: gót
+        grb: grebó
+        grc: "ógörög"
+        gsw: svájci német
+        gu: gudzsarati
+        guc: guc
+        gur: gur
+        guz: guszii
+        gv: man-szigeti
+        gwi: gvicsin
+        ha: hausza
+        hai: haida
+        hak: hak
+        haw: hawaii
+        he: héber
+        hi: hindi
+        hif: hif
+        hil: hiligajnon
+        hit: hittite
+        hmn: hmong
+        ho: hiri motu
+        hr: horvát
+        hsb: felső szorb
+        hsn: hsn
+        ht: haiti
+        hu: magyar
+        hup: hupa
+        hy: "örmény"
+        hz: herero
+        ia: interlingva
+        iba: iban
+        ibb: ibibió
+        id: indonéz
+        ie: interlingue
+        ig: igbó
+        ii: szecsuán ji
+        ik: inupiak
+        ilo: ilokó
+        inh: ingus
+        io: idó
+        is: izlandi
+        it: olasz
+        iu: inuktitut
+        izh: izh
+        ja: japán
+        jam: jam
+        jbo: lojban
+        jgo: ngomba
+        jmc: machame
+        jpr: zsidó-perzsa
+        jrb: zsidó-arab
+        jut: jut
+        jv: jávai
+        ka: grúz
+        kaa: kara-kalpak
+        kab: kabije
+        kac: kacsin
+        kaj: jju
+        kam: kamba
+        kaw: kawi
+        kbd: kabardi
+        kbl: kanembu
+        kcg: tyap
+        kde: makonde
+        kea: kabuverdianu
+        ken: ken
+        kfo: koro
+        kg: kongo
+        kgp: kgp
+        kha: kaszi
+        kho: kotanéz
+        khq: kojra-csíni
+        khw: khw
+        ki: kikuju
+        kiu: kiu
+        kj: kuanyama
+        kk: kazah
+        kkj: kakó
+        kl: grönlandi
+        kln: kalendzsin
+        km: kambodzsai
+        kmb: kimbundu
+        kn: kannada
+        ko: koreai
+        koi: komi-permják
+        kok: konkani
+        kos: kosrei
+        kpe: kpelle
+        kr: kanuri
+        krc: karacsáj-balkár
+        kri: kri
+        krj: krj
+        krl: karelai
+        kru: kuruh
+        ks: kásmíri
+        ksb: sambala
+        ksf: bafia
+        ksh: kölsch
+        ku: kurd
+        kum: kumük
+        kut: kutenai
+        kv: komi
+        kw: korni
+        ky: kirgiz
+        la: latin
+        lad: ladino
+        lag: langi
+        lah: lahnda
+        lam: lamba
+        lb: luxemburgi
+        lez: lezg
+        lfn: lfn
+        lg: ganda
+        li: limburgi
+        lij: lij
+        liv: liv
+        lkt: lakota
+        lmo: lmo
+        ln: lingala
+        lo: laoszi
+        lol: mongó
+        loz: lozi
+        lrc: "északi luri"
+        lt: litván
+        ltg: ltg
+        lu: luba-katanga
+        lua: luba-lulua
+        lui: luiseno
+        lun: lunda
+        luo: luo
+        lus: lushai
+        luy: lujia
+        lv: lett
+        lzh: lzh
+        lzz: lzz
+        mad: madurai
+        maf: mafa
+        mag: magahi
+        mai: maithili
+        mak: makaszar
+        man: mandingó
+        mas: masai
+        mde: maba
+        mdf: moksán
+        mdh: mdh
+        mdr: mandar
+        men: mende
+        mer: meru
+        mfe: mauritiusi kreol
+        mg: málgas
+        mga: közép ír
+        mgh: makua-metó
+        mgo: meta’
+        mh: marshalli
+        mi: maori
+        mic: mikmak
+        min: minangkabau
+        mis: mis
+        mk: macedón
+        ml: malajálam
+        mn: mongol
+        mnc: mandzsu
+        mni: manipuri
+        moh: mohawk
+        mos: moszi
+        mr: marathi
+        mrj: mrj
+        ms: maláj
+        mt: máltai
+        mua: mundang
+        mul: többszörös nyelvek
+        mus: krík
+        mwl: mirandéz
+        mwr: marvari
+        mwv: mwv
+        my: burmai
+        mye: myene
+        myv: erzjány
+        mzn: mázanderáni
+        na: naurui
+        nan: nan
+        nap: nápolyi
+        naq: nama
+        nb: norvég bokmal
+        nd: "északi ndebele"
+        nds: alsónémet
+        nds_nl: alsószász
+        ne: nepáli
+        new: nevari
+        ng: ndonga
+        nia: nias
+        niu: niui
+        njo: njo
+        nl: holland
+        nl_be: flamand
+        nmg: ngumba
+        nn: norvég nynorsk
+        nnh: ngiemboon
+        'no': norvég
+        nog: nogaj
+        non: "óskandináv"
+        nov: nov
+        nqo: n’kó
+        nr: déli ndebele
+        nso: "északi szotó"
+        nus: nuer
+        nv: navahó
+        nwc: klasszikus newari
+        ny: nyanja
+        nym: nyamvézi
+        nyn: nyankole
+        nyo: nyoró
+        nzi: nzima
+        oc: okszitán
+        oj: ojibva
+        om: oromói
+        or: orija
+        os: oszét
+        osa: osage
+        ota: ottomán török
+        pa: pandzsábi
+        pag: pangaszinan
+        pal: pahlavi
+        pam: pampangan
+        pap: papiamentó
+        pau: palaui
+        pcd: pcd
+        pdc: pdc
+        pdt: pdt
+        peo: "óperzsa"
+        pfl: pfl
+        phn: főniciai
+        pi: pali
+        pl: lengyel
+        pms: pms
+        pnt: pnt
+        pon: pohnpei
+        prg: prg
+        pro: "óprovánszi"
+        ps: pastu
+        pt: portugál
+        pt_br: brazíliai portugál
+        pt_pt: európai portugál
+        qu: kecsua
+        quc: kicse
+        qug: qug
+        raj: radzsasztáni
+        rap: rapanui
+        rar: rarotongai
+        rgn: rgn
+        rif: rif
+        rm: réto-román
+        rn: kirundi
+        ro: román
+        ro_md: moldvai
+        rof: rombo
+        rom: roma
+        root: "ősi"
+        rtm: rtm
+        ru: orosz
+        rue: rue
+        rug: rug
+        rup: aromán
+        rw: kiruanda
+        rwk: rwo
+        sa: szanszkrit
+        sad: szandave
+        sah: jakut
+        sam: szamaritánus arámi
+        saq: szamburu
+        sas: sasak
+        sat: szantáli
+        saz: saz
+        sba: ngambay
+        sbp: szangu
+        sc: szardíniai
+        scn: szicíliai
+        sco: skót
+        sd: szindhi
+        sdc: sdc
+        sdh: dél-kurd
+        se: "északi számi"
+        see: szeneka
+        seh: szena
+        sei: sei
+        sel: szölkup
+        ses: kojra-szenni
+        sg: szangó
+        sga: "óír"
+        sgs: sgs
+        sh: szerbhorvát
+        shi: tachelhit
+        shn: san
+        shu: csádi arab
+        si: szingaléz
+        sid: szidamó
+        sk: szlovák
+        sl: szlovén
+        sli: sli
+        sly: sly
+        sm: szamoai
+        sma: déli számi
+        smj: lule számi
+        smn: inar sami
+        sms: koltta lapp
+        sn: sona
+        snk: szoninke
+        so: szomáliai
+        sog: sogdien
+        sq: albán
+        sr: szerb
+        srn: szranai tongó
+        srr: szerer
+        ss: sziszuati
+        ssy: szahó
+        st: szeszotó
+        stq: stq
+        su: szundanéz
+        suk: szukuma
+        sus: szuszu
+        sux: sumér
+        sv: svéd
+        sw: szuahéli
+        swb: comorei
+        swc: kongói szuahéli
+        syc: klasszikus szír
+        syr: szíriai
+        szl: szl
+        ta: tamil
+        tcy: tcy
+        te: telugu
+        tem: temne
+        teo: teszó
+        ter: terenó
+        tet: tetum
+        tg: tadzsik
+        th: thai
+        ti: tigrinja
+        tig: tigré
+        tiv: tiv
+        tk: türkmén
+        tkl: tokelaui
+        tkr: tkr
+        tl: tagalog
+        tlh: klingon
+        tli: tlingit
+        tly: tly
+        tmh: tamasek
+        tn: szecsuáni
+        to: tonga
+        tog: nyasa tonga
+        tpi: tok pisin
+        tr: török
+        tru: tru
+        trv: tarokó
+        ts: conga
+        tsd: tsd
+        tsi: csimsiáni
+        tt: tatár
+        ttt: ttt
+        tum: tumbuka
+        tvl: tuvalu
+        tw: twi
+        twq: szavák
+        ty: tahiti
+        tyv: tuvai
+        tzm: közép-marokkói tamazigt
+        udm: udmurt
+        ug: ujgur
+        uga: ugariti
+        uk: ukrán
+        umb: umbundu
+        und: ismeretlen nyelv
+        ur: urdu
+        uz: "üzbég"
+        vai: vai
+        ve: venda
+        vec: vec
+        vep: vep
+        vi: vietnami
+        vls: vls
+        vmf: vmf
+        vo: volapük
+        vot: votják
+        vro: vro
+        vun: vunjo
+        wa: vallon
+        wae: walser
+        wal: valamo
+        war: varaó
+        was: vasó
+        wbp: warlpiri
+        wo: volof
+        wuu: wuu
+        xal: kalmük
+        xh: hosza
+        xmf: xmf
+        xog: szoga
+        yao: jaó
+        yap: japi
+        yav: jangben
+        ybb: jemba
+        yi: jiddis
+        yo: joruba
+        yrl: yrl
+        yue: kantoni
+        za: zsuang
+        zap: zapoték
+        zbl: Bliss jelképrendszer
+        zea: zea
+        zen: zenaga
+        zgh: marokkói tamazight
+        zh: kínai
+        zh_hans: egyszerűsített kínai
+        zh_hant: hagyományos kínai
+        zu: zulu
+        zun: zuni
+        zxx: nincs nyelvészeti tartalom
+        zza: zaza
+      locale_display_pattern:
+        locale_pattern: "{0} ({1})"
+        locale_separator: "{0}, {1}"
+        locale_key_type_pattern: "{0}: {1}"
+      keys:
+        calendar: Naptár
+        cf: cf
+        col_alternate: Szimbólumokat figyelmen kívül hagyó rendezés
+        col_backwards: "Ékezetek fordított rendezése"
+        col_case_first: Rendezés nagy- vagy kisbetűk szerint
+        col_case_level: Kisbetű-nagybetű érzékeny rendezés
+        col_hiragana_quaternary: Kanák szerinti rendezés
+        collation: Rendezési sorrend
+        col_normalization: Normalizált rendezés
+        col_numeric: Numerikus rendezés
+        col_strength: Rendezés erőssége
+        currency: Pénznem
+        hc: "Óraformátum (12 – 24)"
+        lb: Sortörés stílusa
+        ms: Mértékegységrendszer
+        numbers: Számok
+        timezone: Időzóna
+        va: Földrajzi helyvariáns
+        variable_top: Rendezés szimbólumok szerint
+        x: Privát használatra
+      types:
+        calendar:
+          buddhist: Buddhista naptár
+          chinese: Kínai naptár
+          coptic: Kopt naptár
+          dangi: Dangi naptár
+          ethiopic: Etióp naptár
+          ethiopic_amete_alem: Etióp amete alem naptár
+          gregorian: Gergely-naptár
+          hebrew: Héber naptár
+          indian: Indiai nemzeti naptár
+          islamic: Iszlám naptár
+          islamic_civil: Iszlám civil naptár
+          islamic_rgsa: islamic-rgsa
+          islamic_tbla: islamic-tbla
+          islamic_umalqura: islamic-umalqura
+          iso8601: ISO-8601 naptár
+          japanese: Japán naptár
+          persian: Perzsa naptár
+          roc: Kínai köztársasági naptár
+        cf:
+          account: account
+          standard: standard
+        col_alternate:
+          non_ignorable: Szimbólumok rendezése
+          shifted: Rendezés szimbólumok figyelmen kívül hagyásával
+        col_backwards:
+          'no': "Ékezetek normál rendezése"
+          'yes': "Ékezetek szerinti fordított rendezés"
+        col_case_first:
+          lower: Kisbetűs szavak rendezése előre
+          'no': Kisbetűs-nagybetűs szavak normál rendezése
+          upper: Nagybetűs szavak rendezése előre
+        col_case_level:
+          'no': Kis- és nagybetűket meg nem különböztető rendezés
+          'yes': Rendezés kisbetű-nagybetű szerint
+        col_hiragana_quaternary:
+          'no': Kanák rendezése külön
+          'yes': Kanák megkülönböztető rendezése
+        collation:
+          big5han: Hagyományos kínai sorrend - Big5
+          compat: compat
+          dictionary: Szótári rendezési sorrend
+          ducet: Alapértelmezett Unicode rendezési sorrend
+          emoji: emoji
+          eor: eor
+          gb2312han: Egyszerűsített kínai sorrend - GB2312
+          phonebook: Telefonkönyv sorrend
+          phonetic: Fonetikus rendezési sorrend
+          pinyin: Pinyin sorrend
+          reformed: "Átalakított rendezési elv"
+          search: "Általános célú keresés"
+          searchjl: Keresés hangul kezdő mássalhangzó szerint
+          standard: Normál rendezési sorrend
+          stroke: Vonássorrend
+          traditional: Hagyományos
+          unihan: Szótővonás rendezési sorrend
+          zhuyin: zhuyin
+        col_normalization:
+          'no': Rendezés normalizálás nélkül
+          'yes': Unicode szerinti normalizált rendezés
+        col_numeric:
+          'no': Számjegyek egyedi rendezése
+          'yes': Számjegyek numerikus rendezése
+        col_strength:
+          identical: "Összes rendezése"
+          primary: Csak az alapbetűk rendezése
+          quaternary: "Ékezetek/kisbetű-nagybetű/szélesség/kanák rendezése"
+          secondary: "Ékezetek rendezése"
+          tertiary: "Ékezetek/kisbetű-nagybetű/szélesség rendezése"
+        hc:
+          h11: 12 órás rendszer (0–11)
+          h12: 12 órás rendszer (0–12)
+          h23: 24 órás rendszer (0–23)
+          h24: 24 órás rendszer (0–24)
+        lb:
+          loose: Tág stílusú sortörés
+          normal: Normál stílusú sortörés
+          strict: Szűk stílusú sortörés
+        ms:
+          metric: Méterrendszer
+          uksystem: Angolszász mértékegységrendszer
+          ussystem: Amerikai mértékegységrendszer
+        numbers:
+          ahom: ahom
+          arab: Arab-indiai számjegyek
+          arabext: Kibővített arab-indiai számjegyek
+          armn: "Örmény számok"
+          armnlow: "Örmény kisbetűs számok"
+          bali: bali
+          beng: Bengáli számjegyek
+          brah: brah
+          cakm: cakm
+          cham: cham
+          cyrl: cyrl
+          deva: Dévanágari számjegyek
+          ethi: Etióp számok
+          finance: Pénzügyi számok
+          fullwide: Teljes szélességű számjegyek
+          geor: Grúz számok
+          grek: Görög számok
+          greklow: Görög kisbetűs számok
+          gujr: Gudzsaráti számjegyek
+          guru: Gurmuki számjegyek
+          hanidec: Kínai tizedes számok
+          hans: Egyszerűsített kínai számok
+          hansfin: Egyszerűsített kínai pénzügyi számok
+          hant: Hagyományos kínai számok
+          hantfin: Hagyományos kínai pénzügyi számok
+          hebr: Héber számok
+          hmng: hmng
+          java: java
+          jpan: Japán számok
+          jpanfin: Japán pénzügyi számok
+          kali: kali
+          khmr: Khmer számjegyek
+          knda: Kannada számjegyek
+          lana: lana
+          lanatham: lanatham
+          laoo: Lao számjegyek
+          latn: Nyugati számjegyek
+          lepc: lepc
+          limb: limb
+          mathbold: mathbold
+          mathdbl: mathdbl
+          mathmono: mathmono
+          mathsanb: mathsanb
+          mathsans: mathsans
+          mlym: Malajálam számjegyek
+          modi: modi
+          mong: Mongol számjegyek
+          mroo: mroo
+          mtei: mtei
+          mymr: Mianmari számjegyek
+          mymrshan: mymrshan
+          mymrtlng: mymrtlng
+          native: Natív számjegyek
+          nkoo: nkoo
+          olck: olck
+          orya: Orija számjegyek
+          osma: osma
+          roman: Római számok
+          romanlow: Római kisbetűs számok
+          saur: saur
+          shrd: shrd
+          sind: sind
+          sinh: sinh
+          sora: sora
+          sund: sund
+          takr: takr
+          talu: talu
+          taml: Tamil hagyományos számok
+          tamldec: Tamil számjegyek
+          telu: Telugu számjegyek
+          thai: Thai számjegyek
+          tibt: Tibeti számjegyek
+          tirh: tirh
+          traditional: Hagyományos számok
+          vaii: Vai számjegyek
+          wara: wara
+      code_patterns:
+        language: 'Nyelv: {0}'
+        script: "Írásrendszer: {0}"
+        territory: 'Régió: {0}'
+      scripts:
+        aghb: Aghb
+        ahom: Ahom
+        arab: Arab
+        arab_alt_variant: Perzsa-arab
+        armi: Birodalmi arámi
+        armn: "Örmény"
+        avst: Avesztán
+        bali: Balinéz
+        bamu: Bamu
+        bass: Bass
+        batk: Batak
+        beng: Bengáli
+        blis: Bliss jelképrendszer
+        bopo: Bopomofo
+        brah: Brámi
+        brai: Vakírás
+        bugi: Buginéz
+        buhd: Buhid
+        cakm: Csakma
+        cans: Egyesített kanadai őslakos jelek
+        cari: Kari
+        cham: Csám
+        cher: Cseroki
+        copt: Kopt
+        cprt: Ciprusi
+        cyrl: Cirill
+        cyrs: "Óegyházi szláv cirill"
+        deva: Devanagári
+        dsrt: Deseret
+        dupl: Dupl
+        egyd: Egyiptomi demotikus
+        egyh: Egyiptomi hieratikus
+        egyp: Egyiptomi hieroglifák
+        elba: Elba
+        ethi: Etióp
+        geok: Grúz kucsuri
+        geor: Grúz
+        glag: Glagolitikus
+        goth: Gót
+        gran: Gran
+        grek: Görög
+        gujr: Gudzsaráti
+        guru: Gurmuki
+        hang: Hangul
+        hani: Han
+        hano: Hanunoo
+        hans: Egyszerűsített
+        hans_alt_stand_alone: Egyszerűsített kínai
+        hant: Hagyományos
+        hant_alt_stand_alone: Hagyományos kínai
+        hatr: Hatr
+        hebr: Héber
+        hira: Hiragana
+        hluw: Hluw
+        hmng: Pahawh hmong
+        hrkt: Katakana vagy hiragana
+        hung: "Ómagyar"
+        inds: Indus
+        ital: Régi olasz
+        java: Jávai
+        jpan: Japán
+        kali: Kajah li
+        kana: Katakana
+        khar: Kharoshthi
+        khmr: Khmer
+        khoj: Khoj
+        knda: Kannada
+        kore: Koreai
+        kthi: Kaithi
+        lana: Lanna
+        laoo: Lao
+        latf: Fraktur latin
+        latg: Gael latin
+        latn: Latin
+        lepc: Lepcha
+        limb: Limbu
+        lina: Lineáris A
+        linb: Lineáris B
+        lisu: Lisu
+        lyci: Líciai
+        lydi: Lídiai
+        mahj: Mahj
+        mand: Mandai
+        mani: Manicheus
+        maya: Maja hieroglifák
+        mend: Mend
+        merc: Merc
+        mero: Meroitikus
+        mlym: Malajálam
+        modi: Modi
+        mong: Mongol
+        moon: Moon
+        mroo: Mroo
+        mtei: Meitei mayek
+        mult: Mult
+        mymr: Burmai
+        narb: Narb
+        nbat: Nbat
+        nkoo: N’ko
+        ogam: Ogham
+        olck: Ol chiki
+        orkh: Orhon
+        orya: Oriya
+        osma: Oszmán
+        palm: Palm
+        pauc: Pauc
+        perm: "Ópermikus"
+        phag: Phags-pa
+        phli: Felriatos pahlavi
+        phlp: Psalter pahlavi
+        phlv: Könyv pahlavi
+        phnx: Főniciai
+        plrd: Pollard fonetikus
+        prti: Feliratos parthian
+        qaaa: Qaaa
+        qaab: Qaab
+        qaac: Qaac
+        qaad: Qaad
+        qaae: Qaae
+        qaaf: Qaaf
+        qaag: Qaag
+        qaah: Qaah
+        qaaj: Qaaj
+        qaak: Qaak
+        qaal: Qaal
+        qaam: Qaam
+        qaan: Qaan
+        qaao: Qaao
+        qaap: Qaap
+        qaaq: Qaaq
+        qaar: Qaar
+        qaas: Qaas
+        qaat: Qaat
+        qaau: Qaau
+        qaav: Qaav
+        qaaw: Qaaw
+        qaax: Qaax
+        qaay: Qaay
+        qaaz: Qaaz
+        qaba: Qaba
+        qabb: Qabb
+        qabc: Qabc
+        qabd: Qabd
+        qabe: Qabe
+        qabf: Qabf
+        qabg: Qabg
+        qabh: Qabh
+        qabi: Qabi
+        qabj: Qabj
+        qabk: Qabk
+        qabl: Qabl
+        qabm: Qabm
+        qabn: Qabn
+        qabo: Qabo
+        qabp: Qabp
+        qabq: Qabq
+        qabr: Qabr
+        qabs: Qabs
+        qabt: Qabt
+        qabu: Qabu
+        qabv: Qabv
+        qabw: Qabw
+        qabx: Qabx
+        rjng: Redzsang
+        roro: Rongorongo
+        runr: Runikus
+        samr: Szamaritán
+        sara: Szarati
+        sarb: Sarb
+        saur: Szaurastra
+        sgnw: Jelírás
+        shaw: Shaw ábécé
+        shrd: Shrd
+        sidd: Sidd
+        sind: Sind
+        sinh: Szingaléz
+        sora: Sora
+        sund: Szundanéz
+        sylo: Sylheti nagári
+        syrc: Szíriai
+        syre: Estrangelo szíriai
+        syrj: Nyugat-szíriai
+        syrn: Kelet-szíriai
+        tagb: Tagbanwa
+        takr: Takr
+        tale: Tai Le
+        talu: "Új tai lue"
+        taml: Tamil
+        tavt: Tai viet
+        telu: Telugu
+        teng: Tengwar
+        tfng: Berber
+        tglg: Tagalog
+        thaa: Thaana
+        thai: Thai
+        tibt: Tibeti
+        tirh: Tirh
+        ugar: Ugari
+        vaii: Vai
+        visp: Látható beszéd
+        wara: Wara
+        xpeo: "Óperzsa"
+        xsux: "Ékírásos suméro-akkád"
+        yiii: Ji
+        zinh: Származtatott
+        zmth: Matematikai jelrendszer
+        zsym: Szimbólum
+        zxxx: "Íratlan nyelvek kódja"
+        zyyy: Meghatározatlan
+        zzzz: Ismeretlen írásrendszer
+      territories:
+        '001': Világ
+        '002': Afrika
+        '003': "Észak-Amerika"
+        '005': Dél-Amerika
+        009: "Óceánia"
+        '011': Nyugat-Afrika
+        '013': Közép-Amerika
+        '014': Kelet-Afrika
+        '015': "Észak-Afrika"
+        '017': Közép-Afrika
+        018: Afrika déli része
+        019: Amerika
+        '021': Amerika északi része
+        029: Karib-térség
+        '030': Kelet-Ázsia
+        '034': Dél-Ázsia
+        '035': Délkelet-Ázsia
+        039: Dél-Európa
+        '053': Ausztrálázsia
+        '054': Melanézia
+        '057': Mikronéziai régió
+        '061': Polinézia
+        '142': "Ázsia"
+        '143': Közép-Ázsia
+        '145': Nyugat-Ázsia
+        '150': Európa
+        '151': Kelet-Európa
+        '154': "Észak-Európa"
+        '155': Nyugat-Európa
+        '419': Latin-Amerika
+        ac: Ascension-sziget
+        ad: Andorra
+        ae: Egyesült Arab Emírségek
+        af: Afganisztán
+        ag: Antigua és Barbuda
+        ai: Anguilla
+        al: Albánia
+        am: "Örményország"
+        an: Holland Antillák
+        ao: Angola
+        aq: Antarktisz
+        ar: Argentína
+        as: Amerikai Szamoa
+        at: Ausztria
+        au: Ausztrália
+        aw: Aruba
+        ax: "Åland-szigetek"
+        az: Azerbajdzsán
+        ba: Bosznia-Hercegovina
+        bb: Barbados
+        bd: Banglades
+        be: Belgium
+        bf: Burkina Faso
+        bg: Bulgária
+        bh: Bahrein
+        bi: Burundi
+        bj: Benin
+        bl: Saint-Barthélemy
+        bm: Bermuda
+        bn: Brunei
+        bo: Bolívia
+        bq: Holland Karib-térség
+        br: Brazília
+        bs: Bahama-szigetek
+        bt: Bhután
+        bv: Bouvet-sziget
+        bw: Botswana
+        by: Fehéroroszország
+        bz: Belize
+        ca: Kanada
+        cc: Kókusz-szigetek
+        cd: Kongó - Kinshasa
+        cd_alt_variant: Kongó (KDK)
+        cf: Közép-afrikai Köztársaság
+        cg: Kongó - Brazzaville
+        cg_alt_variant: Kongó (Köztársaság)
+        ch: Svájc
+        ci: Elefántcsontpart
+        ci_alt_variant: CI
+        ck: Cook-szigetek
+        cl: Chile
+        cm: Kamerun
+        cn: Kína
+        co: Kolumbia
+        cp: Clipperton-sziget
+        cr: Costa Rica
+        cu: Kuba
+        cv: Zöld-foki Köztársaság
+        cw: Curaçao
+        cx: Karácsony-sziget
+        cy: Ciprus
+        cz: Csehország
+        de: Németország
+        dg: Diego Garcia
+        dj: Dzsibuti
+        dk: Dánia
+        dm: Dominika
+        do: Dominikai Köztársaság
+        dz: Algéria
+        ea: Ceuta és Melilla
+        ec: Ecuador
+        ee: "Észtország"
+        eg: Egyiptom
+        eh: Nyugat-Szahara
+        er: Eritrea
+        es: Spanyolország
+        et: Etiópia
+        eu: Európai Unió
+        fi: Finnország
+        fj: Fidzsi
+        fk: Falkland-szigetek
+        fk_alt_variant: Falkland-szigetek (Malvin-szigetek)
+        fm: Mikronézia
+        fo: Feröer-szigetek
+        fr: Franciaország
+        ga: Gabon
+        gb: Egyesült Királyság
+        gb_alt_short: UK
+        gd: Grenada
+        ge: Grúzia
+        gf: Francia Guyana
+        gg: Guernsey
+        gh: Ghána
+        gi: Gibraltár
+        gl: Grönland
+        gm: Gambia
+        gn: Guinea
+        gp: Guadeloupe
+        gq: Egyenlítői-Guinea
+        gr: Görögország
+        gs: Déli-Georgia és Déli-Sandwich-szigetek
+        gt: Guatemala
+        gu: Guam
+        gw: Bissau-Guinea
+        gy: Guyana
+        hk: Hongkong SAR Kína
+        hk_alt_short: Hongkong
+        hm: Heard-sziget és McDonald-szigetek
+        hn: Honduras
+        hr: Horvátország
+        ht: Haiti
+        hu: Magyarország
+        ic: Kanári-szigetek
+        id: Indonézia
+        ie: "Írország"
+        il: Izrael
+        im: Man-sziget
+        in: India
+        io: Brit Indiai-óceáni Terület
+        iq: Irak
+        ir: Irán
+        is: Izland
+        it: Olaszország
+        je: Jersey
+        jm: Jamaica
+        jo: Jordánia
+        jp: Japán
+        ke: Kenya
+        kg: Kirgizisztán
+        kh: Kambodzsa
+        ki: Kiribati
+        km: Comore-szigetek
+        kn: Saint Kitts és Nevis
+        kp: "Észak-Korea"
+        kr: Dél-Korea
+        kw: Kuvait
+        ky: Kajmán-szigetek
+        kz: Kazahsztán
+        la: Laosz
+        lb: Libanon
+        lc: Santa Lucia
+        li: Liechtenstein
+        lk: Srí Lanka
+        lr: Libéria
+        ls: Lesotho
+        lt: Litvánia
+        lu: Luxemburg
+        lv: Lettország
+        ly: Líbia
+        ma: Marokkó
+        mc: Monaco
+        md: Moldova
+        me: Montenegró
+        mf: Saint Martin
+        mg: Madagaszkár
+        mh: Marshall-szigetek
+        mk: Macedónia
+        mk_alt_variant: Macedónia (MVJK)
+        ml: Mali
+        mm: Mianmar (Burma)
+        mn: Mongólia
+        mo: Makaó SAR Kína
+        mo_alt_short: Makaó
+        mp: "Északi Mariana-szigetek"
+        mq: Martinique
+        mr: Mauritánia
+        ms: Montserrat
+        mt: Málta
+        mu: Mauritius
+        mv: Maldív-szigetek
+        mw: Malawi
+        mx: Mexikó
+        my: Malajzia
+        mz: Mozambik
+        na: Namíbia
+        nc: "Új-Kaledónia"
+        ne: Niger
+        nf: Norfolk-sziget
+        ng: Nigéria
+        ni: Nicaragua
+        nl: Hollandia
+        'no': Norvégia
+        np: Nepál
+        nr: Nauru
+        nu: Niue
+        nz: "Új-Zéland"
+        om: Omán
+        pa: Panama
+        pe: Peru
+        pf: Francia Polinézia
+        pg: Pápua Új-Guinea
+        ph: Fülöp-szigetek
+        pk: Pakisztán
+        pl: Lengyelország
+        pm: Saint Pierre és Miquelon
+        pn: Pitcairn-szigetek
+        pr: Puerto Rico
+        ps: Palesztin Terület
+        ps_alt_short: Palesztina
+        pt: Portugália
+        pw: Palau
+        py: Paraguay
+        qa: Katar
+        qo: Külső-Óceánia
+        re: Reunion
+        ro: Románia
+        rs: Szerbia
+        ru: Oroszország
+        rw: Ruanda
+        sa: Szaúd-Arábia
+        sb: Salamon-szigetek
+        sc: Seychelle-szigetek
+        sd: Szudán
+        se: Svédország
+        sg: Szingapúr
+        sh: Szent Ilona
+        si: Szlovénia
+        sj: Spitzbergák és Jan Mayen-szigetek
+        sk: Szlovákia
+        sl: Sierra Leone
+        sm: San Marino
+        sn: Szenegál
+        so: Szomália
+        sr: Suriname
+        ss: Dél-Szudán
+        st: Sao Tomé és Príncipe
+        sv: Salvador
+        sx: Sint Maarten
+        sy: Szíria
+        sz: Szváziföld
+        ta: Tristan da Cunha
+        tc: Turks- és Caicos-szigetek
+        td: Csád
+        tf: Francia Déli Területek
+        tg: Togo
+        th: Thaiföld
+        tj: Tádzsikisztán
+        tk: Tokelau
+        tl: Kelet-Timor
+        tl_alt_variant: TL
+        tm: Türkmenisztán
+        tn: Tunézia
+        to: Tonga
+        tr: Törökország
+        tt: Trinidad és Tobago
+        tv: Tuvalu
+        tw: Tajvan
+        tz: Tanzánia
+        ua: Ukrajna
+        ug: Uganda
+        um: Amerikai Csendes-óceáni Szigetek
+        us: Egyesült Államok
+        us_alt_short: USA
+        uy: Uruguay
+        uz: "Üzbegisztán"
+        va: Vatikán
+        vc: Saint Vincent és a Grenadine-szigetek
+        ve: Venezuela
+        vg: Brit Virgin-szigetek
+        vi: Amerikai Virgin-szigetek
+        vn: Vietnam
+        vu: Vanuatu
+        wf: Wallis- és Futuna-szigetek
+        ws: Szamoa
+        xk: Koszovó
+        ye: Jemen
+        yt: Mayotte
+        za: Dél-afrikai Köztársaság
+        zm: Zambia
+        zw: Zimbabwe
+        zz: Ismeretlen körzet
+      transform_names:
+        bgn: BGN
+        numeric: Szám
+        tone: Hangsúly
+        ungegn: UNGEGN
+        x_accents: "Ékezetek"
+        x_fullwidth: Teljes szélesség
+        x_halfwidth: Fél szélesség
+        x_jamo: Jamo
+        x_pinyin: Pinjin
+        x_publishing: Kiadásra
+      variants:
+        '1901': Hagyományos német helyesírás
+        '1994': Szabványosított reziján helyesírás
+        '1996': 1996-os német helyesírás
+        1606_nict: Késői közép francia 1606-ig
+        1694_acad: Korai modern francia
+        1959_acad: Akadémiai
+        abl1943: ABL1943
+        alalc97: ALA-LC romanizáció, 1997-es kiadás
+        aluku: Aluku dialektus
+        ao1990: AO1990
+        arevela: Keleti örmény
+        arevmda: Nyugati örmény
+        baku1926: Egyesített türkic latin ábécé
+        balanka: BALANKA
+        barla: BARLA
+        bauddha: Bauddha
+        biscayan: Biszkajan
+        biske: San Giorgo/Bila tájszólás
+        bohoric: BOHORIC
+        boont: Boontling
+        colb1945: COLB1945
+        dajnko: DAJNKO
+        ekavsk: EKAVSK
+        emodeng: EMODENG
+        fonipa: IPA fonetika
+        fonupa: UPA fonetika
+        fonxsamp: Fonxsamp
+        hepburn: Hepburn romanizáció
+        hognorsk: Hongorszk
+        ijekavsk: IJEKAVSK
+        itihasa: Itihasa
+        jauer: Jauer
+        jyutping: Jyutping
+        kkcor: Meghatározatlan helyesírás
+        kociewie: KOCIEWIE
+        kscor: KSCOR
+        laukika: Laukika
+        lipaw: Reziján lipovaz tájszólás
+        luna1918: Luna1918
+        metelko: METELKO
+        monoton: Monoton
+        ndyuka: Ndyuka dialektus
+        nedis: Natisone dialektus
+        njiva: Gniva/Njiva tájszólás
+        nulik: NULIK
+        osojs: Oseacco/Osojane tájszólás
+        oxendict: OXENDICT
+        pamaka: Pamaka dialektus
+        petr1708: Petr1708
+        pinyin: pinjin átírás
+        polyton: Politonikus
+        posix: Számítógép
+        puter: Puter
+        revised: "Átdolgozott helyesírás"
+        rigik: RIGIK
+        rozaj: Reziján
+        rumgr: Rumgr
+        saaho: Saho
+        scotland: Skót szabványos angol
+        scouse: Scouse
+        solba: Stolvizza/Solbica tájszólás
+        sotav: SOTAV
+        surmiran: Surmiran
+        sursilv: Sursilv
+        sutsilv: Sutsilv
+        tarask: Taraskijevica helyesírás
+        uccor: Egyesített helyesírás
+        ucrcor: Egyesített átdolgozott helyesírás
+        ulster: Ulster
+        unifon: UNIFON
+        vaidika: Vaidika
+        valencia: Valencia
+        vallader: Vallader
+        wadegile: Wade-Giles átírás
+    units:
+      long:
+        per:
+          compound_unit_pattern: "{0} per {1}"
+        acceleration_g_force:
+          display_name: g gyorsulás
+          unit_pattern_count_one: "{0} g gyorsulás"
+          unit_pattern_count_other: "{0} g gyorsulás"
+        acceleration_meter_per_second_squared:
+          display_name: méter per másodpercnégyzet
+          unit_pattern_count_one: "{0} méter per másodpercnégyzet"
+          unit_pattern_count_other: "{0} méter per másodpercnégyzet"
+        angle_revolution:
+          display_name: fordulat
+          unit_pattern_count_one: "{0} fordulat"
+          unit_pattern_count_other: "{0} fordulat"
+        angle_radian:
+          display_name: radián
+          unit_pattern_count_one: "{0} radián"
+          unit_pattern_count_other: "{0} radián"
+        angle_degree:
+          display_name: fok
+          unit_pattern_count_one: "{0} fok"
+          unit_pattern_count_other: "{0} fok"
+        angle_arc_minute:
+          display_name: "ívperc"
+          unit_pattern_count_one: "{0} ívperc"
+          unit_pattern_count_other: "{0} ívperc"
+        angle_arc_second:
+          display_name: "ívmásodperc"
+          unit_pattern_count_one: "{0} ívmásodperc"
+          unit_pattern_count_other: "{0} ívmásodperc"
+        area_square_kilometer:
+          display_name: négyzetkilométer
+          unit_pattern_count_one: "{0} négyzetkilométer"
+          unit_pattern_count_other: "{0} négyzetkilométer"
+        area_hectare:
+          display_name: hektár
+          unit_pattern_count_one: "{0} hektár"
+          unit_pattern_count_other: "{0} hektár"
+        area_square_meter:
+          display_name: négyzetméter
+          unit_pattern_count_one: "{0} négyzetméter"
+          unit_pattern_count_other: "{0} négyzetméter"
+          per_unit_pattern: "{0}/négyzetméter"
+        area_square_centimeter:
+          display_name: négyzetcentiméter
+          unit_pattern_count_one: "{0} négyzetcentiméter"
+          unit_pattern_count_other: "{0} négyzetcentiméter"
+          per_unit_pattern: "{0}/négyzetcentiméter"
+        area_square_mile:
+          display_name: négyzetmérföld
+          unit_pattern_count_one: "{0} négyzetmérföld"
+          unit_pattern_count_other: "{0} négyzetmérföld"
+        area_acre:
+          display_name: hold
+          unit_pattern_count_one: "{0} hold"
+          unit_pattern_count_other: "{0} hold"
+        area_square_yard:
+          display_name: négyzetyard
+          unit_pattern_count_one: "{0} négyzetyard"
+          unit_pattern_count_other: "{0} négyzetyard"
+        area_square_foot:
+          display_name: négyzetláb
+          unit_pattern_count_one: "{0} négyzetláb"
+          unit_pattern_count_other: "{0} négyzetláb"
+        area_square_inch:
+          display_name: négyzethüvelyk
+          unit_pattern_count_one: "{0} négyzethüvelyk"
+          unit_pattern_count_other: "{0} négyzethüvelyk"
+          per_unit_pattern: "{0}/négyzethüvelyk"
+        consumption_liter_per_kilometer:
+          display_name: liter per kilométer
+          unit_pattern_count_one: "{0} liter per kilométer"
+          unit_pattern_count_other: "{0} liter per kilométer"
+        consumption_liter_per_100kilometers:
+          display_name: liter/100 km
+          unit_pattern_count_one: "{0} liter/100 km"
+          unit_pattern_count_other: "{0} liter/100 km"
+        consumption_mile_per_gallon:
+          display_name: mérföld per gallon
+          unit_pattern_count_one: "{0} mérföld per gallon"
+          unit_pattern_count_other: "{0} mérföld per gallon"
+        digital_terabyte:
+          display_name: terabájt
+          unit_pattern_count_one: "{0} terabájt"
+          unit_pattern_count_other: "{0} terabájt"
+        digital_terabit:
+          display_name: terabit
+          unit_pattern_count_one: "{0} terabit"
+          unit_pattern_count_other: "{0} terabit"
+        digital_gigabyte:
+          display_name: gigabájt
+          unit_pattern_count_one: "{0} gigabájt"
+          unit_pattern_count_other: "{0} gigabájt"
+        digital_gigabit:
+          display_name: gigabit
+          unit_pattern_count_one: "{0} gigabit"
+          unit_pattern_count_other: "{0} gigabit"
+        digital_megabyte:
+          display_name: megabájt
+          unit_pattern_count_one: "{0} megabájt"
+          unit_pattern_count_other: "{0} megabájt"
+        digital_megabit:
+          display_name: megabit
+          unit_pattern_count_one: "{0} megabit"
+          unit_pattern_count_other: "{0} megabit"
+        digital_kilobyte:
+          display_name: kilobájt
+          unit_pattern_count_one: "{0} kilobájt"
+          unit_pattern_count_other: "{0} kilobájt"
+        digital_kilobit:
+          display_name: kilobit
+          unit_pattern_count_one: "{0} kilobit"
+          unit_pattern_count_other: "{0} kilobit"
+        digital_byte:
+          display_name: bájt
+          unit_pattern_count_one: "{0} bájt"
+          unit_pattern_count_other: "{0} bájt"
+        digital_bit:
+          display_name: bit
+          unit_pattern_count_one: "{0} bit"
+          unit_pattern_count_other: "{0} bit"
+        duration_century:
+          display_name: "évszázad"
+          unit_pattern_count_one: "{0} évszázad"
+          unit_pattern_count_other: "{0} évszázad"
+        duration_year:
+          display_name: "év"
+          unit_pattern_count_one: "{0} év"
+          unit_pattern_count_other: "{0} év"
+          per_unit_pattern: "{0}/év"
+        duration_month:
+          display_name: hónap
+          unit_pattern_count_one: "{0} hónap"
+          unit_pattern_count_other: "{0} hónap"
+          per_unit_pattern: "{0}/hónap"
+        duration_week:
+          display_name: hét
+          unit_pattern_count_one: "{0} hét"
+          unit_pattern_count_other: "{0} hét"
+          per_unit_pattern: "{0}/hét"
+        duration_day:
+          display_name: nap
+          unit_pattern_count_one: "{0} nap"
+          unit_pattern_count_other: "{0} nap"
+          per_unit_pattern: "{0}/nap"
+        duration_hour:
+          display_name: "óra"
+          unit_pattern_count_one: "{0} óra"
+          unit_pattern_count_other: "{0} óra"
+          per_unit_pattern: "{0}/óra"
+        duration_minute:
+          display_name: perc
+          unit_pattern_count_one: "{0} perc"
+          unit_pattern_count_other: "{0} perc"
+          per_unit_pattern: "{0}/perc"
+        duration_second:
+          display_name: másodperc
+          unit_pattern_count_one: "{0} másodperc"
+          unit_pattern_count_other: "{0} másodperc"
+          per_unit_pattern: "{0}/másodperc"
+        duration_millisecond:
+          display_name: ezredmásodperc
+          unit_pattern_count_one: "{0} ezredmásodperc"
+          unit_pattern_count_other: "{0} ezredmásodperc"
+        duration_microsecond:
+          display_name: mikroszekundum
+          unit_pattern_count_one: "{0} mikroszekundum"
+          unit_pattern_count_other: "{0} mikroszekundum"
+        duration_nanosecond:
+          display_name: nanoszekundum
+          unit_pattern_count_one: "{0} nanoszekundum"
+          unit_pattern_count_other: "{0} nanoszekundum"
+        electric_ampere:
+          display_name: amper
+          unit_pattern_count_one: "{0} amper"
+          unit_pattern_count_other: "{0} amper"
+        electric_milliampere:
+          display_name: milliamper
+          unit_pattern_count_one: "{0} milliamper"
+          unit_pattern_count_other: "{0} milliamper"
+        electric_ohm:
+          display_name: ohm
+          unit_pattern_count_one: "{0} ohm"
+          unit_pattern_count_other: "{0} ohm"
+        electric_volt:
+          display_name: volt
+          unit_pattern_count_one: "{0} volt"
+          unit_pattern_count_other: "{0} volt"
+        energy_kilocalorie:
+          display_name: kilokalória
+          unit_pattern_count_one: "{0} kilokalória"
+          unit_pattern_count_other: "{0} kilokalória"
+        energy_calorie:
+          display_name: kalória
+          unit_pattern_count_one: "{0} kalória"
+          unit_pattern_count_other: "{0} kalória"
+        energy_foodcalorie:
+          display_name: kalória
+          unit_pattern_count_one: "{0} kalória"
+          unit_pattern_count_other: "{0} kalória"
+        energy_kilojoule:
+          display_name: kilojoule
+          unit_pattern_count_one: "{0} kilojoule"
+          unit_pattern_count_other: "{0} kilojoule"
+        energy_joule:
+          display_name: joule
+          unit_pattern_count_one: "{0} joule"
+          unit_pattern_count_other: "{0} joule"
+        energy_kilowatt_hour:
+          display_name: kilowattóra
+          unit_pattern_count_one: "{0} kilowattóra"
+          unit_pattern_count_other: "{0} kilowattóra"
+        frequency_gigahertz:
+          display_name: gigahertz
+          unit_pattern_count_one: "{0} gigahertz"
+          unit_pattern_count_other: "{0} gigahertz"
+        frequency_megahertz:
+          display_name: megahertz
+          unit_pattern_count_one: "{0} megahertz"
+          unit_pattern_count_other: "{0} megahertz"
+        frequency_kilohertz:
+          display_name: kilohertz
+          unit_pattern_count_one: "{0} kilohertz"
+          unit_pattern_count_other: "{0} kilohertz"
+        frequency_hertz:
+          display_name: hertz
+          unit_pattern_count_one: "{0} hertz"
+          unit_pattern_count_other: "{0} hertz"
+        length_kilometer:
+          display_name: kilométer
+          unit_pattern_count_one: "{0} kilométer"
+          unit_pattern_count_other: "{0} kilométer"
+          per_unit_pattern: "{0}/kilométer"
+        length_meter:
+          display_name: méter
+          unit_pattern_count_one: "{0} méter"
+          unit_pattern_count_other: "{0} méter"
+          per_unit_pattern: "{0}/méter"
+        length_decimeter:
+          display_name: deciméter
+          unit_pattern_count_one: "{0} deciméter"
+          unit_pattern_count_other: "{0} deciméter"
+        length_centimeter:
+          display_name: centiméter
+          unit_pattern_count_one: "{0} centiméter"
+          unit_pattern_count_other: "{0} centiméter"
+          per_unit_pattern: "{0}/centimeter"
+        length_millimeter:
+          display_name: milliméter
+          unit_pattern_count_one: "{0} milliméter"
+          unit_pattern_count_other: "{0} milliméter"
+        length_micrometer:
+          display_name: mikrométer
+          unit_pattern_count_one: "{0} mikrométer"
+          unit_pattern_count_other: "{0} mikrométer"
+        length_nanometer:
+          display_name: nanométer
+          unit_pattern_count_one: "{0} nanométer"
+          unit_pattern_count_other: "{0} nanométer"
+        length_picometer:
+          display_name: pikométer
+          unit_pattern_count_one: "{0} pikométer"
+          unit_pattern_count_other: "{0} pikométer"
+        length_mile:
+          display_name: mérföld
+          unit_pattern_count_one: "{0} mérföld"
+          unit_pattern_count_other: "{0} mérföld"
+        length_yard:
+          display_name: yard
+          unit_pattern_count_one: "{0} yard"
+          unit_pattern_count_other: "{0} yard"
+        length_foot:
+          display_name: láb
+          unit_pattern_count_one: "{0} láb"
+          unit_pattern_count_other: "{0} láb"
+          per_unit_pattern: "{0}/láb"
+        length_inch:
+          display_name: hüvelyk
+          unit_pattern_count_one: "{0} hüvelyk"
+          unit_pattern_count_other: "{0} hüvelyk"
+          per_unit_pattern: "{0}/hüvelyk"
+        length_parsec:
+          display_name: parszek
+          unit_pattern_count_one: "{0} parszek"
+          unit_pattern_count_other: "{0} parszek"
+        length_light_year:
+          display_name: fényév
+          unit_pattern_count_one: "{0} fényév"
+          unit_pattern_count_other: "{0} fényév"
+        length_astronomical_unit:
+          display_name: csillagászati egység
+          unit_pattern_count_one: "{0} csillagászati egység"
+          unit_pattern_count_other: "{0} csillagászati egység"
+        length_furlong:
+          display_name: fur
+          unit_pattern_count_other: "{0} fur"
+        length_fathom:
+          display_name: fm
+          unit_pattern_count_other: "{0} fm"
+        length_nautical_mile:
+          display_name: tengeri mérföld
+          unit_pattern_count_one: "{0} tengeri mérföld"
+          unit_pattern_count_other: "{0} tengeri mérföld"
+        length_mile_scandinavian:
+          display_name: svéd mérföld
+          unit_pattern_count_one: "{0} svéd mérföld"
+          unit_pattern_count_other: "{0} svéd mérföld"
+        light_lux:
+          display_name: lux
+          unit_pattern_count_one: "{0} lux"
+          unit_pattern_count_other: "{0} lux"
+        mass_metric_ton:
+          display_name: metrikus tonna
+          unit_pattern_count_one: "{0} metrikus tonna"
+          unit_pattern_count_other: "{0} metrikus tonna"
+        mass_kilogram:
+          display_name: kilogramm
+          unit_pattern_count_one: "{0} kilogramm"
+          unit_pattern_count_other: "{0} kilogramm"
+          per_unit_pattern: "{0}/kilogramm"
+        mass_gram:
+          display_name: gramm
+          unit_pattern_count_one: "{0} gramm"
+          unit_pattern_count_other: "{0} gramm"
+          per_unit_pattern: "{0}/gramm"
+        mass_milligram:
+          display_name: milligramm
+          unit_pattern_count_one: "{0} milligramm"
+          unit_pattern_count_other: "{0} milligramm"
+        mass_microgram:
+          display_name: mikrogramm
+          unit_pattern_count_one: "{0} mikrogramm"
+          unit_pattern_count_other: "{0} mikrogramm"
+        mass_ton:
+          display_name: tonna
+          unit_pattern_count_one: "{0} tonna"
+          unit_pattern_count_other: "{0} tonna"
+        mass_stone:
+          display_name: st
+          unit_pattern_count_other: "{0} st"
+        mass_pound:
+          display_name: font
+          unit_pattern_count_one: "{0} font"
+          unit_pattern_count_other: "{0} font"
+          per_unit_pattern: "{0}/font"
+        mass_ounce:
+          display_name: uncia
+          unit_pattern_count_one: "{0} uncia"
+          unit_pattern_count_other: "{0} uncia"
+          per_unit_pattern: "{0}/uncia"
+        mass_ounce_troy:
+          display_name: troy uncia
+          unit_pattern_count_one: "{0} troy uncia"
+          unit_pattern_count_other: "{0} troy uncia"
+        mass_carat:
+          display_name: karát
+          unit_pattern_count_one: "{0} karát"
+          unit_pattern_count_other: "{0} karát"
+        power_gigawatt:
+          display_name: gigawatt
+          unit_pattern_count_one: "{0} gigawatt"
+          unit_pattern_count_other: "{0} gigawatt"
+        power_megawatt:
+          display_name: megawatt
+          unit_pattern_count_one: "{0} megawatt"
+          unit_pattern_count_other: "{0} megawatt"
+        power_kilowatt:
+          display_name: kilowatt
+          unit_pattern_count_one: "{0} kilowatt"
+          unit_pattern_count_other: "{0} kilowatt"
+        power_watt:
+          display_name: watt
+          unit_pattern_count_one: "{0} watt"
+          unit_pattern_count_other: "{0} watt"
+        power_milliwatt:
+          display_name: milliwatt
+          unit_pattern_count_one: "{0} milliwatt"
+          unit_pattern_count_other: "{0} milliwatt"
+        power_horsepower:
+          display_name: lóerő
+          unit_pattern_count_one: "{0} lóerő"
+          unit_pattern_count_other: "{0} lóerő"
+        pressure_hectopascal:
+          display_name: hektopascal
+          unit_pattern_count_one: "{0} hektopascal"
+          unit_pattern_count_other: "{0} hektopascal"
+        pressure_millimeter_of_mercury:
+          display_name: mm Hg
+          unit_pattern_count_one: "{0} higanymilliméter"
+          unit_pattern_count_other: "{0} higanymilliméter"
+        pressure_pound_per_square_inch:
+          display_name: font per négyzethüvelyk
+          unit_pattern_count_one: "{0} font per négyzethüvelyk"
+          unit_pattern_count_other: "{0} font per négyzethüvelyk"
+        pressure_inch_hg:
+          display_name: higanyhüvelyk
+          unit_pattern_count_one: "{0} higanyhüvelyk"
+          unit_pattern_count_other: "{0} higanyhüvelyk"
+        pressure_millibar:
+          display_name: millibar
+          unit_pattern_count_one: "{0} millibar"
+          unit_pattern_count_other: "{0} millibar"
+        proportion_karat:
+          display_name: karát
+          unit_pattern_count_one: "{0} karát"
+          unit_pattern_count_other: "{0} karát"
+        speed_kilometer_per_hour:
+          display_name: kilométer per óra
+          unit_pattern_count_one: "{0} kilométer per óra"
+          unit_pattern_count_other: "{0} kilométer per óra"
+        speed_meter_per_second:
+          display_name: méter per másodperc
+          unit_pattern_count_one: "{0} méter per másodperc"
+          unit_pattern_count_other: "{0} méter per másodperc"
+        speed_mile_per_hour:
+          display_name: mérföld per óra
+          unit_pattern_count_one: "{0} mérföld per óra"
+          unit_pattern_count_other: "{0} mérföld per óra"
+        speed_knot:
+          display_name: csomó
+          unit_pattern_count_one: "{0} csomó"
+          unit_pattern_count_other: "{0} csomó"
+        temperature_generic:
+          display_name: "°"
+          unit_pattern_count_one: "{0}°"
+          unit_pattern_count_other: "{0}°"
+        temperature_celsius:
+          display_name: Celsius-fok
+          unit_pattern_count_one: "{0} Celsius-fok"
+          unit_pattern_count_other: "{0} Celsius-fok"
+        temperature_fahrenheit:
+          display_name: Fahrenheit-fok
+          unit_pattern_count_one: "{0} Fahrenheit-fok"
+          unit_pattern_count_other: "{0} Fahrenheit-fok"
+        temperature_kelvin:
+          display_name: kelvin
+          unit_pattern_count_one: "{0} kelvin"
+          unit_pattern_count_other: "{0} kelvin"
+        volume_cubic_kilometer:
+          display_name: köbkilométer
+          unit_pattern_count_one: "{0} köbkilométer"
+          unit_pattern_count_other: "{0} köbkilométer"
+        volume_cubic_meter:
+          display_name: köbméter
+          unit_pattern_count_one: "{0} köbméter"
+          unit_pattern_count_other: "{0} köbméter"
+          per_unit_pattern: "{0}/köbméter"
+        volume_cubic_centimeter:
+          display_name: köbcentiméter
+          unit_pattern_count_one: "{0} köbcentiméter"
+          unit_pattern_count_other: "{0} köbcentiméter"
+          per_unit_pattern: "{0}/köbcentiméter"
+        volume_cubic_mile:
+          display_name: köbmérföld
+          unit_pattern_count_one: "{0} köbmérföld"
+          unit_pattern_count_other: "{0} köbmérföld"
+        volume_cubic_yard:
+          display_name: köbyard
+          unit_pattern_count_one: "{0} köbyard"
+          unit_pattern_count_other: "{0} köbyard"
+        volume_cubic_foot:
+          display_name: köbláb
+          unit_pattern_count_one: "{0} köbláb"
+          unit_pattern_count_other: "{0} köbláb"
+        volume_cubic_inch:
+          display_name: köbhüvelyk
+          unit_pattern_count_one: "{0} köbhüvelyk"
+          unit_pattern_count_other: "{0} köbhüvelyk"
+        volume_megaliter:
+          display_name: megaliter
+          unit_pattern_count_one: "{0} megaliter"
+          unit_pattern_count_other: "{0} megaliter"
+        volume_hectoliter:
+          display_name: hektoliter
+          unit_pattern_count_one: "{0} hektoliter"
+          unit_pattern_count_other: "{0} hektoliter"
+        volume_liter:
+          display_name: liter
+          unit_pattern_count_one: "{0} liter"
+          unit_pattern_count_other: "{0} liter"
+          per_unit_pattern: "{0}/liter"
+        volume_deciliter:
+          display_name: deciliter
+          unit_pattern_count_one: "{0} deciliter"
+          unit_pattern_count_other: "{0} deciliter"
+        volume_centiliter:
+          display_name: centiliter
+          unit_pattern_count_one: "{0} centiliter"
+          unit_pattern_count_other: "{0} centiliter"
+        volume_milliliter:
+          display_name: milliliter
+          unit_pattern_count_one: "{0} milliliter"
+          unit_pattern_count_other: "{0} milliliter"
+        volume_pint_metric:
+          display_name: metrikus pint
+          unit_pattern_count_one: "{0} metrikus pint"
+          unit_pattern_count_other: "{0} metrikus pint"
+        volume_cup_metric:
+          display_name: bögre
+          unit_pattern_count_one: "{0} bögre"
+          unit_pattern_count_other: "{0} bögre"
+        volume_acre_foot:
+          display_name: hold-láb
+          unit_pattern_count_one: "{0} hold-láb"
+          unit_pattern_count_other: "{0} hold-láb"
+        volume_bushel:
+          display_name: bu
+          unit_pattern_count_other: "{0} bu"
+        volume_gallon:
+          display_name: gallon
+          unit_pattern_count_one: "{0} gallon"
+          unit_pattern_count_other: "{0} gallon"
+          per_unit_pattern: "{0}/gallon"
+        volume_quart:
+          display_name: quart
+          unit_pattern_count_one: "{0} quart"
+          unit_pattern_count_other: "{0} quart"
+        volume_pint:
+          display_name: pint
+          unit_pattern_count_one: "{0} pint"
+          unit_pattern_count_other: "{0} pint"
+        volume_cup:
+          display_name: csésze
+          unit_pattern_count_one: "{0} csésze"
+          unit_pattern_count_other: "{0} csésze"
+        volume_fluid_ounce:
+          display_name: folyadékuncia
+          unit_pattern_count_one: "{0} folyadékuncia"
+          unit_pattern_count_other: "{0} folyadékuncia"
+        volume_tablespoon:
+          display_name: evőkanál
+          unit_pattern_count_one: "{0} evőkanál"
+          unit_pattern_count_other: "{0} evőkanál"
+        volume_teaspoon:
+          display_name: kávéskanál
+          unit_pattern_count_one: "{0} kávéskanál"
+          unit_pattern_count_other: "{0} kávéskanál"
+        coordinate_unit:
+          east: "{0} K"
+          north: "{0} É"
+          south: "{0} D"
+          west: "{0} Ny"
+      short:
+        per:
+          compound_unit_pattern: "{0}/{1}"
+        acceleration_g_force:
+          display_name: g gyorsulás
+          unit_pattern_count_one: "{0} G"
+          unit_pattern_count_other: "{0} G"
+        acceleration_meter_per_second_squared:
+          display_name: m/s²
+          unit_pattern_count_one: "{0} m/s²"
+          unit_pattern_count_other: "{0} m/s²"
+        angle_revolution:
+          display_name: ford.
+          unit_pattern_count_one: "{0} ford."
+          unit_pattern_count_other: "{0} ford."
+        angle_radian:
+          display_name: rad
+          unit_pattern_count_one: "{0} rad"
+          unit_pattern_count_other: "{0} rad"
+        angle_degree:
+          display_name: fok
+          unit_pattern_count_one: "{0} fok"
+          unit_pattern_count_other: "{0} fok"
+        angle_arc_minute:
+          display_name: "ívperc"
+          unit_pattern_count_one: "{0}′"
+          unit_pattern_count_other: "{0}′"
+        angle_arc_second:
+          display_name: "ívmásodperc"
+          unit_pattern_count_one: "{0}″"
+          unit_pattern_count_other: "{0}″"
+        area_square_kilometer:
+          display_name: km²
+          unit_pattern_count_one: "{0} km²"
+          unit_pattern_count_other: "{0} km²"
+        area_hectare:
+          display_name: ha
+          unit_pattern_count_one: "{0} ha"
+          unit_pattern_count_other: "{0} ha"
+        area_square_meter:
+          display_name: m²
+          unit_pattern_count_one: "{0} m²"
+          unit_pattern_count_other: "{0} m²"
+          per_unit_pattern: "{0}/m²"
+        area_square_centimeter:
+          display_name: cm²
+          unit_pattern_count_one: "{0} cm²"
+          unit_pattern_count_other: "{0} cm²"
+          per_unit_pattern: "{0}/cm²"
+        area_square_mile:
+          display_name: mf²
+          unit_pattern_count_one: "{0} mf²"
+          unit_pattern_count_other: "{0} mf²"
+        area_acre:
+          display_name: kh
+          unit_pattern_count_one: "{0} kh"
+          unit_pattern_count_other: "{0} kh"
+        area_square_yard:
+          display_name: yd²
+          unit_pattern_count_one: "{0} yd²"
+          unit_pattern_count_other: "{0} yd²"
+        area_square_foot:
+          display_name: ft²
+          unit_pattern_count_one: "{0} ft²"
+          unit_pattern_count_other: "{0} ft²"
+        area_square_inch:
+          display_name: in²
+          unit_pattern_count_one: "{0} in²"
+          unit_pattern_count_other: "{0} in²"
+          per_unit_pattern: "{0}/in²"
+        consumption_liter_per_kilometer:
+          display_name: l/km
+          unit_pattern_count_one: "{0} l/km"
+          unit_pattern_count_other: "{0} l/km"
+        consumption_liter_per_100kilometers:
+          display_name: l/100 km
+          unit_pattern_count_one: "{0} l/100 km"
+          unit_pattern_count_other: "{0} l/100km"
+        consumption_mile_per_gallon:
+          display_name: mpg
+          unit_pattern_count_one: "{0} mpg"
+          unit_pattern_count_other: "{0} mpg"
+        digital_terabyte:
+          display_name: TB
+          unit_pattern_count_one: "{0} TB"
+          unit_pattern_count_other: "{0} TB"
+        digital_terabit:
+          display_name: Tb
+          unit_pattern_count_one: "{0} Tb"
+          unit_pattern_count_other: "{0} Tb"
+        digital_gigabyte:
+          display_name: GB
+          unit_pattern_count_one: "{0} GB"
+          unit_pattern_count_other: "{0} GB"
+        digital_gigabit:
+          display_name: Gb
+          unit_pattern_count_one: "{0} Gb"
+          unit_pattern_count_other: "{0} Gb"
+        digital_megabyte:
+          display_name: MB
+          unit_pattern_count_one: "{0} MB"
+          unit_pattern_count_other: "{0} MB"
+        digital_megabit:
+          display_name: Mb
+          unit_pattern_count_one: "{0} Mb"
+          unit_pattern_count_other: "{0} Mb"
+        digital_kilobyte:
+          display_name: kB
+          unit_pattern_count_one: "{0} kB"
+          unit_pattern_count_other: "{0} kB"
+        digital_kilobit:
+          display_name: kb
+          unit_pattern_count_one: "{0} kb"
+          unit_pattern_count_other: "{0} kb"
+        digital_byte:
+          display_name: bájt
+          unit_pattern_count_one: "{0} bájt"
+          unit_pattern_count_other: "{0} bájt"
+        digital_bit:
+          display_name: bit
+          unit_pattern_count_one: "{0} bit"
+          unit_pattern_count_other: "{0} bit"
+        duration_century:
+          display_name: sz.
+          unit_pattern_count_one: "{0} sz."
+          unit_pattern_count_other: "{0} sz."
+        duration_year:
+          display_name: "év"
+          unit_pattern_count_one: "{0} év"
+          unit_pattern_count_other: "{0} év"
+          per_unit_pattern: "{0}/év"
+        duration_month:
+          display_name: hónap
+          unit_pattern_count_one: "{0} hónap"
+          unit_pattern_count_other: "{0} hónap"
+          per_unit_pattern: "{0}/hó"
+        duration_week:
+          display_name: hét
+          unit_pattern_count_one: "{0} hét"
+          unit_pattern_count_other: "{0} hét"
+          per_unit_pattern: "{0}/hét"
+        duration_day:
+          display_name: nap
+          unit_pattern_count_one: "{0} nap"
+          unit_pattern_count_other: "{0} nap"
+          per_unit_pattern: "{0}/nap"
+        duration_hour:
+          display_name: h
+          unit_pattern_count_one: "{0} h"
+          unit_pattern_count_other: "{0} h"
+          per_unit_pattern: "{0}/h"
+        duration_minute:
+          display_name: min
+          unit_pattern_count_one: "{0} min"
+          unit_pattern_count_other: "{0} min"
+          per_unit_pattern: "{0}/min"
+        duration_second:
+          display_name: s
+          unit_pattern_count_one: "{0} s"
+          unit_pattern_count_other: "{0} s"
+          per_unit_pattern: "{0}/s"
+        duration_millisecond:
+          display_name: ms
+          unit_pattern_count_one: "{0} ms"
+          unit_pattern_count_other: "{0} ms"
+        duration_microsecond:
+          display_name: "μs"
+          unit_pattern_count_one: "{0} μs"
+          unit_pattern_count_other: "{0} μs"
+        duration_nanosecond:
+          display_name: ns
+          unit_pattern_count_one: "{0} ns"
+          unit_pattern_count_other: "{0} ns"
+        electric_ampere:
+          display_name: A
+          unit_pattern_count_one: "{0} A"
+          unit_pattern_count_other: "{0} A"
+        electric_milliampere:
+          display_name: mA
+          unit_pattern_count_one: "{0} mA"
+          unit_pattern_count_other: "{0} mA"
+        electric_ohm:
+          display_name: "Ω"
+          unit_pattern_count_one: "{0} Ω"
+          unit_pattern_count_other: "{0} Ω"
+        electric_volt:
+          display_name: V
+          unit_pattern_count_one: "{0} V"
+          unit_pattern_count_other: "{0} V"
+        energy_kilocalorie:
+          display_name: kcal
+          unit_pattern_count_one: "{0} kcal"
+          unit_pattern_count_other: "{0} kcal"
+        energy_calorie:
+          display_name: cal
+          unit_pattern_count_one: "{0} cal"
+          unit_pattern_count_other: "{0} cal"
+        energy_foodcalorie:
+          display_name: cal
+          unit_pattern_count_one: "{0} cal"
+          unit_pattern_count_other: "{0} cal"
+        energy_kilojoule:
+          display_name: kJ
+          unit_pattern_count_one: "{0} kJ"
+          unit_pattern_count_other: "{0} kJ"
+        energy_joule:
+          display_name: J
+          unit_pattern_count_one: "{0} J"
+          unit_pattern_count_other: "{0} J"
+        energy_kilowatt_hour:
+          display_name: kWh
+          unit_pattern_count_one: "{0} kWh"
+          unit_pattern_count_other: "{0} kWh"
+        frequency_gigahertz:
+          display_name: GHz
+          unit_pattern_count_one: "{0} GHz"
+          unit_pattern_count_other: "{0} GHz"
+        frequency_megahertz:
+          display_name: MHz
+          unit_pattern_count_one: "{0} MHz"
+          unit_pattern_count_other: "{0} MHz"
+        frequency_kilohertz:
+          display_name: kHz
+          unit_pattern_count_one: "{0} kHz"
+          unit_pattern_count_other: "{0} kHz"
+        frequency_hertz:
+          display_name: Hz
+          unit_pattern_count_one: "{0} Hz"
+          unit_pattern_count_other: "{0} Hz"
+        length_kilometer:
+          display_name: km
+          unit_pattern_count_one: "{0} km"
+          unit_pattern_count_other: "{0} km"
+          per_unit_pattern: "{0}/km"
+        length_meter:
+          display_name: m
+          unit_pattern_count_one: "{0} m"
+          unit_pattern_count_other: "{0} m"
+          per_unit_pattern: "{0}/m"
+        length_decimeter:
+          display_name: dm
+          unit_pattern_count_one: "{0} dm"
+          unit_pattern_count_other: "{0} dm"
+        length_centimeter:
+          display_name: cm
+          unit_pattern_count_one: "{0} cm"
+          unit_pattern_count_other: "{0} cm"
+          per_unit_pattern: "{0}/cm"
+        length_millimeter:
+          display_name: mm
+          unit_pattern_count_one: "{0} mm"
+          unit_pattern_count_other: "{0} mm"
+        length_micrometer:
+          display_name: "µm"
+          unit_pattern_count_one: "{0} µm"
+          unit_pattern_count_other: "{0} µm"
+        length_nanometer:
+          display_name: nm
+          unit_pattern_count_one: "{0} nm"
+          unit_pattern_count_other: "{0} nm"
+        length_picometer:
+          display_name: pm
+          unit_pattern_count_one: "{0} pm"
+          unit_pattern_count_other: "{0} pm"
+        length_mile:
+          display_name: mf
+          unit_pattern_count_one: "{0} mf"
+          unit_pattern_count_other: "{0} mf"
+        length_yard:
+          display_name: yd
+          unit_pattern_count_one: "{0} yd"
+          unit_pattern_count_other: "{0} yd"
+        length_foot:
+          display_name: láb
+          unit_pattern_count_one: "{0} láb"
+          unit_pattern_count_other: "{0} láb"
+          per_unit_pattern: "{0}/láb"
+        length_inch:
+          display_name: hüvelyk
+          unit_pattern_count_one: "{0} hüvelyk"
+          unit_pattern_count_other: "{0} hüvelyk"
+          per_unit_pattern: "{0}/in"
+        length_parsec:
+          display_name: pc
+          unit_pattern_count_one: "{0} pc"
+          unit_pattern_count_other: "{0} pc"
+        length_light_year:
+          display_name: fényév
+          unit_pattern_count_one: "{0} fényév"
+          unit_pattern_count_other: "{0} fényév"
+        length_astronomical_unit:
+          display_name: CsE
+          unit_pattern_count_one: "{0} CsE"
+          unit_pattern_count_other: "{0} CsE"
+        length_furlong:
+          display_name: fur
+          unit_pattern_count_other: "{0} fur"
+        length_fathom:
+          display_name: fm
+          unit_pattern_count_other: "{0} fm"
+        length_nautical_mile:
+          display_name: nmi
+          unit_pattern_count_one: "{0} nmi"
+          unit_pattern_count_other: "{0} nmi"
+        length_mile_scandinavian:
+          display_name: mil
+          unit_pattern_count_one: "{0} mil"
+          unit_pattern_count_other: "{0} mil"
+        light_lux:
+          display_name: lx
+          unit_pattern_count_one: "{0} lx"
+          unit_pattern_count_other: "{0} lx"
+        mass_metric_ton:
+          display_name: t
+          unit_pattern_count_one: "{0} t"
+          unit_pattern_count_other: "{0} t"
+        mass_kilogram:
+          display_name: kg
+          unit_pattern_count_one: "{0} kg"
+          unit_pattern_count_other: "{0} kg"
+          per_unit_pattern: "{0}/kg"
+        mass_gram:
+          display_name: gram
+          unit_pattern_count_one: "{0} g"
+          unit_pattern_count_other: "{0} g"
+          per_unit_pattern: "{0}/g"
+        mass_milligram:
+          display_name: mg
+          unit_pattern_count_one: "{0} mg"
+          unit_pattern_count_other: "{0} mg"
+        mass_microgram:
+          display_name: "µg"
+          unit_pattern_count_one: "{0} µg"
+          unit_pattern_count_other: "{0} µg"
+        mass_ton:
+          display_name: tn
+          unit_pattern_count_one: "{0} tn"
+          unit_pattern_count_other: "{0} tn"
+        mass_stone:
+          display_name: st
+          unit_pattern_count_other: "{0} st"
+        mass_pound:
+          display_name: lb
+          unit_pattern_count_one: "{0} lb"
+          unit_pattern_count_other: "{0} lb"
+          per_unit_pattern: "{0}/lb"
+        mass_ounce:
+          display_name: oz
+          unit_pattern_count_one: "{0} oz"
+          unit_pattern_count_other: "{0} oz"
+          per_unit_pattern: "{0}/oz"
+        mass_ounce_troy:
+          display_name: oz t
+          unit_pattern_count_one: "{0} oz t"
+          unit_pattern_count_other: "{0} oz t"
+        mass_carat:
+          display_name: Kt
+          unit_pattern_count_one: "{0} Kt"
+          unit_pattern_count_other: "{0} Kt"
+        power_gigawatt:
+          display_name: GW
+          unit_pattern_count_one: "{0} GW"
+          unit_pattern_count_other: "{0} GW"
+        power_megawatt:
+          display_name: MW
+          unit_pattern_count_one: "{0} MW"
+          unit_pattern_count_other: "{0} MW"
+        power_kilowatt:
+          display_name: kW
+          unit_pattern_count_one: "{0} kW"
+          unit_pattern_count_other: "{0} kW"
+        power_watt:
+          display_name: W
+          unit_pattern_count_one: "{0} W"
+          unit_pattern_count_other: "{0} W"
+        power_milliwatt:
+          display_name: mW
+          unit_pattern_count_one: "{0} mW"
+          unit_pattern_count_other: "{0} mW"
+        power_horsepower:
+          display_name: LE
+          unit_pattern_count_one: "{0} LE"
+          unit_pattern_count_other: "{0} LE"
+        pressure_hectopascal:
+          display_name: hPa
+          unit_pattern_count_one: "{0} hPa"
+          unit_pattern_count_other: "{0} hPa"
+        pressure_millimeter_of_mercury:
+          display_name: mm Hg
+          unit_pattern_count_one: "{0} mm Hg"
+          unit_pattern_count_other: "{0} mm Hg"
+        pressure_pound_per_square_inch:
+          display_name: psi
+          unit_pattern_count_one: "{0} psi"
+          unit_pattern_count_other: "{0} psi"
+        pressure_inch_hg:
+          display_name: inHg
+          unit_pattern_count_one: "{0} inHg"
+          unit_pattern_count_other: "{0} inHg"
+        pressure_millibar:
+          display_name: mbar
+          unit_pattern_count_one: "{0} mb"
+          unit_pattern_count_other: "{0} mb"
+        proportion_karat:
+          display_name: kt
+          unit_pattern_count_one: "{0} kt"
+          unit_pattern_count_other: "{0} kt"
+        speed_kilometer_per_hour:
+          display_name: km/h
+          unit_pattern_count_one: "{0} km/h"
+          unit_pattern_count_other: "{0} km/h"
+        speed_meter_per_second:
+          display_name: m/s
+          unit_pattern_count_one: "{0} m/s"
+          unit_pattern_count_other: "{0} m/s"
+        speed_mile_per_hour:
+          display_name: mph
+          unit_pattern_count_one: "{0} mph"
+          unit_pattern_count_other: "{0} mph"
+        speed_knot:
+          display_name: kn
+          unit_pattern_count_one: "{0} kn"
+          unit_pattern_count_other: "{0} kn"
+        temperature_generic:
+          display_name: "°"
+          unit_pattern_count_one: "{0}°"
+          unit_pattern_count_other: "{0}°"
+        temperature_celsius:
+          display_name: "°C"
+          unit_pattern_count_one: "{0} °C"
+          unit_pattern_count_other: "{0} °C"
+        temperature_fahrenheit:
+          display_name: "°F"
+          unit_pattern_count_one: "{0} °F"
+          unit_pattern_count_other: "{0} °F"
+        temperature_kelvin:
+          display_name: K
+          unit_pattern_count_one: "{0} K"
+          unit_pattern_count_other: "{0} K"
+        volume_cubic_kilometer:
+          display_name: km³
+          unit_pattern_count_one: "{0} km³"
+          unit_pattern_count_other: "{0} km³"
+        volume_cubic_meter:
+          display_name: m³
+          unit_pattern_count_one: "{0} m³"
+          unit_pattern_count_other: "{0} m³"
+          per_unit_pattern: "{0}/m³"
+        volume_cubic_centimeter:
+          display_name: cm³
+          unit_pattern_count_one: "{0} cm³"
+          unit_pattern_count_other: "{0} cm³"
+          per_unit_pattern: "{0}/cm³"
+        volume_cubic_mile:
+          display_name: mi³
+          unit_pattern_count_one: "{0} mi³"
+          unit_pattern_count_other: "{0} mi³"
+        volume_cubic_yard:
+          display_name: yd³
+          unit_pattern_count_one: "{0} yd³"
+          unit_pattern_count_other: "{0} yd³"
+        volume_cubic_foot:
+          display_name: ft³
+          unit_pattern_count_one: "{0} ft³"
+          unit_pattern_count_other: "{0} ft³"
+        volume_cubic_inch:
+          display_name: in³
+          unit_pattern_count_one: "{0} in³"
+          unit_pattern_count_other: "{0} in³"
+        volume_megaliter:
+          display_name: Ml
+          unit_pattern_count_one: "{0} Ml"
+          unit_pattern_count_other: "{0} Ml"
+        volume_hectoliter:
+          display_name: hl
+          unit_pattern_count_one: "{0} hl"
+          unit_pattern_count_other: "{0} hl"
+        volume_liter:
+          display_name: l
+          unit_pattern_count_one: "{0} l"
+          unit_pattern_count_other: "{0} l"
+          per_unit_pattern: "{0}/l"
+        volume_deciliter:
+          display_name: dl
+          unit_pattern_count_one: "{0} dl"
+          unit_pattern_count_other: "{0} dl"
+        volume_centiliter:
+          display_name: cl
+          unit_pattern_count_one: "{0} cl"
+          unit_pattern_count_other: "{0} cl"
+        volume_milliliter:
+          display_name: ml
+          unit_pattern_count_one: "{0} ml"
+          unit_pattern_count_other: "{0} ml"
+        volume_pint_metric:
+          display_name: mpt
+          unit_pattern_count_one: "{0} mpt"
+          unit_pattern_count_other: "{0} mpt"
+        volume_cup_metric:
+          display_name: bg
+          unit_pattern_count_one: "{0} bg"
+          unit_pattern_count_other: "{0} bg"
+        volume_acre_foot:
+          display_name: ac ft
+          unit_pattern_count_one: "{0} ac ft"
+          unit_pattern_count_other: "{0} ac ft"
+        volume_bushel:
+          display_name: bu
+          unit_pattern_count_other: "{0} bu"
+        volume_gallon:
+          display_name: gal
+          unit_pattern_count_one: "{0} gal"
+          unit_pattern_count_other: "{0} gal"
+          per_unit_pattern: "{0}/gal"
+        volume_quart:
+          display_name: qt
+          unit_pattern_count_one: "{0} qt"
+          unit_pattern_count_other: "{0} qt"
+        volume_pint:
+          display_name: pt
+          unit_pattern_count_one: "{0} pt"
+          unit_pattern_count_other: "{0} pt"
+        volume_cup:
+          display_name: cs.
+          unit_pattern_count_one: "{0} cs."
+          unit_pattern_count_other: "{0} cs."
+        volume_fluid_ounce:
+          display_name: fl oz
+          unit_pattern_count_one: "{0} fl oz"
+          unit_pattern_count_other: "{0} fl oz"
+        volume_tablespoon:
+          display_name: ek.
+          unit_pattern_count_one: "{0} ek."
+          unit_pattern_count_other: "{0} ek."
+        volume_teaspoon:
+          display_name: kk.
+          unit_pattern_count_one: "{0} kk."
+          unit_pattern_count_other: "{0} kk."
+        coordinate_unit:
+          east: "{0} K"
+          north: "{0} É"
+          south: "{0} D"
+          west: "{0} Ny"
+      narrow:
+        per:
+          compound_unit_pattern: "{0}/{1}"
+        acceleration_g_force:
+          display_name: g gyorsulás
+          unit_pattern_count_one: "{0} G"
+          unit_pattern_count_other: "{0} G"
+        acceleration_meter_per_second_squared:
+          display_name: m/s²
+          unit_pattern_count_one: "{0} m/s²"
+          unit_pattern_count_other: "{0} m/s²"
+        angle_revolution:
+          display_name: ford.
+          unit_pattern_count_one: "{0} ford."
+          unit_pattern_count_other: "{0} ford."
+        angle_radian:
+          display_name: rad
+          unit_pattern_count_one: "{0} rad"
+          unit_pattern_count_other: "{0} rad"
+        angle_degree:
+          display_name: fok
+          unit_pattern_count_one: "{0}°"
+          unit_pattern_count_other: "{0}°"
+        angle_arc_minute:
+          display_name: "ívperc"
+          unit_pattern_count_one: "{0}′"
+          unit_pattern_count_other: "{0}′"
+        angle_arc_second:
+          display_name: "ívmásodperc"
+          unit_pattern_count_one: "{0}″"
+          unit_pattern_count_other: "{0}″"
+        area_square_kilometer:
+          display_name: km²
+          unit_pattern_count_one: "{0} km²"
+          unit_pattern_count_other: "{0} km²"
+        area_hectare:
+          display_name: ha
+          unit_pattern_count_one: "{0} ha"
+          unit_pattern_count_other: "{0} ha"
+        area_square_meter:
+          display_name: m²
+          unit_pattern_count_one: "{0} m²"
+          unit_pattern_count_other: "{0} m²"
+          per_unit_pattern: "{0}/m²"
+        area_square_centimeter:
+          display_name: cm²
+          unit_pattern_count_one: "{0} cm²"
+          unit_pattern_count_other: "{0} cm²"
+          per_unit_pattern: "{0}/cm²"
+        area_square_mile:
+          display_name: mf²
+          unit_pattern_count_one: "{0} mi²"
+          unit_pattern_count_other: "{0} mi²"
+        area_acre:
+          display_name: kh
+          unit_pattern_count_one: "{0} ac"
+          unit_pattern_count_other: "{0} ac"
+        area_square_yard:
+          display_name: yd²
+          unit_pattern_count_one: "{0} yd²"
+          unit_pattern_count_other: "{0} yd²"
+        area_square_foot:
+          display_name: ft²
+          unit_pattern_count_one: "{0} ft²"
+          unit_pattern_count_other: "{0} ft²"
+        area_square_inch:
+          display_name: in²
+          unit_pattern_count_one: "{0} in²"
+          unit_pattern_count_other: "{0} in²"
+          per_unit_pattern: "{0}/in²"
+        consumption_liter_per_kilometer:
+          display_name: l/km
+          unit_pattern_count_one: "{0} l/km"
+          unit_pattern_count_other: "{0} l/km"
+        consumption_liter_per_100kilometers:
+          display_name: l/100 km
+          unit_pattern_count_one: "{0} l/100 km"
+          unit_pattern_count_other: "{0} l/100 km"
+        consumption_mile_per_gallon:
+          display_name: mpg
+          unit_pattern_count_one: "{0} mpg"
+          unit_pattern_count_other: "{0} mpg"
+        digital_terabyte:
+          display_name: TB
+          unit_pattern_count_one: "{0} TB"
+          unit_pattern_count_other: "{0} TB"
+        digital_terabit:
+          display_name: Tb
+          unit_pattern_count_one: "{0} Tb"
+          unit_pattern_count_other: "{0} Tb"
+        digital_gigabyte:
+          display_name: GB
+          unit_pattern_count_one: "{0} GB"
+          unit_pattern_count_other: "{0} GB"
+        digital_gigabit:
+          display_name: Gb
+          unit_pattern_count_one: "{0} Gb"
+          unit_pattern_count_other: "{0} Gb"
+        digital_megabyte:
+          display_name: MB
+          unit_pattern_count_one: "{0} MB"
+          unit_pattern_count_other: "{0} MB"
+        digital_megabit:
+          display_name: Mb
+          unit_pattern_count_one: "{0} Mb"
+          unit_pattern_count_other: "{0} Mb"
+        digital_kilobyte:
+          display_name: kB
+          unit_pattern_count_one: "{0} kB"
+          unit_pattern_count_other: "{0} kB"
+        digital_kilobit:
+          display_name: kb
+          unit_pattern_count_one: "{0} kb"
+          unit_pattern_count_other: "{0} kb"
+        digital_byte:
+          display_name: bájt
+          unit_pattern_count_one: "{0} bájt"
+          unit_pattern_count_other: "{0} bájt"
+        digital_bit:
+          display_name: bit
+          unit_pattern_count_one: "{0} bit"
+          unit_pattern_count_other: "{0} bit"
+        duration_century:
+          display_name: sz.
+          unit_pattern_count_one: "{0} sz."
+          unit_pattern_count_other: "{0} sz."
+        duration_year:
+          display_name: "év"
+          unit_pattern_count_one: "{0} év"
+          unit_pattern_count_other: "{0} év"
+          per_unit_pattern: "{0}/év"
+        duration_month:
+          display_name: hónap
+          unit_pattern_count_one: "{0} h."
+          unit_pattern_count_other: "{0} h."
+          per_unit_pattern: "{0}/hó"
+        duration_week:
+          display_name: hét
+          unit_pattern_count_one: "{0} hét"
+          unit_pattern_count_other: "{0} hét"
+          per_unit_pattern: "{0}/hét"
+        duration_day:
+          display_name: nap
+          unit_pattern_count_one: "{0} nap"
+          unit_pattern_count_other: "{0} nap"
+          per_unit_pattern: "{0}/nap"
+        duration_hour:
+          display_name: h
+          unit_pattern_count_one: "{0} h"
+          unit_pattern_count_other: "{0} h"
+          per_unit_pattern: "{0}/h"
+        duration_minute:
+          display_name: min
+          unit_pattern_count_one: "{0} min"
+          unit_pattern_count_other: "{0} min"
+          per_unit_pattern: "{0}/min"
+        duration_second:
+          display_name: s
+          unit_pattern_count_one: "{0} s"
+          unit_pattern_count_other: "{0} s"
+          per_unit_pattern: "{0}/s"
+        duration_millisecond:
+          display_name: ms
+          unit_pattern_count_one: "{0} ms"
+          unit_pattern_count_other: "{0} ms"
+        duration_microsecond:
+          display_name: "μs"
+          unit_pattern_count_one: "{0} μs"
+          unit_pattern_count_other: "{0} μs"
+        duration_nanosecond:
+          display_name: ns
+          unit_pattern_count_one: "{0} ns"
+          unit_pattern_count_other: "{0} ns"
+        electric_ampere:
+          display_name: A
+          unit_pattern_count_one: "{0} A"
+          unit_pattern_count_other: "{0} A"
+        electric_milliampere:
+          display_name: mA
+          unit_pattern_count_one: "{0} mA"
+          unit_pattern_count_other: "{0} mA"
+        electric_ohm:
+          display_name: "Ω"
+          unit_pattern_count_one: "{0} Ω"
+          unit_pattern_count_other: "{0} Ω"
+        electric_volt:
+          display_name: V
+          unit_pattern_count_one: "{0} V"
+          unit_pattern_count_other: "{0} V"
+        energy_kilocalorie:
+          display_name: kcal
+          unit_pattern_count_one: "{0} kcal"
+          unit_pattern_count_other: "{0} kcal"
+        energy_calorie:
+          display_name: cal
+          unit_pattern_count_one: "{0} cal"
+          unit_pattern_count_other: "{0} cal"
+        energy_foodcalorie:
+          display_name: cal
+          unit_pattern_count_one: "{0} cal"
+          unit_pattern_count_other: "{0} cal"
+        energy_kilojoule:
+          display_name: kJ
+          unit_pattern_count_one: "{0} kJ"
+          unit_pattern_count_other: "{0} kJ"
+        energy_joule:
+          display_name: J
+          unit_pattern_count_one: "{0} J"
+          unit_pattern_count_other: "{0} J"
+        energy_kilowatt_hour:
+          display_name: kWh
+          unit_pattern_count_one: "{0} kWh"
+          unit_pattern_count_other: "{0} kWh"
+        frequency_gigahertz:
+          display_name: GHz
+          unit_pattern_count_one: "{0} GHz"
+          unit_pattern_count_other: "{0} GHz"
+        frequency_megahertz:
+          display_name: MHz
+          unit_pattern_count_one: "{0} MHz"
+          unit_pattern_count_other: "{0} MHz"
+        frequency_kilohertz:
+          display_name: kHz
+          unit_pattern_count_one: "{0} kHz"
+          unit_pattern_count_other: "{0} kHz"
+        frequency_hertz:
+          display_name: Hz
+          unit_pattern_count_one: "{0} Hz"
+          unit_pattern_count_other: "{0} Hz"
+        length_kilometer:
+          display_name: km
+          unit_pattern_count_one: "{0} km"
+          unit_pattern_count_other: "{0} km"
+          per_unit_pattern: "{0}/km"
+        length_meter:
+          display_name: m
+          unit_pattern_count_one: "{0} m"
+          unit_pattern_count_other: "{0} m"
+          per_unit_pattern: "{0}/m"
+        length_decimeter:
+          display_name: dm
+          unit_pattern_count_one: "{0} dm"
+          unit_pattern_count_other: "{0} dm"
+        length_centimeter:
+          display_name: cm
+          unit_pattern_count_one: "{0} cm"
+          unit_pattern_count_other: "{0} cm"
+          per_unit_pattern: "{0}/cm"
+        length_millimeter:
+          display_name: mm
+          unit_pattern_count_one: "{0} mm"
+          unit_pattern_count_other: "{0} mm"
+        length_micrometer:
+          display_name: "µm"
+          unit_pattern_count_one: "{0} µm"
+          unit_pattern_count_other: "{0} µm"
+        length_nanometer:
+          display_name: nm
+          unit_pattern_count_one: "{0} nm"
+          unit_pattern_count_other: "{0} nm"
+        length_picometer:
+          display_name: pm
+          unit_pattern_count_one: "{0} pm"
+          unit_pattern_count_other: "{0} pm"
+        length_mile:
+          display_name: mf
+          unit_pattern_count_one: "{0} mf"
+          unit_pattern_count_other: "{0} mf"
+        length_yard:
+          display_name: yd
+          unit_pattern_count_one: "{0} yd"
+          unit_pattern_count_other: "{0} yd"
+        length_foot:
+          display_name: láb
+          unit_pattern_count_one: "{0} láb"
+          unit_pattern_count_other: "{0} láb"
+          per_unit_pattern: "{0}/láb"
+        length_inch:
+          display_name: hüvelyk
+          unit_pattern_count_one: "{0} hüvelyk"
+          unit_pattern_count_other: "{0} hüvelyk"
+          per_unit_pattern: "{0}/in"
+        length_parsec:
+          display_name: pc
+          unit_pattern_count_one: "{0} pc"
+          unit_pattern_count_other: "{0} pc"
+        length_light_year:
+          display_name: fényév
+          unit_pattern_count_one: "{0} fényév"
+          unit_pattern_count_other: "{0} fényév"
+        length_astronomical_unit:
+          display_name: CsE
+          unit_pattern_count_one: "{0} CsE"
+          unit_pattern_count_other: "{0} CsE"
+        length_furlong:
+          display_name: fur
+          unit_pattern_count_other: "{0} fur"
+        length_fathom:
+          display_name: fm
+          unit_pattern_count_other: "{0} fm"
+        length_nautical_mile:
+          display_name: nmi
+          unit_pattern_count_one: "{0} nmi"
+          unit_pattern_count_other: "{0} nmi"
+        length_mile_scandinavian:
+          display_name: mil
+          unit_pattern_count_one: "{0} mil"
+          unit_pattern_count_other: "{0} mil"
+        light_lux:
+          display_name: lx
+          unit_pattern_count_one: "{0} lx"
+          unit_pattern_count_other: "{0} lx"
+        mass_metric_ton:
+          display_name: t
+          unit_pattern_count_one: "{0} t"
+          unit_pattern_count_other: "{0} t"
+        mass_kilogram:
+          display_name: kg
+          unit_pattern_count_one: "{0} kg"
+          unit_pattern_count_other: "{0} kg"
+          per_unit_pattern: "{0}/kg"
+        mass_gram:
+          display_name: g
+          unit_pattern_count_one: "{0} g"
+          unit_pattern_count_other: "{0} g"
+          per_unit_pattern: "{0}/g"
+        mass_milligram:
+          display_name: mg
+          unit_pattern_count_one: "{0} mg"
+          unit_pattern_count_other: "{0} mg"
+        mass_microgram:
+          display_name: "µg"
+          unit_pattern_count_one: "{0} µg"
+          unit_pattern_count_other: "{0} µg"
+        mass_ton:
+          display_name: tn
+          unit_pattern_count_one: "{0} tn"
+          unit_pattern_count_other: "{0} tn"
+        mass_stone:
+          display_name: st
+          unit_pattern_count_other: "{0} st"
+        mass_pound:
+          display_name: lb
+          unit_pattern_count_one: "{0} font"
+          unit_pattern_count_other: "{0} font"
+          per_unit_pattern: "{0}/lb"
+        mass_ounce:
+          display_name: oz
+          unit_pattern_count_one: "{0} uncia"
+          unit_pattern_count_other: "{0} uncia"
+          per_unit_pattern: "{0}/oz"
+        mass_ounce_troy:
+          display_name: oz t
+          unit_pattern_count_one: "{0} oz t"
+          unit_pattern_count_other: "{0} oz t"
+        mass_carat:
+          display_name: Kt
+          unit_pattern_count_one: "{0} Kt"
+          unit_pattern_count_other: "{0} Kt"
+        power_gigawatt:
+          display_name: GW
+          unit_pattern_count_one: "{0} GW"
+          unit_pattern_count_other: "{0} GW"
+        power_megawatt:
+          display_name: MW
+          unit_pattern_count_one: "{0} MW"
+          unit_pattern_count_other: "{0} MW"
+        power_kilowatt:
+          display_name: kW
+          unit_pattern_count_one: "{0} kW"
+          unit_pattern_count_other: "{0} kW"
+        power_watt:
+          display_name: W
+          unit_pattern_count_one: "{0} W"
+          unit_pattern_count_other: "{0} W"
+        power_milliwatt:
+          display_name: mW
+          unit_pattern_count_one: "{0} mW"
+          unit_pattern_count_other: "{0} mW"
+        power_horsepower:
+          display_name: LE
+          unit_pattern_count_one: "{0} LE"
+          unit_pattern_count_other: "{0} LE"
+        pressure_hectopascal:
+          display_name: hPa
+          unit_pattern_count_one: "{0} hPa"
+          unit_pattern_count_other: "{0} hPa"
+        pressure_millimeter_of_mercury:
+          display_name: mm Hg
+          unit_pattern_count_one: "{0} mm Hg"
+          unit_pattern_count_other: "{0} mm Hg"
+        pressure_pound_per_square_inch:
+          display_name: psi
+          unit_pattern_count_one: "{0} psi"
+          unit_pattern_count_other: "{0} psi"
+        pressure_inch_hg:
+          display_name: inHg
+          unit_pattern_count_one: "{0} inHg"
+          unit_pattern_count_other: "{0} inHg"
+        pressure_millibar:
+          display_name: mbar
+          unit_pattern_count_one: "{0} mb"
+          unit_pattern_count_other: "{0} mb"
+        proportion_karat:
+          display_name: kt
+          unit_pattern_count_one: "{0} kt"
+          unit_pattern_count_other: "{0} kt"
+        speed_kilometer_per_hour:
+          display_name: km/h
+          unit_pattern_count_one: "{0} km/h"
+          unit_pattern_count_other: "{0} km/h"
+        speed_meter_per_second:
+          display_name: m/s
+          unit_pattern_count_one: "{0} m/s"
+          unit_pattern_count_other: "{0} m/s"
+        speed_mile_per_hour:
+          display_name: mph
+          unit_pattern_count_one: "{0} mph"
+          unit_pattern_count_other: "{0} mph"
+        speed_knot:
+          display_name: kn
+          unit_pattern_count_one: "{0} kn"
+          unit_pattern_count_other: "{0} kn"
+        temperature_generic:
+          display_name: "°"
+          unit_pattern_count_one: "{0}°"
+          unit_pattern_count_other: "{0}°"
+        temperature_celsius:
+          display_name: "°C"
+          unit_pattern_count_one: "{0} °C"
+          unit_pattern_count_other: "{0} °C"
+        temperature_fahrenheit:
+          display_name: "°F"
+          unit_pattern_count_one: "{0} °F"
+          unit_pattern_count_other: "{0} °F"
+        temperature_kelvin:
+          display_name: K
+          unit_pattern_count_one: "{0} K"
+          unit_pattern_count_other: "{0} K"
+        volume_cubic_kilometer:
+          display_name: km³
+          unit_pattern_count_one: "{0} km³"
+          unit_pattern_count_other: "{0} km³"
+        volume_cubic_meter:
+          display_name: m³
+          unit_pattern_count_one: "{0} m³"
+          unit_pattern_count_other: "{0} m³"
+          per_unit_pattern: "{0}/m³"
+        volume_cubic_centimeter:
+          display_name: cm³
+          unit_pattern_count_one: "{0} cm³"
+          unit_pattern_count_other: "{0} cm³"
+          per_unit_pattern: "{0}/cm³"
+        volume_cubic_mile:
+          display_name: mi³
+          unit_pattern_count_one: "{0} mi³"
+          unit_pattern_count_other: "{0} mi³"
+        volume_cubic_yard:
+          display_name: yd³
+          unit_pattern_count_one: "{0} yd³"
+          unit_pattern_count_other: "{0} yd³"
+        volume_cubic_foot:
+          display_name: ft³
+          unit_pattern_count_one: "{0} ft³"
+          unit_pattern_count_other: "{0} ft³"
+        volume_cubic_inch:
+          display_name: in³
+          unit_pattern_count_one: "{0} in³"
+          unit_pattern_count_other: "{0} in³"
+        volume_megaliter:
+          display_name: Ml
+          unit_pattern_count_one: "{0} Ml"
+          unit_pattern_count_other: "{0} Ml"
+        volume_hectoliter:
+          display_name: hl
+          unit_pattern_count_one: "{0} hl"
+          unit_pattern_count_other: "{0} hl"
+        volume_liter:
+          display_name: l
+          unit_pattern_count_one: "{0} l"
+          unit_pattern_count_other: "{0} l"
+          per_unit_pattern: "{0}/l"
+        volume_deciliter:
+          display_name: dl
+          unit_pattern_count_one: "{0} dl"
+          unit_pattern_count_other: "{0} dl"
+        volume_centiliter:
+          display_name: cl
+          unit_pattern_count_one: "{0} cl"
+          unit_pattern_count_other: "{0} cl"
+        volume_milliliter:
+          display_name: ml
+          unit_pattern_count_one: "{0} ml"
+          unit_pattern_count_other: "{0} ml"
+        volume_pint_metric:
+          display_name: mpt
+          unit_pattern_count_one: "{0} mpt"
+          unit_pattern_count_other: "{0} mpt"
+        volume_cup_metric:
+          display_name: bg
+          unit_pattern_count_one: "{0} bg"
+          unit_pattern_count_other: "{0} bg"
+        volume_acre_foot:
+          display_name: ac ft
+          unit_pattern_count_one: "{0} ac ft"
+          unit_pattern_count_other: "{0} ac ft"
+        volume_bushel:
+          display_name: bu
+          unit_pattern_count_other: "{0} bu"
+        volume_gallon:
+          display_name: gal
+          unit_pattern_count_one: "{0} gal"
+          unit_pattern_count_other: "{0} gal"
+          per_unit_pattern: "{0}/gal"
+        volume_quart:
+          display_name: qt
+          unit_pattern_count_one: "{0} qt"
+          unit_pattern_count_other: "{0} qt"
+        volume_pint:
+          display_name: pt
+          unit_pattern_count_one: "{0} pt"
+          unit_pattern_count_other: "{0} pt"
+        volume_cup:
+          display_name: cs.
+          unit_pattern_count_one: "{0} cs."
+          unit_pattern_count_other: "{0} cs."
+        volume_fluid_ounce:
+          display_name: fl oz
+          unit_pattern_count_one: "{0} fl oz"
+          unit_pattern_count_other: "{0} fl oz"
+        volume_tablespoon:
+          display_name: ek.
+          unit_pattern_count_one: "{0} ek."
+          unit_pattern_count_other: "{0} ek."
+        volume_teaspoon:
+          display_name: kk.
+          unit_pattern_count_one: "{0} kk."
+          unit_pattern_count_other: "{0} kk."
+        coordinate_unit:
+          east: "{0} K"
+          north: "{0} É"
+          south: "{0} D"
+          west: "{0} Ny"
+      duration_unit_type_hm:
+        duration_unit_pattern: h:mm
+      duration_unit_type_hms:
+        duration_unit_pattern: h:mm:ss
+      duration_unit_type_ms:
+        duration_unit_pattern: m:ss

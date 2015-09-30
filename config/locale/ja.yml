@@ -1,0 +1,4927 @@
+---
+ja:
+  cldr:
+    dates:
+      calendars:
+        gregorian:
+          months:
+            format:
+              abbreviated:
+                '1': 1月
+                '2': 2月
+                '3': 3月
+                '4': 4月
+                '5': 5月
+                '6': 6月
+                '7': 7月
+                '8': 8月
+                '9': 9月
+                '10': 10月
+                '11': 11月
+                '12': 12月
+              narrow:
+                '1': '1'
+                '2': '2'
+                '3': '3'
+                '4': '4'
+                '5': '5'
+                '6': '6'
+                '7': '7'
+                '8': '8'
+                '9': '9'
+                '10': '10'
+                '11': '11'
+                '12': '12'
+              wide:
+                '1': 1月
+                '2': 2月
+                '3': 3月
+                '4': 4月
+                '5': 5月
+                '6': 6月
+                '7': 7月
+                '8': 8月
+                '9': 9月
+                '10': 10月
+                '11': 11月
+                '12': 12月
+            stand_alone:
+              abbreviated:
+                '1': 1月
+                '2': 2月
+                '3': 3月
+                '4': 4月
+                '5': 5月
+                '6': 6月
+                '7': 7月
+                '8': 8月
+                '9': 9月
+                '10': 10月
+                '11': 11月
+                '12': 12月
+              narrow:
+                '1': '1'
+                '2': '2'
+                '3': '3'
+                '4': '4'
+                '5': '5'
+                '6': '6'
+                '7': '7'
+                '8': '8'
+                '9': '9'
+                '10': '10'
+                '11': '11'
+                '12': '12'
+              wide:
+                '1': 1月
+                '2': 2月
+                '3': 3月
+                '4': 4月
+                '5': 5月
+                '6': 6月
+                '7': 7月
+                '8': 8月
+                '9': 9月
+                '10': 10月
+                '11': 11月
+                '12': 12月
+          days:
+            format:
+              abbreviated:
+                sun: "日"
+                mon: "月"
+                tue: "火"
+                wed: "水"
+                thu: "木"
+                fri: "金"
+                sat: "土"
+              narrow:
+                sun: "日"
+                mon: "月"
+                tue: "火"
+                wed: "水"
+                thu: "木"
+                fri: "金"
+                sat: "土"
+              short:
+                sun: "日"
+                mon: "月"
+                tue: "火"
+                wed: "水"
+                thu: "木"
+                fri: "金"
+                sat: "土"
+              wide:
+                sun: "日曜日"
+                mon: "月曜日"
+                tue: "火曜日"
+                wed: "水曜日"
+                thu: "木曜日"
+                fri: "金曜日"
+                sat: "土曜日"
+            stand_alone:
+              abbreviated:
+                sun: "日"
+                mon: "月"
+                tue: "火"
+                wed: "水"
+                thu: "木"
+                fri: "金"
+                sat: "土"
+              narrow:
+                sun: "日"
+                mon: "月"
+                tue: "火"
+                wed: "水"
+                thu: "木"
+                fri: "金"
+                sat: "土"
+              short:
+                sun: "日"
+                mon: "月"
+                tue: "火"
+                wed: "水"
+                thu: "木"
+                fri: "金"
+                sat: "土"
+              wide:
+                sun: "日曜日"
+                mon: "月曜日"
+                tue: "火曜日"
+                wed: "水曜日"
+                thu: "木曜日"
+                fri: "金曜日"
+                sat: "土曜日"
+          quarters:
+            format:
+              abbreviated:
+                '1': Q1
+                '2': Q2
+                '3': Q3
+                '4': Q4
+              narrow:
+                '1': '1'
+                '2': '2'
+                '3': '3'
+                '4': '4'
+              wide:
+                '1': "第1四半期"
+                '2': "第2四半期"
+                '3': "第3四半期"
+                '4': "第4四半期"
+            stand_alone:
+              abbreviated:
+                '1': Q1
+                '2': Q2
+                '3': Q3
+                '4': Q4
+              narrow:
+                '1': '1'
+                '2': '2'
+                '3': '3'
+                '4': '4'
+              wide:
+                '1': "第1四半期"
+                '2': "第2四半期"
+                '3': "第3四半期"
+                '4': "第4四半期"
+          day_periods:
+            format:
+              abbreviated:
+                midnight: "真夜中"
+                am: "午前"
+                noon: "正午"
+                pm: "午後"
+                morning1: "朝"
+                afternoon1: "昼"
+                evening1: "夕方"
+                night1: "夜"
+                night2: "夜中"
+              narrow:
+                midnight: "真夜中"
+                am: "午前"
+                noon: "正午"
+                pm: "午後"
+                morning1: "朝"
+                afternoon1: "昼"
+                evening1: "夕方"
+                night1: "夜"
+                night2: "夜中"
+              wide:
+                midnight: "真夜中"
+                am: "午前"
+                noon: "正午"
+                pm: "午後"
+                morning1: "朝"
+                afternoon1: "昼"
+                evening1: "夕方"
+                night1: "夜"
+                night2: "夜中"
+            stand_alone:
+              abbreviated:
+                midnight: "真夜中"
+                am: "午前"
+                noon: "正午"
+                pm: "午後"
+                morning1: "朝"
+                afternoon1: "昼"
+                evening1: "夕方"
+                night1: "夜"
+                night2: "夜中"
+              narrow:
+                midnight: "真夜中"
+                am: "午前"
+                noon: "正午"
+                pm: "午後"
+                morning1: "朝"
+                afternoon1: "昼"
+                evening1: "夕方"
+                night1: "夜"
+                night2: "夜中"
+              wide:
+                midnight: "真夜中"
+                am: "午前"
+                noon: "正午"
+                pm: "午後"
+                morning1: "朝"
+                afternoon1: "昼"
+                evening1: "夕方"
+                night1: "夜"
+                night2: "夜中"
+          eras:
+            era_names:
+              '0': "紀元前"
+              0_alt_variant: "西暦紀元前"
+              '1': "西暦"
+              1_alt_variant: "西暦紀元"
+            era_abbr:
+              '0': "紀元前"
+              0_alt_variant: "西暦紀元前"
+              '1': "西暦"
+              1_alt_variant: "西暦紀元"
+            era_narrow:
+              '0': BC
+              0_alt_variant: BCE
+              '1': AD
+              1_alt_variant: CE
+          date_formats:
+            full: y年M月d日EEEE
+            long: y年M月d日
+            medium: y/MM/dd
+            short: y/MM/dd
+          time_formats:
+            full: H時mm分ss秒 zzzz
+            long: H:mm:ss z
+            medium: H:mm:ss
+            short: H:mm
+          date_time_formats:
+            full: "{1} {0}"
+            long: "{1} {0}"
+            medium: "{1} {0}"
+            short: "{1} {0}"
+            available_formats:
+              d: d日
+              e: ccc
+              ed: d日(E)
+              eee_ed: d日EEEE
+              ehm: aK:mm (E)
+              e_hm: H:mm (E)
+              ehms: aK:mm:ss (E)
+              e_hms: H:mm:ss (E)
+              gy: Gy年
+              gy_mmm: Gy年M月
+              gy_mm_md: Gy年M月d日
+              gy_mmm_ed: Gy年M月d日(E)
+              gy_mmmeee_ed: Gy年M月d日EEEE
+              h: H時
+              hm: H:mm
+              hms: H:mm:ss
+              hmsv: H:mm:ss v
+              hmv: H:mm v
+              m: M月
+              md: M/d
+              m_ed: M/d(E)
+              meee_ed: M/dEEEE
+              mmm: M月
+              mm_md: M月d日
+              mmm_ed: M月d日(E)
+              mmmeee_ed: M月d日EEEE
+              mmm_md: M月d日
+              ms: mm:ss
+              y: y年
+              y_m: y/M
+              y_md: y/M/d
+              y_m_ed: y/M/d(E)
+              y_meee_ed: y/M/dEEEE
+              y_mm: y/MM
+              y_mmm: y年M月
+              y_mm_md: y年M月d日
+              y_mmm_ed: y年M月d日(E)
+              y_mmmeee_ed: y年M月d日EEEE
+              y_mmmm: y年M月
+              y_qqq: y/QQQ
+              y_qqqq: yQQQQ
+            append_items:
+              day: "{0} ({2}: {1})"
+              day_of_week: "{0} {1}"
+              era: "{1} {0}"
+              hour: "{0} ({2}: {1})"
+              minute: "{0} ({2}: {1})"
+              month: "{0} ({2}: {1})"
+              quarter: "{0} ({2}: {1})"
+              second: "{0} ({2}: {1})"
+              timezone: "{0} {1}"
+              week: "{0} ({2}: {1})"
+              year: "{1} {0}"
+            interval_formats:
+              interval_format_fallback: "{0}～{1}"
+              d:
+                d: d日～d日
+              h:
+                h: H時～H時
+              hm:
+                h: H時mm分～H時mm分
+                m: H時mm分～H時mm分
+              hmv:
+                h: H時mm分～H時mm分(v)
+                m: H時mm分～H時mm分(v)
+              hv:
+                h: H時～H時(v)
+              m:
+                m: M月～M月
+              md:
+                d: MM/dd～MM/dd
+                m: MM/dd～MM/dd
+              m_ed:
+                d: MM/dd(E)～MM/dd(E)
+                m: MM/dd(E)～MM/dd(E)
+              mmm:
+                m: M月～M月
+              mm_md:
+                d: M月d日～d日
+                m: M月d日～M月d日
+              mmm_ed:
+                d: M月d日(E)～d日(E)
+                m: M月d日(E)～M月d日(E)
+              mmmm:
+                m: M月～M月
+              y:
+                y: y年～y年
+              y_m:
+                m: y/MM～y/MM
+                y: y/MM～y/MM
+              y_md:
+                d: y/MM/dd～y/MM/dd
+                m: y/MM/dd～y/MM/dd
+                y: y/MM/dd～y/MM/dd
+              y_m_ed:
+                d: y/MM/dd(E)～y/MM/dd(E)
+                m: y/MM/dd(E)～y/MM/dd(E)
+                y: y/MM/dd(E)～y/MM/dd(E)
+              y_mmm:
+                m: y年M月～M月
+                y: y年M月～y年M月
+              y_mm_md:
+                d: y年M月d日～d日
+                m: y年M月d日～M月d日
+                y: y年M月d日～y年M月d日
+              y_mmm_ed:
+                d: y年M月d日(E)～d日(E)
+                m: y年M月d日(E)～M月d日(E)
+                y: y年M月d日(E)～y年M月d日(E)
+              y_mmmm:
+                m: y年M月～M月
+                y: y年M月～y年M月
+      fields:
+        era:
+          display_name: "時代"
+        year:
+          display_name: "年"
+          relative_type__1: "昨年"
+          relative_type_0: "今年"
+          relative_type_1: "翌年"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0} 年後"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} 年前"
+        year_short:
+          display_name: "年"
+          relative_type__1: "昨年"
+          relative_type_0: "今年"
+          relative_type_1: "翌年"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0} 年後"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} 年前"
+        year_narrow:
+          display_name: "年"
+          relative_type__1: "昨年"
+          relative_type_0: "今年"
+          relative_type_1: "翌年"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0} 年後"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} 年前"
+        quarter:
+          display_name: "四半期"
+          relative_type__1: last quarter
+          relative_type_0: this quarter
+          relative_type_1: next quarter
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0} 四半期後"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} 四半期前"
+        quarter_short:
+          display_name: "四半期"
+          relative_type__1: last quarter
+          relative_type_0: this quarter
+          relative_type_1: next quarter
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0} 四半期後"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} 四半期前"
+        quarter_narrow:
+          display_name: "四半期"
+          relative_type__1: last quarter
+          relative_type_0: this quarter
+          relative_type_1: next quarter
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0} 四半期後"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} 四半期前"
+        month:
+          display_name: "月"
+          relative_type__1: "先月"
+          relative_type_0: "今月"
+          relative_type_1: "翌月"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0} か月後"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} か月前"
+        month_short:
+          display_name: "月"
+          relative_type__1: "先月"
+          relative_type_0: "今月"
+          relative_type_1: "翌月"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0} か月後"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} か月前"
+        month_narrow:
+          display_name: "月"
+          relative_type__1: "先月"
+          relative_type_0: "今月"
+          relative_type_1: "翌月"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0} か月後"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} か月前"
+        week:
+          display_name: "週"
+          relative_type__1: "先週"
+          relative_type_0: "今週"
+          relative_type_1: "翌週"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0} 週間後"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} 週間前"
+        week_short:
+          display_name: "週"
+          relative_type__1: "先週"
+          relative_type_0: "今週"
+          relative_type_1: "翌週"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0} 週間後"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} 週間前"
+        week_narrow:
+          display_name: "週"
+          relative_type__1: "先週"
+          relative_type_0: "今週"
+          relative_type_1: "翌週"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0} 週間後"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} 週間前"
+        day:
+          display_name: "日"
+          relative_type__2: "一昨日"
+          relative_type__1: "昨日"
+          relative_type_0: "今日"
+          relative_type_1: "明日"
+          relative_type_2: "明後日"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0} 日後"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} 日前"
+        day_short:
+          display_name: "日"
+          relative_type__2: "一昨日"
+          relative_type__1: "昨日"
+          relative_type_0: "今日"
+          relative_type_1: "明日"
+          relative_type_2: "明後日"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0} 日後"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} 日前"
+        day_narrow:
+          display_name: "日"
+          relative_type__2: "一昨日"
+          relative_type__1: "昨日"
+          relative_type_0: "今日"
+          relative_type_1: "明日"
+          relative_type_2: "明後日"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0} 日後"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} 日前"
+        weekday:
+          display_name: "曜日"
+        sun:
+          relative_type__1: "先週の日曜日"
+          relative_type_0: "今週の日曜日"
+          relative_type_1: "来週の日曜日"
+        sun_short:
+          relative_type__1: "先週の日曜"
+          relative_type_0: "今週の日曜"
+          relative_type_1: "来週の日曜"
+        sun_narrow:
+          relative_type__1: "先週の日曜"
+          relative_type_0: "今週の日曜"
+          relative_type_1: "来週の日曜"
+        mon:
+          relative_type__1: "先週の月曜日"
+          relative_type_0: "今週の月曜日"
+          relative_type_1: "来週の月曜日"
+        mon_short:
+          relative_type__1: "先週の月曜"
+          relative_type_0: "今週の月曜"
+          relative_type_1: "来週の月曜"
+        mon_narrow:
+          relative_type__1: "先週の月曜"
+          relative_type_0: "今週の月曜"
+          relative_type_1: "来週の月曜"
+        tue:
+          relative_type__1: "先週の火曜日"
+          relative_type_0: "今週の火曜日"
+          relative_type_1: "来週の火曜日"
+        tue_short:
+          relative_type__1: "先週の火曜"
+          relative_type_0: "今週の火曜"
+          relative_type_1: "来週の火曜"
+        tue_narrow:
+          relative_type__1: "先週の火曜"
+          relative_type_0: "今週の火曜"
+          relative_type_1: "来週の火曜"
+        wed:
+          relative_type__1: "先週の水曜日"
+          relative_type_0: "今週の水曜日"
+          relative_type_1: "来週の水曜日"
+        wed_short:
+          relative_type__1: "先週の水曜"
+          relative_type_0: "今週の水曜"
+          relative_type_1: "来週の水曜"
+        wed_narrow:
+          relative_type__1: "先週の水曜"
+          relative_type_0: "今週の水曜"
+          relative_type_1: "来週の水曜"
+        thu:
+          relative_type__1: "先週の木曜日"
+          relative_type_0: "今週の木曜日"
+          relative_type_1: "来週の木曜日"
+        thu_short:
+          relative_type__1: "先週の木曜"
+          relative_type_0: "今週の木曜"
+          relative_type_1: "来週の木曜"
+        thu_narrow:
+          relative_type__1: "先週の木曜"
+          relative_type_0: "今週の木曜"
+          relative_type_1: "来週の木曜"
+        fri:
+          relative_type__1: "先週の金曜日"
+          relative_type_0: "今週の金曜日"
+          relative_type_1: "来週の金曜日"
+        fri_short:
+          relative_type__1: "先週の金曜"
+          relative_type_0: "今週の金曜"
+          relative_type_1: "来週の金曜"
+        fri_narrow:
+          relative_type__1: "先週の金曜"
+          relative_type_0: "今週の金曜"
+          relative_type_1: "来週の金曜"
+        sat:
+          relative_type__1: "先週の土曜日"
+          relative_type_0: "今週の土曜日"
+          relative_type_1: "来週の土曜日"
+        sat_short:
+          relative_type__1: "先週の土曜"
+          relative_type_0: "今週の土曜"
+          relative_type_1: "来週の土曜"
+        sat_narrow:
+          relative_type__1: "先週の土曜"
+          relative_type_0: "今週の土曜"
+          relative_type_1: "来週の土曜"
+        dayperiod:
+          display_name: "午前/午後"
+        hour:
+          display_name: "時"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0} 時間後"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} 時間前"
+        hour_short:
+          display_name: "時"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0} 時間後"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} 時間前"
+        hour_narrow:
+          display_name: "時"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0} 時間後"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} 時間前"
+        minute:
+          display_name: "分"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0} 分後"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} 分前"
+        minute_short:
+          display_name: "分"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0} 分後"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} 分前"
+        minute_narrow:
+          display_name: "分"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0} 分後"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} 分前"
+        second:
+          display_name: "秒"
+          relative_type_0: "今すぐ"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0} 秒後"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} 秒前"
+        second_short:
+          display_name: "秒"
+          relative_type_0: "今すぐ"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0} 秒後"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} 秒前"
+        second_narrow:
+          display_name: "秒"
+          relative_type_0: "今すぐ"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0} 秒後"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} 秒前"
+        zone:
+          display_name: "タイムゾーン"
+      time_zone_names:
+        hour_format: "+HH:mm;-HH:mm"
+        gmt_format: GMT{0}
+        gmt_zero_format: GMT
+        region_format: "{0}時間"
+        region_format_type_daylight: "{0}夏時間"
+        region_format_type_standard: "{0}標準時"
+        fallback_format: "{1}（{0}）"
+        zone:
+          america:
+            adak:
+              exemplar_city: "アダック"
+            anchorage:
+              exemplar_city: "アンカレッジ"
+            anguilla:
+              exemplar_city: "アンギラ"
+            antigua:
+              exemplar_city: "アンティグア"
+            araguaina:
+              exemplar_city: "アラグァイナ"
+            argentina:
+              rio_gallegos:
+                exemplar_city: "リオガジェゴス"
+              san_juan:
+                exemplar_city: "サンファン"
+              ushuaia:
+                exemplar_city: "ウシュアイア"
+              la_rioja:
+                exemplar_city: "ラリオハ"
+              san_luis:
+                exemplar_city: "サンルイス"
+              salta:
+                exemplar_city: "サルタ"
+              tucuman:
+                exemplar_city: "トゥクマン"
+            aruba:
+              exemplar_city: "アルバ"
+            asuncion:
+              exemplar_city: "アスンシオン"
+            bahia:
+              exemplar_city: "バイーア"
+            bahia_banderas:
+              exemplar_city: "バイアバンデラ"
+            barbados:
+              exemplar_city: "バルバドス"
+            belem:
+              exemplar_city: "ベレン"
+            belize:
+              exemplar_city: "ベリーズ"
+            blanc_sablon:
+              exemplar_city: "ブラン・サブロン"
+            boa_vista:
+              exemplar_city: "ボアビスタ"
+            bogota:
+              exemplar_city: "ボゴタ"
+            boise:
+              exemplar_city: "ボイシ"
+            buenos_aires:
+              exemplar_city: "ブエノスアイレス"
+            cambridge_bay:
+              exemplar_city: "ケンブリッジベイ"
+            campo_grande:
+              exemplar_city: "カンポグランデ"
+            cancun:
+              exemplar_city: "カンクン"
+            caracas:
+              exemplar_city: "カラカス"
+            catamarca:
+              exemplar_city: "カタマルカ"
+            cayenne:
+              exemplar_city: "カイエンヌ"
+            cayman:
+              exemplar_city: "ケイマン"
+            chicago:
+              exemplar_city: "シカゴ"
+            chihuahua:
+              exemplar_city: "チワワ"
+            coral_harbour:
+              exemplar_city: "アティコカン"
+            cordoba:
+              exemplar_city: "コルドバ"
+            costa_rica:
+              exemplar_city: "コスタリカ"
+            creston:
+              exemplar_city: "クレストン"
+            cuiaba:
+              exemplar_city: "クイアバ"
+            curacao:
+              exemplar_city: "キュラソー"
+            danmarkshavn:
+              exemplar_city: "デンマークシャウン"
+            dawson:
+              exemplar_city: "ドーソン"
+            dawson_creek:
+              exemplar_city: "ドーソンクリーク"
+            denver:
+              exemplar_city: "デンバー"
+            detroit:
+              exemplar_city: "デトロイト"
+            dominica:
+              exemplar_city: "ドミニカ"
+            edmonton:
+              exemplar_city: "エドモントン"
+            eirunepe:
+              exemplar_city: "エイルネペ"
+            el_salvador:
+              exemplar_city: "エルサルバドル"
+            fortaleza:
+              exemplar_city: "フォルタレザ"
+            glace_bay:
+              exemplar_city: "グレースベイ"
+            godthab:
+              exemplar_city: "ヌーク"
+            goose_bay:
+              exemplar_city: "グースベイ"
+            grand_turk:
+              exemplar_city: "グランドターク"
+            grenada:
+              exemplar_city: "グレナダ"
+            guadeloupe:
+              exemplar_city: "グアダループ"
+            guatemala:
+              exemplar_city: "グアテマラ"
+            guayaquil:
+              exemplar_city: "グアヤキル"
+            guyana:
+              exemplar_city: "ガイアナ"
+            halifax:
+              exemplar_city: "ハリファクス"
+            havana:
+              exemplar_city: "ハバナ"
+            hermosillo:
+              exemplar_city: "エルモシヨ"
+            indiana:
+              vincennes:
+                exemplar_city: "インディアナ州ビンセンス"
+              petersburg:
+                exemplar_city: "インディアナ州ピーターズバーグ"
+              tell_city:
+                exemplar_city: "インディアナ州テルシティ"
+              knox:
+                exemplar_city: "インディアナ州ノックス"
+              winamac:
+                exemplar_city: "インディアナ州ウィナマック"
+              marengo:
+                exemplar_city: "インディアナ州マレンゴ"
+              vevay:
+                exemplar_city: "インディアナ州ビベー"
+            indianapolis:
+              exemplar_city: "インディアナポリス"
+            inuvik:
+              exemplar_city: "イヌヴィク"
+            iqaluit:
+              exemplar_city: "イカルイット"
+            jamaica:
+              exemplar_city: "ジャマイカ"
+            jujuy:
+              exemplar_city: "フフイ"
+            juneau:
+              exemplar_city: "ジュノー"
+            kentucky:
+              monticello:
+                exemplar_city: "ケンタッキー州モンティチェロ"
+            kralendijk:
+              exemplar_city: "クラレンダイク"
+            la_paz:
+              exemplar_city: "ラパス"
+            lima:
+              exemplar_city: "リマ"
+            los_angeles:
+              exemplar_city: "ロサンゼルス"
+            louisville:
+              exemplar_city: "ルイビル"
+            lower_princes:
+              exemplar_city: "ローワー・プリンセズ・クウォーター"
+            maceio:
+              exemplar_city: "マセイオ"
+            managua:
+              exemplar_city: "マナグア"
+            manaus:
+              exemplar_city: "マナウス"
+            marigot:
+              exemplar_city: "マリゴ"
+            martinique:
+              exemplar_city: "マルティニーク"
+            matamoros:
+              exemplar_city: "マタモロス"
+            mazatlan:
+              exemplar_city: "マサトラン"
+            mendoza:
+              exemplar_city: "メンドーサ"
+            menominee:
+              exemplar_city: "メノミニー"
+            merida:
+              exemplar_city: "メリダ"
+            metlakatla:
+              exemplar_city: "メトラカトラ"
+            mexico_city:
+              exemplar_city: "メキシコシティー"
+            miquelon:
+              exemplar_city: "ミクロン島"
+            moncton:
+              exemplar_city: "モンクトン"
+            monterrey:
+              exemplar_city: "モンテレイ"
+            montevideo:
+              exemplar_city: "モンテビデオ"
+            montserrat:
+              exemplar_city: "モントセラト"
+            nassau:
+              exemplar_city: "ナッソー"
+            new_york:
+              exemplar_city: "ニューヨーク"
+            nipigon:
+              exemplar_city: "ニピゴン"
+            nome:
+              exemplar_city: "ノーム"
+            noronha:
+              exemplar_city: "ノローニャ"
+            north_dakota:
+              beulah:
+                exemplar_city: "ノースダコタ州ビューラー"
+              new_salem:
+                exemplar_city: "ノースダコタ州ニューセーラム"
+              center:
+                exemplar_city: "ノースダコタ州センター"
+            ojinaga:
+              exemplar_city: "オヒナガ"
+            panama:
+              exemplar_city: "パナマ"
+            pangnirtung:
+              exemplar_city: "パンナータング"
+            paramaribo:
+              exemplar_city: "パラマリボ"
+            phoenix:
+              exemplar_city: "フェニックス"
+            port_au_prince:
+              exemplar_city: "ポルトープランス"
+            port_of_spain:
+              exemplar_city: "ポートオブスペイン"
+            porto_velho:
+              exemplar_city: "ポルトベーリョ"
+            puerto_rico:
+              exemplar_city: "プエルトリコ"
+            rainy_river:
+              exemplar_city: "レイニーリバー"
+            rankin_inlet:
+              exemplar_city: "ランキンインレット"
+            recife:
+              exemplar_city: "レシフェ"
+            regina:
+              exemplar_city: "レジャイナ"
+            resolute:
+              exemplar_city: "レゾリュート"
+            rio_branco:
+              exemplar_city: "リオブランコ"
+            santa_isabel:
+              exemplar_city: "サンタイサベル"
+            santarem:
+              exemplar_city: "サンタレム"
+            santiago:
+              exemplar_city: "サンチアゴ"
+            santo_domingo:
+              exemplar_city: "サントドミンゴ"
+            sao_paulo:
+              exemplar_city: "サンパウロ"
+            scoresbysund:
+              exemplar_city: "イトコルトルミット"
+            sitka:
+              exemplar_city: "シトカ"
+            st_barthelemy:
+              exemplar_city: "サン・バルテルミー"
+            st_johns:
+              exemplar_city: "セントジョンズ"
+            st_kitts:
+              exemplar_city: "セントキッツ"
+            st_lucia:
+              exemplar_city: "セントルシア"
+            st_thomas:
+              exemplar_city: "セントトーマス"
+            st_vincent:
+              exemplar_city: "セントビンセント"
+            swift_current:
+              exemplar_city: "スウィフトカレント"
+            tegucigalpa:
+              exemplar_city: "テグシガルパ"
+            thule:
+              exemplar_city: "チューレ"
+            thunder_bay:
+              exemplar_city: "サンダーベイ"
+            tijuana:
+              exemplar_city: "ティフアナ"
+            toronto:
+              exemplar_city: "トロント"
+            tortola:
+              exemplar_city: "トルトーラ"
+            vancouver:
+              exemplar_city: "バンクーバー"
+            whitehorse:
+              exemplar_city: "ホワイトホース"
+            winnipeg:
+              exemplar_city: "ウィニペグ"
+            yakutat:
+              exemplar_city: "ヤクタット"
+            yellowknife:
+              exemplar_city: "イエローナイフ"
+          atlantic:
+            azores:
+              exemplar_city: "アゾレス"
+            bermuda:
+              exemplar_city: "バミューダ"
+            canary:
+              exemplar_city: "カナリア"
+            cape_verde:
+              exemplar_city: "カーボベルデ"
+            faeroe:
+              exemplar_city: "フェロー"
+            madeira:
+              exemplar_city: "マデイラ"
+            reykjavik:
+              exemplar_city: "レイキャビク"
+            south_georgia:
+              exemplar_city: "サウスジョージア"
+            st_helena:
+              exemplar_city: "セントヘレナ"
+            stanley:
+              exemplar_city: "スタンレー"
+          europe:
+            amsterdam:
+              exemplar_city: "アムステルダム"
+            andorra:
+              exemplar_city: "アンドラ"
+            athens:
+              exemplar_city: "アテネ"
+            belgrade:
+              exemplar_city: "ベオグラード"
+            berlin:
+              exemplar_city: "ベルリン"
+            bratislava:
+              exemplar_city: "ブラチスラバ"
+            brussels:
+              exemplar_city: "ブリュッセル"
+            bucharest:
+              exemplar_city: "ブカレスト"
+            budapest:
+              exemplar_city: "ブダペスト"
+            busingen:
+              exemplar_city: "ビュージンゲン"
+            chisinau:
+              exemplar_city: "キシナウ"
+            copenhagen:
+              exemplar_city: "コペンハーゲン"
+            dublin:
+              long:
+                daylight: "アイルランド標準時"
+              exemplar_city: "ダブリン"
+            gibraltar:
+              exemplar_city: "ジブラルタル"
+            guernsey:
+              exemplar_city: "ガーンジー"
+            helsinki:
+              exemplar_city: "ヘルシンキ"
+            isle_of_man:
+              exemplar_city: "マン島"
+            istanbul:
+              exemplar_city: "イスタンブール"
+            jersey:
+              exemplar_city: "ジャージー"
+            kaliningrad:
+              exemplar_city: "カリーニングラード"
+            kiev:
+              exemplar_city: "キエフ"
+            lisbon:
+              exemplar_city: "リスボン"
+            ljubljana:
+              exemplar_city: "リュブリャナ"
+            london:
+              long:
+                daylight: "英国夏時間"
+              exemplar_city: "ロンドン"
+            luxembourg:
+              exemplar_city: "ルクセンブルク"
+            madrid:
+              exemplar_city: "マドリード"
+            malta:
+              exemplar_city: "マルタ"
+            mariehamn:
+              exemplar_city: "マリエハムン"
+            minsk:
+              exemplar_city: "ミンスク"
+            monaco:
+              exemplar_city: "モナコ"
+            moscow:
+              exemplar_city: "モスクワ"
+            oslo:
+              exemplar_city: "オスロ"
+            paris:
+              exemplar_city: "パリ"
+            podgorica:
+              exemplar_city: "ポドゴリツァ"
+            prague:
+              exemplar_city: "プラハ"
+            riga:
+              exemplar_city: "リガ"
+            rome:
+              exemplar_city: "ローマ"
+            samara:
+              exemplar_city: "サマラ"
+            san_marino:
+              exemplar_city: "サンマリノ"
+            sarajevo:
+              exemplar_city: "サラエボ"
+            simferopol:
+              exemplar_city: "シンフェロポリ"
+            skopje:
+              exemplar_city: "スコピエ"
+            sofia:
+              exemplar_city: "ソフィア"
+            stockholm:
+              exemplar_city: "ストックホルム"
+            tallinn:
+              exemplar_city: "タリン"
+            tirane:
+              exemplar_city: "ティラナ"
+            uzhgorod:
+              exemplar_city: "ウージュホロド"
+            vaduz:
+              exemplar_city: "ファドゥーツ"
+            vatican:
+              exemplar_city: "バチカン"
+            vienna:
+              exemplar_city: "ウィーン"
+            vilnius:
+              exemplar_city: "ヴィリニュス"
+            volgograd:
+              exemplar_city: "ボルゴグラード"
+            warsaw:
+              exemplar_city: "ワルシャワ"
+            zagreb:
+              exemplar_city: "ザグレブ"
+            zaporozhye:
+              exemplar_city: "ザポリージャ"
+            zurich:
+              exemplar_city: "チューリッヒ"
+          africa:
+            abidjan:
+              exemplar_city: "アビジャン"
+            accra:
+              exemplar_city: "アクラ"
+            addis_ababa:
+              exemplar_city: "アジスアベバ"
+            algiers:
+              exemplar_city: "アルジェ"
+            asmera:
+              exemplar_city: "アスマラ"
+            bamako:
+              exemplar_city: "バマコ"
+            bangui:
+              exemplar_city: "バンギ"
+            banjul:
+              exemplar_city: "バンジュール"
+            bissau:
+              exemplar_city: "ビサウ"
+            blantyre:
+              exemplar_city: "ブランタイヤ"
+            brazzaville:
+              exemplar_city: "ブラザビル"
+            bujumbura:
+              exemplar_city: "ブジュンブラ"
+            cairo:
+              exemplar_city: "カイロ"
+            casablanca:
+              exemplar_city: "カサブランカ"
+            ceuta:
+              exemplar_city: "セウタ"
+            conakry:
+              exemplar_city: "コナクリ"
+            dakar:
+              exemplar_city: "ダカール"
+            dar_es_salaam:
+              exemplar_city: "ダルエスサラーム"
+            djibouti:
+              exemplar_city: "ジブチ"
+            douala:
+              exemplar_city: "ドゥアラ"
+            el_aaiun:
+              exemplar_city: "アイウン"
+            freetown:
+              exemplar_city: "フリータウン"
+            gaborone:
+              exemplar_city: "ハボローネ"
+            harare:
+              exemplar_city: "ハラレ"
+            johannesburg:
+              exemplar_city: "ヨハネスブルグ"
+            juba:
+              exemplar_city: "ジュバ"
+            kampala:
+              exemplar_city: "カンパラ"
+            khartoum:
+              exemplar_city: "ハルツーム"
+            kigali:
+              exemplar_city: "キガリ"
+            kinshasa:
+              exemplar_city: "キンシャサ"
+            lagos:
+              exemplar_city: "ラゴス"
+            libreville:
+              exemplar_city: "リーブルヴィル"
+            lome:
+              exemplar_city: "ロメ"
+            luanda:
+              exemplar_city: "ルアンダ"
+            lubumbashi:
+              exemplar_city: "ルブンバシ"
+            lusaka:
+              exemplar_city: "ルサカ"
+            malabo:
+              exemplar_city: "マラボ"
+            maputo:
+              exemplar_city: "マプト"
+            maseru:
+              exemplar_city: "マセル"
+            mbabane:
+              exemplar_city: "ムババーネ"
+            mogadishu:
+              exemplar_city: "モガディシオ"
+            monrovia:
+              exemplar_city: "モンロビア"
+            nairobi:
+              exemplar_city: "ナイロビ"
+            ndjamena:
+              exemplar_city: "ンジャメナ"
+            niamey:
+              exemplar_city: "ニアメ"
+            nouakchott:
+              exemplar_city: "ヌアクショット"
+            ouagadougou:
+              exemplar_city: "ワガドゥグー"
+            porto_novo:
+              exemplar_city: "ポルトノボ"
+            sao_tome:
+              exemplar_city: "サントメ"
+            tripoli:
+              exemplar_city: "トリポリ"
+            tunis:
+              exemplar_city: "チュニス"
+            windhoek:
+              exemplar_city: "ウィントフック"
+          asia:
+            aden:
+              exemplar_city: "アデン"
+            almaty:
+              exemplar_city: "アルマトイ"
+            amman:
+              exemplar_city: "アンマン"
+            anadyr:
+              exemplar_city: "アナディリ"
+            aqtau:
+              exemplar_city: "アクタウ"
+            aqtobe:
+              exemplar_city: "アクトベ"
+            ashgabat:
+              exemplar_city: "アシガバード"
+            baghdad:
+              exemplar_city: "バグダッド"
+            bahrain:
+              exemplar_city: "バーレーン"
+            baku:
+              exemplar_city: "バクー"
+            bangkok:
+              exemplar_city: "バンコク"
+            beirut:
+              exemplar_city: "ベイルート"
+            bishkek:
+              exemplar_city: "ビシュケク"
+            brunei:
+              exemplar_city: "ブルネイ"
+            calcutta:
+              exemplar_city: "コルカタ"
+            chita:
+              exemplar_city: "チタ"
+            choibalsan:
+              exemplar_city: "チョイバルサン"
+            colombo:
+              exemplar_city: "コロンボ"
+            damascus:
+              exemplar_city: "ダマスカス"
+            dhaka:
+              exemplar_city: "ダッカ"
+            dili:
+              exemplar_city: "ディリ"
+            dubai:
+              exemplar_city: "ドバイ"
+            dushanbe:
+              exemplar_city: "ドゥシャンベ"
+            gaza:
+              exemplar_city: "ガザ"
+            hebron:
+              exemplar_city: "ヘブロン"
+            hong_kong:
+              exemplar_city: "香港"
+            hovd:
+              exemplar_city: "ホブド"
+            irkutsk:
+              exemplar_city: "イルクーツク"
+            jakarta:
+              exemplar_city: "ジャカルタ"
+            jayapura:
+              exemplar_city: "ジャヤプラ"
+            jerusalem:
+              exemplar_city: "エルサレム"
+            kabul:
+              exemplar_city: "カブール"
+            kamchatka:
+              exemplar_city: "カムチャッカ"
+            karachi:
+              exemplar_city: "カラチ"
+            katmandu:
+              exemplar_city: "カトマンズ"
+            khandyga:
+              exemplar_city: "ハンドゥイガ"
+            krasnoyarsk:
+              exemplar_city: "クラスノヤルスク"
+            kuala_lumpur:
+              exemplar_city: "クアラルンプール"
+            kuching:
+              exemplar_city: "クチン"
+            kuwait:
+              exemplar_city: "クウェート"
+            macau:
+              exemplar_city: "マカオ"
+            magadan:
+              exemplar_city: "マガダン"
+            makassar:
+              exemplar_city: "マカッサル"
+            manila:
+              exemplar_city: "マニラ"
+            muscat:
+              exemplar_city: "マスカット"
+            nicosia:
+              exemplar_city: "ニコシア"
+            novokuznetsk:
+              exemplar_city: "ノヴォクズネツク"
+            novosibirsk:
+              exemplar_city: "ノヴォシビルスク"
+            omsk:
+              exemplar_city: "オムスク"
+            oral:
+              exemplar_city: "オラル"
+            phnom_penh:
+              exemplar_city: "プノンペン"
+            pontianak:
+              exemplar_city: "ポンティアナック"
+            pyongyang:
+              exemplar_city: "平壌"
+            qatar:
+              exemplar_city: "カタール"
+            qyzylorda:
+              exemplar_city: "クズロルダ"
+            rangoon:
+              exemplar_city: "ラングーン"
+            riyadh:
+              exemplar_city: "リヤド"
+            saigon:
+              exemplar_city: "ホーチミン"
+            sakhalin:
+              exemplar_city: "サハリン"
+            samarkand:
+              exemplar_city: "サマルカンド"
+            seoul:
+              exemplar_city: "ソウル"
+            shanghai:
+              exemplar_city: "上海"
+            singapore:
+              exemplar_city: "シンガポール"
+            srednekolymsk:
+              exemplar_city: "スレドネコリムスク"
+            taipei:
+              exemplar_city: "台北"
+            tashkent:
+              exemplar_city: "タシケント"
+            tbilisi:
+              exemplar_city: "トビリシ"
+            tehran:
+              exemplar_city: "テヘラン"
+            thimphu:
+              exemplar_city: "ティンプー"
+            tokyo:
+              exemplar_city: "東京"
+            ulaanbaatar:
+              exemplar_city: "ウランバートル"
+            urumqi:
+              exemplar_city: "ウルムチ"
+            ust_nera:
+              exemplar_city: "ウスチネラ"
+            vientiane:
+              exemplar_city: "ビエンチャン"
+            vladivostok:
+              exemplar_city: "ウラジオストク"
+            yakutsk:
+              exemplar_city: "ヤクーツク"
+            yekaterinburg:
+              exemplar_city: "エカテリンブルグ"
+            yerevan:
+              exemplar_city: "エレバン"
+          indian:
+            antananarivo:
+              exemplar_city: "アンタナナリボ"
+            chagos:
+              exemplar_city: "チャゴス"
+            christmas:
+              exemplar_city: "クリスマス島"
+            cocos:
+              exemplar_city: "ココス諸島"
+            comoro:
+              exemplar_city: "コモロ"
+            kerguelen:
+              exemplar_city: "ケルゲレン諸島"
+            mahe:
+              exemplar_city: "マヘ"
+            maldives:
+              exemplar_city: "モルディブ"
+            mauritius:
+              exemplar_city: "モーリシャス"
+            mayotte:
+              exemplar_city: "マヨット"
+            reunion:
+              exemplar_city: "レユニオン"
+          australia:
+            adelaide:
+              exemplar_city: "アデレード"
+            brisbane:
+              exemplar_city: "ブリスベン"
+            broken_hill:
+              exemplar_city: "ブロークンヒル"
+            currie:
+              exemplar_city: "カリー"
+            darwin:
+              exemplar_city: "ダーウィン"
+            eucla:
+              exemplar_city: "ユークラ"
+            hobart:
+              exemplar_city: "ホバート"
+            lindeman:
+              exemplar_city: "リンデマン"
+            lord_howe:
+              exemplar_city: "ロードハウ"
+            melbourne:
+              exemplar_city: "メルボルン"
+            perth:
+              exemplar_city: "パース"
+            sydney:
+              exemplar_city: "シドニー"
+          pacific:
+            apia:
+              exemplar_city: "アピア"
+            auckland:
+              exemplar_city: "オークランド"
+            bougainville:
+              exemplar_city: "ブーゲンビル"
+            chatham:
+              exemplar_city: "チャタム"
+            easter:
+              exemplar_city: "イースター島"
+            efate:
+              exemplar_city: "エフェテ島"
+            enderbury:
+              exemplar_city: "エンダーベリー島"
+            fakaofo:
+              exemplar_city: "ファカオフォ"
+            fiji:
+              exemplar_city: "フィジー"
+            funafuti:
+              exemplar_city: "フナフティ"
+            galapagos:
+              exemplar_city: "ガラパゴス"
+            gambier:
+              exemplar_city: "ガンビエ諸島"
+            guadalcanal:
+              exemplar_city: "ガダルカナル"
+            guam:
+              exemplar_city: "グアム"
+            honolulu:
+              exemplar_city: "ホノルル"
+            johnston:
+              exemplar_city: "ジョンストン島"
+            kiritimati:
+              exemplar_city: "キリスィマスィ島"
+            kosrae:
+              exemplar_city: "コスラエ"
+            kwajalein:
+              exemplar_city: "クェゼリン"
+            majuro:
+              exemplar_city: "マジュロ"
+            marquesas:
+              exemplar_city: "マルキーズ"
+            midway:
+              exemplar_city: "ミッドウェー島"
+            nauru:
+              exemplar_city: "ナウル"
+            niue:
+              exemplar_city: "ニウエ"
+            norfolk:
+              exemplar_city: "ノーフォーク島"
+            noumea:
+              exemplar_city: "ヌメア"
+            pago_pago:
+              exemplar_city: "パゴパゴ"
+            palau:
+              exemplar_city: "パラオ"
+            pitcairn:
+              exemplar_city: "ピトケアン諸島"
+            ponape:
+              exemplar_city: "ポンペイ島"
+            port_moresby:
+              exemplar_city: "ポートモレスビー"
+            rarotonga:
+              exemplar_city: "ラロトンガ"
+            saipan:
+              exemplar_city: "サイパン"
+            tahiti:
+              exemplar_city: "タヒチ"
+            tarawa:
+              exemplar_city: "タラワ"
+            tongatapu:
+              exemplar_city: "トンガタプ"
+            truk:
+              exemplar_city: "チューク"
+            wake:
+              exemplar_city: "ウェーク島"
+            wallis:
+              exemplar_city: "ウォリス諸島"
+          arctic:
+            longyearbyen:
+              exemplar_city: "ロングイェールビーン"
+          antarctica:
+            casey:
+              exemplar_city: "ケーシー基地"
+            davis:
+              exemplar_city: "デービス基地"
+            dumont_d_urville:
+              exemplar_city: "デュモン・デュルヴィル基地"
+            macquarie:
+              exemplar_city: "マッコリー"
+            mawson:
+              exemplar_city: "モーソン基地"
+            mc_murdo:
+              exemplar_city: "マクマード基地"
+            palmer:
+              exemplar_city: "パーマー基地"
+            rothera:
+              exemplar_city: "ロゼラ基地"
+            syowa:
+              exemplar_city: "昭和基地"
+            troll:
+              exemplar_city: "トロル基地"
+            vostok:
+              exemplar_city: "ボストーク基地"
+          etc:
+            gmt:
+              exemplar_city: GMT
+            gmt1:
+              exemplar_city: GMT+1
+            gmt10:
+              exemplar_city: GMT+10
+            gmt11:
+              exemplar_city: GMT+11
+            gmt12:
+              exemplar_city: GMT+12
+            gmt2:
+              exemplar_city: GMT+2
+            gmt3:
+              exemplar_city: GMT+3
+            gmt4:
+              exemplar_city: GMT+4
+            gmt5:
+              exemplar_city: GMT+5
+            gmt6:
+              exemplar_city: GMT+6
+            gmt7:
+              exemplar_city: GMT+7
+            gmt8:
+              exemplar_city: GMT+8
+            gmt9:
+              exemplar_city: GMT+9
+            gmt_1:
+              exemplar_city: GMT-1
+            gmt_10:
+              exemplar_city: GMT-10
+            gmt_11:
+              exemplar_city: GMT-11
+            gmt_12:
+              exemplar_city: GMT-12
+            gmt_13:
+              exemplar_city: GMT-13
+            gmt_14:
+              exemplar_city: GMT-14
+            gmt_2:
+              exemplar_city: GMT-2
+            gmt_3:
+              exemplar_city: GMT-3
+            gmt_4:
+              exemplar_city: GMT-4
+            gmt_5:
+              exemplar_city: GMT-5
+            gmt_6:
+              exemplar_city: GMT-6
+            gmt_7:
+              exemplar_city: GMT-7
+            gmt_8:
+              exemplar_city: GMT-8
+            gmt_9:
+              exemplar_city: GMT-9
+            unknown:
+              exemplar_city: "地域不明"
+        metazone:
+          acre:
+            long:
+              generic: "アクレ時間"
+              standard: "アクレ標準時"
+              daylight: "アクレ夏時間"
+          afghanistan:
+            long:
+              standard: "アフガニスタン時間"
+          africa_central:
+            long:
+              standard: "中央アフリカ時間"
+          africa_eastern:
+            long:
+              standard: "東アフリカ時間"
+          africa_southern:
+            long:
+              standard: "南アフリカ標準時"
+          africa_western:
+            long:
+              generic: "西アフリカ時間"
+              standard: "西アフリカ標準時"
+              daylight: "西アフリカ夏時間"
+          alaska:
+            long:
+              generic: "アラスカ時間"
+              standard: "アラスカ標準時"
+              daylight: "アラスカ夏時間"
+          almaty:
+            long:
+              generic: "アルトマイ時間"
+              standard: "アルトマイ標準時"
+              daylight: "アルマトイ夏時間"
+          amazon:
+            long:
+              generic: "アマゾン時間"
+              standard: "アマゾン標準時"
+              daylight: "アマゾン夏時間"
+          america_central:
+            long:
+              generic: "アメリカ中部時間"
+              standard: "アメリカ中部標準時"
+              daylight: "アメリカ中部夏時間"
+          america_eastern:
+            long:
+              generic: "アメリカ東部時間"
+              standard: "アメリカ東部標準時"
+              daylight: "アメリカ東部夏時間"
+          america_mountain:
+            long:
+              generic: "アメリカ山地時間"
+              standard: "アメリカ山地標準時"
+              daylight: "アメリカ山地夏時間"
+          america_pacific:
+            long:
+              generic: "アメリカ太平洋時間"
+              standard: "アメリカ太平洋標準時"
+              daylight: "アメリカ太平洋夏時間"
+          anadyr:
+            long:
+              generic: "アナディリ時間"
+              standard: "アナディリ標準時"
+              daylight: "アナディリ夏時間"
+          apia:
+            long:
+              generic: "アピア時間"
+              standard: "アピア標準時"
+              daylight: "アピア夏時間"
+          aqtau:
+            long:
+              generic: "アクタウ時間"
+              standard: "アクタウ標準時"
+              daylight: "アクタウ夏時間"
+          aqtobe:
+            long:
+              generic: "アクトベ時間"
+              standard: "アクトベ標準時"
+              daylight: "アクトベ夏時間"
+          arabian:
+            long:
+              generic: "アラビア時間"
+              standard: "アラビア標準時"
+              daylight: "アラビア夏時間"
+          argentina:
+            long:
+              generic: "アルゼンチン時間"
+              standard: "アルゼンチン標準時"
+              daylight: "アルゼンチン夏時間"
+          argentina_western:
+            long:
+              generic: "西部アルゼンチン時間"
+              standard: "西部アルゼンチン標準時"
+              daylight: "西部アルゼンチン夏時間"
+          armenia:
+            long:
+              generic: "アルメニア時間"
+              standard: "アルメニア標準時"
+              daylight: "アルメニア夏時間"
+          atlantic:
+            long:
+              generic: "大西洋時間"
+              standard: "大西洋標準時"
+              daylight: "大西洋夏時間"
+          australia_central:
+            long:
+              generic: "オーストラリア中部時間"
+              standard: "オーストラリア中部標準時"
+              daylight: "オーストラリア中部夏時間"
+          australia_central_western:
+            long:
+              generic: "オーストラリア中西部時間"
+              standard: "オーストラリア中西部標準時"
+              daylight: "オーストラリア中西部夏時間"
+          australia_eastern:
+            long:
+              generic: "オーストラリア東部時間"
+              standard: "オーストラリア東部標準時"
+              daylight: "オーストラリア東部夏時間"
+          australia_western:
+            long:
+              generic: "オーストラリア西部時間"
+              standard: "オーストラリア西部標準時"
+              daylight: "オーストラリア西部夏時間"
+          azerbaijan:
+            long:
+              generic: "アゼルバイジャン時間"
+              standard: "アゼルバイジャン標準時"
+              daylight: "アゼルバイジャン夏時間"
+          azores:
+            long:
+              generic: "アゾレス時間"
+              standard: "アゾレス標準時"
+              daylight: "アゾレス夏時間"
+          bangladesh:
+            long:
+              generic: "バングラデシュ時間"
+              standard: "バングラデシュ標準時"
+              daylight: "バングラデシュ夏時間"
+          bhutan:
+            long:
+              standard: "ブータン時間"
+          bolivia:
+            long:
+              standard: "ボリビア時間"
+          brasilia:
+            long:
+              generic: "ブラジリア時間"
+              standard: "ブラジリア標準時"
+              daylight: "ブラジリア夏時間"
+          brunei:
+            long:
+              standard: "ブルネイ・ダルサラーム時間"
+          cape_verde:
+            long:
+              generic: "カーボベルデ時間"
+              standard: "カーボベルデ標準時"
+              daylight: "カーボベルデ夏時間"
+          casey:
+            long:
+              standard: "ケイシー基地時間"
+          chamorro:
+            long:
+              standard: "チャモロ時間"
+          chatham:
+            long:
+              generic: "チャタム時間"
+              standard: "チャタム標準時"
+              daylight: "チャタム夏時間"
+          chile:
+            long:
+              generic: "チリ時間"
+              standard: "チリ標準時"
+              daylight: "チリ夏時間"
+          china:
+            long:
+              generic: "中国時間"
+              standard: "中国標準時"
+              daylight: "中国夏時間"
+          choibalsan:
+            long:
+              generic: "チョイバルサン時間"
+              standard: "チョイバルサン標準時"
+              daylight: "チョイバルサン夏時間"
+          christmas:
+            long:
+              standard: "クリスマス島時間"
+          cocos:
+            long:
+              standard: "ココス諸島時間"
+          colombia:
+            long:
+              generic: "コロンビア時間"
+              standard: "コロンビア標準時"
+              daylight: "コロンビア夏時間"
+          cook:
+            long:
+              generic: "クック諸島時間"
+              standard: "クック諸島標準時"
+              daylight: "クック諸島夏時間"
+          cuba:
+            long:
+              generic: "キューバ時間"
+              standard: "キューバ標準時"
+              daylight: "キューバ夏時間"
+          davis:
+            long:
+              standard: "デービス基地時間"
+          dumont_d_urville:
+            long:
+              standard: "デュモン・デュルヴィル基地時間"
+          east_timor:
+            long:
+              standard: "東ティモール時間"
+          easter:
+            long:
+              generic: "イースター島時間"
+              standard: "イースター島標準時"
+              daylight: "イースター島夏時間"
+          ecuador:
+            long:
+              standard: "エクアドル時間"
+          europe_central:
+            long:
+              generic: "中央ヨーロッパ時間"
+              standard: "中央ヨーロッパ標準時"
+              daylight: "中央ヨーロッパ夏時間"
+          europe_eastern:
+            long:
+              generic: "東ヨーロッパ時間"
+              standard: "東ヨーロッパ標準時"
+              daylight: "東ヨーロッパ夏時間"
+          europe_further_eastern:
+            long:
+              standard: "極東ヨーロッパ時間"
+          europe_western:
+            long:
+              generic: "西ヨーロッパ時間"
+              standard: "西ヨーロッパ標準時"
+              daylight: "西ヨーロッパ夏時間"
+          falkland:
+            long:
+              generic: "フォークランド諸島時間"
+              standard: "フォークランド諸島標準時"
+              daylight: "フォークランド諸島夏時間"
+          fiji:
+            long:
+              generic: "フィジー時間"
+              standard: "フィジー標準時"
+              daylight: "フィジー夏時間"
+          french_guiana:
+            long:
+              standard: "仏領ギアナ時間"
+          french_southern:
+            long:
+              standard: "仏領南方南極時間"
+          galapagos:
+            long:
+              standard: "ガラパゴス時間"
+          gambier:
+            long:
+              standard: "ガンビエ諸島時間"
+          georgia:
+            long:
+              generic: "ジョージア時間"
+              standard: "ジョージア標準時"
+              daylight: "ジョージア夏時間"
+          gilbert_islands:
+            long:
+              standard: "ギルバート諸島時間"
+          gmt:
+            long:
+              standard: "グリニッジ標準時"
+          greenland_eastern:
+            long:
+              generic: "グリーンランド東部時間"
+              standard: "グリーンランド東部標準時"
+              daylight: "グリーンランド東部夏時間"
+          greenland_western:
+            long:
+              generic: "グリーンランド西部時間"
+              standard: "グリーンランド西部標準時"
+              daylight: "グリーンランド西部夏時間"
+          guam:
+            long:
+              standard: "グアム時間"
+          gulf:
+            long:
+              standard: "湾岸標準時"
+          guyana:
+            long:
+              standard: "ガイアナ時間"
+          hawaii_aleutian:
+            long:
+              generic: "ハワイ・アリューシャン時間"
+              standard: "ハワイ・アリューシャン標準時"
+              daylight: "ハワイ・アリューシャン夏時間"
+          hong_kong:
+            long:
+              generic: "香港時間"
+              standard: "香港標準時"
+              daylight: "香港夏時間"
+          hovd:
+            long:
+              generic: "ホブド時間"
+              standard: "ホブド標準時"
+              daylight: "ホブド夏時間"
+          india:
+            long:
+              standard: "インド標準時"
+          indian_ocean:
+            long:
+              standard: "インド洋時間"
+          indochina:
+            long:
+              standard: "インドシナ時間"
+          indonesia_central:
+            long:
+              standard: "インドネシア中部時間"
+          indonesia_eastern:
+            long:
+              standard: "インドネシア東部時間"
+          indonesia_western:
+            long:
+              standard: "インドネシア西部時間"
+          iran:
+            long:
+              generic: "イラン時間"
+              standard: "イラン標準時"
+              daylight: "イラン夏時間"
+          irkutsk:
+            long:
+              generic: "イルクーツク時間"
+              standard: "イルクーツク標準時"
+              daylight: "イルクーツク夏時間"
+          israel:
+            long:
+              generic: "イスラエル時間"
+              standard: "イスラエル標準時"
+              daylight: "イスラエル夏時間"
+          japan:
+            long:
+              generic: "日本時間"
+              standard: "日本標準時"
+              daylight: "日本夏時間"
+            short:
+              standard: JST
+              daylight: JDT
+          kamchatka:
+            long:
+              generic: "ペトロパブロフスク・カムチャツキー時間"
+              standard: "ペトロパブロフスク・カムチャツキー標準時"
+              daylight: "ペトロパブロフスク・カムチャツキー夏時間"
+          kazakhstan_eastern:
+            long:
+              standard: "東カザフスタン時間"
+          kazakhstan_western:
+            long:
+              standard: "西カザフスタン時間"
+          korea:
+            long:
+              generic: "韓国時間"
+              standard: "韓国標準時"
+              daylight: "韓国夏時間"
+          kosrae:
+            long:
+              standard: "コスラエ時間"
+          krasnoyarsk:
+            long:
+              generic: "クラスノヤルスク時間"
+              standard: "クラスノヤルスク標準時"
+              daylight: "クラスノヤルスク夏時間"
+          kyrgystan:
+            long:
+              standard: "キルギスタン時間"
+          lanka:
+            long:
+              standard: "ランカ時間"
+          line_islands:
+            long:
+              standard: "ライン諸島時間"
+          lord_howe:
+            long:
+              generic: "ロードハウ時間"
+              standard: "ロードハウ標準時"
+              daylight: "ロードハウ夏時間"
+          macau:
+            long:
+              generic: "マカオ時間"
+              standard: "マカオ標準時"
+              daylight: "マカオ夏時間"
+          macquarie:
+            long:
+              standard: "マッコーリー島時間"
+          magadan:
+            long:
+              generic: "マガダン時間"
+              standard: "マガダン標準時"
+              daylight: "マガダン夏時間"
+          malaysia:
+            long:
+              standard: "マレーシア時間"
+          maldives:
+            long:
+              standard: "モルディブ時間"
+          marquesas:
+            long:
+              standard: "マルキーズ時間"
+          marshall_islands:
+            long:
+              standard: "マーシャル諸島時間"
+          mauritius:
+            long:
+              generic: "モーリシャス時間"
+              standard: "モーリシャス標準時"
+              daylight: "モーリシャス夏時間"
+          mawson:
+            long:
+              standard: "モーソン基地時間"
+          mexico_northwest:
+            long:
+              generic: "メキシコ北西部時間"
+              standard: "メキシコ北西部標準時"
+              daylight: "メキシコ北西部夏時間"
+          mexico_pacific:
+            long:
+              generic: "メキシコ太平洋時間"
+              standard: "メキシコ太平洋標準時"
+              daylight: "メキシコ太平洋夏時間"
+          mongolia:
+            long:
+              generic: "ウランバートル時間"
+              standard: "ウランバートル標準時"
+              daylight: "ウランバートル夏時間"
+          moscow:
+            long:
+              generic: "モスクワ時間"
+              standard: "モスクワ標準時"
+              daylight: "モスクワ夏時間"
+          myanmar:
+            long:
+              standard: "ミャンマー時間"
+          nauru:
+            long:
+              standard: "ナウル時間"
+          nepal:
+            long:
+              standard: "ネパール時間"
+          new_caledonia:
+            long:
+              generic: "ニューカレドニア時間"
+              standard: "ニューカレドニア標準時"
+              daylight: "ニューカレドニア夏時間"
+          new_zealand:
+            long:
+              generic: "ニュージーランド時間"
+              standard: "ニュージーランド標準時"
+              daylight: "ニュージーランド夏時間"
+          newfoundland:
+            long:
+              generic: "ニューファンドランド時間"
+              standard: "ニューファンドランド標準時"
+              daylight: "ニューファンドランド夏時間"
+          niue:
+            long:
+              standard: "ニウエ時間"
+          norfolk:
+            long:
+              standard: "ノーフォーク島時間"
+          noronha:
+            long:
+              generic: "フェルナンド・デ・ノローニャ時間"
+              standard: "フェルナンド・デ・ノローニャ標準時"
+              daylight: "フェルナンド・デ・ノローニャ夏時間"
+          north_mariana:
+            long:
+              standard: "北マリアナ諸島時間"
+          novosibirsk:
+            long:
+              generic: "ノヴォシビルスク時間"
+              standard: "ノヴォシビルスク標準時"
+              daylight: "ノヴォシビルスク夏時間"
+          omsk:
+            long:
+              generic: "オムスク時間"
+              standard: "オムスク標準時"
+              daylight: "オムスク夏時間"
+          pakistan:
+            long:
+              generic: "パキスタン時間"
+              standard: "パキスタン標準時"
+              daylight: "パキスタン夏時間"
+          palau:
+            long:
+              standard: "パラオ時間"
+          papua_new_guinea:
+            long:
+              standard: "パプアニューギニア時間"
+          paraguay:
+            long:
+              generic: "パラグアイ時間"
+              standard: "パラグアイ標準時"
+              daylight: "パラグアイ夏時間"
+          peru:
+            long:
+              generic: "ペルー時間"
+              standard: "ペルー標準時"
+              daylight: "ペルー夏時間"
+          philippines:
+            long:
+              generic: "フィリピン時間"
+              standard: "フィリピン標準時"
+              daylight: "フィリピン夏時間"
+          phoenix_islands:
+            long:
+              standard: "フェニックス諸島時間"
+          pierre_miquelon:
+            long:
+              generic: "サンピエール・ミクロン時間"
+              standard: "サンピエール・ミクロン標準時"
+              daylight: "サンピエール・ミクロン夏時間"
+          pitcairn:
+            long:
+              standard: "ピトケアン時間"
+          ponape:
+            long:
+              standard: "ポナペ時間"
+          qyzylorda:
+            long:
+              generic: "クズロルダ時間"
+              standard: "クズロルダ標準時"
+              daylight: "クズロルダ夏時間"
+          reunion:
+            long:
+              standard: "レユニオン時間"
+          rothera:
+            long:
+              standard: "ロゼラ基地時間"
+          sakhalin:
+            long:
+              generic: "サハリン時間"
+              standard: "サハリン標準時"
+              daylight: "サハリン夏時間"
+          samara:
+            long:
+              generic: "サマラ時間"
+              standard: "サマラ標準時"
+              daylight: "サマラ夏時間"
+          samoa:
+            long:
+              generic: "サモア時間"
+              standard: "サモア標準時"
+              daylight: "サモア夏時間"
+          seychelles:
+            long:
+              standard: "セーシェル時間"
+          singapore:
+            long:
+              standard: "シンガポール標準時"
+          solomon:
+            long:
+              standard: "ソロモン諸島時間"
+          south_georgia:
+            long:
+              standard: "サウスジョージア時間"
+          suriname:
+            long:
+              standard: "スリナム時間"
+          syowa:
+            long:
+              standard: "昭和基地時間"
+          tahiti:
+            long:
+              standard: "タヒチ時間"
+          taipei:
+            long:
+              generic: "台北時間"
+              standard: "台北標準時"
+              daylight: "台北夏時間"
+          tajikistan:
+            long:
+              standard: "タジキスタン時間"
+          tokelau:
+            long:
+              standard: "トケラウ時間"
+          tonga:
+            long:
+              generic: "トンガ時間"
+              standard: "トンガ標準時"
+              daylight: "トンガ夏時間"
+          truk:
+            long:
+              standard: "チューク時間"
+          turkmenistan:
+            long:
+              generic: "トルクメニスタン時間"
+              standard: "トルクメニスタン標準時"
+              daylight: "トルクメニスタン夏時間"
+          tuvalu:
+            long:
+              standard: "ツバル時間"
+          uruguay:
+            long:
+              generic: "ウルグアイ時間"
+              standard: "ウルグアイ標準時"
+              daylight: "ウルグアイ夏時間"
+          uzbekistan:
+            long:
+              generic: "ウズベキスタン時間"
+              standard: "ウズベキスタン標準時"
+              daylight: "ウズベキスタン夏時間"
+          vanuatu:
+            long:
+              generic: "バヌアツ時間"
+              standard: "バヌアツ標準時"
+              daylight: "バヌアツ夏時間"
+          venezuela:
+            long:
+              standard: "ベネズエラ時間"
+          vladivostok:
+            long:
+              generic: "ウラジオストク時間"
+              standard: "ウラジオストク標準時"
+              daylight: "ウラジオストク夏時間"
+          volgograd:
+            long:
+              generic: "ボルゴグラード時間"
+              standard: "ボルゴグラード標準時"
+              daylight: "ボルゴグラード夏時間"
+          vostok:
+            long:
+              standard: "ボストーク基地時間"
+          wake:
+            long:
+              standard: "ウェーク島時間"
+          wallis:
+            long:
+              standard: "ウォリス・フツナ時間"
+          yakutsk:
+            long:
+              generic: "ヤクーツク時間"
+              standard: "ヤクーツク標準時"
+              daylight: "ヤクーツク夏時間"
+          yekaterinburg:
+            long:
+              generic: "エカテリンブルグ時間"
+              standard: "エカテリンブルグ標準時"
+              daylight: "エカテリンブルグ夏時間"
+    locale_display_names:
+      languages:
+        aa: "アファル語"
+        ab: "アブハズ語"
+        ace: "アチェ語"
+        ach: "アチョリ語"
+        ada: "アダングメ語"
+        ady: "アディゲ語"
+        ae: "アヴェスタ語"
+        aeb: "チュニジア・アラビア語"
+        af: "アフリカーンス語"
+        afh: "アフリヒリ語"
+        agq: "アゲム語"
+        ain: "アイヌ語"
+        ak: "アカン語"
+        akk: "アッカド語"
+        akz: "アラバマ語"
+        ale: "アレウト語"
+        aln: "ゲグ・アルバニア語"
+        alt: "南アルタイ語"
+        am: "アムハラ語"
+        an: "アラゴン語"
+        ang: "古英語"
+        anp: "アンギカ語"
+        ar: "アラビア語"
+        ar_001: "現代標準アラビア語"
+        arc: "アラム語"
+        arn: "アラウカン語"
+        aro: "アラオナ語"
+        arp: "アラパホー語"
+        arq: "アルジェリア・アラビア語"
+        arw: "アラワク語"
+        ary: "モロッコ・アラビア語"
+        arz: "エジプト・アラビア語"
+        as: "アッサム語"
+        asa: "アス語"
+        ase: "アメリカ手話"
+        ast: "アストゥリアス語"
+        av: "アヴァル語"
+        avk: "コタヴァ"
+        awa: "アワディー語"
+        ay: "アイマラ語"
+        az: "アゼルバイジャン語"
+        az_alt_short: "アゼリー語"
+        ba: "バシキール語"
+        bal: "バルーチー語"
+        ban: "バリ語"
+        bar: "バイエルン・オーストリア語"
+        bas: "バサ語"
+        bax: "バムン語"
+        bbc: "トバ・バタク語"
+        bbj: "ゴーマラ語"
+        be: "ベラルーシ語"
+        bej: "ベジャ語"
+        bem: "ベンバ語"
+        bew: "ベタウィ語"
+        bez: "ベナ語"
+        bfd: "バフット語"
+        bfq: "バダガ語"
+        bg: "ブルガリア語"
+        bgn: "西バローチー語"
+        bho: "ボージュプリー語"
+        bi: "ビスラマ語"
+        bik: "ビコル語"
+        bin: "ビニ語"
+        bjn: "バンジャル語"
+        bkm: "コム語"
+        bla: "シクシカ語"
+        bm: "バンバラ語"
+        bn: "ベンガル語"
+        bo: "チベット語"
+        bpy: "ビシュヌプリヤ・マニプリ語"
+        bqi: "バフティヤーリー語"
+        br: "ブルトン語"
+        bra: "ブラジ語"
+        brh: "ブラフイ語"
+        brx: "ボド語"
+        bs: "ボスニア語"
+        bss: "アコース語"
+        bua: "ブリヤート語"
+        bug: "ブギ語"
+        bum: "ブル語"
+        byn: "ビリン語"
+        byv: "メドゥンバ語"
+        ca: "カタロニア語"
+        cad: "カドー語"
+        car: "カリブ語"
+        cay: "カユーガ語"
+        cch: "チャワイ語"
+        ce: "チェチェン語"
+        ceb: "セブアノ語"
+        cgg: "チガ語"
+        ch: "チャモロ語"
+        chb: "チブチャ語"
+        chg: "チャガタイ語"
+        chk: "チューク語"
+        chm: "マリ語"
+        chn: "チヌーク混成語"
+        cho: "チョクトー語"
+        chp: "チペワイアン語"
+        chr: "チェロキー語"
+        chy: "シャイアン語"
+        ckb: "クルド語(ソラニー)"
+        co: "コルシカ語"
+        cop: "コプト語"
+        cps: "カピス語"
+        cr: "クリー語"
+        crh: "クリミア・タタール語"
+        cs: "チェコ語"
+        csb: "カシューブ語"
+        cu: "教会スラブ語"
+        cv: "チュヴァシ語"
+        cy: "ウェールズ語"
+        da: "デンマーク語"
+        dak: "ダコタ語"
+        dar: "ダルガン語"
+        dav: "タイタ語"
+        de: "ドイツ語"
+        de_at: "ドイツ語 (オーストリア)"
+        de_ch: "標準ドイツ語 (スイス)"
+        del: "デラウェア語"
+        den: "スレイビー語"
+        dgr: "ドグリブ語"
+        din: "ディンカ語"
+        dje: "ザルマ語"
+        doi: "ドーグリー語"
+        dsb: "低ソルビア語"
+        dtp: "中央ドゥスン語"
+        dua: "ドゥアラ語"
+        dum: "中世オランダ語"
+        dv: "ディベヒ語"
+        dyo: "ジョラ＝フォニィ語"
+        dyu: "ジュラ語"
+        dz: "ゾンカ語"
+        dzg: "ダザガ語"
+        ebu: "エンブ語"
+        ee: "エウェ語"
+        efi: "エフィク語"
+        egl: "エミリア語"
+        egy: "古代エジプト語"
+        eka: "エカジュク語"
+        el: "ギリシャ語"
+        elx: "エラム語"
+        en: "英語"
+        en_au: "オーストラリア英語"
+        en_ca: "カナダ英語"
+        en_gb: "イギリス英語"
+        en_gb_alt_short: "英語(英国)"
+        en_us: "アメリカ英語"
+        en_us_alt_short: "英語(米国)"
+        enm: "中英語"
+        eo: "エスペラント語"
+        es: "スペイン語"
+        es_419: "スペイン語 (ラテンアメリカ)"
+        es_es: "スペイン語 (イベリア半島)"
+        es_mx: "スペイン語 (メキシコ)"
+        esu: "中央アラスカ・ユピック語"
+        et: "エストニア語"
+        eu: "バスク語"
+        ewo: "エウォンド語"
+        ext: "エストレマドゥーラ語"
+        fa: "ペルシア語"
+        fan: "ファング語"
+        fat: "ファンティー語"
+        ff: "フラニ語"
+        fi: "フィンランド語"
+        fil: "フィリピノ語"
+        fit: "トルネダール・フィンランド語"
+        fj: "フィジー語"
+        fo: "フェロー語"
+        fon: "フォン語"
+        fr: "フランス語"
+        fr_ca: "フランス語 (カナダ)"
+        fr_ch: "フランス語 (スイス)"
+        frc: "ケイジャン・フランス語"
+        frm: "中期フランス語"
+        fro: "古フランス語"
+        frp: "アルピタン語"
+        frr: "北フリジア語"
+        frs: "東フリジア語"
+        fur: "フリウリ語"
+        fy: "西フリジア語"
+        ga: "アイルランド語"
+        gaa: "ガ語"
+        gag: "ガガウズ語"
+        gan: "贛語"
+        gay: "ガヨ語"
+        gba: "バヤ語"
+        gbz: "ダリー語(ゾロアスター教)"
+        gd: "スコットランド・ゲール語"
+        gez: "ゲエズ語"
+        gil: "キリバス語"
+        gl: "ガリシア語"
+        glk: "ギラキ語"
+        gmh: "中高ドイツ語"
+        gn: "グアラニー語"
+        goh: "古高ドイツ語"
+        gom: "ゴア・コンカニ語"
+        gon: "ゴーンディー語"
+        gor: "ゴロンタロ語"
+        got: "ゴート語"
+        grb: "グレボ語"
+        grc: "古代ギリシャ語"
+        gsw: "スイスドイツ語"
+        gu: "グジャラート語"
+        guc: "ワユ語"
+        gur: "フラフラ語"
+        guz: "グシイ語"
+        gv: "マン島語"
+        gwi: "グウィッチン語"
+        ha: "ハウサ語"
+        hai: "ハイダ語"
+        hak: "客家語"
+        haw: "ハワイ語"
+        he: "ヘブライ語"
+        hi: "ヒンディー語"
+        hif: "フィジー・ヒンディー語"
+        hil: "ヒリガイノン語"
+        hit: "ヒッタイト語"
+        hmn: "フモン語"
+        ho: "ヒリモツ語"
+        hr: "クロアチア語"
+        hsb: "上ソルビア語"
+        hsn: "湘語"
+        ht: "ハイチ語"
+        hu: "ハンガリー語"
+        hup: "アタパスカ語"
+        hy: "アルメニア語"
+        hz: "ヘレロ語"
+        ia: "インターリングア"
+        iba: "イバン語"
+        ibb: "イビビオ語"
+        id: "インドネシア語"
+        ie: "インターリング"
+        ig: "イボ語"
+        ii: "四川イ語"
+        ik: "イヌピアック語"
+        ilo: "イロカノ語"
+        inh: "イングーシ語"
+        io: "イド語"
+        is: "アイスランド語"
+        it: "イタリア語"
+        iu: "イヌクウティトット語"
+        izh: "イングリア語"
+        ja: "日本語"
+        jam: "ジャマイカ・クレオール語"
+        jbo: "ロジバン語"
+        jgo: "ンゴンバ語"
+        jmc: "マチャメ語"
+        jpr: "ユダヤ・ペルシア語"
+        jrb: "ユダヤ・アラビア語"
+        jut: "ユトランド語"
+        jv: "ジャワ語"
+        ka: "ジョージア語"
+        kaa: "カラカルパク語"
+        kab: "カビル語"
+        kac: "カチン語"
+        kaj: "カジェ語"
+        kam: "カンバ語"
+        kaw: "カウィ語"
+        kbd: "カバルド語"
+        kbl: "カネンブ語"
+        kcg: "カタブ語"
+        kde: "マコンデ語"
+        kea: "カーボベルデ・クレオール語"
+        ken: "ニャン語"
+        kfo: "コロ語"
+        kg: "コンゴ語"
+        kgp: "カインガング語"
+        kha: "カシ語"
+        kho: "コータン語"
+        khq: "コイラ・チーニ語"
+        khw: "コワール語"
+        ki: "キクユ語"
+        kiu: "キルマンジュキ語"
+        kj: "クワニャマ語"
+        kk: "カザフ語"
+        kkj: "カコ語"
+        kl: "グリーンランド語"
+        kln: "カレンジン語"
+        km: "クメール語"
+        kmb: "キンブンド語"
+        kn: "カンナダ語"
+        ko: "韓国語"
+        koi: "コミ・ペルミャク語"
+        kok: "コンカニ語"
+        kos: "コスラエ語"
+        kpe: "クペレ語"
+        kr: "カヌリ語"
+        krc: "カラチャイ語"
+        kri: "クリオ語"
+        krj: "キナライア語"
+        krl: "カレリア語"
+        kru: "クルク語"
+        ks: "カシミール語"
+        ksb: "サンバー語"
+        ksf: "バフィア語"
+        ksh: "ケルン語"
+        ku: "クルド語"
+        kum: "クムク語"
+        kut: "クテナイ語"
+        kv: "コミ語"
+        kw: "コーンウォール語"
+        ky: "キルギス語"
+        la: "ラテン語"
+        lad: "ラディノ語"
+        lag: "ランギ語"
+        lah: "ラフンダー語"
+        lam: "ランバ語"
+        lb: "ルクセンブルク語"
+        lez: "レズギ語"
+        lfn: "リングア・フランカ・ノバ"
+        lg: "ガンダ語"
+        li: "リンブルフ語"
+        lij: "リグリア語"
+        liv: "リヴォニア語"
+        lkt: "ラコタ語"
+        lmo: "ロンバルド語"
+        ln: "リンガラ語"
+        lo: "ラオ語"
+        lol: "モンゴ語"
+        loz: "ロジ語"
+        lrc: "北ロル語"
+        lt: "リトアニア語"
+        ltg: "ラトガリア語"
+        lu: "ルバ・カタンガ語"
+        lua: "ルバ・ルルア語"
+        lui: "ルイセーニョ語"
+        lun: "ルンダ語"
+        luo: "ルオ語"
+        lus: "ルシャイ語"
+        luy: "ルヒヤ語"
+        lv: "ラトビア語"
+        lzh: "漢文"
+        lzz: "ラズ語"
+        mad: "マドゥラ語"
+        maf: "マファ語"
+        mag: "マガヒー語"
+        mai: "マイティリー語"
+        mak: "マカッサル語"
+        man: "マンディンゴ語"
+        mas: "マサイ語"
+        mde: "マバ語"
+        mdf: "モクシャ語"
+        mdh: mdh
+        mdr: "マンダル語"
+        men: "メンデ語"
+        mer: "メル語"
+        mfe: "モーリシャス・クレオール語"
+        mg: "マダガスカル語"
+        mga: "中期アイルランド語"
+        mgh: "マクア・ミート語"
+        mgo: "メタ語"
+        mh: "マーシャル語"
+        mi: "マオリ語"
+        mic: "ミクマク語"
+        min: "ミナンカバウ語"
+        mis: mis
+        mk: "マケドニア語"
+        ml: "マラヤーラム語"
+        mn: "モンゴル語"
+        mnc: "満州語"
+        mni: "マニプリ語"
+        moh: "モーホーク語"
+        mos: "モシ語"
+        mr: "マラーティー語"
+        mrj: "山地マリ語"
+        ms: "マレー語"
+        mt: "マルタ語"
+        mua: "ムンダン語"
+        mul: "複数言語"
+        mus: "クリーク語"
+        mwl: "ミランダ語"
+        mwr: "マールワーリー語"
+        mwv: "メンタワイ語"
+        my: "ビルマ語"
+        mye: "ミエネ語"
+        myv: "エルジャ語"
+        mzn: "マーザンダラーン語"
+        na: "ナウル語"
+        nan: "閩南語"
+        nap: "ナポリ語"
+        naq: "ナマ語"
+        nb: "ノルウェー語(ブークモール)"
+        nd: "北ンデベレ語"
+        nds: "低地ドイツ語"
+        nds_nl: "低地ドイツ語 (オランダ)"
+        ne: "ネパール語"
+        new: "ネワール語"
+        ng: "ンドンガ語"
+        nia: "ニアス語"
+        niu: "ニウーエイ語"
+        njo: "アオ・ナガ語"
+        nl: "オランダ語"
+        nl_be: "フレミッシュ語"
+        nmg: "クワシオ語"
+        nn: "ノルウェー語(ニーノシュク)"
+        nnh: "ンジエムブーン語"
+        'no': "ノルウェー語"
+        nog: "ノガイ語"
+        non: "古ノルド語"
+        nov: "ノヴィアル"
+        nqo: "ンコ語"
+        nr: "南ンデベレ語"
+        nso: "北部ソト語"
+        nus: "ヌエル語"
+        nv: "ナバホ語"
+        nwc: "古典ネワール語"
+        ny: "ニャンジャ語"
+        nym: "ニャムウェジ語"
+        nyn: "ニャンコレ語"
+        nyo: "ニョロ語"
+        nzi: "ンゼマ語"
+        oc: "オック語"
+        oj: "オジブウェー語"
+        om: "オロモ語"
+        or: "オリヤー語"
+        os: "オセット語"
+        osa: "オセージ語"
+        ota: "オスマントルコ語"
+        pa: "パンジャブ語"
+        pag: "パンガシナン語"
+        pal: "パフラヴィー語"
+        pam: "パンパンガ語"
+        pap: "パピアメント語"
+        pau: "パラオ語"
+        pcd: "ピカルディ語"
+        pdc: "ペンシルベニア・ドイツ語"
+        pdt: "メノナイト低地ドイツ語"
+        peo: "古代ペルシア語"
+        pfl: "プファルツ語"
+        phn: "フェニキア語"
+        pi: "パーリ語"
+        pl: "ポーランド語"
+        pms: "ピエモンテ語"
+        pnt: "ポントス・ギリシャ語"
+        pon: "ポンペイ語"
+        prg: "プロシア語"
+        pro: "古期プロバンス語"
+        ps: "パシュトゥー語"
+        ps_alt_variant: "パシュトゥ語"
+        pt: "ポルトガル語"
+        pt_br: "ポルトガル語 (ブラジル)"
+        pt_pt: "ポルトガル語 (イベリア半島)"
+        qu: "ケチュア語"
+        quc: "キチェ語"
+        qug: "チンボラソ高地ケチュア語"
+        raj: "ラージャスターン語"
+        rap: "ラパヌイ語"
+        rar: "ラロトンガ語"
+        rgn: "ロマーニャ語"
+        rif: "リーフ語"
+        rm: "ロマンシュ語"
+        rn: "ルンディ語"
+        ro: "ルーマニア語"
+        ro_md: "モルダビア語"
+        rof: "ロンボ語"
+        rom: "ロマーニー語"
+        root: "ルート"
+        rtm: "ロツマ語"
+        ru: "ロシア語"
+        rue: "ルシン語"
+        rug: "ロヴィアナ語"
+        rup: "アルーマニア語"
+        rw: "ルワンダ語"
+        rwk: "ルワ語"
+        sa: "サンスクリット語"
+        sad: "サンダウェ語"
+        sah: "ヤクート語"
+        sam: "サマリア・アラム語"
+        saq: "サンブル語"
+        sas: "ササク語"
+        sat: "サンターリー語"
+        saz: "サウラーシュトラ語"
+        sba: "ンガムバイ語"
+        sbp: "サング語"
+        sc: "サルデーニャ語"
+        scn: "シチリア語"
+        sco: "スコットランド語"
+        sd: "シンド語"
+        sdc: "サッサリ・サルデーニャ語"
+        sdh: "南部クルド語"
+        se: "北サーミ語"
+        see: "セネカ語"
+        seh: "セナ語"
+        sei: "セリ語"
+        sel: "セリクプ語"
+        ses: "コイラボロ・センニ語"
+        sg: "サンゴ語"
+        sga: "古期アイルランド語"
+        sgs: "サモギティア語)"
+        sh: "セルボ・クロアチア語"
+        shi: "タシルハイト語"
+        shn: "シャン語"
+        shu: "チャド・アラビア語"
+        si: "シンハラ語"
+        sid: "シダモ語"
+        sk: "スロバキア語"
+        sl: "スロベニア語"
+        sli: "低シレジア語"
+        sly: "スラヤール語"
+        sm: "サモア語"
+        sma: "南サーミ語"
+        smj: "ルレ・サーミ語"
+        smn: "イナリ・サーミ語"
+        sms: "スコルト・サーミ語"
+        sn: "ショナ語"
+        snk: "ソニンケ語"
+        so: "ソマリ語"
+        sog: "ソグド語"
+        sq: "アルバニア語"
+        sr: "セルビア語"
+        srn: "スリナム語"
+        srr: "セレル語"
+        ss: "スワジ語"
+        ssy: "サホ語"
+        st: "南部ソト語"
+        stq: "ザーターフリジア語"
+        su: "スンダ語"
+        suk: "スクマ語"
+        sus: "スス語"
+        sux: "シュメール語"
+        sv: "スウェーデン語"
+        sw: "スワヒリ語"
+        swb: "コモロ語"
+        swc: "コンゴ・スワヒリ語"
+        syc: "古典シリア語"
+        syr: "シリア語"
+        szl: "シレジア語"
+        ta: "タミル語"
+        tcy: "トゥル語"
+        te: "テルグ語"
+        tem: "テムネ語"
+        teo: "テソ語"
+        ter: "テレーノ語"
+        tet: "テトゥン語"
+        tg: "タジク語"
+        th: "タイ語"
+        ti: "ティグリニア語"
+        tig: "ティグレ語"
+        tiv: "ティブ語"
+        tk: "トルクメン語"
+        tkl: "トケラウ語"
+        tkr: "ツァフル語"
+        tl: "タガログ語"
+        tlh: "クリンゴン語"
+        tli: "トリンギット語"
+        tly: "タリシュ語"
+        tmh: "タマシェク語"
+        tn: "ツワナ語"
+        to: "トンガ語"
+        tog: "トンガ語(ニアサ)"
+        tpi: "トク・ピシン語"
+        tr: "トルコ語"
+        tru: "トゥロヨ語"
+        trv: "タロコ語"
+        ts: "ツォンガ語"
+        tsd: "ツァコン語"
+        tsi: "チムシュ語"
+        tt: "タタール語"
+        ttt: "ムスリム・タタール語"
+        tum: "トゥンブカ語"
+        tvl: "ツバル語"
+        tw: "トウィ語"
+        twq: "タサワク語"
+        ty: "タヒチ語"
+        tyv: "トゥヴァ語"
+        tzm: "中央アトラス・タマジクト語"
+        udm: "ウドムルト語"
+        ug: "ウイグル語"
+        ug_alt_variant: "ウィグル語"
+        uga: "ウガリト語"
+        uk: "ウクライナ語"
+        umb: "ムブンドゥ語"
+        und: "言語不明"
+        ur: "ウルドゥー語"
+        uz: "ウズベク語"
+        vai: "ヴァイ語"
+        ve: "ベンダ語"
+        vec: "ヴェネト語"
+        vep: "ヴェプス語"
+        vi: "ベトナム語"
+        vls: "西フラマン語"
+        vmf: "マインフランク語"
+        vo: "ヴォラピュク語"
+        vot: "ヴォート語"
+        vro: "ヴォロ語"
+        vun: "ヴンジョ語"
+        wa: "ワロン語"
+        wae: "ヴァリス語"
+        wal: "ウォライタ語"
+        war: "ワライ語"
+        was: "ワショ語"
+        wbp: "ワルピリ語"
+        wo: "ウォロフ語"
+        wuu: "呉語"
+        xal: "カルムイク語"
+        xh: "コサ語"
+        xmf: "メグレル語"
+        xog: "ソガ語"
+        yao: "ヤオ語"
+        yap: "ヤップ語"
+        yav: "ヤンベン語"
+        ybb: "イエンバ語"
+        yi: "イディッシュ語"
+        yo: "ヨルバ語"
+        yrl: "ニェエンガトゥ語"
+        yue: "広東語"
+        za: "チワン語"
+        zap: "サポテカ語"
+        zbl: "ブリスシンボル"
+        zea: "ゼーラント語"
+        zen: "ゼナガ語"
+        zgh: "タマージク語(モロッコ公用語)"
+        zh: "中国語"
+        zh_hans: "簡体中国語"
+        zh_hant: "繁体中国語"
+        zu: "ズールー語"
+        zun: "ズニ語"
+        zxx: "言語的内容なし"
+        zza: "ザザ語"
+      locale_display_pattern:
+        locale_pattern: "{0} ({1})"
+        locale_separator: "{0}、{1}"
+        locale_key_type_pattern: "{0}: {1}"
+      keys:
+        calendar: "暦法"
+        cf: cf
+        col_alternate: "記号を無視した並べ替え"
+        col_backwards: "アクセント（逆方向）による並べ替え"
+        col_case_first: "大文字順/小文字順による並べ替え"
+        col_case_level: "大文字小文字を区別した並べ替え"
+        col_hiragana_quaternary: "仮名による並べ替え"
+        collation: "並べ替え順序"
+        col_normalization: "正規化による並べ替え"
+        col_numeric: "数値による並べ替え"
+        col_strength: "強度による並べ替え"
+        currency: "通貨"
+        hc: "時間制(12 / 24)"
+        lb: "禁則処理"
+        ms: "単位系"
+        numbers: "数値書式"
+        timezone: "タイムゾーン"
+        va: "ロケールのバリアント"
+        variable_top: "記号として並べ替え"
+        x: "私用"
+      types:
+        calendar:
+          buddhist: "タイ仏教暦"
+          chinese: "中国暦"
+          coptic: "コプト暦"
+          dangi: "ダンギ暦"
+          ethiopic: "エチオピア暦"
+          ethiopic_amete_alem: "エチオピア創世紀元暦"
+          gregorian: "西暦(グレゴリオ暦)"
+          hebrew: "ユダヤ暦"
+          indian: "インド国定暦"
+          islamic: "イスラム暦"
+          islamic_civil: "イスラム歴(定周期、公民紀元)"
+          islamic_rgsa: "イスラム暦(サウジアラビア、月観測)"
+          islamic_tbla: "イスラム歴(定周期、天文紀元)"
+          islamic_umalqura: "イスラム暦(ウンム・アルクラー)"
+          iso8601: ISO-8601
+          japanese: "和暦"
+          persian: "ペルシア暦"
+          roc: "中華民国暦"
+        cf:
+          account: account
+          standard: standard
+        col_alternate:
+          non_ignorable: "記号で並べ替え"
+          shifted: "記号を無視して並べ替え"
+        col_backwards:
+          'no': "アクセント（順方向）で並べ替え"
+          'yes': "アクセント（逆方向）で並べ替え"
+        col_case_first:
+          lower: "小文字優先で並べ替え"
+          'no': "大文字小文字を通常の順序で並べ替え"
+          upper: "大文字優先で並べ替え"
+        col_case_level:
+          'no': "大文字小文字を区別しないで並べ替え"
+          'yes': "大文字小文字を区別して並べ替え"
+        col_hiragana_quaternary:
+          'no': "仮名を区別しないで並べ替え"
+          'yes': "仮名を区別して並べ替え"
+        collation:
+          big5han: "繁体字中国語順(Big5)"
+          compat: compat
+          dictionary: "辞書順"
+          ducet: "ユニコード照合順"
+          emoji: emoji
+          eor: "ヨーロッパ言語文字の並べ替え規則"
+          gb2312han: "簡体字中国語順(GB2312)"
+          phonebook: "電話帳順"
+          phonetic: "音声順による並べ替え"
+          pinyin: "ピンイン順"
+          reformed: "リフォーム"
+          search: "汎用検索"
+          searchjl: "ハングル語頭子音による並べ替え"
+          standard: "標準ソート順序"
+          stroke: "画数順"
+          traditional: "トラディッショナル"
+          unihan: "部首順"
+          zhuyin: "注音順"
+        col_normalization:
+          'no': "正規化しないで並べ替え"
+          'yes': Unicode 正規化で並べ替え
+        col_numeric:
+          'no': "数値を独立して並べ替え"
+          'yes': "数値を数値として並べ替え"
+        col_strength:
+          identical: "すべてを区別して並べ替え"
+          primary: "基本文字のみで並べ替え"
+          quaternary: "アクセント/大文字小文字/全角半角/仮名で並べ替え"
+          secondary: "アクセントで並べ替え"
+          tertiary: "アクセント/大文字小文字/全角半角で並べ替え"
+        hc:
+          h11: 12時間制(0〜11)
+          h12: 12時間制(1〜12)
+          h23: 24時間制(0〜23)
+          h24: 24時間制(1〜24)
+        lb:
+          loose: "禁則処理(弱)"
+          normal: "禁則処理(標準)"
+          strict: "禁則処理(強)"
+        ms:
+          metric: "メートル法"
+          uksystem: "ヤード・ポンド法"
+          ussystem: "米慣習単位"
+        numbers:
+          ahom: ahom
+          arab: "アラビア・インド数字"
+          arabext: "ペルシア数字"
+          armn: "アルメニア数字"
+          armnlow: "アルメニア数字(小文字)"
+          bali: "バリ数字"
+          beng: "ベンガル数字"
+          brah: "ブラーフミー数字"
+          cakm: "チャクマ数字"
+          cham: "チャム数字"
+          cyrl: cyrl
+          deva: "デーヴァナーガリー数字"
+          ethi: "エチオピア数字"
+          finance: "財務用漢数字"
+          fullwide: "全角数字"
+          geor: "ジョージア数字"
+          grek: "ギリシャ数字"
+          greklow: "ギリシャ数字(小文字)"
+          gujr: "グジャラート数字"
+          guru: "グルムキー数字"
+          hanidec: "漢数字(位取り記数法)"
+          hans: "簡体漢数字"
+          hansfin: "簡体大字"
+          hant: "繁体漢数字"
+          hantfin: "繁体大字"
+          hebr: "ヘブライ数字"
+          hmng: hmng
+          java: "ジャワ数字"
+          jpan: "漢数字"
+          jpanfin: "大字"
+          kali: "カヤー数字"
+          khmr: "クメール数字"
+          knda: "カンナダ数字"
+          lana: "ラーンナー数字"
+          lanatham: "ラーンナー・タム数字"
+          laoo: "ラオ数字"
+          latn: "算用数字"
+          lepc: "レプチャ数字"
+          limb: "リンブ数字"
+          mathbold: mathbold
+          mathdbl: mathdbl
+          mathmono: mathmono
+          mathsanb: mathsanb
+          mathsans: mathsans
+          mlym: "マラヤーラム数字"
+          modi: modi
+          mong: "モンゴル数字"
+          mroo: mroo
+          mtei: "マニプリ数字"
+          mymr: "ミャンマー数字"
+          mymrshan: "ミャンマー・シャン数字"
+          mymrtlng: mymrtlng
+          native: "独自の記数法"
+          nkoo: "ンコ数字"
+          olck: "オルチキ数字"
+          orya: "オリヤー数字"
+          osma: "オスマニア数字"
+          roman: "ローマ数字"
+          romanlow: "ローマ数字(小文字)"
+          saur: "サウラーシュトラ数字"
+          shrd: "シャーラダー数字"
+          sind: sind
+          sinh: sinh
+          sora: "ソラ・ソンペン数字"
+          sund: "スンダ数字"
+          takr: "タークリー数字"
+          talu: "新タイ・ルー数字"
+          taml: "タミール数字"
+          tamldec: "タミル数字"
+          telu: "テルグ数字"
+          thai: "タイ数字"
+          tibt: "チベット数字"
+          tirh: tirh
+          traditional: "従来の記数法"
+          vaii: "ヴァイ文字の記数法"
+          wara: wara
+      code_patterns:
+        language: "言語: {0}"
+        script: "文字: {0}"
+        territory: "地域: {0}"
+      scripts:
+        afak: "アファカ文字"
+        aghb: "カフカス・アルバニア文字"
+        ahom: Ahom
+        arab: "アラビア文字"
+        arab_alt_variant: "ペルソ・アラビア文字"
+        armi: "帝国アラム文字"
+        armn: "アルメニア文字"
+        avst: "アヴェスター文字"
+        bali: "バリ文字"
+        bamu: "バムン文字"
+        bass: "バサ文字"
+        batk: "バタク文字"
+        beng: "ベンガル文字"
+        blis: "ブリスシンボル"
+        bopo: "注音字母"
+        brah: "ブラーフミー文字"
+        brai: "ブライユ点字"
+        bugi: "ブギス文字"
+        buhd: "ブヒッド文字"
+        cakm: "チャクマ文字"
+        cans: "統合カナダ先住民音節文字"
+        cari: "カリア文字"
+        cham: "チャム文字"
+        cher: "チェロキー文字"
+        cirt: "キアス文字"
+        copt: "コプト文字"
+        cprt: "キプロス文字"
+        cyrl: "キリル文字"
+        cyrs: "古代教会スラブ語キリル文字"
+        deva: "デーバナーガリー文字"
+        dsrt: "デセレット文字"
+        dupl: "デュプロワエ式速記"
+        egyd: "エジプト民衆文字"
+        egyh: "エジプト神官文字"
+        egyp: "エジプト聖刻文字"
+        elba: "エルバサン文字"
+        ethi: "エチオピア文字"
+        geok: "ジョージア文字(フツリ)"
+        geor: "ジョージア文字"
+        glag: "グラゴル文字"
+        goth: "ゴート文字"
+        gran: "グランタ文字"
+        grek: "ギリシャ文字"
+        gujr: "グジャラート文字"
+        guru: "グルムキー文字"
+        hang: "ハングル"
+        hani: "漢字"
+        hano: "ハヌノオ文字"
+        hans: "簡体字"
+        hans_alt_stand_alone: "漢字(簡体字)"
+        hant: "繁体字"
+        hant_alt_stand_alone: "漢字(繁体字)"
+        hatr: Hatr
+        hebr: "ヘブライ文字"
+        hira: "ひらがな"
+        hluw: "アナトリア象形文字"
+        hmng: "パハウ・フモン文字"
+        hrkt: "仮名"
+        hung: "古代ハンガリー文字"
+        inds: "インダス文字"
+        ital: "古イタリア文字"
+        java: "ジャワ文字"
+        jpan: "日本語の文字"
+        jurc: "女真文字"
+        kali: "カヤー文字"
+        kana: "カタカナ"
+        khar: "カローシュティー文字"
+        khmr: "クメール文字"
+        khoj: "ホジャ文字"
+        knda: "カンナダ文字"
+        kore: "韓国語の文字"
+        kpel: "クペレ文字"
+        kthi: "カイティ文字"
+        lana: "ラーンナー文字"
+        laoo: "ラオ文字"
+        latf: "ラテン文字(ドイツ文字)"
+        latg: "ラテン文字 (ゲール文字)"
+        latn: "ラテン文字"
+        lepc: "レプチャ文字"
+        limb: "リンブ文字"
+        lina: "線文字A"
+        linb: "線文字B"
+        lisu: "フレイザー文字"
+        loma: "ロマ文字"
+        lyci: "リキア文字"
+        lydi: "リディア文字"
+        mahj: "マハージャニー文字"
+        mand: "マンダ文字"
+        mani: "マニ文字"
+        maya: "マヤ象形文字"
+        mend: "メンデ文字"
+        merc: "メロエ文字草書体"
+        mero: "メロエ文字"
+        mlym: "マラヤーラム文字"
+        modi: "モーディー文字"
+        mong: "モンゴル文字"
+        moon: "ムーン文字"
+        mroo: "ムロ文字"
+        mtei: "メイテイ文字"
+        mult: Mult
+        mymr: "ミャンマー文字"
+        narb: "古代北アラビア文字"
+        nbat: "ナバテア文字"
+        nkgb: "ナシ族ゲバ文字"
+        nkoo: "ンコ文字"
+        nshu: "女書"
+        ogam: "オガム文字"
+        olck: "オルチキ文字"
+        orkh: "オルホン文字"
+        orya: "オリヤー文字"
+        osma: "オスマニア文字"
+        palm: "パルミラ文字"
+        pauc: "パウ・チン・ハウ文字"
+        perm: "古ぺルム文字"
+        phag: "パスパ文字"
+        phli: "碑文パフラヴィー文字"
+        phlp: "詩編用パフラヴィー文字"
+        phlv: "書物用パフラヴィー文字"
+        phnx: "フェニキア文字"
+        plrd: "ポラード音声記号"
+        prti: "碑文パルティア文字"
+        qaaa: Qaaa
+        qaab: Qaab
+        qaac: Qaac
+        qaad: Qaad
+        qaae: Qaae
+        qaaf: Qaaf
+        qaag: Qaag
+        qaah: Qaah
+        qaaj: Qaaj
+        qaak: Qaak
+        qaal: Qaal
+        qaam: Qaam
+        qaan: Qaan
+        qaao: Qaao
+        qaap: Qaap
+        qaaq: Qaaq
+        qaar: Qaar
+        qaas: Qaas
+        qaat: Qaat
+        qaau: Qaau
+        qaav: Qaav
+        qaaw: Qaaw
+        qaax: Qaax
+        qaay: Qaay
+        qaaz: Qaaz
+        qaba: Qaba
+        qabb: Qabb
+        qabc: Qabc
+        qabd: Qabd
+        qabe: Qabe
+        qabf: Qabf
+        qabg: Qabg
+        qabh: Qabh
+        qabi: Qabi
+        qabj: Qabj
+        qabk: Qabk
+        qabl: Qabl
+        qabm: Qabm
+        qabn: Qabn
+        qabo: Qabo
+        qabp: Qabp
+        qabq: Qabq
+        qabr: Qabr
+        qabs: Qabs
+        qabt: Qabt
+        qabu: Qabu
+        qabv: Qabv
+        qabw: Qabw
+        qabx: Qabx
+        rjng: "ルジャン文字"
+        roro: "ロンゴロンゴ文字"
+        runr: "ルーン文字"
+        samr: "サマリア文字"
+        sara: "サラティ文字"
+        sarb: "古代南アラビア文字"
+        saur: "サウラーシュトラ文字"
+        sgnw: "手話文字"
+        shaw: "ショー文字"
+        shrd: "シャーラダー文字"
+        sidd: "梵字"
+        sind: "クダワディ文字"
+        sinh: "シンハラ文字"
+        sora: "ソラング・ソンペング文字"
+        sund: "スンダ文字"
+        sylo: "シロティ・ナグリ文字"
+        syrc: "シリア文字"
+        syre: "シリア文字(エストランゲロ文字)"
+        syrj: "シリア文字(西方シリア文字)"
+        syrn: "シリア文字(東方シリア文字)"
+        tagb: "タグバンワ文字"
+        takr: "タークリー文字"
+        tale: "タイ・レ文字"
+        talu: "新タイ・ルー文字"
+        taml: "タミール文字"
+        tang: "西夏文字"
+        tavt: "タイ・ヴェト文字"
+        telu: "テルグ文字"
+        teng: "テングワール文字"
+        tfng: "ティフナグ文字"
+        tglg: "タガログ文字"
+        thaa: "ターナ文字"
+        thai: "タイ文字"
+        tibt: "チベット文字"
+        tirh: "ティルフータ文字"
+        ugar: "ウガリット文字"
+        vaii: "ヴァイ文字"
+        visp: "視話法"
+        wara: "バラン・クシティ文字"
+        wole: "ウォレアイ文字"
+        xpeo: "古代ペルシア文字"
+        xsux: "シュメール＝アッカド語楔形文字"
+        yiii: "イ文字"
+        zinh: "基底文字の種別を継承する結合文字"
+        zmth: "数学記号"
+        zsym: "記号文字"
+        zxxx: "非表記"
+        zyyy: "共通文字"
+        zzzz: "未定義文字"
+      territories:
+        '001': "世界"
+        '002': "アフリカ"
+        '003': "北アメリカ大陸"
+        '005': "南アメリカ"
+        009: "オセアニア"
+        '011': "西アフリカ"
+        '013': "中央アメリカ"
+        '014': "東アフリカ"
+        '015': "北アフリカ"
+        '017': "中部アフリカ"
+        018: "南部アフリカ"
+        019: "アメリカ大陸"
+        '021': "北アメリカ"
+        029: "カリブ"
+        '030': "東アジア"
+        '034': "南アジア"
+        '035': "東南アジア"
+        039: "南ヨーロッパ"
+        '053': "オーストララシア"
+        '054': "メラネシア"
+        '057': "ミクロネシア"
+        '061': "ポリネシア"
+        '142': "アジア"
+        '143': "中央アジア"
+        '145': "西アジア"
+        '150': "ヨーロッパ"
+        '151': "東ヨーロッパ"
+        '154': "北ヨーロッパ"
+        '155': "西ヨーロッパ"
+        '419': "ラテンアメリカ"
+        ac: "アセンション島"
+        ad: "アンドラ"
+        ae: "アラブ首長国連邦"
+        af: "アフガニスタン"
+        ag: "アンティグア・バーブーダ"
+        ai: "アンギラ"
+        al: "アルバニア"
+        am: "アルメニア"
+        an: "オランダ領アンティル"
+        ao: "アンゴラ"
+        aq: "南極"
+        ar: "アルゼンチン"
+        as: "米領サモア"
+        at: "オーストリア"
+        au: "オーストラリア"
+        aw: "アルバ"
+        ax: "オーランド諸島"
+        az: "アゼルバイジャン"
+        ba: "ボスニア・ヘルツェゴビナ"
+        bb: "バルバドス"
+        bd: "バングラデシュ"
+        be: "ベルギー"
+        bf: "ブルキナファソ"
+        bg: "ブルガリア"
+        bh: "バーレーン"
+        bi: "ブルンジ"
+        bj: "ベナン"
+        bl: "サン・バルテルミー島"
+        bm: "バミューダ"
+        bn: "ブルネイ"
+        bo: "ボリビア"
+        bq: "オランダ領カリブ"
+        br: "ブラジル"
+        bs: "バハマ"
+        bt: "ブータン"
+        bv: "ブーベ島"
+        bw: "ボツワナ"
+        by: "ベラルーシ"
+        bz: "ベリーズ"
+        ca: "カナダ"
+        cc: "ココス(キーリング)諸島"
+        cd: "コンゴ民主共和国(キンシャサ)"
+        cd_alt_variant: "コンゴ民主共和国"
+        cf: "中央アフリカ共和国"
+        cg: "コンゴ共和国(ブラザビル)"
+        cg_alt_variant: "コンゴ共和国"
+        ch: "スイス"
+        ci: "コートジボワール"
+        ci_alt_variant: "象牙海岸"
+        ck: "クック諸島"
+        cl: "チリ"
+        cm: "カメルーン"
+        cn: "中国"
+        co: "コロンビア"
+        cp: "クリッパートン島"
+        cr: "コスタリカ"
+        cu: "キューバ"
+        cv: "カーボベルデ"
+        cw: "キュラソー"
+        cx: "クリスマス島"
+        cy: "キプロス"
+        cz: "チェコ共和国"
+        de: "ドイツ"
+        dg: "ディエゴガルシア島"
+        dj: "ジブチ"
+        dk: "デンマーク"
+        dm: "ドミニカ国"
+        do: "ドミニカ共和国"
+        dz: "アルジェリア"
+        ea: "セウタ・メリリャ"
+        ec: "エクアドル"
+        ee: "エストニア"
+        eg: "エジプト"
+        eh: "西サハラ"
+        er: "エリトリア"
+        es: "スペイン"
+        et: "エチオピア"
+        eu: "欧州連合"
+        fi: "フィンランド"
+        fj: "フィジー"
+        fk: "フォークランド諸島"
+        fk_alt_variant: "フォークランド諸島(マルビナス諸島)"
+        fm: "ミクロネシア連邦"
+        fo: "フェロー諸島"
+        fr: "フランス"
+        ga: "ガボン"
+        gb: "イギリス"
+        gb_alt_short: "英国"
+        gd: "グレナダ"
+        ge: "ジョージア"
+        gf: "仏領ギアナ"
+        gg: "ガーンジー"
+        gh: "ガーナ"
+        gi: "ジブラルタル"
+        gl: "グリーンランド"
+        gm: "ガンビア"
+        gn: "ギニア"
+        gp: "グアドループ"
+        gq: "赤道ギニア"
+        gr: "ギリシャ"
+        gs: "南ジョージア島・南サンドイッチ諸島"
+        gt: "グアテマラ"
+        gu: "グアム"
+        gw: "ギニアビサウ"
+        gy: "ガイアナ"
+        hk: "中華人民共和国香港特別行政区"
+        hk_alt_short: "香港"
+        hm: "ハード島・マクドナルド諸島"
+        hn: "ホンジュラス"
+        hr: "クロアチア"
+        ht: "ハイチ"
+        hu: "ハンガリー"
+        ic: "カナリア諸島"
+        id: "インドネシア"
+        ie: "アイルランド"
+        il: "イスラエル"
+        im: "マン島"
+        in: "インド"
+        io: "英領インド洋地域"
+        iq: "イラク"
+        ir: "イラン"
+        is: "アイスランド"
+        it: "イタリア"
+        je: "ジャージー"
+        jm: "ジャマイカ"
+        jo: "ヨルダン"
+        jp: "日本"
+        ke: "ケニア"
+        kg: "キルギス"
+        kh: "カンボジア"
+        ki: "キリバス"
+        km: "コモロ"
+        kn: "セントクリストファー・ネイビス"
+        kp: "朝鮮民主主義人民共和国"
+        kr: "大韓民国"
+        kw: "クウェート"
+        ky: "ケイマン諸島"
+        kz: "カザフスタン"
+        la: "ラオス"
+        lb: "レバノン"
+        lc: "セントルシア"
+        li: "リヒテンシュタイン"
+        lk: "スリランカ"
+        lr: "リベリア"
+        ls: "レソト"
+        lt: "リトアニア"
+        lu: "ルクセンブルグ"
+        lv: "ラトビア"
+        ly: "リビア"
+        ma: "モロッコ"
+        mc: "モナコ"
+        md: "モルドバ"
+        me: "モンテネグロ"
+        mf: "サン・マルタン"
+        mg: "マダガスカル"
+        mh: "マーシャル諸島"
+        mk: "マケドニア"
+        mk_alt_variant: "マケドニア(旧ユーゴスラビア共和国)"
+        ml: "マリ"
+        mm: "ミャンマー"
+        mn: "モンゴル"
+        mo: "中華人民共和国マカオ特別行政区"
+        mo_alt_short: "マカオ"
+        mp: "北マリアナ諸島"
+        mq: "マルティニーク"
+        mr: "モーリタニア"
+        ms: "モントセラト"
+        mt: "マルタ"
+        mu: "モーリシャス"
+        mv: "モルディブ"
+        mw: "マラウイ"
+        mx: "メキシコ"
+        my: "マレーシア"
+        mz: "モザンビーク"
+        na: "ナミビア"
+        nc: "ニューカレドニア"
+        ne: "ニジェール"
+        nf: "ノーフォーク島"
+        ng: "ナイジェリア"
+        ni: "ニカラグア"
+        nl: "オランダ"
+        'no': "ノルウェー"
+        np: "ネパール"
+        nr: "ナウル"
+        nu: "ニウエ島"
+        nz: "ニュージーランド"
+        om: "オマーン"
+        pa: "パナマ"
+        pe: "ペルー"
+        pf: "仏領ポリネシア"
+        pg: "パプアニューギニア"
+        ph: "フィリピン"
+        pk: "パキスタン"
+        pl: "ポーランド"
+        pm: "サンピエール島・ミクロン島"
+        pn: "ピトケアン諸島"
+        pr: "プエルトリコ"
+        ps: "パレスチナ"
+        ps_alt_short: "パレスチナ"
+        pt: "ポルトガル"
+        pw: "パラオ"
+        py: "パラグアイ"
+        qa: "カタール"
+        qo: "オセアニア周辺地域"
+        re: "レユニオン島"
+        ro: "ルーマニア"
+        rs: "セルビア"
+        ru: "ロシア"
+        rw: "ルワンダ"
+        sa: "サウジアラビア"
+        sb: "ソロモン諸島"
+        sc: "セーシェル"
+        sd: "スーダン"
+        se: "スウェーデン"
+        sg: "シンガポール"
+        sh: "セントヘレナ"
+        si: "スロベニア"
+        sj: "スバールバル諸島・ヤンマイエン島"
+        sk: "スロバキア"
+        sl: "シエラレオネ"
+        sm: "サンマリノ"
+        sn: "セネガル"
+        so: "ソマリア"
+        sr: "スリナム"
+        ss: "南スーダン"
+        st: "サントメ・プリンシペ"
+        sv: "エルサルバドル"
+        sx: "シント・マールテン"
+        sy: "シリア"
+        sz: "スワジランド"
+        ta: "トリスタン・ダ・クーニャ"
+        tc: "タークス・カイコス諸島"
+        td: "チャド"
+        tf: "仏領極南諸島"
+        tg: "トーゴ"
+        th: "タイ"
+        tj: "タジキスタン"
+        tk: "トケラウ"
+        tl: "東ティモール"
+        tl_alt_variant: "東チモール"
+        tm: "トルクメニスタン"
+        tn: "チュニジア"
+        to: "トンガ"
+        tr: "トルコ"
+        tt: "トリニダード・トバゴ"
+        tv: "ツバル"
+        tw: "台湾"
+        tz: "タンザニア"
+        ua: "ウクライナ"
+        ug: "ウガンダ"
+        um: "米領太平洋諸島"
+        us: "アメリカ合衆国"
+        us_alt_short: "アメリカ"
+        uy: "ウルグアイ"
+        uz: "ウズベキスタン"
+        va: "バチカン市国"
+        vc: "セントビンセント・グレナディーン諸島"
+        ve: "ベネズエラ"
+        vg: "英領ヴァージン諸島"
+        vi: "米領ヴァージン諸島"
+        vn: "ベトナム"
+        vu: "バヌアツ"
+        wf: "ウォリス・フツナ"
+        ws: "サモア"
+        xk: "コソボ"
+        ye: "イエメン"
+        yt: "マヨット島"
+        za: "南アフリカ"
+        zm: "ザンビア"
+        zw: "ジンバブエ"
+        zz: "不明な地域"
+      transform_names:
+        bgn: BGN
+        numeric: "数字"
+        tone: "声調"
+        ungegn: UNGEGN
+        x_accents: "アクセント"
+        x_fullwidth: "全角"
+        x_halfwidth: "半角"
+        x_jamo: "字母"
+        x_pinyin: "ピンイン"
+        x_publishing: "出版"
+      variants:
+        '1901': "ドイツ語旧正書法"
+        '1994': "標準レージア方言正書法"
+        '1996': "ドイツ語正書法(1996)"
+        1606_nict: "後期中世フランス語(〜1606)"
+        1694_acad: "初期現代フランス語"
+        1959_acad: "標準ベラルーシ語 (1959)"
+        abl1943: ABL1943
+        alalc97: ALA-LCラテン文字化(1997)
+        aluku: "アロコ方言"
+        ao1990: AO1990
+        arevela: "東アルメニア文語"
+        arevmda: "西アルメニア文語"
+        baku1926: "統一トルコラテン文字"
+        balanka: BALANKA
+        barla: BARLA
+        bauddha: "バウッダ"
+        biscayan: "ビスカヤ語"
+        biske: "サン・ジョルジョ/ビーラ方言"
+        bohoric: "ボホリッツ・アルファベット"
+        boont: "ブーントリング"
+        colb1945: COLB1945
+        dajnko: "ダインチッツァ"
+        ekavsk: EKAVSK
+        emodeng: "初期近代英語"
+        fonipa: "国際音声記号"
+        fonupa: "ウラル音声記号"
+        fonxsamp: "フォンクサンプ"
+        hepburn: "ヘボン式ローマ字"
+        hognorsk: "ヘグノシュク"
+        ijekavsk: IJEKAVSK
+        itihasa: "イティハーサ"
+        jauer: "ヤウエル"
+        jyutping: "略称粤拼"
+        kkcor: "共通コーンウォール語正書法"
+        kociewie: KOCIEWIE
+        kscor: "標準コーンウォール語正書法"
+        laukika: "ラウキカ"
+        lipaw: "レージア方言 リポヴァツ方言"
+        luna1918: LUNA1918
+        metelko: "メテルチッツァ"
+        monoton: "モノトニック"
+        ndyuka: "ンジュカ方言"
+        nedis: "ナティゾーネ方言"
+        njiva: "ニヴァ方言"
+        nulik: "現代ヴォラピュク語"
+        osojs: "オゼアッコ/オソヤネ方言"
+        oxendict: OXENDICT
+        pamaka: "パマカ方言"
+        petr1708: PETR1708
+        pinyin: "ピン音(ローマ字表記法)"
+        polyton: "ポリトニック"
+        posix: "コンピュータ"
+        puter: "プーター"
+        revised: "改訂版"
+        rigik: "古典ヴォラピュク語"
+        rozaj: "レシア方言"
+        rumgr: RUMGR
+        saaho: "サホ語"
+        scotland: "スコットランド標準英語"
+        scouse: "リバプール方言"
+        solba: "ストルヴィッツァ/ソルビツァ方言"
+        sotav: SOTAV
+        surmiran: "スルミラン"
+        sursilv: "スルシルヴァン"
+        sutsilv: "ストシルヴァン"
+        tarask: "タラシケヴィツァ正書法"
+        uccor: "統一コーンウォール語正書法"
+        ucrcor: "改訂統一コーンウォール語正書法"
+        ulster: "アルスター"
+        unifon: UNIFON
+        vaidika: "ヴァイディカ"
+        valencia: "バレンシア方言"
+        vallader: "ヴァラダー"
+        wadegile: "ウェード式ローマ字表記法"
+    units:
+      long:
+        per:
+          compound_unit_pattern: "{0}毎{1}"
+        acceleration_g_force:
+          display_name: G フォース
+          unit_pattern_count_other: "{0} G フォース"
+        acceleration_meter_per_second_squared:
+          display_name: "メートル毎秒毎秒"
+          unit_pattern_count_other: "{0} メートル毎秒毎秒"
+        angle_revolution:
+          display_name: "回転"
+          unit_pattern_count_other: "{0} 回転"
+        angle_radian:
+          display_name: "ラジアン"
+          unit_pattern_count_other: "{0} ラジアン"
+        angle_degree:
+          display_name: "度"
+          unit_pattern_count_other: "{0} 度"
+        angle_arc_minute:
+          display_name: "分"
+          unit_pattern_count_other: "{0} 分"
+        angle_arc_second:
+          display_name: "秒"
+          unit_pattern_count_other: "{0} 秒"
+        area_square_kilometer:
+          display_name: "平方キロメートル"
+          unit_pattern_count_other: "{0} 平方キロメートル"
+        area_hectare:
+          display_name: "ヘクタール"
+          unit_pattern_count_other: "{0} ヘクタール"
+        area_square_meter:
+          display_name: "平方メートル"
+          unit_pattern_count_other: "{0} 平方メートル"
+          per_unit_pattern: "{0}/平方メートル"
+        area_square_centimeter:
+          display_name: "平方センチメートル"
+          unit_pattern_count_other: "{0} 平方センチメートル"
+          per_unit_pattern: "{0}/平方センチメートル"
+        area_square_mile:
+          display_name: "平方マイル"
+          unit_pattern_count_other: "{0} 平方マイル"
+        area_acre:
+          display_name: "エーカー"
+          unit_pattern_count_other: "{0} エーカー"
+        area_square_yard:
+          display_name: "平方ヤード"
+          unit_pattern_count_other: "{0} 平方ヤード"
+        area_square_foot:
+          display_name: "平方フィート"
+          unit_pattern_count_other: "{0} 平方フィート"
+        area_square_inch:
+          display_name: "平方インチ"
+          unit_pattern_count_other: "{0} 平方インチ"
+          per_unit_pattern: "{0}/平方インチ"
+        consumption_liter_per_kilometer:
+          display_name: "リットル毎キロメートル"
+          unit_pattern_count_other: "{0} リットル毎キロメートル"
+        consumption_liter_per_100kilometers:
+          display_name: "リットル毎100キロメートル"
+          unit_pattern_count_other: "{0} リットル毎100キロメートル"
+        consumption_mile_per_gallon:
+          display_name: "マイル毎ガロン"
+          unit_pattern_count_other: "{0} マイル毎ガロン"
+        digital_terabyte:
+          display_name: "テラバイト"
+          unit_pattern_count_other: "{0} テラバイト"
+        digital_terabit:
+          display_name: "テラビット"
+          unit_pattern_count_other: "{0} テラビット"
+        digital_gigabyte:
+          display_name: "ギガバイト"
+          unit_pattern_count_other: "{0} ギガバイト"
+        digital_gigabit:
+          display_name: "ギガビット"
+          unit_pattern_count_other: "{0} ギガビット"
+        digital_megabyte:
+          display_name: "メガバイト"
+          unit_pattern_count_other: "{0} メガバイト"
+        digital_megabit:
+          display_name: "メガビット"
+          unit_pattern_count_other: "{0} メガビット"
+        digital_kilobyte:
+          display_name: "キロバイト"
+          unit_pattern_count_other: "{0} キロバイト"
+        digital_kilobit:
+          display_name: "キロビット"
+          unit_pattern_count_other: "{0} キロビット"
+        digital_byte:
+          display_name: "バイト"
+          unit_pattern_count_other: "{0} バイト"
+        digital_bit:
+          display_name: "ビット"
+          unit_pattern_count_other: "{0} ビット"
+        duration_century:
+          display_name: "世紀"
+          unit_pattern_count_other: "{0} 世紀"
+        duration_year:
+          display_name: "年"
+          unit_pattern_count_other: "{0} 年"
+          per_unit_pattern: "{0}/年"
+        duration_month:
+          display_name: "か月"
+          unit_pattern_count_other: "{0} か月"
+          per_unit_pattern: "{0}/月"
+        duration_week:
+          display_name: "週間"
+          unit_pattern_count_other: "{0} 週間"
+          per_unit_pattern: "{0}/週"
+        duration_day:
+          display_name: "日"
+          unit_pattern_count_other: "{0} 日"
+          per_unit_pattern: "{0}/日"
+        duration_hour:
+          display_name: "時間"
+          unit_pattern_count_other: "{0} 時間"
+          per_unit_pattern: "{0}/時間"
+        duration_minute:
+          display_name: "分"
+          unit_pattern_count_other: "{0} 分"
+          per_unit_pattern: "{0}/分"
+        duration_second:
+          display_name: "秒"
+          unit_pattern_count_other: "{0} 秒"
+          per_unit_pattern: "{0}/秒"
+        duration_millisecond:
+          display_name: "ミリ秒"
+          unit_pattern_count_other: "{0} ミリ秒"
+        duration_microsecond:
+          display_name: "マイクロ秒"
+          unit_pattern_count_other: "{0} マイクロ秒"
+        duration_nanosecond:
+          display_name: "ナノ秒"
+          unit_pattern_count_other: "{0} ナノ秒"
+        electric_ampere:
+          display_name: "アンペア"
+          unit_pattern_count_other: "{0} アンペア"
+        electric_milliampere:
+          display_name: "ミリアンペア"
+          unit_pattern_count_other: "{0} ミリアンペア"
+        electric_ohm:
+          display_name: "オーム"
+          unit_pattern_count_other: "{0} オーム"
+        electric_volt:
+          display_name: "ボルト"
+          unit_pattern_count_other: "{0} ボルト"
+        energy_kilocalorie:
+          display_name: "キロカロリー"
+          unit_pattern_count_other: "{0} キロカロリー"
+        energy_calorie:
+          display_name: "カロリー"
+          unit_pattern_count_other: "{0} カロリー"
+        energy_foodcalorie:
+          display_name: "カロリー"
+          unit_pattern_count_other: "{0} カロリー"
+        energy_kilojoule:
+          display_name: "キロジュール"
+          unit_pattern_count_other: "{0} キロジュール"
+        energy_joule:
+          display_name: "ジュール"
+          unit_pattern_count_other: "{0} ジュール"
+        energy_kilowatt_hour:
+          display_name: "キロワット時"
+          unit_pattern_count_other: "{0} キロワット時"
+        frequency_gigahertz:
+          display_name: "ギガヘルツ"
+          unit_pattern_count_other: "{0} ギガヘルツ"
+        frequency_megahertz:
+          display_name: "メガヘルツ"
+          unit_pattern_count_other: "{0} メガヘルツ"
+        frequency_kilohertz:
+          display_name: "キロヘルツ"
+          unit_pattern_count_other: "{0} キロヘルツ"
+        frequency_hertz:
+          display_name: "ヘルツ"
+          unit_pattern_count_other: "{0} ヘルツ"
+        length_kilometer:
+          display_name: "キロメートル"
+          unit_pattern_count_other: "{0} キロメートル"
+          per_unit_pattern: "{0}/キロメートル"
+        length_meter:
+          display_name: "メートル"
+          unit_pattern_count_other: "{0} メートル"
+          per_unit_pattern: "{0}/メートル"
+        length_decimeter:
+          display_name: "デシメートル"
+          unit_pattern_count_other: "{0} デシメートル"
+        length_centimeter:
+          display_name: "センチメートル"
+          unit_pattern_count_other: "{0} センチメートル"
+          per_unit_pattern: "{0}/センチメートル"
+        length_millimeter:
+          display_name: "ミリメートル"
+          unit_pattern_count_other: "{0} ミリメートル"
+        length_micrometer:
+          display_name: "マイクロメートル"
+          unit_pattern_count_other: "{0} マイクロメートル"
+        length_nanometer:
+          display_name: "ナノメートル"
+          unit_pattern_count_other: "{0} ナノメートル"
+        length_picometer:
+          display_name: "ピコメートル"
+          unit_pattern_count_other: "{0} ピコメートル"
+        length_mile:
+          display_name: "マイル"
+          unit_pattern_count_other: "{0} マイル"
+        length_yard:
+          display_name: "ヤード"
+          unit_pattern_count_other: "{0} ヤード"
+        length_foot:
+          display_name: "フィート"
+          unit_pattern_count_other: "{0} フィート"
+          per_unit_pattern: "{0}/フィート"
+        length_inch:
+          display_name: "インチ"
+          unit_pattern_count_other: "{0} インチ"
+          per_unit_pattern: "{0}/インチ"
+        length_parsec:
+          display_name: "パーセク"
+          unit_pattern_count_other: "{0} パーセク"
+        length_light_year:
+          display_name: "光年"
+          unit_pattern_count_other: "{0} 光年"
+        length_astronomical_unit:
+          display_name: "天文単位"
+          unit_pattern_count_other: "{0} 天文単位"
+        length_furlong:
+          display_name: "ハロン"
+          unit_pattern_count_other: "{0} ハロン"
+        length_fathom:
+          display_name: "ファゾム"
+          unit_pattern_count_other: "{0} ファゾム"
+        length_nautical_mile:
+          display_name: "海里"
+          unit_pattern_count_other: "{0} 海里"
+        length_mile_scandinavian:
+          display_name: "スカンジナビアマイル"
+          unit_pattern_count_other: "{0} スカンジナビアマイル"
+        light_lux:
+          display_name: "ルクス"
+          unit_pattern_count_other: "{0} ルクス"
+        mass_metric_ton:
+          display_name: "メトリックトン"
+          unit_pattern_count_other: "{0} メトリックトン"
+        mass_kilogram:
+          display_name: "キログラム"
+          unit_pattern_count_other: "{0} キログラム"
+          per_unit_pattern: "{0}/キログラム"
+        mass_gram:
+          display_name: "グラム"
+          unit_pattern_count_other: "{0} グラム"
+          per_unit_pattern: "{0}/グラム"
+        mass_milligram:
+          display_name: "ミリグラム"
+          unit_pattern_count_other: "{0} ミリグラム"
+        mass_microgram:
+          display_name: "マイクログラム"
+          unit_pattern_count_other: "{0} マイクログラム"
+        mass_ton:
+          display_name: "トン"
+          unit_pattern_count_other: "{0} トン"
+        mass_stone:
+          display_name: "ストーン"
+          unit_pattern_count_other: "{0} ストーン"
+        mass_pound:
+          display_name: "ポンド"
+          unit_pattern_count_other: "{0} ポンド"
+          per_unit_pattern: "{0}/ポンド"
+        mass_ounce:
+          display_name: "オンス"
+          unit_pattern_count_other: "{0} オンス"
+          per_unit_pattern: "{0}/オンス"
+        mass_ounce_troy:
+          display_name: "トロイオンス"
+          unit_pattern_count_other: "{0} トロイオンス"
+        mass_carat:
+          display_name: "カラット"
+          unit_pattern_count_other: "{0} カラット"
+        power_gigawatt:
+          display_name: "ギガワット"
+          unit_pattern_count_other: "{0} ギガワット"
+        power_megawatt:
+          display_name: "メガワット"
+          unit_pattern_count_other: "{0} メガワット"
+        power_kilowatt:
+          display_name: "キロワット"
+          unit_pattern_count_other: "{0} キロワット"
+        power_watt:
+          display_name: "ワット"
+          unit_pattern_count_other: "{0} ワット"
+        power_milliwatt:
+          display_name: "ミリワット"
+          unit_pattern_count_other: "{0} ミリワット"
+        power_horsepower:
+          display_name: "馬力"
+          unit_pattern_count_other: "{0} 馬力"
+        pressure_hectopascal:
+          display_name: "ヘクトパスカル"
+          unit_pattern_count_other: "{0} ヘクトパスカル"
+        pressure_millimeter_of_mercury:
+          display_name: "水銀柱ミリメートル"
+          unit_pattern_count_other: "{0} 水銀柱ミリメートル"
+        pressure_pound_per_square_inch:
+          display_name: "重量ポンド毎平方インチ"
+          unit_pattern_count_other: "{0} 重量ポンド毎平方インチ"
+        pressure_inch_hg:
+          display_name: "水銀柱インチ"
+          unit_pattern_count_other: "{0} 水銀柱インチ"
+        pressure_millibar:
+          display_name: "ミリバール"
+          unit_pattern_count_other: "{0} ミリバール"
+        proportion_karat:
+          display_name: "金"
+          unit_pattern_count_other: "{0} 金"
+        speed_kilometer_per_hour:
+          display_name: "キロメートル毎時"
+          unit_pattern_count_other: "時速 {0} キロメートル"
+        speed_meter_per_second:
+          display_name: "メートル毎秒"
+          unit_pattern_count_other: "秒速 {0} メートル"
+        speed_mile_per_hour:
+          display_name: "マイル毎時"
+          unit_pattern_count_other: "時速 {0} マイル"
+        speed_knot:
+          display_name: "ノット"
+          unit_pattern_count_other: "{0} ノット"
+        temperature_generic:
+          display_name: "度"
+          unit_pattern_count_other: "{0}度"
+        temperature_celsius:
+          display_name: "摂氏"
+          unit_pattern_count_other: "摂氏 {0} 度"
+        temperature_fahrenheit:
+          display_name: "華氏"
+          unit_pattern_count_other: "華氏 {0} 度"
+        temperature_kelvin:
+          display_name: "ケルビン"
+          unit_pattern_count_other: "{0} ケルビン"
+        volume_cubic_kilometer:
+          display_name: "立方キロメートル"
+          unit_pattern_count_other: "{0} 立方キロメートル"
+        volume_cubic_meter:
+          display_name: "立方メートル"
+          unit_pattern_count_other: "{0} 立方メートル"
+          per_unit_pattern: "{0}/立方メートル"
+        volume_cubic_centimeter:
+          display_name: "立方センチメートル"
+          unit_pattern_count_other: "{0} 立方センチメートル"
+          per_unit_pattern: "{0}/立方センチメートル"
+        volume_cubic_mile:
+          display_name: "立方マイル"
+          unit_pattern_count_other: "{0} 立方マイル"
+        volume_cubic_yard:
+          display_name: "立方ヤード"
+          unit_pattern_count_other: "{0} 立方ヤード"
+        volume_cubic_foot:
+          display_name: "立方フィート"
+          unit_pattern_count_other: "{0} 立方フィート"
+        volume_cubic_inch:
+          display_name: "立方インチ"
+          unit_pattern_count_other: "{0} 立方インチ"
+        volume_megaliter:
+          display_name: "メガリットル"
+          unit_pattern_count_other: "{0} メガリットル"
+        volume_hectoliter:
+          display_name: "ヘクトリットル"
+          unit_pattern_count_other: "{0} ヘクトリットル"
+        volume_liter:
+          display_name: "リットル"
+          unit_pattern_count_other: "{0} リットル"
+          per_unit_pattern: "{0}/リットル"
+        volume_deciliter:
+          display_name: "デシリットル"
+          unit_pattern_count_other: "{0} デシリットル"
+        volume_centiliter:
+          display_name: "センチリットル"
+          unit_pattern_count_other: "{0} センチリットル"
+        volume_milliliter:
+          display_name: "ミリリットル"
+          unit_pattern_count_other: "{0} ミリリットル"
+        volume_pint_metric:
+          display_name: "メトリックパイント"
+          unit_pattern_count_other: "{0} メトリックパイント"
+        volume_cup_metric:
+          display_name: "メトリックカップ"
+          unit_pattern_count_other: "{0} メトリックカップ"
+        volume_acre_foot:
+          display_name: "エーカーフィート"
+          unit_pattern_count_other: "{0} エーカーフィート"
+        volume_bushel:
+          display_name: "ブッシェル"
+          unit_pattern_count_other: "{0} ブッシェル"
+        volume_gallon:
+          display_name: "ガロン"
+          unit_pattern_count_other: "{0} ガロン"
+          per_unit_pattern: "{0}/ガロン"
+        volume_quart:
+          display_name: "クォート"
+          unit_pattern_count_other: "{0} クォート"
+        volume_pint:
+          display_name: "パイント"
+          unit_pattern_count_other: "{0} パイント"
+        volume_cup:
+          display_name: "カップ"
+          unit_pattern_count_other: "{0} カップ"
+        volume_fluid_ounce:
+          display_name: "液量オンス"
+          unit_pattern_count_other: "{0} 液量オンス"
+        volume_tablespoon:
+          display_name: "大さじ"
+          unit_pattern_count_other: "大さじ {0}"
+        volume_teaspoon:
+          display_name: "小さじ"
+          unit_pattern_count_other: "小さじ {0}"
+        coordinate_unit:
+          east: "東経{0}"
+          north: "北緯{0}"
+          south: "南緯{0}"
+          west: "西経{0}"
+      short:
+        per:
+          compound_unit_pattern: "{0}/{1}"
+        acceleration_g_force:
+          display_name: G フォース
+          unit_pattern_count_other: "{0} G"
+        acceleration_meter_per_second_squared:
+          display_name: "メートル毎秒毎秒"
+          unit_pattern_count_other: "{0} m/s²"
+        angle_revolution:
+          display_name: rev
+          unit_pattern_count_other: "{0} rev"
+        angle_radian:
+          display_name: "ラジアン"
+          unit_pattern_count_other: "{0} rad"
+        angle_degree:
+          display_name: "度"
+          unit_pattern_count_other: "{0} 度"
+        angle_arc_minute:
+          display_name: "分"
+          unit_pattern_count_other: "{0} 分"
+        angle_arc_second:
+          display_name: "秒"
+          unit_pattern_count_other: "{0} 秒"
+        area_square_kilometer:
+          display_name: km²
+          unit_pattern_count_other: "{0} km²"
+        area_hectare:
+          display_name: "ヘクタール"
+          unit_pattern_count_other: "{0} ha"
+        area_square_meter:
+          display_name: m²
+          unit_pattern_count_other: "{0} m²"
+          per_unit_pattern: "{0}/m²"
+        area_square_centimeter:
+          display_name: cm²
+          unit_pattern_count_other: "{0} cm²"
+          per_unit_pattern: "{0}/cm²"
+        area_square_mile:
+          display_name: "平方マイル"
+          unit_pattern_count_other: "{0} mi²"
+        area_acre:
+          display_name: "エーカー"
+          unit_pattern_count_other: "{0} ac"
+        area_square_yard:
+          display_name: "平方ヤード"
+          unit_pattern_count_other: "{0} yd²"
+        area_square_foot:
+          display_name: "平方フィート"
+          unit_pattern_count_other: "{0} ft²"
+        area_square_inch:
+          display_name: "平方インチ"
+          unit_pattern_count_other: "{0} in²"
+          per_unit_pattern: "{0}/in²"
+        consumption_liter_per_kilometer:
+          display_name: L/km
+          unit_pattern_count_other: "{0} L/km"
+        consumption_liter_per_100kilometers:
+          display_name: L/100km
+          unit_pattern_count_other: "{0} L/100km"
+        consumption_mile_per_gallon:
+          display_name: "マイル/ガロン"
+          unit_pattern_count_other: "{0} mpg"
+        digital_terabyte:
+          display_name: "テラバイト"
+          unit_pattern_count_other: "{0} TB"
+        digital_terabit:
+          display_name: "テラビット"
+          unit_pattern_count_other: "{0} Tb"
+        digital_gigabyte:
+          display_name: GB
+          unit_pattern_count_other: "{0} GB"
+        digital_gigabit:
+          display_name: "ギガビット"
+          unit_pattern_count_other: "{0} Gb"
+        digital_megabyte:
+          display_name: MB
+          unit_pattern_count_other: "{0} MB"
+        digital_megabit:
+          display_name: "メガビット"
+          unit_pattern_count_other: "{0} Mb"
+        digital_kilobyte:
+          display_name: KB
+          unit_pattern_count_other: "{0} KB"
+        digital_kilobit:
+          display_name: "キロビット"
+          unit_pattern_count_other: "{0} kb"
+        digital_byte:
+          display_name: "バイト"
+          unit_pattern_count_other: "{0} byte"
+        digital_bit:
+          display_name: "ビット"
+          unit_pattern_count_other: "{0} bit"
+        duration_century:
+          display_name: c
+          unit_pattern_count_other: "{0} c"
+        duration_year:
+          display_name: "年"
+          unit_pattern_count_other: "{0} 年"
+          per_unit_pattern: "{0}/年"
+        duration_month:
+          display_name: "か月"
+          unit_pattern_count_other: "{0} か月"
+          per_unit_pattern: "{0}/月"
+        duration_week:
+          display_name: "週間"
+          unit_pattern_count_other: "{0} 週間"
+          per_unit_pattern: "{0}/週"
+        duration_day:
+          display_name: "日"
+          unit_pattern_count_other: "{0} 日"
+          per_unit_pattern: "{0}/日"
+        duration_hour:
+          display_name: "時間"
+          unit_pattern_count_other: "{0} 時間"
+          per_unit_pattern: "{0}/時間"
+        duration_minute:
+          display_name: "分"
+          unit_pattern_count_other: "{0} 分"
+          per_unit_pattern: "{0}/分"
+        duration_second:
+          display_name: "秒"
+          unit_pattern_count_other: "{0} 秒"
+          per_unit_pattern: "{0}/秒"
+        duration_millisecond:
+          display_name: "ミリ秒"
+          unit_pattern_count_other: "{0} ms"
+        duration_microsecond:
+          display_name: "マイクロ秒"
+          unit_pattern_count_other: "{0} μs"
+        duration_nanosecond:
+          display_name: "ナノ秒"
+          unit_pattern_count_other: "{0} ns"
+        electric_ampere:
+          display_name: "アンペア"
+          unit_pattern_count_other: "{0} A"
+        electric_milliampere:
+          display_name: "ミリアンペア"
+          unit_pattern_count_other: "{0} mA"
+        electric_ohm:
+          display_name: "オーム"
+          unit_pattern_count_other: "{0} Ω"
+        electric_volt:
+          display_name: "ボルト"
+          unit_pattern_count_other: "{0} V"
+        energy_kilocalorie:
+          display_name: kcal
+          unit_pattern_count_other: "{0} kcal"
+        energy_calorie:
+          display_name: cal
+          unit_pattern_count_other: "{0} cal"
+        energy_foodcalorie:
+          display_name: cal
+          unit_pattern_count_other: "{0} cal"
+        energy_kilojoule:
+          display_name: "キロジュール"
+          unit_pattern_count_other: "{0} kJ"
+        energy_joule:
+          display_name: "ジュール"
+          unit_pattern_count_other: "{0} J"
+        energy_kilowatt_hour:
+          display_name: "キロワット時"
+          unit_pattern_count_other: "{0} kWh"
+        frequency_gigahertz:
+          display_name: "ギガヘルツ"
+          unit_pattern_count_other: "{0} GHz"
+        frequency_megahertz:
+          display_name: "メガヘルツ"
+          unit_pattern_count_other: "{0} MHz"
+        frequency_kilohertz:
+          display_name: kHz
+          unit_pattern_count_other: "{0} kHz"
+        frequency_hertz:
+          display_name: Hz
+          unit_pattern_count_other: "{0} Hz"
+        length_kilometer:
+          display_name: km
+          unit_pattern_count_other: "{0} km"
+          per_unit_pattern: "{0}/km"
+        length_meter:
+          display_name: m
+          unit_pattern_count_other: "{0} m"
+          per_unit_pattern: "{0}/m"
+        length_decimeter:
+          display_name: "デシメートル"
+          unit_pattern_count_other: "{0} dm"
+        length_centimeter:
+          display_name: cm
+          unit_pattern_count_other: "{0} cm"
+          per_unit_pattern: "{0}/cm"
+        length_millimeter:
+          display_name: mm
+          unit_pattern_count_other: "{0} mm"
+        length_micrometer:
+          display_name: "マイクロメートル"
+          unit_pattern_count_other: "{0} µm"
+        length_nanometer:
+          display_name: "ナノメートル"
+          unit_pattern_count_other: "{0} nm"
+        length_picometer:
+          display_name: "ピコメートル"
+          unit_pattern_count_other: "{0} pm"
+        length_mile:
+          display_name: "マイル"
+          unit_pattern_count_other: "{0} mi"
+        length_yard:
+          display_name: "ヤード"
+          unit_pattern_count_other: "{0} yd"
+        length_foot:
+          display_name: "フィート"
+          unit_pattern_count_other: "{0} ft"
+          per_unit_pattern: "{0}/ft"
+        length_inch:
+          display_name: "インチ"
+          unit_pattern_count_other: "{0} in"
+          per_unit_pattern: "{0}/in"
+        length_parsec:
+          display_name: "パーセク"
+          unit_pattern_count_other: "{0} pc"
+        length_light_year:
+          display_name: "光年"
+          unit_pattern_count_other: "{0} 光年"
+        length_astronomical_unit:
+          display_name: "天文単位"
+          unit_pattern_count_other: "{0} au"
+        length_furlong:
+          display_name: "ハロン"
+          unit_pattern_count_other: "{0} fur"
+        length_fathom:
+          display_name: "ファゾム"
+          unit_pattern_count_other: "{0} fm"
+        length_nautical_mile:
+          display_name: "海里"
+          unit_pattern_count_other: "{0} 海里"
+        length_mile_scandinavian:
+          display_name: "スカンジナビアマイル"
+          unit_pattern_count_other: "{0} smi"
+        light_lux:
+          display_name: "ルクス"
+          unit_pattern_count_other: "{0} lx"
+        mass_metric_ton:
+          display_name: "メトリックトン"
+          unit_pattern_count_other: "{0} MT"
+        mass_kilogram:
+          display_name: kg
+          unit_pattern_count_other: "{0} kg"
+          per_unit_pattern: "{0}/kg"
+        mass_gram:
+          display_name: "グラム"
+          unit_pattern_count_other: "{0} g"
+          per_unit_pattern: "{0}/g"
+        mass_milligram:
+          display_name: mg
+          unit_pattern_count_other: "{0} mg"
+        mass_microgram:
+          display_name: "マイクログラム"
+          unit_pattern_count_other: "{0} µg"
+        mass_ton:
+          display_name: "トン"
+          unit_pattern_count_other: "{0} t"
+        mass_stone:
+          display_name: "ストーン"
+          unit_pattern_count_other: "{0} st"
+        mass_pound:
+          display_name: "ポンド"
+          unit_pattern_count_other: "{0} lb"
+          per_unit_pattern: "{0}/lb"
+        mass_ounce:
+          display_name: "オンス"
+          unit_pattern_count_other: "{0} oz"
+          per_unit_pattern: "{0}/oz"
+        mass_ounce_troy:
+          display_name: "トロイオンス"
+          unit_pattern_count_other: "{0} oz t"
+        mass_carat:
+          display_name: "カラット"
+          unit_pattern_count_other: "{0} ct"
+        power_gigawatt:
+          display_name: "ギガワット"
+          unit_pattern_count_other: "{0} GW"
+        power_megawatt:
+          display_name: "メガワット"
+          unit_pattern_count_other: "{0} MW"
+        power_kilowatt:
+          display_name: "キロワット"
+          unit_pattern_count_other: "{0} kW"
+        power_watt:
+          display_name: "ワット"
+          unit_pattern_count_other: "{0} W"
+        power_milliwatt:
+          display_name: "ミリワット"
+          unit_pattern_count_other: "{0} mW"
+        power_horsepower:
+          display_name: "馬力"
+          unit_pattern_count_other: "{0} 馬力"
+        pressure_hectopascal:
+          display_name: hPa
+          unit_pattern_count_other: "{0} hPa"
+        pressure_millimeter_of_mercury:
+          display_name: "水銀柱ミリメートル"
+          unit_pattern_count_other: "{0} mm Hg"
+        pressure_pound_per_square_inch:
+          display_name: "重量ポンド毎平方インチ"
+          unit_pattern_count_other: "{0} psi"
+        pressure_inch_hg:
+          display_name: "水銀柱インチ"
+          unit_pattern_count_other: "{0} inHg"
+        pressure_millibar:
+          display_name: "ミリバール"
+          unit_pattern_count_other: "{0} mb"
+        proportion_karat:
+          display_name: "金"
+          unit_pattern_count_other: "{0} 金"
+        speed_kilometer_per_hour:
+          display_name: km/h
+          unit_pattern_count_other: "{0} km/h"
+        speed_meter_per_second:
+          display_name: m/s
+          unit_pattern_count_other: "{0} m/s"
+        speed_mile_per_hour:
+          display_name: "マイル毎時"
+          unit_pattern_count_other: "{0} mi/h"
+        speed_knot:
+          display_name: kn
+          unit_pattern_count_other: "{0} kn"
+        temperature_generic:
+          display_name: "°"
+          unit_pattern_count_other: "{0}°"
+        temperature_celsius:
+          display_name: "°C"
+          unit_pattern_count_other: "{0}°C"
+        temperature_fahrenheit:
+          display_name: "華氏"
+          unit_pattern_count_other: "{0}°F"
+        temperature_kelvin:
+          display_name: K
+          unit_pattern_count_other: "{0} K"
+        volume_cubic_kilometer:
+          display_name: km³
+          unit_pattern_count_other: "{0} km³"
+        volume_cubic_meter:
+          display_name: m³
+          unit_pattern_count_other: "{0} m³"
+          per_unit_pattern: "{0}/m³"
+        volume_cubic_centimeter:
+          display_name: cm³
+          unit_pattern_count_other: "{0} cm³"
+          per_unit_pattern: "{0}/cm³"
+        volume_cubic_mile:
+          display_name: "立方マイル"
+          unit_pattern_count_other: "{0} mi³"
+        volume_cubic_yard:
+          display_name: "立方ヤード"
+          unit_pattern_count_other: "{0} yd³"
+        volume_cubic_foot:
+          display_name: "立方フィート"
+          unit_pattern_count_other: "{0} ft³"
+        volume_cubic_inch:
+          display_name: "立方インチ"
+          unit_pattern_count_other: "{0} in³"
+        volume_megaliter:
+          display_name: "メガリットル"
+          unit_pattern_count_other: "{0} ML"
+        volume_hectoliter:
+          display_name: "ヘクトリットル"
+          unit_pattern_count_other: "{0} hL"
+        volume_liter:
+          display_name: "リットル"
+          unit_pattern_count_other: "{0} l"
+          per_unit_pattern: "{0}/l"
+        volume_deciliter:
+          display_name: "デシリットル"
+          unit_pattern_count_other: "{0} dL"
+        volume_centiliter:
+          display_name: "センチリットル"
+          unit_pattern_count_other: "{0} cL"
+        volume_milliliter:
+          display_name: ml
+          unit_pattern_count_other: "{0} ml"
+        volume_pint_metric:
+          display_name: mpt
+          unit_pattern_count_other: "{0} mpt"
+        volume_cup_metric:
+          display_name: mcup
+          unit_pattern_count_other: "{0} mc"
+        volume_acre_foot:
+          display_name: "エーカーフィート"
+          unit_pattern_count_other: "{0} ac ft"
+        volume_bushel:
+          display_name: "ブッシェル"
+          unit_pattern_count_other: "{0} bu"
+        volume_gallon:
+          display_name: "ガロン"
+          unit_pattern_count_other: "{0} gal"
+          per_unit_pattern: "{0}/gal"
+        volume_quart:
+          display_name: "クォート"
+          unit_pattern_count_other: "{0} qt"
+        volume_pint:
+          display_name: "パイント"
+          unit_pattern_count_other: "{0} pt"
+        volume_cup:
+          display_name: "カップ"
+          unit_pattern_count_other: "{0} カップ"
+        volume_fluid_ounce:
+          display_name: "液量オンス"
+          unit_pattern_count_other: "{0} fl oz"
+        volume_tablespoon:
+          display_name: "大さじ"
+          unit_pattern_count_other: "大さじ {0}"
+        volume_teaspoon:
+          display_name: "小さじ"
+          unit_pattern_count_other: "小さじ {0}"
+        coordinate_unit:
+          east: "{0}E"
+          north: "{0}N"
+          south: "{0}S"
+          west: "{0}W"
+      narrow:
+        per:
+          compound_unit_pattern: "{0}/{1}"
+        acceleration_g_force:
+          display_name: G フォース
+          unit_pattern_count_other: "{0}G"
+        acceleration_meter_per_second_squared:
+          display_name: "メートル毎秒毎秒"
+          unit_pattern_count_other: "{0}m/s²"
+        angle_revolution:
+          display_name: rev
+          unit_pattern_count_other: "{0} rev"
+        angle_radian:
+          display_name: "ラジアン"
+          unit_pattern_count_other: "{0}rad"
+        angle_degree:
+          display_name: "度"
+          unit_pattern_count_other: "{0}°"
+        angle_arc_minute:
+          display_name: "分"
+          unit_pattern_count_other: "{0}′"
+        angle_arc_second:
+          display_name: "秒"
+          unit_pattern_count_other: "{0}″"
+        area_square_kilometer:
+          display_name: km²
+          unit_pattern_count_other: "{0}km²"
+        area_hectare:
+          display_name: "ヘクタール"
+          unit_pattern_count_other: "{0}ha"
+        area_square_meter:
+          display_name: m²
+          unit_pattern_count_other: "{0}m²"
+          per_unit_pattern: "{0}/m²"
+        area_square_centimeter:
+          display_name: cm²
+          unit_pattern_count_other: "{0}cm²"
+          per_unit_pattern: "{0}/cm²"
+        area_square_mile:
+          display_name: "平方マイル"
+          unit_pattern_count_other: "{0}mi²"
+        area_acre:
+          display_name: "エーカー"
+          unit_pattern_count_other: "{0}ac"
+        area_square_yard:
+          display_name: "平方ヤード"
+          unit_pattern_count_other: "{0}yd²"
+        area_square_foot:
+          display_name: "平方フィート"
+          unit_pattern_count_other: "{0}ft²"
+        area_square_inch:
+          display_name: "平方インチ"
+          unit_pattern_count_other: "{0}in²"
+          per_unit_pattern: "{0}/in²"
+        consumption_liter_per_kilometer:
+          display_name: L/km
+          unit_pattern_count_other: "{0}L/km"
+        consumption_liter_per_100kilometers:
+          display_name: L/100km
+          unit_pattern_count_other: "{0}L/100km"
+        consumption_mile_per_gallon:
+          display_name: "マイル/ガロン"
+          unit_pattern_count_other: "{0}mpg"
+        digital_terabyte:
+          display_name: "テラバイト"
+          unit_pattern_count_other: "{0}TB"
+        digital_terabit:
+          display_name: "テラビット"
+          unit_pattern_count_other: "{0}Tb"
+        digital_gigabyte:
+          display_name: GB
+          unit_pattern_count_other: "{0}GB"
+        digital_gigabit:
+          display_name: "ギガビット"
+          unit_pattern_count_other: "{0}Gb"
+        digital_megabyte:
+          display_name: MB
+          unit_pattern_count_other: "{0}MB"
+        digital_megabit:
+          display_name: "メガビット"
+          unit_pattern_count_other: "{0}Mb"
+        digital_kilobyte:
+          display_name: KB
+          unit_pattern_count_other: "{0}KB"
+        digital_kilobit:
+          display_name: "キロビット"
+          unit_pattern_count_other: "{0}kb"
+        digital_byte:
+          display_name: "バイト"
+          unit_pattern_count_other: "{0}B"
+        digital_bit:
+          display_name: "ビット"
+          unit_pattern_count_other: "{0}b"
+        duration_century:
+          display_name: c
+          unit_pattern_count_other: "{0} c"
+        duration_year:
+          display_name: "年"
+          unit_pattern_count_other: "{0}年"
+          per_unit_pattern: "{0}/年"
+        duration_month:
+          display_name: "か月"
+          unit_pattern_count_other: "{0}か月"
+          per_unit_pattern: "{0}/月"
+        duration_week:
+          display_name: "週間"
+          unit_pattern_count_other: "{0}週間"
+          per_unit_pattern: "{0}/週"
+        duration_day:
+          display_name: "日"
+          unit_pattern_count_other: "{0}日"
+          per_unit_pattern: "{0}/日"
+        duration_hour:
+          display_name: "時間"
+          unit_pattern_count_other: "{0}時間"
+          per_unit_pattern: "{0}/時間"
+        duration_minute:
+          display_name: "分"
+          unit_pattern_count_other: "{0}分"
+          per_unit_pattern: "{0}/分"
+        duration_second:
+          display_name: "秒"
+          unit_pattern_count_other: "{0}秒"
+          per_unit_pattern: "{0}/秒"
+        duration_millisecond:
+          display_name: ms
+          unit_pattern_count_other: "{0}ms"
+        duration_microsecond:
+          display_name: "µs"
+          unit_pattern_count_other: "{0}μs"
+        duration_nanosecond:
+          display_name: ns
+          unit_pattern_count_other: "{0}ns"
+        electric_ampere:
+          display_name: "アンペア"
+          unit_pattern_count_other: "{0}A"
+        electric_milliampere:
+          display_name: "ミリアンペア"
+          unit_pattern_count_other: "{0}mA"
+        electric_ohm:
+          display_name: "オーム"
+          unit_pattern_count_other: "{0}Ω"
+        electric_volt:
+          display_name: "ボルト"
+          unit_pattern_count_other: "{0}V"
+        energy_kilocalorie:
+          display_name: kcal
+          unit_pattern_count_other: "{0}kcal"
+        energy_calorie:
+          display_name: cal
+          unit_pattern_count_other: "{0}calth"
+        energy_foodcalorie:
+          display_name: cal
+          unit_pattern_count_other: "{0}cal"
+        energy_kilojoule:
+          display_name: "キロジュール"
+          unit_pattern_count_other: "{0}kJ"
+        energy_joule:
+          display_name: "ジュール"
+          unit_pattern_count_other: "{0}J"
+        energy_kilowatt_hour:
+          display_name: "キロワット時"
+          unit_pattern_count_other: "{0}kWh"
+        frequency_gigahertz:
+          display_name: "ギガヘルツ"
+          unit_pattern_count_other: "{0}GHz"
+        frequency_megahertz:
+          display_name: "メガヘルツ"
+          unit_pattern_count_other: "{0}MHz"
+        frequency_kilohertz:
+          display_name: kHz
+          unit_pattern_count_other: "{0}kHz"
+        frequency_hertz:
+          display_name: Hz
+          unit_pattern_count_other: "{0}Hz"
+        length_kilometer:
+          display_name: km
+          unit_pattern_count_other: "{0}km"
+          per_unit_pattern: "{0}/km"
+        length_meter:
+          display_name: m
+          unit_pattern_count_other: "{0}m"
+          per_unit_pattern: "{0}/m"
+        length_decimeter:
+          display_name: "デシメートル"
+          unit_pattern_count_other: "{0}dm"
+        length_centimeter:
+          display_name: cm
+          unit_pattern_count_other: "{0}cm"
+          per_unit_pattern: "{0}/cm"
+        length_millimeter:
+          display_name: mm
+          unit_pattern_count_other: "{0}mm"
+        length_micrometer:
+          display_name: "マイクロメートル"
+          unit_pattern_count_other: "{0}µm"
+        length_nanometer:
+          display_name: "ナノメートル"
+          unit_pattern_count_other: "{0}nm"
+        length_picometer:
+          display_name: "ピコメートル"
+          unit_pattern_count_other: "{0}pm"
+        length_mile:
+          display_name: "マイル"
+          unit_pattern_count_other: "{0}マイル"
+        length_yard:
+          display_name: "ヤード"
+          unit_pattern_count_other: "{0}ヤード"
+        length_foot:
+          display_name: "フィート"
+          unit_pattern_count_other: "{0}′"
+          per_unit_pattern: "{0}/ft"
+        length_inch:
+          display_name: "インチ"
+          unit_pattern_count_other: "{0}″"
+          per_unit_pattern: "{0}/in"
+        length_parsec:
+          display_name: "パーセク"
+          unit_pattern_count_other: "{0}pc"
+        length_light_year:
+          display_name: "光年"
+          unit_pattern_count_other: "{0}光年"
+        length_astronomical_unit:
+          display_name: "天文単位"
+          unit_pattern_count_other: "{0}au"
+        length_furlong:
+          display_name: fur
+          unit_pattern_count_other: "{0}fur"
+        length_fathom:
+          display_name: fm
+          unit_pattern_count_other: "{0}fm"
+        length_nautical_mile:
+          display_name: "海里"
+          unit_pattern_count_other: "{0}海里"
+        length_mile_scandinavian:
+          display_name: "スカンジナビアマイル"
+          unit_pattern_count_other: "{0} smi"
+        light_lux:
+          display_name: "ルクス"
+          unit_pattern_count_other: "{0}lx"
+        mass_metric_ton:
+          display_name: "メトリックトン"
+          unit_pattern_count_other: "{0}MT"
+        mass_kilogram:
+          display_name: kg
+          unit_pattern_count_other: "{0}kg"
+          per_unit_pattern: "{0}/kg"
+        mass_gram:
+          display_name: g
+          unit_pattern_count_other: "{0}g"
+          per_unit_pattern: "{0}/g"
+        mass_milligram:
+          display_name: mg
+          unit_pattern_count_other: "{0}mg"
+        mass_microgram:
+          display_name: "マイクログラム"
+          unit_pattern_count_other: "{0}µg"
+        mass_ton:
+          display_name: "トン"
+          unit_pattern_count_other: "{0}t"
+        mass_stone:
+          display_name: st
+          unit_pattern_count_other: "{0}st"
+        mass_pound:
+          display_name: "ポンド"
+          unit_pattern_count_other: "{0}lb"
+          per_unit_pattern: "{0}/lb"
+        mass_ounce:
+          display_name: "オンス"
+          unit_pattern_count_other: "{0}oz"
+          per_unit_pattern: "{0}/oz"
+        mass_ounce_troy:
+          display_name: "トロイオンス"
+          unit_pattern_count_other: "{0}oz t"
+        mass_carat:
+          display_name: "カラット"
+          unit_pattern_count_other: "{0}ct"
+        power_gigawatt:
+          display_name: "ギガワット"
+          unit_pattern_count_other: "{0}GW"
+        power_megawatt:
+          display_name: "メガワット"
+          unit_pattern_count_other: "{0}MW"
+        power_kilowatt:
+          display_name: "キロワット"
+          unit_pattern_count_other: "{0}kW"
+        power_watt:
+          display_name: "ワット"
+          unit_pattern_count_other: "{0}W"
+        power_milliwatt:
+          display_name: "ミリワット"
+          unit_pattern_count_other: "{0}mW"
+        power_horsepower:
+          display_name: "馬力"
+          unit_pattern_count_other: "{0}hp"
+        pressure_hectopascal:
+          display_name: hPa
+          unit_pattern_count_other: "{0}hPa"
+        pressure_millimeter_of_mercury:
+          display_name: "水銀柱ミリメートル"
+          unit_pattern_count_other: "{0}mm Hg"
+        pressure_pound_per_square_inch:
+          display_name: "重量ポンド毎平方インチ"
+          unit_pattern_count_other: "{0}psi"
+        pressure_inch_hg:
+          display_name: "水銀柱インチ"
+          unit_pattern_count_other: '{0}\" Hg'
+        pressure_millibar:
+          display_name: "ミリバール"
+          unit_pattern_count_other: "{0}mb"
+        proportion_karat:
+          display_name: "金"
+          unit_pattern_count_other: "{0}K"
+        speed_kilometer_per_hour:
+          display_name: km/h
+          unit_pattern_count_other: "{0}km/h"
+        speed_meter_per_second:
+          display_name: m/s
+          unit_pattern_count_other: "{0}m/s"
+        speed_mile_per_hour:
+          display_name: "マイル毎時"
+          unit_pattern_count_other: "{0}mi/h"
+        speed_knot:
+          display_name: kn
+          unit_pattern_count_other: "{0} kn"
+        temperature_generic:
+          display_name: "°"
+          unit_pattern_count_other: "{0}°"
+        temperature_celsius:
+          display_name: "°C"
+          unit_pattern_count_other: "{0}°C"
+        temperature_fahrenheit:
+          display_name: "華氏"
+          unit_pattern_count_other: "{0}°F"
+        temperature_kelvin:
+          display_name: K
+          unit_pattern_count_other: "{0}K"
+        volume_cubic_kilometer:
+          display_name: km³
+          unit_pattern_count_other: "{0}km³"
+        volume_cubic_meter:
+          display_name: m³
+          unit_pattern_count_other: "{0}m³"
+          per_unit_pattern: "{0}/m³"
+        volume_cubic_centimeter:
+          display_name: cm³
+          unit_pattern_count_other: "{0}cm³"
+          per_unit_pattern: "{0}/cm³"
+        volume_cubic_mile:
+          display_name: "立方マイル"
+          unit_pattern_count_other: "{0}mi³"
+        volume_cubic_yard:
+          display_name: "立方ヤード"
+          unit_pattern_count_other: "{0}yd³"
+        volume_cubic_foot:
+          display_name: "立方フィート"
+          unit_pattern_count_other: "{0}ft³"
+        volume_cubic_inch:
+          display_name: "立方インチ"
+          unit_pattern_count_other: "{0}in³"
+        volume_megaliter:
+          display_name: "メガリットル"
+          unit_pattern_count_other: "{0}ML"
+        volume_hectoliter:
+          display_name: "ヘクトリットル"
+          unit_pattern_count_other: "{0}hL"
+        volume_liter:
+          display_name: l
+          unit_pattern_count_other: "{0}l"
+          per_unit_pattern: "{0}/l"
+        volume_deciliter:
+          display_name: "デシリットル"
+          unit_pattern_count_other: "{0}dL"
+        volume_centiliter:
+          display_name: "センチリットル"
+          unit_pattern_count_other: "{0}cL"
+        volume_milliliter:
+          display_name: ml
+          unit_pattern_count_other: "{0}ml"
+        volume_pint_metric:
+          display_name: mpt
+          unit_pattern_count_other: "{0} mpt"
+        volume_cup_metric:
+          display_name: mcup
+          unit_pattern_count_other: "{0} mc"
+        volume_acre_foot:
+          display_name: "エーカーフィート"
+          unit_pattern_count_other: "{0}ac ft"
+        volume_bushel:
+          display_name: bu
+          unit_pattern_count_other: "{0}bu"
+        volume_gallon:
+          display_name: "ガロン"
+          unit_pattern_count_other: "{0}gal"
+          per_unit_pattern: "{0}/gal"
+        volume_quart:
+          display_name: "クォート"
+          unit_pattern_count_other: "{0}qt"
+        volume_pint:
+          display_name: "パイント"
+          unit_pattern_count_other: "{0}pt"
+        volume_cup:
+          display_name: "カップ"
+          unit_pattern_count_other: "{0}カップ"
+        volume_fluid_ounce:
+          display_name: "液量オンス"
+          unit_pattern_count_other: "{0}fl oz"
+        volume_tablespoon:
+          display_name: "大さじ"
+          unit_pattern_count_other: "大さじ{0}"
+        volume_teaspoon:
+          display_name: "小さじ"
+          unit_pattern_count_other: "小さじ{0}"
+        coordinate_unit:
+          east: "{0}E"
+          north: "{0}N"
+          south: "{0}S"
+          west: "{0}W"
+      duration_unit_type_hm:
+        duration_unit_pattern: h:mm
+      duration_unit_type_hms:
+        duration_unit_pattern: h:mm:ss
+      duration_unit_type_ms:
+        duration_unit_pattern: m:ss

@@ -1,0 +1,5303 @@
+---
+bg:
+  cldr:
+    dates:
+      calendars:
+        gregorian:
+          months:
+            format:
+              abbreviated:
+                '1': "яну"
+                '2': "фев"
+                '3': "март"
+                '4': "апр"
+                '5': "май"
+                '6': "юни"
+                '7': "юли"
+                '8': "авг"
+                '9': "сеп"
+                '10': "окт"
+                '11': "ное"
+                '12': "дек"
+              narrow:
+                '1': "я"
+                '2': "ф"
+                '3': "м"
+                '4': "а"
+                '5': "м"
+                '6': "ю"
+                '7': "ю"
+                '8': "а"
+                '9': "с"
+                '10': "о"
+                '11': "н"
+                '12': "д"
+              wide:
+                '1': "януари"
+                '2': "февруари"
+                '3': "март"
+                '4': "април"
+                '5': "май"
+                '6': "юни"
+                '7': "юли"
+                '8': "август"
+                '9': "септември"
+                '10': "октомври"
+                '11': "ноември"
+                '12': "декември"
+            stand_alone:
+              abbreviated:
+                '1': "яну"
+                '2': "фев"
+                '3': "март"
+                '4': "апр"
+                '5': "май"
+                '6': "юни"
+                '7': "юли"
+                '8': "авг"
+                '9': "сеп"
+                '10': "окт"
+                '11': "ное"
+                '12': "дек"
+              narrow:
+                '1': "я"
+                '2': "ф"
+                '3': "м"
+                '4': "а"
+                '5': "м"
+                '6': "ю"
+                '7': "ю"
+                '8': "а"
+                '9': "с"
+                '10': "о"
+                '11': "н"
+                '12': "д"
+              wide:
+                '1': "януари"
+                '2': "февруари"
+                '3': "март"
+                '4': "април"
+                '5': "май"
+                '6': "юни"
+                '7': "юли"
+                '8': "август"
+                '9': "септември"
+                '10': "октомври"
+                '11': "ноември"
+                '12': "декември"
+          days:
+            format:
+              abbreviated:
+                sun: "нд"
+                mon: "пн"
+                tue: "вт"
+                wed: "ср"
+                thu: "чт"
+                fri: "пт"
+                sat: "сб"
+              narrow:
+                sun: "н"
+                mon: "п"
+                tue: "в"
+                wed: "с"
+                thu: "ч"
+                fri: "п"
+                sat: "с"
+              short:
+                sun: "нд"
+                mon: "пн"
+                tue: "вт"
+                wed: "ср"
+                thu: "чт"
+                fri: "пт"
+                sat: "сб"
+              wide:
+                sun: "неделя"
+                mon: "понеделник"
+                tue: "вторник"
+                wed: "сряда"
+                thu: "четвъртък"
+                fri: "петък"
+                sat: "събота"
+            stand_alone:
+              abbreviated:
+                sun: "нд"
+                mon: "пн"
+                tue: "вт"
+                wed: "ср"
+                thu: "чт"
+                fri: "пт"
+                sat: "сб"
+              narrow:
+                sun: "н"
+                mon: "п"
+                tue: "в"
+                wed: "с"
+                thu: "ч"
+                fri: "п"
+                sat: "с"
+              short:
+                sun: "нд"
+                mon: "пн"
+                tue: "вт"
+                wed: "ср"
+                thu: "чт"
+                fri: "пт"
+                sat: "сб"
+              wide:
+                sun: "неделя"
+                mon: "понеделник"
+                tue: "вторник"
+                wed: "сряда"
+                thu: "четвъртък"
+                fri: "петък"
+                sat: "събота"
+          quarters:
+            format:
+              abbreviated:
+                '1': 1. трим.
+                '2': 2. трим.
+                '3': 3. трим.
+                '4': 4. трим.
+              narrow:
+                '1': '1'
+                '2': '2'
+                '3': '3'
+                '4': '4'
+              wide:
+                '1': 1. тримесечие
+                '2': 2. тримесечие
+                '3': 3. тримесечие
+                '4': 4. тримесечие
+            stand_alone:
+              abbreviated:
+                '1': 1. трим.
+                '2': 2. трим.
+                '3': 3. трим.
+                '4': 4. трим.
+              narrow:
+                '1': '1'
+                '2': '2'
+                '3': '3'
+                '4': '4'
+              wide:
+                '1': 1. тримесечие
+                '2': 2. тримесечие
+                '3': 3. тримесечие
+                '4': 4. тримесечие
+          day_periods:
+            format:
+              abbreviated:
+                midnight: "полунощ"
+                am: AM
+                pm: PM
+                morning1: "сутринта"
+                morning2: "на обед"
+                afternoon1: "следобед"
+                evening1: "вечерта"
+                night1: "през нощта"
+              narrow:
+                midnight: "полунощ"
+                am: "пр.об."
+                pm: "сл.об."
+                morning1: "сутринта"
+                morning2: "на обед"
+                afternoon1: "следобед"
+                evening1: "вечерта"
+                night1: "през нощта"
+              wide:
+                midnight: "полунощ"
+                am: "пр.об."
+                pm: "сл.об."
+                morning1: "сутринта"
+                morning2: "на обяд"
+                afternoon1: "следобед"
+                evening1: "вечерта"
+                night1: "през нощта"
+            stand_alone:
+              abbreviated:
+                midnight: "полунощ"
+                am: "пр.об."
+                pm: "сл.об."
+                morning1: "сутрин"
+                morning2: "на обед"
+                afternoon1: "следобед"
+                evening1: "вечер"
+                night1: "нощ"
+              narrow:
+                midnight: "полунощ"
+                am: "пр.об."
+                pm: "сл.об."
+                morning1: "сутрин"
+                morning2: "на обед"
+                afternoon1: "следобед"
+                evening1: "вечер"
+                night1: "нощ"
+              wide:
+                midnight: "полунощ"
+                am: "пр.об."
+                pm: "сл.об."
+                morning1: "сутринта"
+                morning2: "на обед"
+                afternoon1: "следобед"
+                evening1: "вечерта"
+                night1: "нощ"
+          eras:
+            era_names:
+              '0': "преди Христа"
+              0_alt_variant: "преди новата ера"
+              '1': "след Христа"
+              1_alt_variant: "след новата ера"
+            era_abbr:
+              '0': "пр.Хр."
+              0_alt_variant: "пр.н.е."
+              '1': "сл.Хр."
+              1_alt_variant: "сл.н.е."
+            era_narrow:
+              '0': "пр.Хр."
+              0_alt_variant: "пр.н.е."
+              '1': "сл.Хр."
+              1_alt_variant: "сл.н.е."
+          date_formats:
+            full: EEEE, d MMMM y 'г'.
+            long: d MMMM y 'г'.
+            medium: d.MM.y 'г'.
+            short: d.MM.yy 'г'.
+          time_formats:
+            full: H:mm:ss zzzz
+            long: H:mm:ss z
+            medium: H:mm:ss
+            short: H:mm
+          date_time_formats:
+            full: "{1}, {0}"
+            long: "{1}, {0}"
+            medium: "{1}, {0}"
+            short: "{1}, {0}"
+            available_formats:
+              d: d
+              e: ccc
+              ed: E, d
+              ehm: E, h:mm a
+              e_hm: E, HH:mm
+              ehms: E, h:mm:ss a
+              e_hms: E, H:mm:ss
+              gy: y 'г'. G
+              gy_mmm: MM.y 'г'. G
+              gy_mm_md: d.MM.y 'г'. G
+              gy_mmm_ed: E, d.MM.y 'г'. G
+              gy_mmmm: MMMM y 'г'. G
+              gy_mmm_md: d MMMM y 'г'. G
+              gy_mmmm_ed: E, d MMMM y 'г'. G
+              h: H
+              hm: H:mm
+              hms: H:mm:ss
+              hmsv: HH:mm:ss v
+              hmv: HH:mm v
+              m: L
+              md: d.MM
+              m_ed: E, d.MM
+              mmm: MM
+              mm_md: d.MM
+              mmm_ed: E, d.MM
+              mmmm: LLLL
+              mmm_md: d MMMM
+              mmm_mdd: d MMMM
+              mmmm_ed: E, d MMMM
+              ms: m:ss
+              y: y 'г'.
+              y_m: M.y 'г'.
+              y_md: d.MM.y 'г'.
+              y_m_ed: E, d.MM.y 'г'.
+              y_mmm: MM.y 'г'.
+              y_mm_md: d.MM.y 'г'.
+              y_mmm_ed: E, d.MM.y 'г'.
+              y_mmmm: MMMM y 'г'.
+              y_mmm_md: d MMMM y 'г'.
+              y_mmmm_ed: E, d MMMM y 'г'.
+              y_qqq: QQQ y 'г'.
+              y_qqqq: QQQQ y 'г'.
+            append_items:
+              day: "{0} ({2}: {1})"
+              day_of_week: "{0} {1}"
+              era: "{1} {0}"
+              hour: "{0} ({2}: {1})"
+              minute: "{0} ({2}: {1})"
+              month: "{0} ({2}: {1})"
+              quarter: "{0} ({2}: {1})"
+              second: "{0} ({2}: {1})"
+              timezone: "{0} {1}"
+              week: "{0} ({2}: {1})"
+              year: "{1} {0}"
+            interval_formats:
+              interval_format_fallback: "{0} – {1}"
+              d:
+                d: d – d
+              h:
+                h: H – H
+              hm:
+                h: H:mm – H:mm
+                m: H:mm – H:mm
+              hmv:
+                h: H:mm – H:mm v
+                m: H:mm – H:mm v
+              hv:
+                h: H – H v
+              m:
+                m: M – M
+              md:
+                d: d.MM – d.MM
+                m: d.MM – d.MM
+              m_ed:
+                d: E, d.MM – E, d.MM
+                m: E, d.MM – E, d.MM
+              mmm:
+                m: MM – MM
+              mm_md:
+                d: d.MM – d.MM
+                m: d.MM – d.MM
+              mmm_ed:
+                d: E, d.MM – E, d.MM
+                m: E, d.MM – E, d.MM
+              mmmm:
+                m: LLLL – LLLL
+              mmm_md:
+                d: d – d MMMM
+                m: d MMMM – d MMMM
+              mmmm_ed:
+                d: E, d MMMM – E, d MMMM
+                m: E, d MMMM – E, d MMMM
+              y:
+                y: y – y 'г'.
+              y_m:
+                m: MM.y 'г'. – MM.y 'г'.
+                y: MM.y 'г'. – MM.y 'г'.
+              y_md:
+                d: d.MM – d.MM.y 'г'.
+                m: d.MM – d.MM.y 'г'.
+                y: d.MM.y 'г'. – d.MM.y 'г'.
+              y_m_ed:
+                d: E, d.MM – E, d.MM.y 'г'.
+                m: E, d.MM – E, d.MM.y 'г'.
+                y: E, d.MM.y 'г'. – E, d.MM.y 'г'.
+              y_mmm:
+                m: MM.y 'г'. – MM.y 'г'.
+                y: MM.y 'г'. – MM.y 'г'.
+              y_mm_md:
+                d: d.MM – d.MM.y 'г'.
+                m: d.MM – d.MM.y 'г'.
+                y: d.MM.y 'г'. – d.MM.y 'г'.
+              y_mmm_ed:
+                d: E, d.MM – E, d.MM.y 'г'.
+                m: E, d.MM – E, d.MM.y 'г'.
+                y: E, d.MM.y 'г'. – E, d.MM.y 'г'.
+              y_mmmm:
+                m: MMMM – MMMM y 'г'.
+                y: MMMM y 'г'. – MMMM y 'г'.
+              y_mmm_md:
+                d: d – d MMMM y 'г'.
+                m: d MMMM – d MMMM y 'г'.
+                y: d MMMM y 'г'. – d MMMM y 'г'.
+              y_mmmm_ed:
+                d: E, d MMMM – E, d MMMM y 'г'.
+                m: E, d MMMM – E, d MMMM y 'г'.
+                y: E, d MMMM y 'г'. – E, d MMMM y 'г'.
+      fields:
+        era:
+          display_name: "ера"
+        year:
+          display_name: "година"
+          relative_type__1: "миналата година"
+          relative_type_0: "тази година"
+          relative_type_1: "следващата година"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "след {0} година"
+            relative_time_pattern_count_other: "след {0} години"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "преди {0} година"
+            relative_time_pattern_count_other: "преди {0} години"
+        year_short:
+          display_name: "г."
+          relative_type__1: "мин. г."
+          relative_type_0: "т. г."
+          relative_type_1: "следв. г."
+          relative_time_type_future:
+            relative_time_pattern_count_one: "сл. {0} г."
+            relative_time_pattern_count_other: "сл. {0} г."
+          relative_time_type_past:
+            relative_time_pattern_count_one: "пр. {0} г."
+            relative_time_pattern_count_other: "пр. {0} г."
+        year_narrow:
+          display_name: "г."
+          relative_type__1: "мин. г."
+          relative_type_0: "т. г."
+          relative_type_1: "сл. г."
+          relative_time_type_future:
+            relative_time_pattern_count_one: "сл. {0} г."
+            relative_time_pattern_count_other: "сл. {0} г."
+          relative_time_type_past:
+            relative_time_pattern_count_one: "пр. {0} г."
+            relative_time_pattern_count_other: "пр. {0} г."
+        quarter:
+          display_name: "тримесечие"
+          relative_type__1: "миналото тримесечие"
+          relative_type_0: "това тримесечие"
+          relative_type_1: "следващото тримесечие"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "след {0} тримесечие"
+            relative_time_pattern_count_other: "след {0} тримесечия"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "преди {0} тримесечие"
+            relative_time_pattern_count_other: "преди {0} тримесечия"
+        quarter_short:
+          display_name: "трим."
+          relative_type__1: "мин. трим."
+          relative_type_0: "това трим."
+          relative_type_1: "следв. трим."
+          relative_time_type_future:
+            relative_time_pattern_count_one: "сл. {0} трим."
+            relative_time_pattern_count_other: "сл. {0} трим."
+          relative_time_type_past:
+            relative_time_pattern_count_one: "пр. {0} трим."
+            relative_time_pattern_count_other: "пр. {0} трим."
+        quarter_narrow:
+          display_name: "трим."
+          relative_type__1: "мин. трим."
+          relative_type_0: "това трим."
+          relative_type_1: "следв. трим."
+          relative_time_type_future:
+            relative_time_pattern_count_one: "сл. {0} трим."
+            relative_time_pattern_count_other: "сл. {0} трим."
+          relative_time_type_past:
+            relative_time_pattern_count_one: "пр. {0} трим."
+            relative_time_pattern_count_other: "пр. {0} трим."
+        month:
+          display_name: "месец"
+          relative_type__1: "миналият месец"
+          relative_type_0: "този месец"
+          relative_type_1: "следващият месец"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "след {0} месец"
+            relative_time_pattern_count_other: "след {0} месеца"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "преди {0} месец"
+            relative_time_pattern_count_other: "преди {0} месеца"
+        month_short:
+          display_name: "м"
+          relative_type__1: "мин. мес."
+          relative_type_0: "този мес."
+          relative_type_1: "следв. мес."
+          relative_time_type_future:
+            relative_time_pattern_count_one: "сл. {0} м."
+            relative_time_pattern_count_other: "сл. {0} м."
+          relative_time_type_past:
+            relative_time_pattern_count_one: "пр. {0} м."
+            relative_time_pattern_count_other: "пр. {0} м."
+        month_narrow:
+          display_name: "м"
+          relative_type__1: "мин. м."
+          relative_type_0: "т. м."
+          relative_type_1: "сл. м."
+          relative_time_type_future:
+            relative_time_pattern_count_one: "сл. {0} м."
+            relative_time_pattern_count_other: "сл. {0} м."
+          relative_time_type_past:
+            relative_time_pattern_count_one: "пр. {0} м."
+            relative_time_pattern_count_other: "пр. {0} м."
+        week:
+          display_name: "седмица"
+          relative_type__1: "миналата седмица"
+          relative_type_0: "тази седмица"
+          relative_type_1: "следващата седмица"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "след {0} седмица"
+            relative_time_pattern_count_other: "след {0} седмици"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "преди {0} седмица"
+            relative_time_pattern_count_other: "преди {0} седмици"
+        week_short:
+          display_name: "седм."
+          relative_type__1: "миналата седмица"
+          relative_type_0: "тази седм."
+          relative_type_1: "следв. седм."
+          relative_time_type_future:
+            relative_time_pattern_count_one: "след {0} седм."
+            relative_time_pattern_count_other: "след {0} седм."
+          relative_time_type_past:
+            relative_time_pattern_count_one: "преди {0} седм."
+            relative_time_pattern_count_other: "преди {0} седм."
+        week_narrow:
+          display_name: "седм."
+          relative_type__1: "мин. седм."
+          relative_type_0: "тази седм."
+          relative_type_1: "сл. седм."
+          relative_time_type_future:
+            relative_time_pattern_count_one: "сл. {0} седм."
+            relative_time_pattern_count_other: "сл. {0} седм."
+          relative_time_type_past:
+            relative_time_pattern_count_one: "пр. {0} седм."
+            relative_time_pattern_count_other: "пр. {0} седм."
+        day:
+          display_name: "ден"
+          relative_type__2: "онзи ден"
+          relative_type__1: "вчера"
+          relative_type_0: "днес"
+          relative_type_1: "утре"
+          relative_type_2: "вдругиден"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "след {0} ден"
+            relative_time_pattern_count_other: "след {0} дни"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "преди {0} ден"
+            relative_time_pattern_count_other: "преди {0} дни"
+        day_short:
+          display_name: "д"
+          relative_type__2: "онзи ден"
+          relative_type__1: "вчера"
+          relative_type_0: "днес"
+          relative_type_1: "утре"
+          relative_type_2: "вдругиден"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "след {0} д"
+            relative_time_pattern_count_other: "след {0} д"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "преди {0} д"
+            relative_time_pattern_count_other: "преди {0} д"
+        day_narrow:
+          display_name: "д"
+          relative_type__2: "онзи ден"
+          relative_type__1: "вчера"
+          relative_type_0: "днес"
+          relative_type_1: "утре"
+          relative_type_2: "вдругиден"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "сл. {0} д"
+            relative_time_pattern_count_other: "сл. {0} д"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "пр. {0} д"
+            relative_time_pattern_count_other: "пр. {0} д"
+        weekday:
+          display_name: "ден от седмицата"
+        sun:
+          relative_type__1: "миналата неделя"
+          relative_type_0: "тази неделя"
+          relative_type_1: "следващата неделя"
+        sun_short:
+          relative_type__1: "миналата нд"
+          relative_type_0: "тази нд"
+          relative_type_1: "следващата нд"
+        sun_narrow:
+          relative_type__1: "мин. нд"
+          relative_type_0: "тази нд"
+          relative_type_1: "следв. нд"
+        mon:
+          relative_type__1: "миналият понеделник"
+          relative_type_0: "този понеделник"
+          relative_type_1: "следващият понеделник"
+        mon_short:
+          relative_type__1: "миналият пн"
+          relative_type_0: "този пн"
+          relative_type_1: "следващият пн"
+        mon_narrow:
+          relative_type__1: "мин. пн"
+          relative_type_0: "този пн"
+          relative_type_1: "следв. пн"
+        tue:
+          relative_type__1: "миналият вторник"
+          relative_type_0: "този вторник"
+          relative_type_1: "следващият вторник"
+        tue_short:
+          relative_type__1: "миналият вт"
+          relative_type_0: "този вт"
+          relative_type_1: "следващият вт"
+        tue_narrow:
+          relative_type__1: "мин. вт"
+          relative_type_0: "този вт"
+          relative_type_1: "следв. вт"
+        wed:
+          relative_type__1: "миналата сряда"
+          relative_type_0: "тази сряда"
+          relative_type_1: "следващата сряда"
+        wed_short:
+          relative_type__1: "миналата ср"
+          relative_type_0: "тази ср"
+          relative_type_1: "следващата ср"
+        wed_narrow:
+          relative_type__1: "мин. ср"
+          relative_type_0: "тази ср"
+          relative_type_1: "следв. ср"
+        thu:
+          relative_type__1: "миналият четвъртък"
+          relative_type_0: "този четвъртък"
+          relative_type_1: "следващият четвъртък"
+        thu_short:
+          relative_type__1: "миналият чт"
+          relative_type_0: "този чт"
+          relative_type_1: "следващият чт"
+        thu_narrow:
+          relative_type__1: "мин. чт"
+          relative_type_0: "този чт"
+          relative_type_1: "следв. чт"
+        fri:
+          relative_type__1: "миналият петък"
+          relative_type_0: "този петък"
+          relative_type_1: "следващият петък"
+        fri_short:
+          relative_type__1: "миналият пт"
+          relative_type_0: "този пт"
+          relative_type_1: "следващият пт"
+        fri_narrow:
+          relative_type__1: "мин. пт"
+          relative_type_0: "този пт"
+          relative_type_1: "следв. пт"
+        sat:
+          relative_type__1: "миналата събота"
+          relative_type_0: "тази събота"
+          relative_type_1: "следващата събота"
+        sat_short:
+          relative_type__1: "миналата сб"
+          relative_type_0: "тази сб"
+          relative_type_1: "следващата сб"
+        sat_narrow:
+          relative_type__1: "мин. сб"
+          relative_type_0: "тази сб"
+          relative_type_1: "следв. сб"
+        dayperiod:
+          display_name: "пр.об./сл.об."
+        hour:
+          display_name: "час"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "след {0} час"
+            relative_time_pattern_count_other: "след {0} часа"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "преди {0} час"
+            relative_time_pattern_count_other: "преди {0} часа"
+        hour_short:
+          display_name: "ч"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "след {0} ч"
+            relative_time_pattern_count_other: "след {0} ч"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "преди {0} ч"
+            relative_time_pattern_count_other: "преди {0} ч"
+        hour_narrow:
+          display_name: "ч"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "сл. {0} ч"
+            relative_time_pattern_count_other: "сл. {0} ч"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "пр. {0} ч"
+            relative_time_pattern_count_other: "пр. {0} ч"
+        minute:
+          display_name: "минута"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "след {0} минута"
+            relative_time_pattern_count_other: "след {0} минути"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "преди {0} минута"
+            relative_time_pattern_count_other: "преди {0} минути"
+        minute_short:
+          display_name: "мин"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "след {0} мин"
+            relative_time_pattern_count_other: "след {0} мин"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "преди {0} мин"
+            relative_time_pattern_count_other: "преди {0} мин"
+        minute_narrow:
+          display_name: "мин"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "сл. {0} мин"
+            relative_time_pattern_count_other: "сл. {0} мин"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "пр. {0} мин"
+            relative_time_pattern_count_other: "пр. {0} мин"
+        second:
+          display_name: "секунда"
+          relative_type_0: "сега"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "след {0} секунда"
+            relative_time_pattern_count_other: "след {0} секунди"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "преди {0} секунда"
+            relative_time_pattern_count_other: "преди {0} секунди"
+        second_short:
+          display_name: "с"
+          relative_type_0: "сега"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "след {0} с"
+            relative_time_pattern_count_other: "след {0} с"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "преди {0} с"
+            relative_time_pattern_count_other: "преди {0} с"
+        second_narrow:
+          display_name: "с"
+          relative_type_0: "сега"
+          relative_time_type_future:
+            relative_time_pattern_count_one: "сл. {0} с"
+            relative_time_pattern_count_other: "сл. {0} с"
+          relative_time_type_past:
+            relative_time_pattern_count_one: "пр. {0} с"
+            relative_time_pattern_count_other: "пр. {0} с"
+        zone:
+          display_name: "часова зона"
+      time_zone_names:
+        hour_format: "+HH:mm;-HH:mm"
+        gmt_format: "Гринуич{0}"
+        gmt_zero_format: "Гринуич"
+        region_format: "{0}"
+        region_format_type_daylight: "{0}, лятно часово време"
+        region_format_type_standard: "{0} – стандартно време"
+        fallback_format: "{1} ({0})"
+        zone:
+          america:
+            adak:
+              exemplar_city: "Адак"
+            anchorage:
+              exemplar_city: "Анкъридж"
+            anguilla:
+              exemplar_city: "Ангуила"
+            antigua:
+              exemplar_city: "Антигуа"
+            araguaina:
+              exemplar_city: "Арагуайна"
+            argentina:
+              rio_gallegos:
+                exemplar_city: "Рио Галегос"
+              san_juan:
+                exemplar_city: "Сан Хуан"
+              ushuaia:
+                exemplar_city: "Ушуая"
+              la_rioja:
+                exemplar_city: "Ла Риоха"
+              san_luis:
+                exemplar_city: "Сан Луис"
+              salta:
+                exemplar_city: "Салта"
+              tucuman:
+                exemplar_city: "Тукуман"
+            aruba:
+              exemplar_city: "Аруба"
+            asuncion:
+              exemplar_city: "Асунсион"
+            bahia:
+              exemplar_city: "Баия"
+            bahia_banderas:
+              exemplar_city: "Баия де Бандерас"
+            barbados:
+              exemplar_city: "Барбадос"
+            belem:
+              exemplar_city: "Белем"
+            belize:
+              exemplar_city: "Белиз"
+            blanc_sablon:
+              exemplar_city: "Блан-Саблон"
+            boa_vista:
+              exemplar_city: "Боа Виста"
+            bogota:
+              exemplar_city: "Богота"
+            boise:
+              exemplar_city: "Бойси"
+            buenos_aires:
+              exemplar_city: "Буенос Айрес"
+            cambridge_bay:
+              exemplar_city: "Кеймбридж Бей"
+            campo_grande:
+              exemplar_city: "Кампо Гранде"
+            cancun:
+              exemplar_city: "Канкун"
+            caracas:
+              exemplar_city: "Каракас"
+            catamarca:
+              exemplar_city: "Катамарка"
+            cayenne:
+              exemplar_city: "Кайен"
+            cayman:
+              exemplar_city: "Кайманови острови"
+            chicago:
+              exemplar_city: "Чикаго"
+            chihuahua:
+              exemplar_city: "Чиуауа"
+            coral_harbour:
+              exemplar_city: "Корал Харбър"
+            cordoba:
+              exemplar_city: "Кордоба"
+            costa_rica:
+              exemplar_city: "Коста Рика"
+            creston:
+              exemplar_city: "Крестън"
+            cuiaba:
+              exemplar_city: "Чуяба"
+            curacao:
+              exemplar_city: "Кюрасао"
+            danmarkshavn:
+              exemplar_city: "Данмарксхавн"
+            dawson:
+              exemplar_city: "Доусън"
+            dawson_creek:
+              exemplar_city: "Доусън Крийк"
+            denver:
+              exemplar_city: "Денвър"
+            detroit:
+              exemplar_city: "Детройт"
+            dominica:
+              exemplar_city: "Доминика"
+            edmonton:
+              exemplar_city: "Едмънтън"
+            eirunepe:
+              exemplar_city: "Ейрунепе"
+            el_salvador:
+              exemplar_city: "Салвадор"
+            fortaleza:
+              exemplar_city: "Форталеза"
+            glace_bay:
+              exemplar_city: "Глейс Бей"
+            godthab:
+              exemplar_city: "Нуук"
+            goose_bay:
+              exemplar_city: "Гус Бей"
+            grand_turk:
+              exemplar_city: "Гранд Търк"
+            grenada:
+              exemplar_city: "Гренада"
+            guadeloupe:
+              exemplar_city: "Гваделупа"
+            guatemala:
+              exemplar_city: "Гватемала"
+            guayaquil:
+              exemplar_city: "Гуаякил"
+            guyana:
+              exemplar_city: "Гаяна"
+            halifax:
+              exemplar_city: "Халифакс"
+            havana:
+              exemplar_city: "Хавана"
+            hermosillo:
+              exemplar_city: "Ермосильо"
+            indiana:
+              vincennes:
+                exemplar_city: "Винсенс"
+              petersburg:
+                exemplar_city: "Питърсбърг"
+              tell_city:
+                exemplar_city: "Тел Сити"
+              knox:
+                exemplar_city: "Нокс"
+              winamac:
+                exemplar_city: "Уинамак"
+              marengo:
+                exemplar_city: "Маренго"
+              vevay:
+                exemplar_city: "Виви"
+            indianapolis:
+              exemplar_city: "Индианаполис"
+            inuvik:
+              exemplar_city: "Инувик"
+            iqaluit:
+              exemplar_city: "Иквалуит"
+            jamaica:
+              exemplar_city: "Ямайка"
+            jujuy:
+              exemplar_city: "Хухуй"
+            juneau:
+              exemplar_city: "Джуно"
+            kentucky:
+              monticello:
+                exemplar_city: "Монтичело"
+            kralendijk:
+              exemplar_city: "Кралендейк"
+            la_paz:
+              exemplar_city: "Ла Пас"
+            lima:
+              exemplar_city: "Лима"
+            los_angeles:
+              exemplar_city: "Лос Анджелис"
+            louisville:
+              exemplar_city: "Луисвил"
+            lower_princes:
+              exemplar_city: "Лоуър принсес куотър"
+            maceio:
+              exemplar_city: "Масейо"
+            managua:
+              exemplar_city: "Манагуа"
+            manaus:
+              exemplar_city: "Манаус"
+            marigot:
+              exemplar_city: "Мариго"
+            martinique:
+              exemplar_city: "Мартиника"
+            matamoros:
+              exemplar_city: "Матаморос"
+            mazatlan:
+              exemplar_city: "Масатлан"
+            mendoza:
+              exemplar_city: "Мендоса"
+            menominee:
+              exemplar_city: "Меномини"
+            merida:
+              exemplar_city: "Мерида"
+            metlakatla:
+              exemplar_city: "Метлакатла"
+            mexico_city:
+              exemplar_city: "Мексико Сити"
+            miquelon:
+              exemplar_city: "Микелон"
+            moncton:
+              exemplar_city: "Монктон"
+            monterrey:
+              exemplar_city: "Монтерей"
+            montevideo:
+              exemplar_city: "Монтевидео"
+            montserrat:
+              exemplar_city: "Монтсерат"
+            nassau:
+              exemplar_city: "Насау"
+            new_york:
+              exemplar_city: "Ню Йорк"
+            nipigon:
+              exemplar_city: "Нипигон"
+            nome:
+              exemplar_city: "Ноум"
+            noronha:
+              exemplar_city: "Нороня"
+            north_dakota:
+              beulah:
+                exemplar_city: "Бюла"
+              new_salem:
+                exemplar_city: "Ню Сейлъм"
+              center:
+                exemplar_city: "Сентър"
+            ojinaga:
+              exemplar_city: "Охинага"
+            panama:
+              exemplar_city: "Панама"
+            pangnirtung:
+              exemplar_city: "Пангниртунг"
+            paramaribo:
+              exemplar_city: "Парамарибо"
+            phoenix:
+              exemplar_city: "Финикс"
+            port_au_prince:
+              exemplar_city: "Порт-о-Пренс"
+            port_of_spain:
+              exemplar_city: "Порт ъф Спейн"
+            porto_velho:
+              exemplar_city: "Порто Вельо"
+            puerto_rico:
+              exemplar_city: "Пуерто Рико"
+            rainy_river:
+              exemplar_city: "Рейни Ривър"
+            rankin_inlet:
+              exemplar_city: "Ранкин Инлет"
+            recife:
+              exemplar_city: "Ресифе"
+            regina:
+              exemplar_city: "Риджайна"
+            resolute:
+              exemplar_city: "Резолют"
+            rio_branco:
+              exemplar_city: "Рио Бранко"
+            santa_isabel:
+              exemplar_city: "Санта Исабел"
+            santarem:
+              exemplar_city: "Сантарем"
+            santiago:
+              exemplar_city: "Сантяго"
+            santo_domingo:
+              exemplar_city: "Санто Доминго"
+            sao_paulo:
+              exemplar_city: "Сао Пауло"
+            scoresbysund:
+              exemplar_city: "Сгорсбисон"
+            sitka:
+              exemplar_city: "Ситка"
+            st_barthelemy:
+              exemplar_city: "Сен Бартелеми"
+            st_johns:
+              exemplar_city: "Сейнт Джонс"
+            st_kitts:
+              exemplar_city: "Сейнт Китс"
+            st_lucia:
+              exemplar_city: "Сейнт Лусия"
+            st_thomas:
+              exemplar_city: "Сейнт Томас"
+            st_vincent:
+              exemplar_city: "Сейнт Винсънт"
+            swift_current:
+              exemplar_city: "Суифт Кърент"
+            tegucigalpa:
+              exemplar_city: "Тегусигалпа"
+            thule:
+              exemplar_city: "Туле"
+            thunder_bay:
+              exemplar_city: "Тъндър Бей"
+            tijuana:
+              exemplar_city: "Тихуана"
+            toronto:
+              exemplar_city: "Торонто"
+            tortola:
+              exemplar_city: "Тортола"
+            vancouver:
+              exemplar_city: "Ванкувър"
+            whitehorse:
+              exemplar_city: "Уайтхорс"
+            winnipeg:
+              exemplar_city: "Уинипег"
+            yakutat:
+              exemplar_city: "Якутат"
+            yellowknife:
+              exemplar_city: "Йелоунайф"
+          atlantic:
+            azores:
+              exemplar_city: "Азорски о-ви"
+            bermuda:
+              exemplar_city: "Бермудски острови"
+            canary:
+              exemplar_city: "Канарски о-ви"
+            cape_verde:
+              exemplar_city: "Кабо Верде"
+            faeroe:
+              exemplar_city: "Фарьорски острови"
+            madeira:
+              exemplar_city: "Мадейра"
+            reykjavik:
+              exemplar_city: "Рейкявик"
+            south_georgia:
+              exemplar_city: "Южна Джорджия"
+            st_helena:
+              exemplar_city: "Света Елена"
+            stanley:
+              exemplar_city: "Стенли"
+          europe:
+            amsterdam:
+              exemplar_city: "Амстердам"
+            andorra:
+              exemplar_city: "Андора"
+            athens:
+              exemplar_city: "Атина"
+            belgrade:
+              exemplar_city: "Белград"
+            berlin:
+              exemplar_city: "Берлин"
+            bratislava:
+              exemplar_city: "Братислава"
+            brussels:
+              exemplar_city: "Брюксел"
+            bucharest:
+              exemplar_city: "Букурещ"
+            budapest:
+              exemplar_city: "Будапеща"
+            busingen:
+              exemplar_city: "Бюзинген"
+            chisinau:
+              exemplar_city: "Кишинев"
+            copenhagen:
+              exemplar_city: "Копенхаген"
+            dublin:
+              long:
+                daylight: "Ирландско стандартно време"
+              exemplar_city: "Дъблин"
+            gibraltar:
+              exemplar_city: "Гибралтар"
+            guernsey:
+              exemplar_city: "Гърнси"
+            helsinki:
+              exemplar_city: "Хелзинки"
+            isle_of_man:
+              exemplar_city: "о-в Ман"
+            istanbul:
+              exemplar_city: "Истанбул"
+            jersey:
+              exemplar_city: "Джърси"
+            kaliningrad:
+              exemplar_city: "Калининград"
+            kiev:
+              exemplar_city: "Киев"
+            lisbon:
+              exemplar_city: "Лисабон"
+            ljubljana:
+              exemplar_city: "Любляна"
+            london:
+              long:
+                daylight: "Британско лятно часово време"
+              exemplar_city: "Лондон"
+            luxembourg:
+              exemplar_city: "Люксембург"
+            madrid:
+              exemplar_city: "Мадрид"
+            malta:
+              exemplar_city: "Малта"
+            mariehamn:
+              exemplar_city: "Мариехамн"
+            minsk:
+              exemplar_city: "Минск"
+            monaco:
+              exemplar_city: "Монако"
+            moscow:
+              exemplar_city: "Москва"
+            oslo:
+              exemplar_city: "Осло"
+            paris:
+              exemplar_city: "Париж"
+            podgorica:
+              exemplar_city: "Подгорица"
+            prague:
+              exemplar_city: "Прага"
+            riga:
+              exemplar_city: "Рига"
+            rome:
+              exemplar_city: "Рим"
+            samara:
+              exemplar_city: "Самара"
+            san_marino:
+              exemplar_city: "Сан Марино"
+            sarajevo:
+              exemplar_city: "Сараево"
+            simferopol:
+              exemplar_city: "Севастопол"
+            skopje:
+              exemplar_city: "Скопие"
+            sofia:
+              exemplar_city: "София"
+            stockholm:
+              exemplar_city: "Стокхолм"
+            tallinn:
+              exemplar_city: "Талин"
+            tirane:
+              exemplar_city: "Тирана"
+            uzhgorod:
+              exemplar_city: "Ужгород"
+            vaduz:
+              exemplar_city: "Вадуц"
+            vatican:
+              exemplar_city: "Ватикан"
+            vienna:
+              exemplar_city: "Виена"
+            vilnius:
+              exemplar_city: "Вилнюс"
+            volgograd:
+              exemplar_city: "Волгоград"
+            warsaw:
+              exemplar_city: "Варшава"
+            zagreb:
+              exemplar_city: "Загреб"
+            zaporozhye:
+              exemplar_city: "Запорожие"
+            zurich:
+              exemplar_city: "Цюрих"
+          africa:
+            abidjan:
+              exemplar_city: "Абиджан"
+            accra:
+              exemplar_city: "Акра"
+            addis_ababa:
+              exemplar_city: "Адис Абеба"
+            algiers:
+              exemplar_city: "Алжир"
+            asmera:
+              exemplar_city: "Асмара"
+            bamako:
+              exemplar_city: "Бамако"
+            bangui:
+              exemplar_city: "Бангуи"
+            banjul:
+              exemplar_city: "Банджул"
+            bissau:
+              exemplar_city: "Бисау"
+            blantyre:
+              exemplar_city: "Блантайър"
+            brazzaville:
+              exemplar_city: "Бразавил"
+            bujumbura:
+              exemplar_city: "Бужумбура"
+            cairo:
+              exemplar_city: "Кайро"
+            casablanca:
+              exemplar_city: "Казабланка"
+            ceuta:
+              exemplar_city: "Сеута"
+            conakry:
+              exemplar_city: "Конакри"
+            dakar:
+              exemplar_city: "Дакар"
+            dar_es_salaam:
+              exemplar_city: "Дар ес Салам"
+            djibouti:
+              exemplar_city: "Джибути"
+            douala:
+              exemplar_city: "Дуала"
+            el_aaiun:
+              exemplar_city: "Ел Аюн"
+            freetown:
+              exemplar_city: "Фрийтаун"
+            gaborone:
+              exemplar_city: "Габороне"
+            harare:
+              exemplar_city: "Хараре"
+            johannesburg:
+              exemplar_city: "Йоханесбург"
+            juba:
+              exemplar_city: "Джуба"
+            kampala:
+              exemplar_city: "Кампала"
+            khartoum:
+              exemplar_city: "Хартум"
+            kigali:
+              exemplar_city: "Кигали"
+            kinshasa:
+              exemplar_city: "Киншаса"
+            lagos:
+              exemplar_city: "Лагос"
+            libreville:
+              exemplar_city: "Либревил"
+            lome:
+              exemplar_city: "Ломе"
+            luanda:
+              exemplar_city: "Луанда"
+            lubumbashi:
+              exemplar_city: "Лубумбаши"
+            lusaka:
+              exemplar_city: "Лусака"
+            malabo:
+              exemplar_city: "Малабо"
+            maputo:
+              exemplar_city: "Мапуто"
+            maseru:
+              exemplar_city: "Масеру"
+            mbabane:
+              exemplar_city: "Мбабане"
+            mogadishu:
+              exemplar_city: "Могадишу"
+            monrovia:
+              exemplar_city: "Монровия"
+            nairobi:
+              exemplar_city: "Найроби"
+            ndjamena:
+              exemplar_city: "Нджамена"
+            niamey:
+              exemplar_city: "Ниамей"
+            nouakchott:
+              exemplar_city: "Нуакшот"
+            ouagadougou:
+              exemplar_city: "Уагадугу"
+            porto_novo:
+              exemplar_city: "Порто Ново"
+            sao_tome:
+              exemplar_city: "Сао Томе"
+            tripoli:
+              exemplar_city: "Триполи"
+            tunis:
+              exemplar_city: "Тунис"
+            windhoek:
+              exemplar_city: "Виндхук"
+          asia:
+            aden:
+              exemplar_city: "Аден"
+            almaty:
+              exemplar_city: "Алмати"
+            amman:
+              exemplar_city: "Аман"
+            anadyr:
+              exemplar_city: "Анадир"
+            aqtau:
+              exemplar_city: "Актау"
+            aqtobe:
+              exemplar_city: "Актобе"
+            ashgabat:
+              exemplar_city: "Ашхабад"
+            baghdad:
+              exemplar_city: "Багдад"
+            bahrain:
+              exemplar_city: "Бахрейн"
+            baku:
+              exemplar_city: "Баку"
+            bangkok:
+              exemplar_city: "Банкок"
+            beirut:
+              exemplar_city: "Бейрут"
+            bishkek:
+              exemplar_city: "Бишкек"
+            brunei:
+              exemplar_city: "Бруней"
+            calcutta:
+              exemplar_city: "Колката"
+            chita:
+              exemplar_city: "Чита"
+            choibalsan:
+              exemplar_city: "Чойбалсан"
+            colombo:
+              exemplar_city: "Коломбо"
+            damascus:
+              exemplar_city: "Дамаск"
+            dhaka:
+              exemplar_city: "Дака"
+            dili:
+              exemplar_city: "Дили"
+            dubai:
+              exemplar_city: "Дубай"
+            dushanbe:
+              exemplar_city: "Душанбе"
+            gaza:
+              exemplar_city: "Газа"
+            hebron:
+              exemplar_city: "Хеброн"
+            hong_kong:
+              exemplar_city: "Хонконг"
+            hovd:
+              exemplar_city: "Ховд"
+            irkutsk:
+              exemplar_city: "Иркутск"
+            jakarta:
+              exemplar_city: "Джакарта"
+            jayapura:
+              exemplar_city: "Джаяпура"
+            jerusalem:
+              exemplar_city: "Йерусалим"
+            kabul:
+              exemplar_city: "Кабул"
+            kamchatka:
+              exemplar_city: "Камчатка"
+            karachi:
+              exemplar_city: "Карачи"
+            katmandu:
+              exemplar_city: "Катманду"
+            khandyga:
+              exemplar_city: "Хандига"
+            krasnoyarsk:
+              exemplar_city: "Красноярск"
+            kuala_lumpur:
+              exemplar_city: "Куала Лумпур"
+            kuching:
+              exemplar_city: "Кучин"
+            kuwait:
+              exemplar_city: "Кувейт"
+            macau:
+              exemplar_city: "Макао"
+            magadan:
+              exemplar_city: "Магадан"
+            makassar:
+              exemplar_city: "Макасар"
+            manila:
+              exemplar_city: "Манила"
+            muscat:
+              exemplar_city: "Мускат"
+            nicosia:
+              exemplar_city: "Никозия"
+            novokuznetsk:
+              exemplar_city: "Новокузнецк"
+            novosibirsk:
+              exemplar_city: "Новосибирск"
+            omsk:
+              exemplar_city: "Омск"
+            oral:
+              exemplar_city: "Арал"
+            phnom_penh:
+              exemplar_city: "Пном Пен"
+            pontianak:
+              exemplar_city: "Понтианак"
+            pyongyang:
+              exemplar_city: "Пхенян"
+            qatar:
+              exemplar_city: "Катар"
+            qyzylorda:
+              exemplar_city: "Къзълорда"
+            rangoon:
+              exemplar_city: "Рангун"
+            riyadh:
+              exemplar_city: "Рияд"
+            saigon:
+              exemplar_city: "Хошимин"
+            sakhalin:
+              exemplar_city: "Сахалин"
+            samarkand:
+              exemplar_city: "Самарканд"
+            seoul:
+              exemplar_city: "Сеул"
+            shanghai:
+              exemplar_city: "Шанхай"
+            singapore:
+              exemplar_city: "Сингапур"
+            srednekolymsk:
+              exemplar_city: "Среднеколимск"
+            taipei:
+              exemplar_city: "Тайпе"
+            tashkent:
+              exemplar_city: "Ташкент"
+            tbilisi:
+              exemplar_city: "Тбилиси"
+            tehran:
+              exemplar_city: "Техеран"
+            thimphu:
+              exemplar_city: "Тхимпху"
+            tokyo:
+              exemplar_city: "Токио"
+            ulaanbaatar:
+              exemplar_city: "Улан Батор"
+            urumqi:
+              exemplar_city: "Урумчи"
+            ust_nera:
+              exemplar_city: "Уст-Нера"
+            vientiane:
+              exemplar_city: "Виентян"
+            vladivostok:
+              exemplar_city: "Владивосток"
+            yakutsk:
+              exemplar_city: "Якутск"
+            yekaterinburg:
+              exemplar_city: "Екатеринбург"
+            yerevan:
+              exemplar_city: "Ереван"
+          indian:
+            antananarivo:
+              exemplar_city: "Антананариво"
+            chagos:
+              exemplar_city: "Чагос"
+            christmas:
+              exemplar_city: "Рождество"
+            cocos:
+              exemplar_city: "Кокосови острови"
+            comoro:
+              exemplar_city: "Коморски острови"
+            kerguelen:
+              exemplar_city: "Кергелен"
+            mahe:
+              exemplar_city: "Мае"
+            maldives:
+              exemplar_city: "Малдиви"
+            mauritius:
+              exemplar_city: "Мавриций"
+            mayotte:
+              exemplar_city: "Майот"
+            reunion:
+              exemplar_city: "Реюнион"
+          australia:
+            adelaide:
+              exemplar_city: "Аделаида"
+            brisbane:
+              exemplar_city: "Бризбейн"
+            broken_hill:
+              exemplar_city: "Броукън Хил"
+            currie:
+              exemplar_city: "Къри"
+            darwin:
+              exemplar_city: "Дарвин"
+            eucla:
+              exemplar_city: "Юкла"
+            hobart:
+              exemplar_city: "Хобарт"
+            lindeman:
+              exemplar_city: "Линдеман"
+            lord_howe:
+              exemplar_city: "Лорд Хау"
+            melbourne:
+              exemplar_city: "Мелбърн"
+            perth:
+              exemplar_city: "Пърт"
+            sydney:
+              exemplar_city: "Сидни"
+          pacific:
+            apia:
+              exemplar_city: "Апия"
+            auckland:
+              exemplar_city: "Окланд"
+            bougainville:
+              exemplar_city: "Бугенвил"
+            chatham:
+              exemplar_city: "Чатам"
+            easter:
+              exemplar_city: "Великденски о-в"
+            efate:
+              exemplar_city: "Ефате"
+            enderbury:
+              exemplar_city: "Ендърбъри"
+            fakaofo:
+              exemplar_city: "Факаофо"
+            fiji:
+              exemplar_city: "Фиджи"
+            funafuti:
+              exemplar_city: "Фунафути"
+            galapagos:
+              exemplar_city: "Галапагоски о-ви"
+            gambier:
+              exemplar_city: "Гамбие"
+            guadalcanal:
+              exemplar_city: "Гуадалканал"
+            guam:
+              exemplar_city: "Гуам"
+            honolulu:
+              exemplar_city: "Хонолулу"
+            johnston:
+              exemplar_city: "Джонстън"
+            kiritimati:
+              exemplar_city: "Киритимати"
+            kosrae:
+              exemplar_city: "Кошрай"
+            kwajalein:
+              exemplar_city: "Куаджалин"
+            majuro:
+              exemplar_city: "Маджуро"
+            marquesas:
+              exemplar_city: "Маркизки о-ви"
+            midway:
+              exemplar_city: "Мидуей"
+            nauru:
+              exemplar_city: "Науру"
+            niue:
+              exemplar_city: "Ниуе"
+            norfolk:
+              exemplar_city: "Норфолк"
+            noumea:
+              exemplar_city: "Нумеа"
+            pago_pago:
+              exemplar_city: "Паго Паго"
+            palau:
+              exemplar_city: "Палау"
+            pitcairn:
+              exemplar_city: "Питкерн"
+            ponape:
+              exemplar_city: "Понпей"
+            port_moresby:
+              exemplar_city: "Порт Морсби"
+            rarotonga:
+              exemplar_city: "Раротонга"
+            saipan:
+              exemplar_city: "Сайпан"
+            tahiti:
+              exemplar_city: "Таити"
+            tarawa:
+              exemplar_city: "Тарауа"
+            tongatapu:
+              exemplar_city: "Тонгатапу"
+            truk:
+              exemplar_city: "Чуюк"
+            wake:
+              exemplar_city: "Уейк"
+            wallis:
+              exemplar_city: "Уолис"
+          arctic:
+            longyearbyen:
+              exemplar_city: "Лонгирбюен"
+          antarctica:
+            casey:
+              exemplar_city: "Кейси"
+            davis:
+              exemplar_city: "Дейвис"
+            dumont_d_urville:
+              exemplar_city: "Дюмон Дюрвил"
+            macquarie:
+              exemplar_city: "Маккуори"
+            mawson:
+              exemplar_city: "Моусън"
+            mc_murdo:
+              exemplar_city: "Макмърдо"
+            palmer:
+              exemplar_city: "Палмър"
+            rothera:
+              exemplar_city: "Ротера"
+            syowa:
+              exemplar_city: "Шова"
+            troll:
+              exemplar_city: "Трол"
+            vostok:
+              exemplar_city: "Восток"
+          etc:
+            gmt:
+              exemplar_city: GMT
+            gmt1:
+              exemplar_city: GMT+1
+            gmt10:
+              exemplar_city: GMT+10
+            gmt11:
+              exemplar_city: GMT+11
+            gmt12:
+              exemplar_city: GMT+12
+            gmt2:
+              exemplar_city: GMT+2
+            gmt3:
+              exemplar_city: GMT+3
+            gmt4:
+              exemplar_city: GMT+4
+            gmt5:
+              exemplar_city: GMT+5
+            gmt6:
+              exemplar_city: GMT+6
+            gmt7:
+              exemplar_city: GMT+7
+            gmt8:
+              exemplar_city: GMT+8
+            gmt9:
+              exemplar_city: GMT+9
+            gmt_1:
+              exemplar_city: GMT-1
+            gmt_10:
+              exemplar_city: GMT-10
+            gmt_11:
+              exemplar_city: GMT-11
+            gmt_12:
+              exemplar_city: GMT-12
+            gmt_13:
+              exemplar_city: GMT-13
+            gmt_14:
+              exemplar_city: GMT-14
+            gmt_2:
+              exemplar_city: GMT-2
+            gmt_3:
+              exemplar_city: GMT-3
+            gmt_4:
+              exemplar_city: GMT-4
+            gmt_5:
+              exemplar_city: GMT-5
+            gmt_6:
+              exemplar_city: GMT-6
+            gmt_7:
+              exemplar_city: GMT-7
+            gmt_8:
+              exemplar_city: GMT-8
+            gmt_9:
+              exemplar_city: GMT-9
+            unknown:
+              exemplar_city: "неизвестен"
+        metazone:
+          afghanistan:
+            long:
+              standard: "Афганистанско време"
+          africa_central:
+            long:
+              standard: "Централноафриканско време"
+          africa_eastern:
+            long:
+              standard: "Източноафриканско време"
+          africa_southern:
+            long:
+              standard: "Южноафриканско време"
+          africa_western:
+            long:
+              generic: "Западноафриканско време"
+              standard: "Западноафриканско стандартно време"
+              daylight: "Западноафриканско лятно часово време"
+          alaska:
+            long:
+              generic: "Аляска"
+              standard: "Аляска – стандартно време"
+              daylight: "Аляска – лятно часово време"
+          amazon:
+            long:
+              generic: "Амазонско време"
+              standard: "Амазонско стандартно време"
+              daylight: "Амазонско лятно часово време"
+          america_central:
+            long:
+              generic: "Северноамериканско централно време"
+              standard: "Северноамериканско централно стандартно време"
+              daylight: "Северноамериканско централно лятно часово време"
+          america_eastern:
+            long:
+              generic: "Северноамериканско източно време"
+              standard: "Северноамериканско източно стандартно време"
+              daylight: "Северноамериканско източно лятно часово време"
+          america_mountain:
+            long:
+              generic: "Северноамериканско планинско време"
+              standard: "Северноамериканско планинско стандартно време"
+              daylight: "Северноамериканско планинско лятно часово време"
+          america_pacific:
+            long:
+              generic: "Северноамериканско тихоокеанско време"
+              standard: "Северноамериканско тихоокеанско стандартно време"
+              daylight: "Северноамериканско тихоокеанско лятно часово време"
+          anadyr:
+            long:
+              generic: "Анадир време"
+              standard: "Анадир – стандартно време"
+              daylight: "Анадир – лятно часово време"
+          apia:
+            long:
+              generic: "Апия"
+              standard: "Апия – стандартно време"
+              daylight: "Апия – лятно часово време"
+          arabian:
+            long:
+              generic: "Арабско време"
+              standard: "Арабско стандартно време"
+              daylight: "Арабско лятно часово време"
+          argentina:
+            long:
+              generic: "Аржентинско време"
+              standard: "Аржентинско стандартно време"
+              daylight: "Аржентинско лятно часово време"
+          argentina_western:
+            long:
+              generic: "Западноаржентинско време"
+              standard: "Западноаржентинско стандартно време"
+              daylight: "Западноаржентинско лятно часово време"
+          armenia:
+            long:
+              generic: "Арменско време"
+              standard: "Арменско стандартно време"
+              daylight: "Арменско лятно часово време"
+          atlantic:
+            long:
+              generic: "Северноамериканско атлантическо време"
+              standard: "Северноамериканско атлантическо стандартно време"
+              daylight: "Северноамериканско атлантическо лятно часово време"
+          australia_central:
+            long:
+              generic: "Австралия – централно време"
+              standard: "Австралия – централно стандартно време"
+              daylight: "Австралия – централно лятно часово време"
+          australia_central_western:
+            long:
+              generic: "Австралия – западно централно време"
+              standard: "Австралия – западно централно стандартно време"
+              daylight: "Австралия – западно централно лятно часово време"
+          australia_eastern:
+            long:
+              generic: "Австралия – източно време"
+              standard: "Австралия – източно стандартно време"
+              daylight: "Австралия – източно лятно часово време"
+          australia_western:
+            long:
+              generic: "Австралия – западно време"
+              standard: "Австралия – западно стандартно време"
+              daylight: "Австралия – западно лятно часово време"
+          azerbaijan:
+            long:
+              generic: "Азербайджанско време"
+              standard: "Азербайджанско стандартно време"
+              daylight: "Азербайджанско лятно часово време"
+          azores:
+            long:
+              generic: "Азорски острови"
+              standard: "Азорски острови – стандартно време"
+              daylight: "Азорски острови – лятно часово време"
+          bangladesh:
+            long:
+              generic: "Бангладешко време"
+              standard: "Бангладешко стандартно време"
+              daylight: "Бангладешко лятно часово време"
+          bhutan:
+            long:
+              standard: "Бутанско време"
+          bolivia:
+            long:
+              standard: "Боливийско време"
+          brasilia:
+            long:
+              generic: "Бразилско време"
+              standard: "Бразилско стандартно време"
+              daylight: "Бразилско лятно часово време"
+          brunei:
+            long:
+              standard: "Бруней Даруссалам"
+          cape_verde:
+            long:
+              generic: "Кабо Верде"
+              standard: "Кабо Верде – стандартно време"
+              daylight: "Кабо Верде – лятно часово време"
+          chamorro:
+            long:
+              standard: "Чаморо – стандартно време"
+          chatham:
+            long:
+              generic: "Чатъм"
+              standard: "Чатъм – стандартно време"
+              daylight: "Чатъм – лятно часово време"
+          chile:
+            long:
+              generic: "Чилийско време"
+              standard: "Чилийско стандартно време"
+              daylight: "Чилийско лятно часово време"
+          china:
+            long:
+              generic: "Китайско време"
+              standard: "Китайско стандартно време"
+              daylight: "Китайско лятно часово време"
+          choibalsan:
+            long:
+              generic: "Чойбалсанско време"
+              standard: "Чойбалсанско стандартно време"
+              daylight: "Чойбалсанско лятно часово време"
+          christmas:
+            long:
+              standard: "Остров Рождество"
+          cocos:
+            long:
+              standard: "Кокосови острови"
+          colombia:
+            long:
+              generic: "Колумбийско време"
+              standard: "Колумбийско стандартно време"
+              daylight: "Колумбийско лятно часово време"
+          cook:
+            long:
+              generic: "Острови Кук"
+              standard: "Острови Кук – стандартно време"
+              daylight: "Острови Кук – лятно часово време"
+          cuba:
+            long:
+              generic: "Кубинско време"
+              standard: "Кубинско стандартно време"
+              daylight: "Кубинско лятно часово време"
+          davis:
+            long:
+              standard: "Дейвис"
+          dumont_d_urville:
+            long:
+              standard: "Дюмон Дюрвил"
+          east_timor:
+            long:
+              standard: "Източнотиморско време"
+          easter:
+            long:
+              generic: "Великденски остров"
+              standard: "Великденски остров – стандартно време"
+              daylight: "Великденски остров – лятно часово време"
+          ecuador:
+            long:
+              standard: "Еквадорско време"
+          europe_central:
+            long:
+              generic: "Централноевропейско време"
+              standard: "Централноевропейско стандартно време"
+              daylight: "Централноевропейско лятно часово време"
+          europe_eastern:
+            long:
+              generic: "Източноевропейско време"
+              standard: "Източноевропейско стандартно време"
+              daylight: "Източноевропейско лятно часово време"
+          europe_further_eastern:
+            long:
+              standard: "Далечно източноевропейско време"
+          europe_western:
+            long:
+              generic: "Западноевропейско време"
+              standard: "Западноевропейско стандартно време"
+              daylight: "Западноевропейско лятно време"
+          falkland:
+            long:
+              generic: "Фолклендски острови"
+              standard: "Фолклендски острови – стандартно време"
+              daylight: "Фолклендски острови – лятно часово време"
+          fiji:
+            long:
+              generic: "Фиджи"
+              standard: "Фиджи – стандартно време"
+              daylight: "Фиджи – лятно часово време"
+          french_guiana:
+            long:
+              standard: "Френска Гвиана"
+          french_southern:
+            long:
+              standard: "Френски южни и антарктически територии"
+          galapagos:
+            long:
+              standard: "Галапагоско време"
+          gambier:
+            long:
+              standard: "Гамбие"
+          georgia:
+            long:
+              generic: "Грузинско време"
+              standard: "Грузинско стандартно време"
+              daylight: "Грузинско лятно часово време"
+          gilbert_islands:
+            long:
+              standard: "Острови Гилбърт"
+          gmt:
+            long:
+              standard: "Средно гринуичко време"
+          greenland_eastern:
+            long:
+              generic: "Източногренландско време"
+              standard: "Източногренландско стандартно време"
+              daylight: "Източногренландско лятно часово време"
+          greenland_western:
+            long:
+              generic: "Западногренландско време"
+              standard: "Западногренландско стандартно време"
+              daylight: "Западногренландско лятно часово време"
+          gulf:
+            long:
+              standard: "Персийски залив"
+          guyana:
+            long:
+              standard: "Гаяна"
+          hawaii_aleutian:
+            long:
+              generic: "Хавайско-алеутско време"
+              standard: "Хавайско-алеутско стандартно време"
+              daylight: "Хавайско-алеутско лятно часово време"
+          hong_kong:
+            long:
+              generic: "Хонконгско време"
+              standard: "Хонконгско стандартно време"
+              daylight: "Хонконгско лятно часово време"
+          hovd:
+            long:
+              generic: "Ховдско време"
+              standard: "Ховдско стандартно време"
+              daylight: "Ховдско лятно часово време"
+          india:
+            long:
+              standard: "Индийско стандартно време"
+          indian_ocean:
+            long:
+              standard: "Индийски океан"
+          indochina:
+            long:
+              standard: "Индокитайско време"
+          indonesia_central:
+            long:
+              standard: "Централноиндонезийско време"
+          indonesia_eastern:
+            long:
+              standard: "Източноиндонезийско време"
+          indonesia_western:
+            long:
+              standard: "Западноиндонезийско време"
+          iran:
+            long:
+              generic: "Иранско време"
+              standard: "Иранско стандартно време"
+              daylight: "Иранско лятно часово време"
+          irkutsk:
+            long:
+              generic: "Иркутско време"
+              standard: "Иркутско стандартно време"
+              daylight: "Иркутско лятно часово време"
+          israel:
+            long:
+              generic: "Израелско време"
+              standard: "Израелско стандартно време"
+              daylight: "Израелско лятно часово време"
+          japan:
+            long:
+              generic: "Японско време"
+              standard: "Японско стандартно време"
+              daylight: "Японско лятно часово време"
+          kamchatka:
+            long:
+              generic: "Петропавловск-Камчатски време"
+              standard: "Петропавловск-Камчатски стандартно време"
+              daylight: "Петропавловск-Камчатски – лятно часово време"
+          kazakhstan_eastern:
+            long:
+              standard: "Източноказахстанско време"
+          kazakhstan_western:
+            long:
+              standard: "Западноказахстанско време"
+          korea:
+            long:
+              generic: "Корейско време"
+              standard: "Корейско стандартно време"
+              daylight: "Корейско лятно часово време"
+          kosrae:
+            long:
+              standard: "Кошрай"
+          krasnoyarsk:
+            long:
+              generic: "Красноярско време"
+              standard: "Красноярско стандартно време"
+              daylight: "Красноярско лятно часово време"
+          kyrgystan:
+            long:
+              standard: "Киргизстанско време"
+          line_islands:
+            long:
+              standard: "Екваториални острови"
+          lord_howe:
+            long:
+              generic: "Лорд Хау"
+              standard: "Лорд Хау – стандартно време"
+              daylight: "Лорд Хау – лятно часово време"
+          macquarie:
+            long:
+              standard: "Маккуори"
+          magadan:
+            long:
+              generic: "Магаданско време"
+              standard: "Магаданско стандартно време"
+              daylight: "Магаданско лятно часово време"
+          malaysia:
+            long:
+              standard: "Малайзийско време"
+          maldives:
+            long:
+              standard: "Малдивски острови"
+          marquesas:
+            long:
+              standard: "Маркизки острови"
+          marshall_islands:
+            long:
+              standard: "Маршалови острови"
+          mauritius:
+            long:
+              generic: "Мавриций"
+              standard: "Мавриций – стандартно време"
+              daylight: "Мавриций – лятно часово време"
+          mawson:
+            long:
+              standard: "Моусън"
+          mexico_northwest:
+            long:
+              generic: "Мексико – северозападно време"
+              standard: "Мексико – северозападно стандартно време"
+              daylight: "Мексико – северозападно лятно часово време"
+          mexico_pacific:
+            long:
+              generic: "Мексиканско тихоокеанско време"
+              standard: "Мексиканско тихоокеанско стандартно време"
+              daylight: "Мексиканско тихоокеанско лятно часово време"
+          mongolia:
+            long:
+              generic: "Уланбаторско време"
+              standard: "Уланбаторско стандартно време"
+              daylight: "Уланбаторско лятно часово време"
+          moscow:
+            long:
+              generic: "Московско време"
+              standard: "Московско стандартно време"
+              daylight: "Московско лятно часово време"
+          myanmar:
+            long:
+              standard: "Мианмарско време"
+          nauru:
+            long:
+              standard: "Науру"
+          nepal:
+            long:
+              standard: "Непалско време"
+          new_caledonia:
+            long:
+              generic: "Новокаледонско време"
+              standard: "Новокаледонско стандартно време"
+              daylight: "Новокаледонско лятно часово време"
+          new_zealand:
+            long:
+              generic: "Новозеландско време"
+              standard: "Новозеландско стандартно време"
+              daylight: "Новозеландско лятно часово време"
+          newfoundland:
+            long:
+              generic: "Нюфаундлендско време"
+              standard: "Нюфаундлендско стандартно време"
+              daylight: "Нюфаундлендско лятно часово време"
+          niue:
+            long:
+              standard: "Ниуе"
+          norfolk:
+            long:
+              standard: "Норфолк"
+          noronha:
+            long:
+              generic: "Фернандо де Нороня"
+              standard: "Фернандо де Нороня – стандартно време"
+              daylight: "Фернандо де Нороня – лятно часово време"
+          novosibirsk:
+            long:
+              generic: "Новосибирско време"
+              standard: "Новосибирско стандартно време"
+              daylight: "Новосибирско лятно часово време"
+          omsk:
+            long:
+              generic: "Омско време"
+              standard: "Омско стандартно време"
+              daylight: "Омско лятно часово време"
+          pakistan:
+            long:
+              generic: "Пакистанско време"
+              standard: "Пакистанско стандартно време"
+              daylight: "Пакистанско лятно часово време"
+          palau:
+            long:
+              standard: "Палау"
+          papua_new_guinea:
+            long:
+              standard: "Папуа Нова Гвинея"
+          paraguay:
+            long:
+              generic: "Парагвайско време"
+              standard: "Парагвайско стандартно време"
+              daylight: "Парагвайско лятно часово време"
+          peru:
+            long:
+              generic: "Перуанско време"
+              standard: "Перуанско стандартно време"
+              daylight: "Перуанско лятно часово време"
+          philippines:
+            long:
+              generic: "Филипинско време"
+              standard: "Филипинско стандартно време"
+              daylight: "Филипинско лятно часово време"
+          phoenix_islands:
+            long:
+              standard: "Острови Феникс"
+          pierre_miquelon:
+            long:
+              generic: "Сен Пиер и Микелон"
+              standard: "Сен Пиер и Микелон – стандартно време"
+              daylight: "Сен Пиер и Микелон – лятно часово време"
+          pitcairn:
+            long:
+              standard: "Питкерн"
+          ponape:
+            long:
+              standard: "Понапе"
+          reunion:
+            long:
+              standard: "Реюнион"
+          rothera:
+            long:
+              standard: "Ротера"
+          sakhalin:
+            long:
+              generic: "Сахалинско време"
+              standard: "Сахалинско стандартно време"
+              daylight: "Сахалинско лятно часово време"
+          samara:
+            long:
+              generic: "Самара време"
+              standard: "Самара – стандартно време"
+              daylight: "Самара – лятно часово време"
+          samoa:
+            long:
+              generic: "Самоанско време"
+              standard: "Самоанско стандартно време"
+              daylight: "Самоанско лятно часово време"
+          seychelles:
+            long:
+              standard: "Сейшелски острови"
+          singapore:
+            long:
+              standard: "Сингапурско време"
+          solomon:
+            long:
+              standard: "Соломонови острови"
+          south_georgia:
+            long:
+              standard: "Южна Джорджия"
+          suriname:
+            long:
+              standard: "Суринамско време"
+          syowa:
+            long:
+              standard: "Шова"
+          tahiti:
+            long:
+              standard: "Таитянско време"
+          taipei:
+            long:
+              generic: "Тайпе"
+              standard: "Тайпе – стандартно време"
+              daylight: "Тайпе – лятно часово време"
+          tajikistan:
+            long:
+              standard: "Таджикистанско време"
+          tokelau:
+            long:
+              standard: "Токелау"
+          tonga:
+            long:
+              generic: "Тонга"
+              standard: "Тонга – стандартно време"
+              daylight: "Тонга – лятно часово време"
+          truk:
+            long:
+              standard: "Чуюк"
+          turkmenistan:
+            long:
+              generic: "Туркменистанско време"
+              standard: "Туркменистанско стандартно време"
+              daylight: "Туркменистанско лятно часово време"
+          tuvalu:
+            long:
+              standard: "Тувалу"
+          uruguay:
+            long:
+              generic: "Уругвайско време"
+              standard: "Уругвайско стандартно време"
+              daylight: "Уругвайско лятно часово време"
+          uzbekistan:
+            long:
+              generic: "Узбекистанско време"
+              standard: "Узбекистанско стандартно време"
+              daylight: "Узбекистанско лятно часово време"
+          vanuatu:
+            long:
+              generic: "Вануату"
+              standard: "Вануату – стандартно време"
+              daylight: "Вануату – лятно часово време"
+          venezuela:
+            long:
+              standard: "Венецуелско време"
+          vladivostok:
+            long:
+              generic: "Владивостокско време"
+              standard: "Владивостокско стандартно време"
+              daylight: "Владивостокско лятно часово време"
+          volgograd:
+            long:
+              generic: "Волгоградско време"
+              standard: "Волгоградско стандартно време"
+              daylight: "Волгоградско лятно часово време"
+          vostok:
+            long:
+              standard: "Восток"
+          wake:
+            long:
+              standard: "Остров Уейк"
+          wallis:
+            long:
+              standard: "Уолис и Футуна"
+          yakutsk:
+            long:
+              generic: "Якутско време"
+              standard: "Якутскско стандартно време"
+              daylight: "Якутскско лятно часово време"
+          yekaterinburg:
+            long:
+              generic: "Екатеринбургско време"
+              standard: "Екатеринбургско стандартно време"
+              daylight: "Екатеринбургско лятно часово време"
+    locale_display_names:
+      languages:
+        aa: "афар"
+        ab: "абхазки"
+        ace: "ачински"
+        ach: "аколи"
+        ada: "адангме"
+        ady: "адиге"
+        ae: "авестски"
+        aeb: aeb
+        af: "африкаанс"
+        afh: "африхили"
+        agq: "агем"
+        ain: "айну"
+        ak: "акан"
+        akk: "акадски"
+        akz: akz
+        ale: "алеутски"
+        aln: aln
+        alt: "южноалтайски"
+        am: "амхарски"
+        an: "арагонски"
+        ang: "староанглийски"
+        anp: "ангика"
+        ar: "арабски"
+        ar_001: "съвременен стандартен арабски"
+        arc: "арамейски"
+        arn: "мапуче"
+        aro: aro
+        arp: "арапахо"
+        arq: arq
+        arw: "аравак"
+        ary: ary
+        arz: arz
+        as: "асамски"
+        asa: "асу"
+        ase: ase
+        ast: "астурски"
+        av: "аварски"
+        avk: avk
+        awa: "авади"
+        ay: "аймара"
+        az: "азербайджански"
+        az_alt_short: "азерски"
+        ba: "башкирски"
+        bal: "балучи"
+        ban: "балинейски"
+        bar: bar
+        bas: "баса"
+        bax: bax
+        bbc: bbc
+        bbj: bbj
+        be: "беларуски"
+        bej: "бея"
+        bem: "бемба"
+        bew: bew
+        bez: "бена"
+        bfd: bfd
+        bfq: bfq
+        bg: "български"
+        bgn: "западен балочи"
+        bho: "божпури"
+        bi: "бислама"
+        bik: "биколски"
+        bin: "бини"
+        bjn: bjn
+        bkm: bkm
+        bla: "сиксика"
+        bm: "бамбара"
+        bn: "бенгалски"
+        bo: "тибетски"
+        bpy: bpy
+        bqi: bqi
+        br: "бретонски"
+        bra: "брадж"
+        brh: brh
+        brx: "бодо"
+        bs: "босненски"
+        bss: bss
+        bua: "бурятски"
+        bug: "бугински"
+        bum: bum
+        byn: "биленски"
+        byv: byv
+        ca: "каталонски"
+        cad: "каддо"
+        car: "карибски"
+        cay: cay
+        cch: "атсам"
+        ce: "чеченски"
+        ceb: "себуано"
+        cgg: "чига"
+        ch: "чаморо"
+        chb: "чибча"
+        chg: "чагатай"
+        chk: "чуук"
+        chm: "марийски"
+        chn: "жаргон чинуук"
+        cho: "чокто"
+        chp: "чиипувски"
+        chr: "чероки"
+        chy: "чейенски"
+        ckb: "кюрдски (централен)"
+        co: "корсикански"
+        cop: "коптски"
+        cps: cps
+        cr: "крии"
+        crh: "кримскотатарски"
+        cs: "чешки"
+        csb: "кашубски"
+        cu: "църковно славянски"
+        cv: "чувашки"
+        cy: "уелски"
+        da: "датски"
+        dak: "дакотски"
+        dar: "даргва"
+        dav: "таита"
+        de: "немски"
+        de_at: "немски (Австрия)"
+        de_ch: "немски (Швейцария)"
+        del: "делауер"
+        den: "слейви"
+        dgr: "догриб"
+        din: "динка"
+        dje: "джерма"
+        doi: "догри"
+        dsb: "долнолужишки"
+        dtp: dtp
+        dua: "дуала"
+        dum: "средновековен холандски"
+        dv: "дивехи"
+        dyo: "диола"
+        dyu: "диула"
+        dz: "дзонха"
+        dzg: dzg
+        ebu: "ембу"
+        ee: "еве"
+        efi: "ефик"
+        egl: egl
+        egy: "египетски"
+        eka: "екажук"
+        el: "гръцки"
+        elx: "еламитски"
+        en: "английски"
+        en_au: "английски (Австралия)"
+        en_ca: "английски (Канада)"
+        en_gb: "английски (Обединеното кралство)"
+        en_gb_alt_short: "английски (UK)"
+        en_us: "английски (САЩ)"
+        en_us_alt_short: "английски (US)"
+        enm: "средновековен английски"
+        eo: "есперанто"
+        es: "испански"
+        es_419: "испански (Латинска Америка)"
+        es_es: "испански (Испания)"
+        es_mx: "испански (Мексико)"
+        esu: esu
+        et: "естонски"
+        eu: "баски"
+        ewo: "евондо"
+        ext: ext
+        fa: "персийски"
+        fan: "фанг"
+        fat: "фанти"
+        ff: "фула"
+        fi: "фински"
+        fil: "филипински"
+        fit: fit
+        fj: "фиджийски"
+        fo: "фарьорски"
+        fon: "фон"
+        fr: "френски"
+        fr_ca: "френски (Канада)"
+        fr_ch: "френски (Швейцария)"
+        frc: frc
+        frm: "средновековен френски"
+        fro: "старофренски"
+        frp: frp
+        frr: "северен фризски"
+        frs: "източен фризски"
+        fur: "фриулиански"
+        fy: "фризийски"
+        ga: "ирландски"
+        gaa: "га"
+        gag: "гагаузки"
+        gan: gan
+        gay: "гайо"
+        gba: "гбая"
+        gbz: gbz
+        gd: "шотландски галски"
+        gez: "гииз"
+        gil: "гилбертски"
+        gl: "галисийски"
+        glk: glk
+        gmh: "средновековен немски"
+        gn: "гуарани"
+        goh: "старовисоконемски"
+        gom: gom
+        gon: "гонди"
+        gor: "горонтало"
+        got: "готически"
+        grb: "гребо"
+        grc: "древногръцки"
+        gsw: "швейцарски немски"
+        gu: "гуджарати"
+        guc: guc
+        gur: gur
+        guz: "гусии"
+        gv: "манкски"
+        gwi: "гвичин"
+        ha: "хауза"
+        hai: "хайда"
+        hak: hak
+        haw: "хавайски"
+        he: "иврит"
+        hi: "хинди"
+        hif: hif
+        hil: "хилигайнон"
+        hit: "хитски"
+        hmn: "хмонг"
+        ho: "хири моту"
+        hr: "хърватски"
+        hsb: "горнолужишки"
+        hsn: hsn
+        ht: "хаитянски"
+        hu: "унгарски"
+        hup: "хупа"
+        hy: "арменски"
+        hz: "хереро"
+        ia: "интерлингва"
+        iba: "ибан"
+        ibb: ibb
+        id: "индонезийски"
+        ie: "оксидентал"
+        ig: "игбо"
+        ii: "съчуански и"
+        ik: "инупиак"
+        ilo: "илоко"
+        inh: "ингушетски"
+        io: "идо"
+        is: "исландски"
+        it: "италиански"
+        iu: "инуктитут"
+        izh: izh
+        ja: "японски"
+        jam: jam
+        jbo: "лоджбан"
+        jgo: "нгомба"
+        jmc: "мачаме"
+        jpr: "еврейско-персийски"
+        jrb: "еврейско-арабски"
+        jut: jut
+        jv: "явански"
+        ka: "грузински"
+        kaa: "каракалпашки"
+        kab: "кабилски"
+        kac: "качински"
+        kaj: "жжи"
+        kam: "камба"
+        kaw: "кави"
+        kbd: "кабардиан"
+        kbl: kbl
+        kcg: "туап"
+        kde: "маконде"
+        kea: "кабовердиански"
+        ken: ken
+        kfo: "коро"
+        kg: "конгоански"
+        kgp: kgp
+        kha: "кхаси"
+        kho: "котски"
+        khq: "койра чиини"
+        khw: khw
+        ki: "кикую"
+        kiu: kiu
+        kj: "кваняма"
+        kk: "казахски"
+        kkj: kkj
+        kl: "гренландски"
+        kln: "календжин"
+        km: "кхмерски"
+        kmb: "кимбунду"
+        kn: "каннада"
+        ko: "корейски"
+        koi: "коми-пермяцки"
+        kok: "конкани"
+        kos: "косраен"
+        kpe: "кпеле"
+        kr: "канури"
+        krc: "карачай-балкарски"
+        kri: kri
+        krj: krj
+        krl: "карелски"
+        kru: "курук"
+        ks: "кашмирски"
+        ksb: "шамбала"
+        ksf: "бафия"
+        ksh: ksh
+        ku: "кюрдски"
+        kum: "кумикски"
+        kut: "кутенай"
+        kv: "Коми"
+        kw: "корнуолски"
+        ky: "киргизки"
+        la: "латински"
+        lad: "ладино"
+        lag: "ланги"
+        lah: "лахнда"
+        lam: "ламба"
+        lb: "люксембургски"
+        lez: "лезгински"
+        lfn: lfn
+        lg: "ганда"
+        li: "лимбургски"
+        lij: lij
+        liv: liv
+        lkt: "лакота"
+        lmo: lmo
+        ln: "лингала"
+        lo: "лаоски"
+        lol: "монго"
+        loz: "лози"
+        lrc: "северен лури"
+        lt: "литовски"
+        ltg: ltg
+        lu: "луба катанга"
+        lua: "луба-лулуа"
+        lui: "луисеньо"
+        lun: "лунда"
+        luo: "луо"
+        lus: "лушаи"
+        luy: "луя"
+        lv: "латвийски"
+        lzh: lzh
+        lzz: lzz
+        mad: "мадурски"
+        maf: maf
+        mag: "магахи"
+        mai: "майтхили"
+        mak: "макасар"
+        man: "мандинго"
+        mas: "масайски"
+        mde: mde
+        mdf: "мокша"
+        mdh: mdh
+        mdr: "мандар"
+        men: "менде"
+        mer: "меру"
+        mfe: "морисиен"
+        mg: "малгашки"
+        mga: "средновековен ирландски"
+        mgh: "макуа мето"
+        mgo: "мета"
+        mh: "маршалезе"
+        mi: "маорски"
+        mic: "микмак"
+        min: "минангбау"
+        mis: mis
+        mk: "македонски"
+        ml: "малаялам"
+        mn: "монголски"
+        mnc: "манчжурски"
+        mni: "манипури"
+        moh: "мохоук"
+        mos: "моси"
+        mr: "марати"
+        mrj: mrj
+        ms: "малайски"
+        mt: "малтийски"
+        mua: "мунданг"
+        mul: "многоезични"
+        mus: "крик"
+        mwl: "мирандийски"
+        mwr: "марвари"
+        mwv: mwv
+        my: "бирмански"
+        mye: mye
+        myv: "ерзиа"
+        mzn: "мазандаран"
+        na: "науру"
+        nan: nan
+        nap: "неаполитански"
+        naq: "нама"
+        nb: "норвежки (букмол)"
+        nd: "северен ндебеле"
+        nds: "долнонемски"
+        nds_nl: "долносаксонски"
+        ne: "непалски"
+        new: "неварски"
+        ng: "ндонга"
+        nia: "ниас"
+        niu: "ниуеан"
+        njo: njo
+        nl: "нидерландски"
+        nl_be: "фламандски"
+        nmg: "квасио"
+        nn: "норвежки (нюношк)"
+        nnh: nnh
+        'no': "норвежки"
+        nog: "ногаи"
+        non: "старонорвежски"
+        nov: nov
+        nqo: "нко"
+        nr: "южен ндебеле"
+        nso: "северен сото"
+        nus: "нуер"
+        nv: "навахо"
+        nwc: "класически невари"
+        ny: "чинянджа"
+        nym: "ниамвези"
+        nyn: "нианколе"
+        nyo: "нуоро"
+        nzi: "нзима"
+        oc: "окситански"
+        oj: "оджибва"
+        om: "оромо"
+        or: "ория"
+        os: "осетски"
+        osa: "оседжи"
+        ota: "отомански турски"
+        pa: "пенджабски"
+        pag: "пангасинан"
+        pal: "пехлевийски"
+        pam: "пампанга"
+        pap: "папиаменту"
+        pau: "палауан"
+        pcd: pcd
+        pdc: pdc
+        pdt: pdt
+        peo: "староперсийски"
+        pfl: pfl
+        phn: "финикийски"
+        pi: "пали"
+        pl: "полски"
+        pms: pms
+        pnt: pnt
+        pon: "похнпеиан"
+        prg: prg
+        pro: "провансалски"
+        ps: "пущу"
+        ps_alt_variant: "пущунски"
+        pt: "португалски"
+        pt_br: "португалски (Бразилия)"
+        pt_pt: "португалски (Португалия)"
+        qu: "кечуа"
+        quc: "киче"
+        qug: qug
+        raj: "раджастански"
+        rap: "рапа нуи"
+        rar: "рапотонган"
+        rgn: rgn
+        rif: rif
+        rm: "реторомански"
+        rn: "рунди"
+        ro: "румънски"
+        ro_md: "молдовски"
+        rof: "ромбо"
+        rom: "цигански език"
+        root: "роот"
+        rtm: rtm
+        ru: "руски"
+        rue: rue
+        rug: rug
+        rup: "арумънски"
+        rw: "киняруанда"
+        rwk: "рва"
+        sa: "санкскритски"
+        sad: "сандве"
+        sah: "якутски"
+        sam: "самаритански арамейски"
+        saq: "самбуру"
+        sas: "сасак"
+        sat: "сантали"
+        saz: saz
+        sba: sba
+        sbp: "сангу"
+        sc: "сардински"
+        scn: "сицилиански"
+        sco: "шотландски"
+        sd: "синдхи"
+        sdc: sdc
+        sdh: "южнокюрдски"
+        se: "северносаамски"
+        see: see
+        seh: "сена"
+        sei: sei
+        sel: "селкуп"
+        ses: "койраборо сени"
+        sg: "санго"
+        sga: "староирландски"
+        sgs: sgs
+        sh: "сърбохърватски"
+        shi: "ташелхит"
+        shn: "шан"
+        shu: shu
+        si: "синхалски"
+        sid: "сидамо"
+        sk: "словашки"
+        sl: "словенски"
+        sli: sli
+        sly: sly
+        sm: "самоански"
+        sma: "южносаамски"
+        smj: "луле-саамски"
+        smn: "инари-саамски"
+        sms: "сколт-саамски"
+        sn: "шона"
+        snk: "сонинке"
+        so: "сомалийски"
+        sog: "согдийски"
+        sq: "албански"
+        sr: "сръбски"
+        srn: "сранан тонго"
+        srr: "серер"
+        ss: "суази"
+        ssy: ssy
+        st: "сесуто"
+        stq: stq
+        su: "сундански"
+        suk: "сукума"
+        sus: "сусу"
+        sux: "шумерски"
+        sv: "шведски"
+        sw: "суахили"
+        swb: "коморски"
+        swc: "конгоански суахили"
+        syc: "класически сирийски"
+        syr: "сирийски"
+        szl: szl
+        ta: "тамилски"
+        tcy: tcy
+        te: "телугу"
+        tem: "темне"
+        teo: "тесо"
+        ter: "терено"
+        tet: "тетум"
+        tg: "таджикски"
+        th: "тайски"
+        ti: "тигриня"
+        tig: "тигре"
+        tiv: "тив"
+        tk: "туркменски"
+        tkl: "токелайски"
+        tkr: tkr
+        tl: "тагалог"
+        tlh: "клингон"
+        tli: "тлингит"
+        tly: tly
+        tmh: "тамашек"
+        tn: "тсвана"
+        to: "тонга"
+        tog: "нианса тонга"
+        tpi: "ток писин"
+        tr: "турски"
+        tru: tru
+        trv: trv
+        ts: "тсонга"
+        tsd: tsd
+        tsi: "цимшиански"
+        tt: "татарски"
+        ttt: ttt
+        tum: "тумбука"
+        tvl: "тувалуански"
+        tw: "туи"
+        twq: "тасавак"
+        ty: "таитянски"
+        tyv: "тувински"
+        tzm: "централноатласки тамазигт"
+        udm: "удмуртски"
+        ug: "уйгурски"
+        uga: "угаритски"
+        uk: "украински"
+        umb: "умбунду"
+        und: "неопределен"
+        ur: "урду"
+        uz: "узбекски"
+        vai: "ваи"
+        ve: "венда"
+        vec: vec
+        vep: vep
+        vi: "виетнамски"
+        vls: vls
+        vmf: vmf
+        vo: "волапюк"
+        vot: "вотик"
+        vro: vro
+        vun: "вунджо"
+        wa: "валонски"
+        wae: wae
+        wal: "валамо"
+        war: "варай"
+        was: "уашо"
+        wbp: "валпири"
+        wo: "волоф"
+        wuu: wuu
+        xal: "калмик"
+        xh: "ксоса"
+        xmf: xmf
+        xog: "сога"
+        yao: "яо"
+        yap: "япезе"
+        yav: yav
+        ybb: ybb
+        yi: "идиш"
+        yo: "йоруба"
+        yrl: yrl
+        yue: "кантонски"
+        za: "зуанг"
+        zap: "запотек"
+        zbl: "блис символи"
+        zea: zea
+        zen: "зенага"
+        zgh: "стандартен марокански тамазигт"
+        zh: "китайски"
+        zh_hans: "китайски (опростен)"
+        zh_hant: "китайски (традиционен)"
+        zu: "зулуски"
+        zun: "зуни"
+        zxx: "без лингвистично съдържание"
+        zza: "заза"
+      locale_display_pattern:
+        locale_pattern: "{0} ({1})"
+        locale_separator: "{0}, {1}"
+        locale_key_type_pattern: "{0}: {1}"
+      keys:
+        calendar: "календар"
+        cf: cf
+        col_alternate: "Пренебрегване на сортирането по символи"
+        col_backwards: "Сортиране по диакритични знаци в обратен ред"
+        col_case_first: "Подреждане по горен/долен регистър"
+        col_case_level: "Сортиране с различаване на регистъра на буквите"
+        col_hiragana_quaternary: "Сортиране на кана"
+        collation: "ред на сортиране"
+        col_normalization: "Нормализирано сортиране"
+        col_numeric: "Сортиране на цифрите"
+        col_strength: "Сила на сортиране"
+        currency: "валута"
+        hc: "Часови формат (12- или 24-часов)"
+        lb: "Стил за нов ред"
+        ms: "Мерна система"
+        numbers: "цифри"
+        timezone: "Часова зона"
+        va: "Вариант на локала"
+        variable_top: "Сортиране като символи"
+        x: "Собствена употреба"
+      types:
+        calendar:
+          buddhist: "будистки календар"
+          chinese: "китайски календар"
+          coptic: "Коптски календар"
+          dangi: "корейски календар"
+          ethiopic: "етиопски календар"
+          ethiopic_amete_alem: "Етиопски календар Амит Алем"
+          gregorian: "григориански календар"
+          hebrew: "еврейски календар"
+          indian: "Индийски граждански календар"
+          islamic: "ислямски календар"
+          islamic_civil: "Ислямски цивилен календар"
+          islamic_rgsa: islamic-rgsa
+          islamic_tbla: islamic-tbla
+          islamic_umalqura: islamic-umalqura
+          iso8601: "календар според ISO 8601"
+          japanese: "японски календар"
+          persian: "персийски календар"
+          roc: "календар на Република Китай"
+        cf:
+          account: account
+          standard: standard
+        col_alternate:
+          non_ignorable: "Сортиране по символи"
+          shifted: "Сортиране с пренебрегване на символи"
+        col_backwards:
+          'no': "Нормално сортиране по диакритични знаци"
+          'yes': "Обратно сортиране по диакритични знаци"
+        col_case_first:
+          lower: "Сортиране първо по долен регистър"
+          'no': "Сортиране с нормален ред за регистъра"
+          upper: "Сортиране първо по горен регистър"
+        col_case_level:
+          'no': "Сортиране без различаване на регистъра на буквите"
+          'yes': "Сортиране с различаване на регистъра на буквите"
+        col_hiragana_quaternary:
+          'no': "Сортиране на кана отделно"
+          'yes': "Сортиране на кана по различен начин"
+        collation:
+          big5han: "Традиционен китайски (Big5)"
+          compat: compat
+          dictionary: "Речников ред на сортиране"
+          ducet: "стандартен ред на сортиране в Уникод"
+          emoji: emoji
+          eor: eor
+          gb2312han: "Опростен китайски (GB2312)"
+          phonebook: "Азбучен ред"
+          phonetic: "Фонетичен ред на сортиране"
+          pinyin: "Сортиране Пинин"
+          reformed: "Следреформен ред на сортиране"
+          search: "търсене с общо предназначение"
+          searchjl: "Търсене по първоначални съгласни в хангул"
+          standard: "стандартен ред на сортиране"
+          stroke: "Сортиране по щрих"
+          traditional: "Традиционно"
+          unihan: "Ред на сортиране по ключове и черти"
+          zhuyin: zhuyin
+        col_normalization:
+          'no': "Сортиране без нормализиране"
+          'yes': "Нормализирано сортиране в Уникод"
+        col_numeric:
+          'no': "Сортиране на цифрите индивидуално"
+          'yes': "Сортиране на цифрите по числена стойност"
+        col_strength:
+          identical: "Сортиране на всички"
+          primary: "Сортиране само по основни букви"
+          quaternary: "Сортиране по диакритични знаци/регистър/ширина/кана"
+          secondary: "Сортиране по диакритични знаци"
+          tertiary: "Сортиране по диакритични знаци/регистър/ширина"
+        hc:
+          h11: 12-часова система (0 – 11)
+          h12: 12-часова система (1 – 12)
+          h23: 24-часова система (0 – 23)
+          h24: 24-часова система (1 – 24)
+        lb:
+          loose: "Свободен стил за нов ред"
+          normal: "Нормален стил за нов ред"
+          strict: "Строг стил за нов ред"
+        ms:
+          metric: "Метрична система"
+          uksystem: "Имперска мерна система"
+          ussystem: "Мерна система на САЩ"
+        numbers:
+          ahom: ahom
+          arab: "арабско-индийски цифри"
+          arabext: "разширени арабско-индийски цифри"
+          armn: "арменски цифри"
+          armnlow: "арменски цифри в долен регистър"
+          bali: bali
+          beng: "бенгалски цифри"
+          brah: brah
+          cakm: cakm
+          cham: cham
+          cyrl: cyrl
+          deva: "цифри в деванагари"
+          ethi: "етиопски цифри"
+          finance: "Финансови цифри"
+          fullwide: "цифри с пълна ширина"
+          geor: "грузински цифри"
+          grek: "гръцки цифри"
+          greklow: "гръцки цифри в долен регистър"
+          gujr: "цифри в гуджарати"
+          guru: "цифри в гурмукхи"
+          hanidec: "китайски десетични цифри"
+          hans: "цифри в китайски (опростен)"
+          hansfin: "финансови цифри в китайски (опростен)"
+          hant: "цифри в китайски (традиционен)"
+          hantfin: "финансови цифри в китайски (традиционен)"
+          hebr: "цифри в иврит"
+          hmng: hmng
+          java: java
+          jpan: "японски цифри"
+          jpanfin: "японски финансови цифри"
+          kali: kali
+          khmr: "кхмерски цифри"
+          knda: "цифри в каннада"
+          lana: lana
+          lanatham: lanatham
+          laoo: "лаоски цифри"
+          latn: "западни цифри"
+          lepc: lepc
+          limb: limb
+          mathbold: mathbold
+          mathdbl: mathdbl
+          mathmono: mathmono
+          mathsanb: mathsanb
+          mathsans: mathsans
+          mlym: "цифри в малаялам"
+          modi: modi
+          mong: "Монголски цифри"
+          mroo: mroo
+          mtei: mtei
+          mymr: "бирмански цифри"
+          mymrshan: mymrshan
+          mymrtlng: mymrtlng
+          native: "Местни цифри"
+          nkoo: nkoo
+          olck: olck
+          orya: "цифри в ория"
+          osma: osma
+          roman: "римски цифри"
+          romanlow: "римски цифри в долен регистър"
+          saur: saur
+          shrd: shrd
+          sind: sind
+          sinh: sinh
+          sora: sora
+          sund: sund
+          takr: takr
+          talu: talu
+          taml: "традиционни тамилски цифри"
+          tamldec: "тамилски цифри"
+          telu: "цифри в телугу"
+          thai: "тайландски цифри"
+          tibt: "тибетски цифри"
+          tirh: tirh
+          traditional: "Традиционни цифри"
+          vaii: "Цифри във ваи"
+          wara: wara
+      code_patterns:
+        language: "Език: {0}"
+        script: "Писменост: {0}"
+        territory: "Регион: {0}"
+      scripts:
+        aghb: Aghb
+        ahom: Ahom
+        arab: "арабска"
+        arab_alt_variant: "персийско-арабска"
+        armi: "Арамейска"
+        armn: "арменска"
+        avst: "Авестанска"
+        bali: "Балийски"
+        bamu: Bamu
+        bass: Bass
+        batk: "Батакска"
+        beng: "бенгалска"
+        blis: "Блис символи"
+        bopo: "бопомофо"
+        brah: "Брахми"
+        brai: "Брайлова"
+        bugi: "Бугинска"
+        buhd: "Бухид"
+        cakm: "Чакма"
+        cans: "Унифицирани символи на канадски аборигени"
+        cari: "Карийска"
+        cham: "Хамитска"
+        cher: "Чероки"
+        cirt: "Кирт"
+        copt: "Коптска"
+        cprt: "Кипърска"
+        cyrl: "кирилица"
+        deva: "деванагари"
+        dsrt: "Дезерет"
+        dupl: Dupl
+        egyd: "Египетско демотично писмо"
+        egyh: "Египетско йератично писмо"
+        egyp: "Египетски йероглифи"
+        elba: Elba
+        ethi: "етиопска"
+        geok: "Грузинска хуцури"
+        geor: "грузинска"
+        glag: "Глаголическа"
+        goth: "Готическа"
+        gran: Gran
+        grek: "гръцка"
+        gujr: "гуджарати"
+        guru: "гурмукхи"
+        hang: "хангъл"
+        hani: "китайска"
+        hano: "Хануну"
+        hans: "опростен"
+        hans_alt_stand_alone: "опростен китайски"
+        hant: "традиционен"
+        hant_alt_stand_alone: "традиционен китайски"
+        hatr: Hatr
+        hebr: "иврит"
+        hira: "хирагана"
+        hluw: Hluw
+        hmng: "Пахау хмонг"
+        hrkt: "Катакана или Хирагана"
+        hung: "Староунгарска"
+        inds: "Харапска"
+        ital: "Древно италийска"
+        java: "Яванска"
+        jpan: "японска"
+        kali: "Кая Ли"
+        kana: "катакана"
+        khar: "Кхароштхи"
+        khmr: "кхмерска"
+        khoj: Khoj
+        knda: "каннада"
+        kore: "корейска"
+        kthi: "Кайтхи"
+        lana: "Ланна"
+        laoo: "лаоска"
+        latf: "Латинска фрактура"
+        latg: "Галска латинска"
+        latn: "латиница"
+        lepc: "Лепча"
+        limb: "Лимбу"
+        lina: "Линейна А"
+        linb: "Линейна Б"
+        lisu: Lisu
+        lyci: "Лицийска"
+        lydi: "Лидийска"
+        mahj: Mahj
+        mand: "Мандаринска"
+        mani: "Манихейска"
+        maya: "Йероглифи на Маите"
+        mend: Mend
+        merc: Merc
+        mero: "Мероитска"
+        mlym: "малаялам"
+        modi: Modi
+        mong: "монголска"
+        moon: "Мун"
+        mroo: Mroo
+        mtei: "Манипури"
+        mult: Mult
+        mymr: "бирманска"
+        narb: Narb
+        nbat: Nbat
+        nkoo: "Н’Ко"
+        ogam: "Огамическа"
+        olck: "Ол Чики"
+        orkh: "Орхоно-енисейска"
+        orya: "ория"
+        osma: "Османска"
+        palm: Palm
+        pauc: Pauc
+        perm: "Древно пермска"
+        phag: "Фагс-па"
+        phli: Phli
+        phlp: Phlp
+        phlv: "Пахлавска"
+        phnx: "Финикийска"
+        plrd: "Писменост Полард"
+        prti: Prti
+        qaaa: Qaaa
+        qaab: Qaab
+        qaac: Qaac
+        qaad: Qaad
+        qaae: Qaae
+        qaaf: Qaaf
+        qaag: Qaag
+        qaah: Qaah
+        qaaj: Qaaj
+        qaak: Qaak
+        qaal: Qaal
+        qaam: Qaam
+        qaan: Qaan
+        qaao: Qaao
+        qaap: Qaap
+        qaaq: Qaaq
+        qaar: Qaar
+        qaas: Qaas
+        qaat: Qaat
+        qaau: Qaau
+        qaav: Qaav
+        qaaw: Qaaw
+        qaax: Qaax
+        qaay: Qaay
+        qaaz: Qaaz
+        qaba: Qaba
+        qabb: Qabb
+        qabc: Qabc
+        qabd: Qabd
+        qabe: Qabe
+        qabf: Qabf
+        qabg: Qabg
+        qabh: Qabh
+        qabi: Qabi
+        qabj: Qabj
+        qabk: Qabk
+        qabl: Qabl
+        qabm: Qabm
+        qabn: Qabn
+        qabo: Qabo
+        qabp: Qabp
+        qabq: Qabq
+        qabr: Qabr
+        qabs: Qabs
+        qabt: Qabt
+        qabu: Qabu
+        qabv: Qabv
+        qabw: Qabw
+        qabx: Qabx
+        rjng: Rjng
+        roro: "Ронго-ронго"
+        runr: "Руническа"
+        samr: "Самаританска"
+        sara: "Сарати"
+        sarb: Sarb
+        saur: "Саураштра"
+        sgnw: Sgnw
+        shaw: Shaw
+        shrd: Shrd
+        sidd: Sidd
+        sind: Sind
+        sinh: "синхалска"
+        sora: Sora
+        sund: "Сунданска"
+        sylo: "Силоти Нагри"
+        syrc: "Сирийска"
+        syre: "Сирийска естрангело"
+        syrj: "Западна сирийска"
+        syrn: "Източна сирийска"
+        tagb: "Тагбанва"
+        takr: Takr
+        tale: "Тай Ле"
+        talu: "Нова Тай Ле"
+        taml: "тамилска"
+        tavt: Tavt
+        telu: "телугу"
+        tfng: Tfng
+        tglg: "Тагалог"
+        thaa: "таана"
+        thai: "тайска"
+        tibt: "тибетска"
+        tirh: Tirh
+        ugar: "Угаритска"
+        vaii: "Вайска"
+        visp: "Видима реч"
+        wara: Wara
+        xpeo: "Староперсийска"
+        xsux: "Шумеро-акадски клинопис"
+        yiii: "Йи"
+        zinh: Zinh
+        zmth: "Математически символи"
+        zsym: "символи"
+        zxxx: "без писменост"
+        zyyy: "обща"
+        zzzz: "непозната писменост"
+      territories:
+        '001': "Свят"
+        '002': "Африка"
+        '003': "Северноамерикански континент"
+        '005': "Южна Америка"
+        009: "Океания"
+        '011': "Западна Афирка"
+        '013': "Централна Америка"
+        '014': "Източна Африка"
+        '015': "Северна Африка"
+        '017': "Централна Африка"
+        018: "Южноафрикански регион"
+        019: "Америка"
+        '021': "Северна Америка"
+        029: "Карибски регион"
+        '030': "Източна Азия"
+        '034': "Южна Азия"
+        '035': "Югоизточна Азия"
+        039: "Южна Европа"
+        '053': "Австралазия"
+        '054': "Меланезия"
+        '057': "Микронезийски регион"
+        '061': "Полинезия"
+        '142': "Азия"
+        '143': "Централна Азия"
+        '145': "Западна Азия"
+        '150': "Европа"
+        '151': "Източна Европа"
+        '154': "Северна Европа"
+        '155': "Западна Европа"
+        '419': "Латинска Америка"
+        ac: "остров Възнесение"
+        ad: "Андора"
+        ae: "Обединени арабски емирства"
+        af: "Афганистан"
+        ag: "Антигуа и Барбуда"
+        ai: "Ангуила"
+        al: "Албания"
+        am: "Армения"
+        an: "Холандски Антили"
+        ao: "Ангола"
+        aq: "Антарктика"
+        ar: "Аржентина"
+        as: "Американска Самоа"
+        at: "Австрия"
+        au: "Австралия"
+        aw: "Аруба"
+        ax: "Оландски острови"
+        az: "Азербайджан"
+        ba: "Босна и Херцеговина"
+        bb: "Барбадос"
+        bd: "Бангладеш"
+        be: "Белгия"
+        bf: "Буркина Фасо"
+        bg: "България"
+        bh: "Бахрейн"
+        bi: "Бурунди"
+        bj: "Бенин"
+        bl: "Сен Бартелеми"
+        bm: "Бермуда"
+        bn: "Бруней Даруссалам"
+        bo: "Боливия"
+        bq: "Карибска Нидерландия"
+        br: "Бразилия"
+        bs: "Бахами"
+        bt: "Бутан"
+        bv: "остров Буве"
+        bw: "Ботсвана"
+        by: "Беларус"
+        bz: "Белиз"
+        ca: "Канада"
+        cc: "Кокосови острови (острови Кийлинг)"
+        cd: "Конго (Киншаса)"
+        cd_alt_variant: "Конго (ДРК)"
+        cf: "Централноафриканска република"
+        cg: "Конго (Бразавил)"
+        cg_alt_variant: "Конго (Република)"
+        ch: "Швейцария"
+        ci: "Кот д’Ивоар"
+        ci_alt_variant: "Бряг на слоновата кост"
+        ck: "острови Кук"
+        cl: "Чили"
+        cm: "Камерун"
+        cn: "Китай"
+        co: "Колумбия"
+        cp: "остров Клипертон"
+        cr: "Коста Рика"
+        cu: "Куба"
+        cv: "Кабо Верде"
+        cw: "Кюрасао"
+        cx: "остров Рождество"
+        cy: "Кипър"
+        cz: "Чешка република"
+        de: "Германия"
+        dg: "Диего Гарсия"
+        dj: "Джибути"
+        dk: "Дания"
+        dm: "Доминика"
+        do: "Доминиканска република"
+        dz: "Алжир"
+        ea: "Сеута и Мелия"
+        ec: "Еквадор"
+        ee: "Естония"
+        eg: "Египет"
+        eh: "Западна Сахара"
+        er: "Еритрея"
+        es: "Испания"
+        et: "Етиопия"
+        eu: "Европейски съюз"
+        fi: "Финландия"
+        fj: "Фиджи"
+        fk: "Фолклендски острови"
+        fk_alt_variant: "Фолклендски острови (Малвински острови)"
+        fm: "Микронезия"
+        fo: "Фарьорски острови"
+        fr: "Франция"
+        ga: "Габон"
+        gb: "Обединеното кралство"
+        gb_alt_short: "Обединеното кралство"
+        gd: "Гренада"
+        ge: "Грузия"
+        gf: "Френска Гвиана"
+        gg: "Гърнзи"
+        gh: "Гана"
+        gi: "Гибралтар"
+        gl: "Гренландия"
+        gm: "Гамбия"
+        gn: "Гвинея"
+        gp: "Гваделупа"
+        gq: "Екваториална Гвинея"
+        gr: "Гърция"
+        gs: "Южна Джорджия и Южни Сандвичеви острови"
+        gt: "Гватемала"
+        gu: "Гуам"
+        gw: "Гвинея-Бисау"
+        gy: "Гаяна"
+        hk: "Хонконг, САР на Китай"
+        hk_alt_short: "Хонконг"
+        hm: "остров Хърд и острови Макдоналд"
+        hn: "Хондурас"
+        hr: "Хърватия"
+        ht: "Хаити"
+        hu: "Унгария"
+        ic: "Канарски острови"
+        id: "Индонезия"
+        ie: "Ирландия"
+        il: "Израел"
+        im: "остров Ман"
+        in: "Индия"
+        io: "Британска територия в Индийския океан"
+        iq: "Ирак"
+        ir: "Иран"
+        is: "Исландия"
+        it: "Италия"
+        je: "Джърси"
+        jm: "Ямайка"
+        jo: "Йордания"
+        jp: "Япония"
+        ke: "Кения"
+        kg: "Киргизстан"
+        kh: "Камбоджа"
+        ki: "Кирибати"
+        km: "Коморски острови"
+        kn: "Сейнт Китс и Невис"
+        kp: "Северна Корея"
+        kr: "Южна Корея"
+        kw: "Кувейт"
+        ky: "Кайманови острови"
+        kz: "Казахстан"
+        la: "Лаос"
+        lb: "Ливан"
+        lc: "Сейнт Лусия"
+        li: "Лихтенщайн"
+        lk: "Шри Ланка"
+        lr: "Либерия"
+        ls: "Лесото"
+        lt: "Литва"
+        lu: "Люксембург"
+        lv: "Латвия"
+        ly: "Либия"
+        ma: "Мароко"
+        mc: "Монако"
+        md: "Молдова"
+        me: "Черна гора"
+        mf: "Сен Мартен"
+        mg: "Мадагаскар"
+        mh: "Маршалови острови"
+        mk: "Македония"
+        mk_alt_variant: "Бивша югославска република Македония"
+        ml: "Мали"
+        mm: "Мианмар (Бирма)"
+        mn: "Монголия"
+        mo: "Макао, САР на Китай"
+        mo_alt_short: "Макао"
+        mp: "Северни Мариански острови"
+        mq: "Мартиника"
+        mr: "Мавритания"
+        ms: "Монтсерат"
+        mt: "Малта"
+        mu: "Мавриций"
+        mv: "Малдиви"
+        mw: "Малави"
+        mx: "Мексико"
+        my: "Малайзия"
+        mz: "Мозамбик"
+        na: "Намибия"
+        nc: "Нова Каледония"
+        ne: "Нигер"
+        nf: "остров Норфолк"
+        ng: "Нигерия"
+        ni: "Никарагуа"
+        nl: "Нидерландия"
+        'no': "Норвегия"
+        np: "Непал"
+        nr: "Науру"
+        nu: "Ниуе"
+        nz: "Нова Зеландия"
+        om: "Оман"
+        pa: "Панама"
+        pe: "Перу"
+        pf: "Френска Полинезия"
+        pg: "Папуа-Нова Гвинея"
+        ph: "Филипини"
+        pk: "Пакистан"
+        pl: "Полша"
+        pm: "Сен Пиер и Микелон"
+        pn: "Острови Питкерн"
+        pr: "Пуерто Рико"
+        ps: "Палестински територии"
+        ps_alt_short: "Палестина"
+        pt: "Португалия"
+        pw: "Палау"
+        py: "Парагвай"
+        qa: "Катар"
+        qo: "Отдалечени острови на Океания"
+        re: "Реюнион"
+        ro: "Румъния"
+        rs: "Сърбия"
+        ru: "Русия"
+        rw: "Руанда"
+        sa: "Саудитска Арабия"
+        sb: "Соломонови острови"
+        sc: "Сейшели"
+        sd: "Судан"
+        se: "Швеция"
+        sg: "Сингапур"
+        sh: "Света Елена"
+        si: "Словения"
+        sj: "Свалбард и Ян Майен"
+        sk: "Словакия"
+        sl: "Сиера Леоне"
+        sm: "Сан Марино"
+        sn: "Сенегал"
+        so: "Сомалия"
+        sr: "Суринам"
+        ss: "Южен Судан"
+        st: "Сао Томе и Принсипи"
+        sv: "Салвадор"
+        sx: "Синт Мартен"
+        sy: "Сирия"
+        sz: "Свазиленд"
+        ta: "Тристан да Куня"
+        tc: "острови Търкс и Кайкос"
+        td: "Чад"
+        tf: "Френски южни територии"
+        tg: "Того"
+        th: "Тайланд"
+        tj: "Таджикистан"
+        tk: "Токелау"
+        tl: "Източен Тимор"
+        tl_alt_variant: TL
+        tm: "Туркменистан"
+        tn: "Тунис"
+        to: "Тонга"
+        tr: "Турция"
+        tt: "Тринидад и Тобаго"
+        tv: "Тувалу"
+        tw: "Тайван"
+        tz: "Танзания"
+        ua: "Украйна"
+        ug: "Уганда"
+        um: "Отдалечени острови на САЩ"
+        us: "Съединени щати"
+        us_alt_short: "САЩ"
+        uy: "Уругвай"
+        uz: "Узбекистан"
+        va: "Ватикан"
+        vc: "Сейнт Винсънт и Гренадини"
+        ve: "Венецуела"
+        vg: "Британски Вирджински острови"
+        vi: "Американски Вирджински острови"
+        vn: "Виетнам"
+        vu: "Вануату"
+        wf: "Уолис и Футуна"
+        ws: "Самоа"
+        xk: "Косово"
+        ye: "Йемен"
+        yt: "Майот"
+        za: "Южна Африка"
+        zm: "Замбия"
+        zw: "Зимбабве"
+        zz: "непознат регион"
+      transform_names:
+        bgn: "АКГН (BGN)"
+        numeric: "Цифрови"
+        tone: "Интонация"
+        ungegn: "ГЕСГИООН (UNGEGN)"
+        x_accents: "Диакритични знаци"
+        x_fullwidth: "С пълна ширина"
+        x_halfwidth: "С половин ширина"
+        x_jamo: "Джамо"
+        x_pinyin: "Пинин"
+        x_publishing: "Типографски"
+      variants:
+        '1901': "Традиционен немски правопис"
+        '1994': "Стандартен резиански правопис"
+        '1996': "Немски правопис от 1996"
+        1606_nict: "Късен средновековен френски до 1606"
+        1694_acad: "Ранен съвременен френски"
+        1959_acad: 1959ACAD
+        abl1943: ABL1943
+        alalc97: ALALC97
+        aluku: ALUKU
+        ao1990: AO1990
+        arevela: "Източно арменски"
+        arevmda: "Западно арменски"
+        baku1926: "Унифицирана тюркска азбука"
+        balanka: BALANKA
+        barla: BARLA
+        bauddha: BAUDDHA
+        biscayan: BISCAYAN
+        biske: "Диалект Сан Джорджио/Била"
+        bohoric: BOHORIC
+        boont: "Бунтлинг"
+        colb1945: COLB1945
+        dajnko: DAJNKO
+        ekavsk: EKAVSK
+        emodeng: EMODENG
+        fonipa: "Международна фонетична азбука"
+        fonupa: "Уралска фонетична азбука"
+        fonxsamp: FONXSAMP
+        hepburn: HEPBURN
+        hognorsk: HOGNORSK
+        ijekavsk: IJEKAVSK
+        itihasa: ITIHASA
+        jauer: JAUER
+        jyutping: JYUTPING
+        kkcor: KKCOR
+        kociewie: KOCIEWIE
+        kscor: KSCOR
+        laukika: LAUKIKA
+        lipaw: "Диалект Липовац"
+        luna1918: LUNA1918
+        metelko: METELKO
+        monoton: "Монотонично"
+        ndyuka: NDYUKA
+        nedis: "Диалект Натисоне"
+        njiva: "Диалект Нджива"
+        nulik: NULIK
+        osojs: "Диалект Осеако/Осояне"
+        oxendict: OXENDICT
+        pamaka: PAMAKA
+        petr1708: PETR1708
+        pinyin: "Пинин романизация"
+        polyton: "Политонично"
+        posix: "Компютърен"
+        puter: PUTER
+        revised: "Променен правопис"
+        rigik: RIGIK
+        rozaj: "Резиански"
+        rumgr: RUMGR
+        saaho: "Сахо"
+        scotland: "Шотландски английски"
+        scouse: "Ливърпулски диалект"
+        solba: "Диалект Столвиза"
+        sotav: SOTAV
+        surmiran: SURMIRAN
+        sursilv: SURSILV
+        sutsilv: SUTSILV
+        tarask: "Тарашкевица"
+        uccor: UCCOR
+        ucrcor: UCRCOR
+        ulster: ULSTER
+        unifon: UNIFON
+        vaidika: VAIDIKA
+        valencia: "Валенсиански"
+        vallader: VALLADER
+        wadegile: "Уейд-Джайлс романизация"
+    units:
+      long:
+        per:
+          compound_unit_pattern: "{0} в {1}"
+        acceleration_g_force:
+          display_name: G
+          unit_pattern_count_one: "{0} G"
+          unit_pattern_count_other: "{0} G"
+        acceleration_meter_per_second_squared:
+          display_name: "метри за секунда на квадрат"
+          unit_pattern_count_one: "{0} метър за секунда на квадрат"
+          unit_pattern_count_other: "{0} метра за секунда на квадрат"
+        angle_revolution:
+          display_name: "оборот"
+          unit_pattern_count_one: "{0} оборот"
+          unit_pattern_count_other: "{0} оборота"
+        angle_radian:
+          display_name: "радиани"
+          unit_pattern_count_one: "{0} радиан"
+          unit_pattern_count_other: "{0} радиана"
+        angle_degree:
+          display_name: "градуси"
+          unit_pattern_count_one: "{0} градус"
+          unit_pattern_count_other: "{0} градуса"
+        angle_arc_minute:
+          display_name: "дъгови минути"
+          unit_pattern_count_one: "{0} дъгова минута"
+          unit_pattern_count_other: "{0} дъгови минути"
+        angle_arc_second:
+          display_name: "дъгови секунди"
+          unit_pattern_count_one: "{0} дъгова секунда"
+          unit_pattern_count_other: "{0} дъгови секунди"
+        area_square_kilometer:
+          display_name: "квадратни километри"
+          unit_pattern_count_one: "{0} квадратен километър"
+          unit_pattern_count_other: "{0} квадратни километра"
+        area_hectare:
+          display_name: "хектари"
+          unit_pattern_count_one: "{0} хектар"
+          unit_pattern_count_other: "{0} хектара"
+        area_square_meter:
+          display_name: "квадратни метри"
+          unit_pattern_count_one: "{0} квадратен метър"
+          unit_pattern_count_other: "{0} квадратни метра"
+          per_unit_pattern: "{0} на квадратен метър"
+        area_square_centimeter:
+          display_name: "квадратни сантиметри"
+          unit_pattern_count_one: "{0} квадратен сантиметър"
+          unit_pattern_count_other: "{0} квадратни сантиметра"
+          per_unit_pattern: "{0} на квадратен сантиметър"
+        area_square_mile:
+          display_name: "квадратни мили"
+          unit_pattern_count_one: "{0} квадратна миля"
+          unit_pattern_count_other: "{0} квадратни мили"
+        area_acre:
+          display_name: "акри"
+          unit_pattern_count_one: "{0} акър"
+          unit_pattern_count_other: "{0} акра"
+        area_square_yard:
+          display_name: "квадратни ярдове"
+          unit_pattern_count_one: "{0} квадратен ярд"
+          unit_pattern_count_other: "{0} квадратни ярда"
+        area_square_foot:
+          display_name: "квадратни футове"
+          unit_pattern_count_one: "{0} квадратен фут"
+          unit_pattern_count_other: "{0} квадратни фута"
+        area_square_inch:
+          display_name: "квадратни инчове"
+          unit_pattern_count_one: "{0} квадратен инч"
+          unit_pattern_count_other: "{0} квадратни инча"
+          per_unit_pattern: "{0} на квадратен инч"
+        consumption_liter_per_kilometer:
+          display_name: "литри на километър"
+          unit_pattern_count_one: "{0} литър на километър"
+          unit_pattern_count_other: "{0} литра на километър"
+        consumption_liter_per_100kilometers:
+          display_name: "литри на 100 километра"
+          unit_pattern_count_one: "{0} литър на 100 километра"
+          unit_pattern_count_other: "{0} литра на 100 километра"
+        consumption_mile_per_gallon:
+          display_name: "мили с един галон"
+          unit_pattern_count_one: "{0} миля с един галон"
+          unit_pattern_count_other: "{0} мили с един галон"
+        digital_terabyte:
+          display_name: "терабайтове"
+          unit_pattern_count_one: "{0} терабайт"
+          unit_pattern_count_other: "{0} терабайта"
+        digital_terabit:
+          display_name: "терабитове"
+          unit_pattern_count_one: "{0} терабит"
+          unit_pattern_count_other: "{0} терабита"
+        digital_gigabyte:
+          display_name: "гигабайти"
+          unit_pattern_count_one: "{0} гигабайт"
+          unit_pattern_count_other: "{0} гигабайта"
+        digital_gigabit:
+          display_name: "гигабити"
+          unit_pattern_count_one: "{0} гигабит"
+          unit_pattern_count_other: "{0} гигабита"
+        digital_megabyte:
+          display_name: "мегабайти"
+          unit_pattern_count_one: "{0} мегабайт"
+          unit_pattern_count_other: "{0} мегабайта"
+        digital_megabit:
+          display_name: "мегабитове"
+          unit_pattern_count_one: "{0} мегабит"
+          unit_pattern_count_other: "{0} мегабита"
+        digital_kilobyte:
+          display_name: "килобайтове"
+          unit_pattern_count_one: "{0} килобайт"
+          unit_pattern_count_other: "{0} килобайта"
+        digital_kilobit:
+          display_name: "килобитове"
+          unit_pattern_count_one: "{0} килобит"
+          unit_pattern_count_other: "{0} килобита"
+        digital_byte:
+          display_name: "байтове"
+          unit_pattern_count_one: "{0} байт"
+          unit_pattern_count_other: "{0} байта"
+        digital_bit:
+          display_name: "битове"
+          unit_pattern_count_one: "{0} бит"
+          unit_pattern_count_other: "{0} бита"
+        duration_century:
+          display_name: "векове"
+          unit_pattern_count_one: "{0} век"
+          unit_pattern_count_other: "{0} века"
+        duration_year:
+          display_name: "години"
+          unit_pattern_count_one: "{0} година"
+          unit_pattern_count_other: "{0} години"
+          per_unit_pattern: "{0} на година"
+        duration_month:
+          display_name: "месеци"
+          unit_pattern_count_one: "{0} месец"
+          unit_pattern_count_other: "{0} месеца"
+          per_unit_pattern: "{0} на месец"
+        duration_week:
+          display_name: "седмици"
+          unit_pattern_count_one: "{0} седмица"
+          unit_pattern_count_other: "{0} седмици"
+          per_unit_pattern: "{0} на седмица"
+        duration_day:
+          display_name: "дни"
+          unit_pattern_count_one: "{0} ден"
+          unit_pattern_count_other: "{0} дни"
+          per_unit_pattern: "{0} на ден"
+        duration_hour:
+          display_name: "часове"
+          unit_pattern_count_one: "{0} час"
+          unit_pattern_count_other: "{0} часа"
+          per_unit_pattern: "{0} за час"
+        duration_minute:
+          display_name: "минути"
+          unit_pattern_count_one: "{0} минута"
+          unit_pattern_count_other: "{0} минути"
+          per_unit_pattern: "{0} на минута"
+        duration_second:
+          display_name: "секунди"
+          unit_pattern_count_one: "{0} секунда"
+          unit_pattern_count_other: "{0} секунди"
+          per_unit_pattern: "{0} за секунда"
+        duration_millisecond:
+          display_name: "милисекунди"
+          unit_pattern_count_one: "{0} милисекунда"
+          unit_pattern_count_other: "{0} милисекунди"
+        duration_microsecond:
+          display_name: "микросекунди"
+          unit_pattern_count_one: "{0} микросекунда"
+          unit_pattern_count_other: "{0} микросекунди"
+        duration_nanosecond:
+          display_name: "наносекунди"
+          unit_pattern_count_one: "{0} наносекунда"
+          unit_pattern_count_other: "{0} наносекунди"
+        electric_ampere:
+          display_name: "ампери"
+          unit_pattern_count_one: "{0} ампер"
+          unit_pattern_count_other: "{0} ампера"
+        electric_milliampere:
+          display_name: "милиампери"
+          unit_pattern_count_one: "{0} милиампер"
+          unit_pattern_count_other: "{0} милиампера"
+        electric_ohm:
+          display_name: "омове"
+          unit_pattern_count_one: "{0} ом"
+          unit_pattern_count_other: "{0} ома"
+        electric_volt:
+          display_name: "волтове"
+          unit_pattern_count_one: "{0} волт"
+          unit_pattern_count_other: "{0} волта"
+        energy_kilocalorie:
+          display_name: "килокалории"
+          unit_pattern_count_one: "{0} килокалория"
+          unit_pattern_count_other: "{0} килокалории"
+        energy_calorie:
+          display_name: "калории"
+          unit_pattern_count_one: "{0} калория"
+          unit_pattern_count_other: "{0} калории"
+        energy_foodcalorie:
+          display_name: "калории"
+          unit_pattern_count_one: "{0} калория"
+          unit_pattern_count_other: "{0} калории"
+        energy_kilojoule:
+          display_name: "килоджаули"
+          unit_pattern_count_one: "{0} килоджаул"
+          unit_pattern_count_other: "{0} килоджаула"
+        energy_joule:
+          display_name: "джаули"
+          unit_pattern_count_one: "{0} джаул"
+          unit_pattern_count_other: "{0} джаула"
+        energy_kilowatt_hour:
+          display_name: "киловатчаси"
+          unit_pattern_count_one: "{0} киловатчас"
+          unit_pattern_count_other: "{0} киловатчаса"
+        frequency_gigahertz:
+          display_name: "гигахерци"
+          unit_pattern_count_one: "{0} гигахерц"
+          unit_pattern_count_other: "{0} гигахерца"
+        frequency_megahertz:
+          display_name: "мегахерци"
+          unit_pattern_count_one: "{0} мегахерц"
+          unit_pattern_count_other: "{0} мегахерца"
+        frequency_kilohertz:
+          display_name: "килохерци"
+          unit_pattern_count_one: "{0} килохерц"
+          unit_pattern_count_other: "{0} килохерца"
+        frequency_hertz:
+          display_name: "херцове"
+          unit_pattern_count_one: "{0} херц"
+          unit_pattern_count_other: "{0} херца"
+        length_kilometer:
+          display_name: "километри"
+          unit_pattern_count_one: "{0} километър"
+          unit_pattern_count_other: "{0} километра"
+          per_unit_pattern: "{0} на километър"
+        length_meter:
+          display_name: "метри"
+          unit_pattern_count_one: "{0} метър"
+          unit_pattern_count_other: "{0} метра"
+          per_unit_pattern: "{0} на метър"
+        length_decimeter:
+          display_name: "дециметри"
+          unit_pattern_count_one: "{0} дециметър"
+          unit_pattern_count_other: "{0} дециметра"
+        length_centimeter:
+          display_name: "сантиметри"
+          unit_pattern_count_one: "{0} сантиметър"
+          unit_pattern_count_other: "{0} сантиметра"
+          per_unit_pattern: "{0} на сантиметър"
+        length_millimeter:
+          display_name: "милиметри"
+          unit_pattern_count_one: "{0} милиметър"
+          unit_pattern_count_other: "{0} милиметра"
+        length_micrometer:
+          display_name: "микрометри"
+          unit_pattern_count_one: "{0} микрометър"
+          unit_pattern_count_other: "{0} микрометра"
+        length_nanometer:
+          display_name: "нанометри"
+          unit_pattern_count_one: "{0} нанометър"
+          unit_pattern_count_other: "{0} нанометра"
+        length_picometer:
+          display_name: "пикометри"
+          unit_pattern_count_one: "{0} пикометър"
+          unit_pattern_count_other: "{0} пикометра"
+        length_mile:
+          display_name: "мили"
+          unit_pattern_count_one: "{0} миля"
+          unit_pattern_count_other: "{0} мили"
+        length_yard:
+          display_name: "ярдове"
+          unit_pattern_count_one: "{0} ярд"
+          unit_pattern_count_other: "{0} ярда"
+        length_foot:
+          display_name: "футове"
+          unit_pattern_count_one: "{0} фут"
+          unit_pattern_count_other: "{0} фута"
+          per_unit_pattern: "{0}/ft"
+        length_inch:
+          display_name: "инчове"
+          unit_pattern_count_one: "{0} инч"
+          unit_pattern_count_other: "{0} инча"
+          per_unit_pattern: "{0}/in"
+        length_parsec:
+          display_name: "парсеци"
+          unit_pattern_count_one: "{0} парсек"
+          unit_pattern_count_other: "{0} парсека"
+        length_light_year:
+          display_name: "светлинни години"
+          unit_pattern_count_one: "{0} светлинна година"
+          unit_pattern_count_other: "{0} светлинни години"
+        length_astronomical_unit:
+          display_name: "астрономически единици"
+          unit_pattern_count_one: "{0} астрономическа единица"
+          unit_pattern_count_other: "{0} астрономически единици"
+        length_furlong:
+          display_name: fur
+          unit_pattern_count_other: "{0} fur"
+        length_fathom:
+          display_name: fm
+          unit_pattern_count_other: "{0} fm"
+        length_nautical_mile:
+          display_name: "морски мили"
+          unit_pattern_count_one: "{0} морска миля"
+          unit_pattern_count_other: "{0} морски мили"
+        length_mile_scandinavian:
+          display_name: "шведска миля"
+          unit_pattern_count_one: "{0} шведска миля"
+          unit_pattern_count_other: "{0} шведски мили"
+        light_lux:
+          display_name: "луксове"
+          unit_pattern_count_one: "{0} лукс"
+          unit_pattern_count_other: "{0} лукса"
+        mass_metric_ton:
+          display_name: "тонове"
+          unit_pattern_count_one: "{0} тон"
+          unit_pattern_count_other: "{0} тона"
+        mass_kilogram:
+          display_name: "килограми"
+          unit_pattern_count_one: "{0} килограм"
+          unit_pattern_count_other: "{0} килограма"
+          per_unit_pattern: "{0} на килограм"
+        mass_gram:
+          display_name: "грамове"
+          unit_pattern_count_one: "{0} грам"
+          unit_pattern_count_other: "{0} грама"
+          per_unit_pattern: "{0} на грам"
+        mass_milligram:
+          display_name: "милиграмове"
+          unit_pattern_count_one: "{0} милиграм"
+          unit_pattern_count_other: "{0} милиграма"
+        mass_microgram:
+          display_name: "микрограмове"
+          unit_pattern_count_one: "{0} микрограм"
+          unit_pattern_count_other: "{0} микрограма"
+        mass_ton:
+          display_name: "къси тонове"
+          unit_pattern_count_one: "{0} къс тон"
+          unit_pattern_count_other: "{0} къси тона"
+        mass_stone:
+          display_name: st
+          unit_pattern_count_other: "{0} st"
+        mass_pound:
+          display_name: "фунтове"
+          unit_pattern_count_one: "{0} фунт"
+          unit_pattern_count_other: "{0} фунта"
+          per_unit_pattern: "{0}/lb"
+        mass_ounce:
+          display_name: "унции"
+          unit_pattern_count_one: "{0} унция"
+          unit_pattern_count_other: "{0} унции"
+          per_unit_pattern: "{0} на унция"
+        mass_ounce_troy:
+          display_name: "тройунции"
+          unit_pattern_count_one: "{0} тройунция"
+          unit_pattern_count_other: "{0} тройунции"
+        mass_carat:
+          display_name: "карати"
+          unit_pattern_count_one: "{0} карат"
+          unit_pattern_count_other: "{0} карата"
+        power_gigawatt:
+          display_name: "гигавати"
+          unit_pattern_count_one: "{0} гигават"
+          unit_pattern_count_other: "{0} гигавата"
+        power_megawatt:
+          display_name: "мегавати"
+          unit_pattern_count_one: "{0} мегават"
+          unit_pattern_count_other: "{0} мегавата"
+        power_kilowatt:
+          display_name: "киловати"
+          unit_pattern_count_one: "{0} киловат"
+          unit_pattern_count_other: "{0} киловата"
+        power_watt:
+          display_name: "ватове"
+          unit_pattern_count_one: "{0} ват"
+          unit_pattern_count_other: "{0} вата"
+        power_milliwatt:
+          display_name: "миливати"
+          unit_pattern_count_one: "{0} миливат"
+          unit_pattern_count_other: "{0} миливата"
+        power_horsepower:
+          display_name: "конски сили"
+          unit_pattern_count_one: "{0} конска сила"
+          unit_pattern_count_other: "{0} конски сили"
+        pressure_hectopascal:
+          display_name: "хектопаскали"
+          unit_pattern_count_one: "{0} хектопаскал"
+          unit_pattern_count_other: "{0} хектопаскала"
+        pressure_millimeter_of_mercury:
+          display_name: "милиметри живачен стълб"
+          unit_pattern_count_one: "{0} мм живачен стълб"
+          unit_pattern_count_other: "{0} мм живачен стълб"
+        pressure_pound_per_square_inch:
+          display_name: "фунтове на квадратен инч"
+          unit_pattern_count_one: "{0} фунт на квадратен инч"
+          unit_pattern_count_other: "{0} фунта на квадратен инч"
+        pressure_inch_hg:
+          display_name: "инчове живачен стълб"
+          unit_pattern_count_one: "{0} инч живачен стълб"
+          unit_pattern_count_other: "{0} инча живачен стълб"
+        pressure_millibar:
+          display_name: "милибари"
+          unit_pattern_count_one: "{0} милибар"
+          unit_pattern_count_other: "{0} милибара"
+        proportion_karat:
+          display_name: "карати"
+          unit_pattern_count_one: "{0} карат"
+          unit_pattern_count_other: "{0} карата"
+        speed_kilometer_per_hour:
+          display_name: "километри в час"
+          unit_pattern_count_one: "{0} километър в час"
+          unit_pattern_count_other: "{0} километра в час"
+        speed_meter_per_second:
+          display_name: "метри за секунда"
+          unit_pattern_count_one: "{0} метър за секунда"
+          unit_pattern_count_other: "{0} метра за секунда"
+        speed_mile_per_hour:
+          display_name: "мили в час"
+          unit_pattern_count_one: "{0} миля в час"
+          unit_pattern_count_other: "{0} мили в час"
+        speed_knot:
+          display_name: "възел"
+          unit_pattern_count_one: "{0} възел"
+          unit_pattern_count_other: "{0} възла"
+        temperature_generic:
+          display_name: "°"
+          unit_pattern_count_one: "{0}°"
+          unit_pattern_count_other: "{0}°"
+        temperature_celsius:
+          display_name: "градуси Целзий"
+          unit_pattern_count_one: "{0} градус Целзий"
+          unit_pattern_count_other: "{0} градуса Целзий"
+        temperature_fahrenheit:
+          display_name: "градуси по Фаренхайт"
+          unit_pattern_count_one: "{0} градус по Фаренхайт"
+          unit_pattern_count_other: "{0} градуса по Фаренхайт"
+        temperature_kelvin:
+          display_name: "келвини"
+          unit_pattern_count_one: "{0} келвин"
+          unit_pattern_count_other: "{0} келвина"
+        volume_cubic_kilometer:
+          display_name: "кубически километри"
+          unit_pattern_count_one: "{0} кубически километър"
+          unit_pattern_count_other: "{0} кубически километра"
+        volume_cubic_meter:
+          display_name: "кубически метри"
+          unit_pattern_count_one: "{0} кубически метър"
+          unit_pattern_count_other: "{0} кубически метра"
+          per_unit_pattern: "{0} на кубичен метър"
+        volume_cubic_centimeter:
+          display_name: "кубически сантиметри"
+          unit_pattern_count_one: "{0} кубически сантиметър"
+          unit_pattern_count_other: "{0} кубически сантиметра"
+          per_unit_pattern: "{0} на кубичен сантиметър"
+        volume_cubic_mile:
+          display_name: "кубически мили"
+          unit_pattern_count_one: "{0} кубическа миля"
+          unit_pattern_count_other: "{0} кубически мили"
+        volume_cubic_yard:
+          display_name: "кубически ярдове"
+          unit_pattern_count_one: "{0} кубически ярд"
+          unit_pattern_count_other: "{0} кубически ярда"
+        volume_cubic_foot:
+          display_name: "кубически футове"
+          unit_pattern_count_one: "{0} кубически фут"
+          unit_pattern_count_other: "{0} кубически фута"
+        volume_cubic_inch:
+          display_name: "кубически инчове"
+          unit_pattern_count_one: "{0} кубически инч"
+          unit_pattern_count_other: "{0} кубически инча"
+        volume_megaliter:
+          display_name: "мегалитри"
+          unit_pattern_count_one: "{0} мегалитър"
+          unit_pattern_count_other: "{0} мегалитра"
+        volume_hectoliter:
+          display_name: "хектолитри"
+          unit_pattern_count_one: "{0} хектолитър"
+          unit_pattern_count_other: "{0} хектолитра"
+        volume_liter:
+          display_name: "литри"
+          unit_pattern_count_one: "{0} литър"
+          unit_pattern_count_other: "{0} литра"
+          per_unit_pattern: "{0} на литър"
+        volume_deciliter:
+          display_name: "децилитри"
+          unit_pattern_count_one: "{0} децилитър"
+          unit_pattern_count_other: "{0} децилитра"
+        volume_centiliter:
+          display_name: "сентилитри"
+          unit_pattern_count_one: "{0} сентилитър"
+          unit_pattern_count_other: "{0} сентилитра"
+        volume_milliliter:
+          display_name: "милилитри"
+          unit_pattern_count_one: "{0} милилитър"
+          unit_pattern_count_other: "{0} милилитра"
+        volume_pint_metric:
+          display_name: "метрични пинти"
+          unit_pattern_count_one: "{0} метричен пинт"
+          unit_pattern_count_other: "{0} метрични пинта"
+        volume_cup_metric:
+          display_name: "метрични чаши"
+          unit_pattern_count_one: "{0} mc"
+          unit_pattern_count_other: "{0} метрични чаши"
+        volume_acre_foot:
+          display_name: "акър-футове"
+          unit_pattern_count_one: "{0} акър-фут"
+          unit_pattern_count_other: "{0} акър-фута"
+        volume_bushel:
+          display_name: bu
+          unit_pattern_count_other: "{0} bu"
+        volume_gallon:
+          display_name: "галони"
+          unit_pattern_count_one: "{0} галона"
+          unit_pattern_count_other: "{0} галона"
+          per_unit_pattern: "{0} на галон"
+        volume_quart:
+          display_name: "кварти"
+          unit_pattern_count_one: "{0} кварта"
+          unit_pattern_count_other: "{0} кварти"
+        volume_pint:
+          display_name: "пинти"
+          unit_pattern_count_one: "{0} пинта"
+          unit_pattern_count_other: "{0} пинти"
+        volume_cup:
+          display_name: "чаши"
+          unit_pattern_count_one: "{0} чаша"
+          unit_pattern_count_other: "{0} чаши"
+        volume_fluid_ounce:
+          display_name: "течни унции"
+          unit_pattern_count_one: "{0} течна унция"
+          unit_pattern_count_other: "{0} течни унции"
+        volume_tablespoon:
+          display_name: "супени лъжици"
+          unit_pattern_count_one: "{0} супена лъжица"
+          unit_pattern_count_other: "{0} супени лъжици"
+        volume_teaspoon:
+          display_name: "чаени лъжици"
+          unit_pattern_count_one: "{0} чаена лъжица"
+          unit_pattern_count_other: "{0} чаени лъжици"
+        coordinate_unit:
+          east: "{0}И"
+          north: "{0}С"
+          south: "{0}Ю"
+          west: "{0}З"
+      short:
+        per:
+          compound_unit_pattern: "{0}/{1}"
+        acceleration_g_force:
+          display_name: G
+          unit_pattern_count_one: "{0} G"
+          unit_pattern_count_other: "{0} G"
+        acceleration_meter_per_second_squared:
+          display_name: m/s²
+          unit_pattern_count_one: "{0} m/s²"
+          unit_pattern_count_other: "{0} m/s²"
+        angle_revolution:
+          display_name: "оборот"
+          unit_pattern_count_one: "{0} оборот"
+          unit_pattern_count_other: "{0} оборота"
+        angle_radian:
+          display_name: rad
+          unit_pattern_count_one: "{0} rad"
+          unit_pattern_count_other: "{0} rad"
+        angle_degree:
+          display_name: "°"
+          unit_pattern_count_one: "{0}°"
+          unit_pattern_count_other: "{0}°"
+        angle_arc_minute:
+          display_name: "дъгови мин."
+          unit_pattern_count_one: "{0}′"
+          unit_pattern_count_other: "{0}′"
+        angle_arc_second:
+          display_name: "дъгови с"
+          unit_pattern_count_one: "{0}″"
+          unit_pattern_count_other: "{0}″"
+        area_square_kilometer:
+          display_name: km²
+          unit_pattern_count_one: "{0} km²"
+          unit_pattern_count_other: "{0} km²"
+        area_hectare:
+          display_name: "хектари"
+          unit_pattern_count_one: "{0} ha"
+          unit_pattern_count_other: "{0} ha"
+        area_square_meter:
+          display_name: m²
+          unit_pattern_count_one: "{0} m²"
+          unit_pattern_count_other: "{0} m²"
+          per_unit_pattern: "{0}/m²"
+        area_square_centimeter:
+          display_name: cm²
+          unit_pattern_count_one: "{0} cm²"
+          unit_pattern_count_other: "{0} cm²"
+          per_unit_pattern: "{0}/cm²"
+        area_square_mile:
+          display_name: "кв. мили"
+          unit_pattern_count_one: "{0} кв. миля"
+          unit_pattern_count_other: "{0} кв. мили"
+        area_acre:
+          display_name: "акри"
+          unit_pattern_count_one: "{0} акър"
+          unit_pattern_count_other: "{0} акра"
+        area_square_yard:
+          display_name: "кв. ярдове"
+          unit_pattern_count_one: "{0} кв. ярд"
+          unit_pattern_count_other: "{0} кв. ярда"
+        area_square_foot:
+          display_name: "кв. футове"
+          unit_pattern_count_one: "{0} кв. фут"
+          unit_pattern_count_other: "{0} кв. фута"
+        area_square_inch:
+          display_name: "кв. инчове"
+          unit_pattern_count_one: "{0} кв. инч"
+          unit_pattern_count_other: "{0} кв. инча"
+          per_unit_pattern: "{0}/in²"
+        consumption_liter_per_kilometer:
+          display_name: l/km
+          unit_pattern_count_one: "{0} l/km"
+          unit_pattern_count_other: "{0} l/km"
+        consumption_liter_per_100kilometers:
+          display_name: l/100 km
+          unit_pattern_count_one: "{0} l/100 km"
+          unit_pattern_count_other: "{0} l/100 km"
+        consumption_mile_per_gallon:
+          display_name: mpg
+          unit_pattern_count_one: "{0} mpg"
+          unit_pattern_count_other: "{0} mpg"
+        digital_terabyte:
+          display_name: TB
+          unit_pattern_count_one: "{0} TB"
+          unit_pattern_count_other: "{0} TB"
+        digital_terabit:
+          display_name: Tb
+          unit_pattern_count_one: "{0} Tb"
+          unit_pattern_count_other: "{0} Tb"
+        digital_gigabyte:
+          display_name: GB
+          unit_pattern_count_one: "{0} GB"
+          unit_pattern_count_other: "{0} GB"
+        digital_gigabit:
+          display_name: Gb
+          unit_pattern_count_one: "{0} Gb"
+          unit_pattern_count_other: "{0} Gb"
+        digital_megabyte:
+          display_name: MB
+          unit_pattern_count_one: "{0} MB"
+          unit_pattern_count_other: "{0} MB"
+        digital_megabit:
+          display_name: Mb
+          unit_pattern_count_one: "{0} Mb"
+          unit_pattern_count_other: "{0} Mb"
+        digital_kilobyte:
+          display_name: kB
+          unit_pattern_count_one: "{0} kB"
+          unit_pattern_count_other: "{0} kB"
+        digital_kilobit:
+          display_name: kb
+          unit_pattern_count_one: "{0} kb"
+          unit_pattern_count_other: "{0} kb"
+        digital_byte:
+          display_name: B
+          unit_pattern_count_one: "{0} B"
+          unit_pattern_count_other: "{0} B"
+        digital_bit:
+          display_name: "б"
+          unit_pattern_count_one: "{0} б"
+          unit_pattern_count_other: "{0} б"
+        duration_century:
+          display_name: "в."
+          unit_pattern_count_one: "{0} в."
+          unit_pattern_count_other: "{0} в."
+        duration_year:
+          display_name: "години"
+          unit_pattern_count_one: "{0} г"
+          unit_pattern_count_other: "{0} г"
+          per_unit_pattern: "{0}/год."
+        duration_month:
+          display_name: "месеци"
+          unit_pattern_count_one: "{0} мес."
+          unit_pattern_count_other: "{0} мес."
+          per_unit_pattern: "{0}/месец"
+        duration_week:
+          display_name: "седмици"
+          unit_pattern_count_one: "{0} седм."
+          unit_pattern_count_other: "{0} седм."
+          per_unit_pattern: "{0}/седмица"
+        duration_day:
+          display_name: "дни"
+          unit_pattern_count_one: "{0} д"
+          unit_pattern_count_other: "{0} д"
+          per_unit_pattern: "{0}/д"
+        duration_hour:
+          display_name: "часове"
+          unit_pattern_count_one: "{0} h"
+          unit_pattern_count_other: "{0} h"
+          per_unit_pattern: "{0}/h"
+        duration_minute:
+          display_name: min
+          unit_pattern_count_one: "{0} min"
+          unit_pattern_count_other: "{0} min"
+          per_unit_pattern: "{0}/мин"
+        duration_second:
+          display_name: "секунди"
+          unit_pattern_count_one: "{0} s"
+          unit_pattern_count_other: "{0} s"
+          per_unit_pattern: "{0}/s"
+        duration_millisecond:
+          display_name: "милисекунди"
+          unit_pattern_count_one: "{0} ms"
+          unit_pattern_count_other: "{0} ms"
+        duration_microsecond:
+          display_name: "μs"
+          unit_pattern_count_one: "{0} μs"
+          unit_pattern_count_other: "{0} μs"
+        duration_nanosecond:
+          display_name: ns
+          unit_pattern_count_one: "{0} ns"
+          unit_pattern_count_other: "{0} ns"
+        electric_ampere:
+          display_name: A
+          unit_pattern_count_one: "{0} A"
+          unit_pattern_count_other: "{0} A"
+        electric_milliampere:
+          display_name: mA
+          unit_pattern_count_one: "{0} mA"
+          unit_pattern_count_other: "{0} mA"
+        electric_ohm:
+          display_name: "Ω"
+          unit_pattern_count_one: "{0} Ω"
+          unit_pattern_count_other: "{0} Ω"
+        electric_volt:
+          display_name: V
+          unit_pattern_count_one: "{0} V"
+          unit_pattern_count_other: "{0} V"
+        energy_kilocalorie:
+          display_name: kcal
+          unit_pattern_count_one: "{0} kcal"
+          unit_pattern_count_other: "{0} kcal"
+        energy_calorie:
+          display_name: cal
+          unit_pattern_count_one: "{0} cal"
+          unit_pattern_count_other: "{0} cal"
+        energy_foodcalorie:
+          display_name: cal
+          unit_pattern_count_one: "{0} cal"
+          unit_pattern_count_other: "{0} cal"
+        energy_kilojoule:
+          display_name: kJ
+          unit_pattern_count_one: "{0} kJ"
+          unit_pattern_count_other: "{0} kJ"
+        energy_joule:
+          display_name: J
+          unit_pattern_count_one: "{0} J"
+          unit_pattern_count_other: "{0} J"
+        energy_kilowatt_hour:
+          display_name: kWh
+          unit_pattern_count_one: "{0} kWh"
+          unit_pattern_count_other: "{0} kWh"
+        frequency_gigahertz:
+          display_name: GHz
+          unit_pattern_count_one: "{0} GHz"
+          unit_pattern_count_other: "{0} GHz"
+        frequency_megahertz:
+          display_name: MHz
+          unit_pattern_count_one: "{0} MHz"
+          unit_pattern_count_other: "{0} MHz"
+        frequency_kilohertz:
+          display_name: kHz
+          unit_pattern_count_one: "{0} kHz"
+          unit_pattern_count_other: "{0} kHz"
+        frequency_hertz:
+          display_name: Hz
+          unit_pattern_count_one: "{0} Hz"
+          unit_pattern_count_other: "{0} Hz"
+        length_kilometer:
+          display_name: km
+          unit_pattern_count_one: "{0} km"
+          unit_pattern_count_other: "{0} km"
+          per_unit_pattern: "{0}/km"
+        length_meter:
+          display_name: "метри"
+          unit_pattern_count_one: "{0} m"
+          unit_pattern_count_other: "{0} m"
+          per_unit_pattern: "{0}/m"
+        length_decimeter:
+          display_name: dm
+          unit_pattern_count_one: "{0} dm"
+          unit_pattern_count_other: "{0} dm"
+        length_centimeter:
+          display_name: cm
+          unit_pattern_count_one: "{0} cm"
+          unit_pattern_count_other: "{0} cm"
+          per_unit_pattern: "{0}/cm"
+        length_millimeter:
+          display_name: mm
+          unit_pattern_count_one: "{0} mm"
+          unit_pattern_count_other: "{0} mm"
+        length_micrometer:
+          display_name: "µm"
+          unit_pattern_count_one: "{0} µm"
+          unit_pattern_count_other: "{0} µm"
+        length_nanometer:
+          display_name: nm
+          unit_pattern_count_one: "{0} nm"
+          unit_pattern_count_other: "{0} nm"
+        length_picometer:
+          display_name: "пикометри"
+          unit_pattern_count_one: "{0} pm"
+          unit_pattern_count_other: "{0} pm"
+        length_mile:
+          display_name: "мили"
+          unit_pattern_count_one: "{0} миля"
+          unit_pattern_count_other: "{0} мили"
+        length_yard:
+          display_name: "ярдове"
+          unit_pattern_count_one: "{0} ярд"
+          unit_pattern_count_other: "{0} ярда"
+        length_foot:
+          display_name: "футове"
+          unit_pattern_count_one: "{0} фут"
+          unit_pattern_count_other: "{0} фута"
+          per_unit_pattern: "{0}/ft"
+        length_inch:
+          display_name: "инчове"
+          unit_pattern_count_one: "{0} инч"
+          unit_pattern_count_other: "{0} инча"
+          per_unit_pattern: "{0}/in"
+        length_parsec:
+          display_name: pc
+          unit_pattern_count_one: "{0} pc"
+          unit_pattern_count_other: "{0} pc"
+        length_light_year:
+          display_name: "св. г."
+          unit_pattern_count_one: "{0} св.г."
+          unit_pattern_count_other: "{0} св.г."
+        length_astronomical_unit:
+          display_name: AU
+          unit_pattern_count_one: "{0} AU"
+          unit_pattern_count_other: "{0} AU"
+        length_furlong:
+          display_name: fur
+          unit_pattern_count_other: "{0} fur"
+        length_fathom:
+          display_name: fm
+          unit_pattern_count_other: "{0} fm"
+        length_nautical_mile:
+          display_name: nmi
+          unit_pattern_count_one: "{0} nmi"
+          unit_pattern_count_other: "{0} nmi"
+        length_mile_scandinavian:
+          display_name: smi
+          unit_pattern_count_one: "{0} smi"
+          unit_pattern_count_other: "{0} smi"
+        light_lux:
+          display_name: lx
+          unit_pattern_count_one: "{0} lx"
+          unit_pattern_count_other: "{0} lx"
+        mass_metric_ton:
+          display_name: "т"
+          unit_pattern_count_one: "{0} т"
+          unit_pattern_count_other: "{0} т"
+        mass_kilogram:
+          display_name: kg
+          unit_pattern_count_one: "{0} kg"
+          unit_pattern_count_other: "{0} kg"
+          per_unit_pattern: "{0}/kg"
+        mass_gram:
+          display_name: g
+          unit_pattern_count_one: "{0} g"
+          unit_pattern_count_other: "{0} g"
+          per_unit_pattern: "{0}/g"
+        mass_milligram:
+          display_name: mg
+          unit_pattern_count_one: "{0} mg"
+          unit_pattern_count_other: "{0} mg"
+        mass_microgram:
+          display_name: "µg"
+          unit_pattern_count_one: "{0} µg"
+          unit_pattern_count_other: "{0} µg"
+        mass_ton:
+          display_name: "къси тонове"
+          unit_pattern_count_one: "{0} к. т."
+          unit_pattern_count_other: "{0} к. т."
+        mass_stone:
+          display_name: st
+          unit_pattern_count_other: "{0} st"
+        mass_pound:
+          display_name: "фунтове"
+          unit_pattern_count_one: "{0} фунт"
+          unit_pattern_count_other: "{0} фунта"
+          per_unit_pattern: "{0}/lb"
+        mass_ounce:
+          display_name: "унц."
+          unit_pattern_count_one: "{0} унц."
+          unit_pattern_count_other: "{0} унц."
+          per_unit_pattern: "{0}/oz"
+        mass_ounce_troy:
+          display_name: "тр. унц."
+          unit_pattern_count_one: "{0} тр. унц."
+          unit_pattern_count_other: "{0} тр. унц."
+        mass_carat:
+          display_name: CD
+          unit_pattern_count_one: "{0} CD"
+          unit_pattern_count_other: "{0} CD"
+        power_gigawatt:
+          display_name: GW
+          unit_pattern_count_one: "{0} GW"
+          unit_pattern_count_other: "{0} GW"
+        power_megawatt:
+          display_name: MW
+          unit_pattern_count_one: "{0} MW"
+          unit_pattern_count_other: "{0} MW"
+        power_kilowatt:
+          display_name: kW
+          unit_pattern_count_one: "{0} kW"
+          unit_pattern_count_other: "{0} kW"
+        power_watt:
+          display_name: W
+          unit_pattern_count_one: "{0} W"
+          unit_pattern_count_other: "{0} W"
+        power_milliwatt:
+          display_name: mW
+          unit_pattern_count_one: "{0} mW"
+          unit_pattern_count_other: "{0} mW"
+        power_horsepower:
+          display_name: "к. с."
+          unit_pattern_count_one: "{0} к. с."
+          unit_pattern_count_other: "{0} к. с."
+        pressure_hectopascal:
+          display_name: hPa
+          unit_pattern_count_one: "{0} hPa"
+          unit_pattern_count_other: "{0} hPa"
+        pressure_millimeter_of_mercury:
+          display_name: mmHg
+          unit_pattern_count_one: "{0} mmHg"
+          unit_pattern_count_other: "{0} mmHg"
+        pressure_pound_per_square_inch:
+          display_name: psi
+          unit_pattern_count_one: "{0} psi"
+          unit_pattern_count_other: "{0} psi"
+        pressure_inch_hg:
+          display_name: inHg
+          unit_pattern_count_one: "{0} inHg"
+          unit_pattern_count_other: "{0} inHg"
+        pressure_millibar:
+          display_name: mbar
+          unit_pattern_count_one: "{0} mbar"
+          unit_pattern_count_other: "{0} mbar"
+        proportion_karat:
+          display_name: "К"
+          unit_pattern_count_one: "{0} карат"
+          unit_pattern_count_other: "{0} карата"
+        speed_kilometer_per_hour:
+          display_name: km/h
+          unit_pattern_count_one: "{0} km/h"
+          unit_pattern_count_other: "{0} km/h"
+        speed_meter_per_second:
+          display_name: m/s
+          unit_pattern_count_one: "{0} m/s"
+          unit_pattern_count_other: "{0} m/s"
+        speed_mile_per_hour:
+          display_name: "мили/ч"
+          unit_pattern_count_one: "{0} миля/ч"
+          unit_pattern_count_other: "{0} мили/ч"
+        speed_knot:
+          display_name: kn
+          unit_pattern_count_one: "{0} kn"
+          unit_pattern_count_other: "{0} kn"
+        temperature_generic:
+          display_name: "°"
+          unit_pattern_count_one: "{0}°"
+          unit_pattern_count_other: "{0}°"
+        temperature_celsius:
+          display_name: "°C"
+          unit_pattern_count_one: "{0} °C"
+          unit_pattern_count_other: "{0} °C"
+        temperature_fahrenheit:
+          display_name: "°F"
+          unit_pattern_count_one: "{0} °F"
+          unit_pattern_count_other: "{0} °F"
+        temperature_kelvin:
+          display_name: K
+          unit_pattern_count_one: "{0} K"
+          unit_pattern_count_other: "{0} K"
+        volume_cubic_kilometer:
+          display_name: km³
+          unit_pattern_count_one: "{0} km³"
+          unit_pattern_count_other: "{0} km³"
+        volume_cubic_meter:
+          display_name: m³
+          unit_pattern_count_one: "{0} m³"
+          unit_pattern_count_other: "{0} m³"
+          per_unit_pattern: "{0}/m³"
+        volume_cubic_centimeter:
+          display_name: cm³
+          unit_pattern_count_one: "{0} cm³"
+          unit_pattern_count_other: "{0} cm³"
+          per_unit_pattern: "{0}/cm³"
+        volume_cubic_mile:
+          display_name: "куб. мили"
+          unit_pattern_count_one: "{0} куб. миля"
+          unit_pattern_count_other: "{0} куб. мили"
+        volume_cubic_yard:
+          display_name: "куб. ярдове"
+          unit_pattern_count_one: "{0} куб. ярд"
+          unit_pattern_count_other: "{0} куб. ярда"
+        volume_cubic_foot:
+          display_name: "куб. футове"
+          unit_pattern_count_one: "{0} куб. фут"
+          unit_pattern_count_other: "{0} куб. фута"
+        volume_cubic_inch:
+          display_name: "куб. инчове"
+          unit_pattern_count_one: "{0} куб. инч"
+          unit_pattern_count_other: "{0} куб. инча"
+        volume_megaliter:
+          display_name: Ml
+          unit_pattern_count_one: "{0} Ml"
+          unit_pattern_count_other: "{0} Ml"
+        volume_hectoliter:
+          display_name: hl
+          unit_pattern_count_one: "{0} hl"
+          unit_pattern_count_other: "{0} hl"
+        volume_liter:
+          display_name: "литри"
+          unit_pattern_count_one: "{0} l"
+          unit_pattern_count_other: "{0} l"
+          per_unit_pattern: "{0}/l"
+        volume_deciliter:
+          display_name: dl
+          unit_pattern_count_one: "{0} dl"
+          unit_pattern_count_other: "{0} dl"
+        volume_centiliter:
+          display_name: cl
+          unit_pattern_count_one: "{0} cl"
+          unit_pattern_count_other: "{0} cl"
+        volume_milliliter:
+          display_name: ml
+          unit_pattern_count_one: "{0} ml"
+          unit_pattern_count_other: "{0} ml"
+        volume_pint_metric:
+          display_name: mpt
+          unit_pattern_count_one: "{0} mpt"
+          unit_pattern_count_other: "{0} mpt"
+        volume_cup_metric:
+          display_name: mcup
+          unit_pattern_count_one: "{0} mc"
+          unit_pattern_count_other: "{0} mc"
+        volume_acre_foot:
+          display_name: "акър-футове"
+          unit_pattern_count_one: "{0} акър-фут"
+          unit_pattern_count_other: "{0} ac ft"
+        volume_bushel:
+          display_name: bu
+          unit_pattern_count_other: "{0} bu"
+        volume_gallon:
+          display_name: "галони"
+          unit_pattern_count_one: "{0} галон"
+          unit_pattern_count_other: "{0} галона"
+          per_unit_pattern: "{0}/gal"
+        volume_quart:
+          display_name: "кварти"
+          unit_pattern_count_one: "{0} кварта"
+          unit_pattern_count_other: "{0} кварти"
+        volume_pint:
+          display_name: "пинти"
+          unit_pattern_count_one: "{0} пинта"
+          unit_pattern_count_other: "{0} пинти"
+        volume_cup:
+          display_name: "чаши"
+          unit_pattern_count_one: "{0} чаша"
+          unit_pattern_count_other: "{0} чаши"
+        volume_fluid_ounce:
+          display_name: "т. унц."
+          unit_pattern_count_one: "{0} т. унц."
+          unit_pattern_count_other: "{0} т. унц."
+        volume_tablespoon:
+          display_name: "с. л."
+          unit_pattern_count_one: "{0} с. л."
+          unit_pattern_count_other: "{0} с. л."
+        volume_teaspoon:
+          display_name: "ч. л."
+          unit_pattern_count_one: "{0} ч. л."
+          unit_pattern_count_other: "{0} ч. л."
+        coordinate_unit:
+          east: "{0}И"
+          north: "{0}С"
+          south: "{0}Ю"
+          west: "{0}З"
+      narrow:
+        per:
+          compound_unit_pattern: "{0}/{1}"
+        acceleration_g_force:
+          display_name: G
+          unit_pattern_count_one: "{0} G"
+          unit_pattern_count_other: "{0} G"
+        acceleration_meter_per_second_squared:
+          display_name: m/s²
+          unit_pattern_count_one: "{0} m/s²"
+          unit_pattern_count_other: "{0} m/s²"
+        angle_revolution:
+          display_name: "оборот"
+          unit_pattern_count_one: "{0} оборота"
+          unit_pattern_count_other: "{0} оборота"
+        angle_radian:
+          display_name: rad
+          unit_pattern_count_one: "{0} rad"
+          unit_pattern_count_other: "{0} rad"
+        angle_degree:
+          display_name: "°"
+          unit_pattern_count_one: "{0}°"
+          unit_pattern_count_other: "{0}°"
+        angle_arc_minute:
+          display_name: "дъгови мин."
+          unit_pattern_count_one: "{0}′"
+          unit_pattern_count_other: "{0}′"
+        angle_arc_second:
+          display_name: "дъгови с"
+          unit_pattern_count_one: "{0}″"
+          unit_pattern_count_other: "{0}″"
+        area_square_kilometer:
+          display_name: km²
+          unit_pattern_count_one: "{0} km²"
+          unit_pattern_count_other: "{0} km²"
+        area_hectare:
+          display_name: "хектари"
+          unit_pattern_count_one: "{0} ha"
+          unit_pattern_count_other: "{0} ha"
+        area_square_meter:
+          display_name: m²
+          unit_pattern_count_one: "{0} m²"
+          unit_pattern_count_other: "{0} m²"
+          per_unit_pattern: "{0}/m²"
+        area_square_centimeter:
+          display_name: cm²
+          unit_pattern_count_one: "{0} cm²"
+          unit_pattern_count_other: "{0} cm²"
+          per_unit_pattern: "{0}/cm²"
+        area_square_mile:
+          display_name: "кв. мили"
+          unit_pattern_count_one: "{0} кв. миля"
+          unit_pattern_count_other: "{0} кв. мили"
+        area_acre:
+          display_name: "акри"
+          unit_pattern_count_one: "{0} акър"
+          unit_pattern_count_other: "{0} акра"
+        area_square_yard:
+          display_name: "кв. ярдове"
+          unit_pattern_count_one: "{0} кв. ярда"
+          unit_pattern_count_other: "{0} кв. ярда"
+        area_square_foot:
+          display_name: "кв. футове"
+          unit_pattern_count_one: "{0} кв. фут"
+          unit_pattern_count_other: "{0} кв. фута"
+        area_square_inch:
+          display_name: "кв. инчове"
+          unit_pattern_count_one: "{0} кв. инча"
+          unit_pattern_count_other: "{0} кв. инча"
+          per_unit_pattern: "{0}/in²"
+        consumption_liter_per_kilometer:
+          display_name: l/km
+          unit_pattern_count_one: "{0} l/km"
+          unit_pattern_count_other: "{0} l/km"
+        consumption_liter_per_100kilometers:
+          display_name: l/100 km
+          unit_pattern_count_one: "{0} l/100 km"
+          unit_pattern_count_other: "{0} l/100 km"
+        consumption_mile_per_gallon:
+          display_name: mpg
+          unit_pattern_count_one: "{0} mpg"
+          unit_pattern_count_other: "{0} mpg"
+        digital_terabyte:
+          display_name: TB
+          unit_pattern_count_one: "{0} TB"
+          unit_pattern_count_other: "{0} TB"
+        digital_terabit:
+          display_name: Tb
+          unit_pattern_count_one: "{0} Tb"
+          unit_pattern_count_other: "{0} Tb"
+        digital_gigabyte:
+          display_name: GB
+          unit_pattern_count_one: "{0} GB"
+          unit_pattern_count_other: "{0} GB"
+        digital_gigabit:
+          display_name: Gb
+          unit_pattern_count_one: "{0} Gb"
+          unit_pattern_count_other: "{0} Gb"
+        digital_megabyte:
+          display_name: MB
+          unit_pattern_count_one: "{0} MB"
+          unit_pattern_count_other: "{0} MB"
+        digital_megabit:
+          display_name: Mb
+          unit_pattern_count_one: "{0} Mb"
+          unit_pattern_count_other: "{0} Mb"
+        digital_kilobyte:
+          display_name: kB
+          unit_pattern_count_one: "{0} kB"
+          unit_pattern_count_other: "{0} kB"
+        digital_kilobit:
+          display_name: kb
+          unit_pattern_count_one: "{0} kb"
+          unit_pattern_count_other: "{0} kb"
+        digital_byte:
+          display_name: B
+          unit_pattern_count_one: "{0} B"
+          unit_pattern_count_other: "{0} B"
+        digital_bit:
+          display_name: "б"
+          unit_pattern_count_one: "{0} б"
+          unit_pattern_count_other: "{0} б"
+        duration_century:
+          display_name: "в."
+          unit_pattern_count_one: "{0} в."
+          unit_pattern_count_other: "{0} в."
+        duration_year:
+          display_name: "г"
+          unit_pattern_count_one: "{0} г"
+          unit_pattern_count_other: "{0} г"
+          per_unit_pattern: "{0}/год."
+        duration_month:
+          display_name: "м"
+          unit_pattern_count_one: "{0} м"
+          unit_pattern_count_other: "{0} м"
+          per_unit_pattern: "{0}/месец"
+        duration_week:
+          display_name: "седм."
+          unit_pattern_count_one: "{0} седм."
+          unit_pattern_count_other: "{0} седм."
+          per_unit_pattern: "{0}/седмица"
+        duration_day:
+          display_name: "д"
+          unit_pattern_count_one: "{0} д"
+          unit_pattern_count_other: "{0} д"
+          per_unit_pattern: "{0}/д"
+        duration_hour:
+          display_name: h
+          unit_pattern_count_one: "{0} h"
+          unit_pattern_count_other: "{0} h"
+          per_unit_pattern: "{0}/h"
+        duration_minute:
+          display_name: min
+          unit_pattern_count_one: "{0} min"
+          unit_pattern_count_other: "{0} min"
+          per_unit_pattern: "{0}/мин"
+        duration_second:
+          display_name: s
+          unit_pattern_count_one: "{0} s"
+          unit_pattern_count_other: "{0} s"
+          per_unit_pattern: "{0}/s"
+        duration_millisecond:
+          display_name: ms
+          unit_pattern_count_one: "{0} ms"
+          unit_pattern_count_other: "{0} ms"
+        duration_microsecond:
+          display_name: "μs"
+          unit_pattern_count_one: "{0} μs"
+          unit_pattern_count_other: "{0} μs"
+        duration_nanosecond:
+          display_name: ns
+          unit_pattern_count_one: "{0} ns"
+          unit_pattern_count_other: "{0} ns"
+        electric_ampere:
+          display_name: A
+          unit_pattern_count_one: "{0} A"
+          unit_pattern_count_other: "{0} A"
+        electric_milliampere:
+          display_name: mA
+          unit_pattern_count_one: "{0} mA"
+          unit_pattern_count_other: "{0} mA"
+        electric_ohm:
+          display_name: "Ω"
+          unit_pattern_count_one: "{0} Ω"
+          unit_pattern_count_other: "{0} Ω"
+        electric_volt:
+          display_name: V
+          unit_pattern_count_one: "{0} V"
+          unit_pattern_count_other: "{0} V"
+        energy_kilocalorie:
+          display_name: kcal
+          unit_pattern_count_one: "{0} kcal"
+          unit_pattern_count_other: "{0} kcal"
+        energy_calorie:
+          display_name: cal
+          unit_pattern_count_one: "{0} cal"
+          unit_pattern_count_other: "{0} cal"
+        energy_foodcalorie:
+          display_name: cal
+          unit_pattern_count_one: "{0} cal"
+          unit_pattern_count_other: "{0} cal"
+        energy_kilojoule:
+          display_name: kJ
+          unit_pattern_count_one: "{0} kJ"
+          unit_pattern_count_other: "{0} kJ"
+        energy_joule:
+          display_name: J
+          unit_pattern_count_one: "{0} J"
+          unit_pattern_count_other: "{0} J"
+        energy_kilowatt_hour:
+          display_name: kWh
+          unit_pattern_count_one: "{0} kWh"
+          unit_pattern_count_other: "{0} kWh"
+        frequency_gigahertz:
+          display_name: GHz
+          unit_pattern_count_one: "{0} GHz"
+          unit_pattern_count_other: "{0} GHz"
+        frequency_megahertz:
+          display_name: MHz
+          unit_pattern_count_one: "{0} MHz"
+          unit_pattern_count_other: "{0} MHz"
+        frequency_kilohertz:
+          display_name: kHz
+          unit_pattern_count_one: "{0} kHz"
+          unit_pattern_count_other: "{0} kHz"
+        frequency_hertz:
+          display_name: Hz
+          unit_pattern_count_one: "{0} Hz"
+          unit_pattern_count_other: "{0} Hz"
+        length_kilometer:
+          display_name: km
+          unit_pattern_count_one: "{0} km"
+          unit_pattern_count_other: "{0} km"
+          per_unit_pattern: "{0}/km"
+        length_meter:
+          display_name: m
+          unit_pattern_count_one: "{0} m"
+          unit_pattern_count_other: "{0} m"
+          per_unit_pattern: "{0}/m"
+        length_decimeter:
+          display_name: dm
+          unit_pattern_count_one: "{0} dm"
+          unit_pattern_count_other: "{0} dm"
+        length_centimeter:
+          display_name: cm
+          unit_pattern_count_one: "{0} cm"
+          unit_pattern_count_other: "{0} cm"
+          per_unit_pattern: "{0}/cm"
+        length_millimeter:
+          display_name: mm
+          unit_pattern_count_one: "{0} mm"
+          unit_pattern_count_other: "{0} mm"
+        length_micrometer:
+          display_name: "µm"
+          unit_pattern_count_one: "{0} µm"
+          unit_pattern_count_other: "{0} µm"
+        length_nanometer:
+          display_name: nm
+          unit_pattern_count_one: "{0} nm"
+          unit_pattern_count_other: "{0} nm"
+        length_picometer:
+          display_name: "пикометри"
+          unit_pattern_count_one: "{0} pm"
+          unit_pattern_count_other: "{0} pm"
+        length_mile:
+          display_name: "мили"
+          unit_pattern_count_one: "{0} миля"
+          unit_pattern_count_other: "{0} мили"
+        length_yard:
+          display_name: "ярдове"
+          unit_pattern_count_one: "{0} ярд"
+          unit_pattern_count_other: "{0} ярда"
+        length_foot:
+          display_name: "футове"
+          unit_pattern_count_one: "{0} фут"
+          unit_pattern_count_other: "{0} фута"
+          per_unit_pattern: "{0}/ft"
+        length_inch:
+          display_name: "инчове"
+          unit_pattern_count_one: '{0}\"'
+          unit_pattern_count_other: '{0}\"'
+          per_unit_pattern: "{0}/in"
+        length_parsec:
+          display_name: pc
+          unit_pattern_count_one: "{0} pc"
+          unit_pattern_count_other: "{0} pc"
+        length_light_year:
+          display_name: "св. г."
+          unit_pattern_count_one: "{0} св.г."
+          unit_pattern_count_other: "{0} св.г."
+        length_astronomical_unit:
+          display_name: AU
+          unit_pattern_count_one: "{0} AU"
+          unit_pattern_count_other: "{0} AU"
+        length_furlong:
+          display_name: fur
+          unit_pattern_count_other: "{0} fur"
+        length_fathom:
+          display_name: fm
+          unit_pattern_count_other: "{0} fm"
+        length_nautical_mile:
+          display_name: nmi
+          unit_pattern_count_one: "{0} nmi"
+          unit_pattern_count_other: "{0} nmi"
+        length_mile_scandinavian:
+          display_name: smi
+          unit_pattern_count_one: "{0} smi"
+          unit_pattern_count_other: "{0} smi"
+        light_lux:
+          display_name: lx
+          unit_pattern_count_one: "{0} lx"
+          unit_pattern_count_other: "{0} lx"
+        mass_metric_ton:
+          display_name: "т"
+          unit_pattern_count_one: "{0} т"
+          unit_pattern_count_other: "{0} т"
+        mass_kilogram:
+          display_name: kg
+          unit_pattern_count_one: "{0} kg"
+          unit_pattern_count_other: "{0} kg"
+          per_unit_pattern: "{0}/kg"
+        mass_gram:
+          display_name: g
+          unit_pattern_count_one: "{0} g"
+          unit_pattern_count_other: "{0} g"
+          per_unit_pattern: "{0}/g"
+        mass_milligram:
+          display_name: mg
+          unit_pattern_count_one: "{0} mg"
+          unit_pattern_count_other: "{0} mg"
+        mass_microgram:
+          display_name: "µg"
+          unit_pattern_count_one: "{0} µg"
+          unit_pattern_count_other: "{0} µg"
+        mass_ton:
+          display_name: "къси тонове"
+          unit_pattern_count_one: "{0} к. т."
+          unit_pattern_count_other: "{0} к. т."
+        mass_stone:
+          display_name: st
+          unit_pattern_count_other: "{0} st"
+        mass_pound:
+          display_name: "фунтове"
+          unit_pattern_count_one: "{0} фунт"
+          unit_pattern_count_other: "{0} фунта"
+          per_unit_pattern: "{0}/lb"
+        mass_ounce:
+          display_name: "унц."
+          unit_pattern_count_one: "{0} унц."
+          unit_pattern_count_other: "{0} унц."
+          per_unit_pattern: "{0}/oz"
+        mass_ounce_troy:
+          display_name: "тр. унц."
+          unit_pattern_count_one: "{0} тр. унц."
+          unit_pattern_count_other: "{0} тр. унц."
+        mass_carat:
+          display_name: CD
+          unit_pattern_count_one: "{0} CD"
+          unit_pattern_count_other: "{0} CD"
+        power_gigawatt:
+          display_name: GW
+          unit_pattern_count_one: "{0} GW"
+          unit_pattern_count_other: "{0} GW"
+        power_megawatt:
+          display_name: MW
+          unit_pattern_count_one: "{0} MW"
+          unit_pattern_count_other: "{0} MW"
+        power_kilowatt:
+          display_name: kW
+          unit_pattern_count_one: "{0} kW"
+          unit_pattern_count_other: "{0} kW"
+        power_watt:
+          display_name: W
+          unit_pattern_count_one: "{0} W"
+          unit_pattern_count_other: "{0} W"
+        power_milliwatt:
+          display_name: mW
+          unit_pattern_count_one: "{0} mW"
+          unit_pattern_count_other: "{0} mW"
+        power_horsepower:
+          display_name: "к. с."
+          unit_pattern_count_one: "{0} к.с."
+          unit_pattern_count_other: "{0} к.с."
+        pressure_hectopascal:
+          display_name: hPa
+          unit_pattern_count_one: "{0} hPa"
+          unit_pattern_count_other: "{0} hPa"
+        pressure_millimeter_of_mercury:
+          display_name: mmHg
+          unit_pattern_count_one: "{0} mmHg"
+          unit_pattern_count_other: "{0} mmHg"
+        pressure_pound_per_square_inch:
+          display_name: psi
+          unit_pattern_count_one: "{0} psi"
+          unit_pattern_count_other: "{0} psi"
+        pressure_inch_hg:
+          display_name: inHg
+          unit_pattern_count_one: "{0} inHg"
+          unit_pattern_count_other: "{0} inHg"
+        pressure_millibar:
+          display_name: mbar
+          unit_pattern_count_one: "{0} mbar"
+          unit_pattern_count_other: "{0} mbar"
+        proportion_karat:
+          display_name: "К"
+          unit_pattern_count_one: "{0} карата"
+          unit_pattern_count_other: "{0} карата"
+        speed_kilometer_per_hour:
+          display_name: km/h
+          unit_pattern_count_one: "{0} km/h"
+          unit_pattern_count_other: "{0} km/h"
+        speed_meter_per_second:
+          display_name: m/s
+          unit_pattern_count_one: "{0} m/s"
+          unit_pattern_count_other: "{0} m/s"
+        speed_mile_per_hour:
+          display_name: "мили/ч"
+          unit_pattern_count_one: "{0} миля/ч"
+          unit_pattern_count_other: "{0} мили/ч"
+        speed_knot:
+          display_name: kn
+          unit_pattern_count_one: "{0} kn"
+          unit_pattern_count_other: "{0} kn"
+        temperature_generic:
+          display_name: "°"
+          unit_pattern_count_one: "{0}°"
+          unit_pattern_count_other: "{0}°"
+        temperature_celsius:
+          display_name: "°C"
+          unit_pattern_count_one: "{0} °C"
+          unit_pattern_count_other: "{0} °C"
+        temperature_fahrenheit:
+          display_name: "°F"
+          unit_pattern_count_one: "{0} °F"
+          unit_pattern_count_other: "{0} °F"
+        temperature_kelvin:
+          display_name: K
+          unit_pattern_count_one: "{0} K"
+          unit_pattern_count_other: "{0} K"
+        volume_cubic_kilometer:
+          display_name: km³
+          unit_pattern_count_one: "{0} km³"
+          unit_pattern_count_other: "{0} km³"
+        volume_cubic_meter:
+          display_name: m³
+          unit_pattern_count_one: "{0} m³"
+          unit_pattern_count_other: "{0} m³"
+          per_unit_pattern: "{0}/m³"
+        volume_cubic_centimeter:
+          display_name: cm³
+          unit_pattern_count_one: "{0} cm³"
+          unit_pattern_count_other: "{0} cm³"
+          per_unit_pattern: "{0}/cm³"
+        volume_cubic_mile:
+          display_name: "куб. мили"
+          unit_pattern_count_one: "{0} куб. миля"
+          unit_pattern_count_other: "{0} куб. мили"
+        volume_cubic_yard:
+          display_name: "куб. ярдове"
+          unit_pattern_count_one: "{0} куб. ярда"
+          unit_pattern_count_other: "{0} куб. ярда"
+        volume_cubic_foot:
+          display_name: "куб. футове"
+          unit_pattern_count_one: "{0} куб. фута"
+          unit_pattern_count_other: "{0} куб. фута"
+        volume_cubic_inch:
+          display_name: "куб. инчове"
+          unit_pattern_count_one: "{0} куб. инча"
+          unit_pattern_count_other: "{0} куб. инча"
+        volume_megaliter:
+          display_name: Ml
+          unit_pattern_count_one: "{0} Ml"
+          unit_pattern_count_other: "{0} Ml"
+        volume_hectoliter:
+          display_name: hl
+          unit_pattern_count_one: "{0} hl"
+          unit_pattern_count_other: "{0} hl"
+        volume_liter:
+          display_name: l
+          unit_pattern_count_one: "{0} l"
+          unit_pattern_count_other: "{0} l"
+          per_unit_pattern: "{0}/l"
+        volume_deciliter:
+          display_name: dl
+          unit_pattern_count_one: "{0} dl"
+          unit_pattern_count_other: "{0} dl"
+        volume_centiliter:
+          display_name: cl
+          unit_pattern_count_one: "{0} cl"
+          unit_pattern_count_other: "{0} cl"
+        volume_milliliter:
+          display_name: ml
+          unit_pattern_count_one: "{0} ml"
+          unit_pattern_count_other: "{0} ml"
+        volume_pint_metric:
+          display_name: mpt
+          unit_pattern_count_one: "{0} mpt"
+          unit_pattern_count_other: "{0} mpt"
+        volume_cup_metric:
+          display_name: mcup
+          unit_pattern_count_one: "{0} mc"
+          unit_pattern_count_other: "{0} mc"
+        volume_acre_foot:
+          display_name: "акър-футове"
+          unit_pattern_count_one: "{0} ac ft"
+          unit_pattern_count_other: "{0} ac ft"
+        volume_bushel:
+          display_name: bu
+          unit_pattern_count_other: "{0} bu"
+        volume_gallon:
+          display_name: "галони"
+          unit_pattern_count_one: "{0} галона"
+          unit_pattern_count_other: "{0} галона"
+          per_unit_pattern: "{0}/gal"
+        volume_quart:
+          display_name: "кварти"
+          unit_pattern_count_one: "{0} кварти"
+          unit_pattern_count_other: "{0} кварти"
+        volume_pint:
+          display_name: "пинти"
+          unit_pattern_count_one: "{0} пинти"
+          unit_pattern_count_other: "{0} пинти"
+        volume_cup:
+          display_name: "чаши"
+          unit_pattern_count_one: "{0} чаши"
+          unit_pattern_count_other: "{0} чаши"
+        volume_fluid_ounce:
+          display_name: "т. унц."
+          unit_pattern_count_one: "{0} т. унц."
+          unit_pattern_count_other: "{0} т. унц."
+        volume_tablespoon:
+          display_name: "с. л."
+          unit_pattern_count_one: "{0} с. л."
+          unit_pattern_count_other: "{0} с. л."
+        volume_teaspoon:
+          display_name: "ч. л."
+          unit_pattern_count_one: "{0} ч. л."
+          unit_pattern_count_other: "{0} ч. л."
+        coordinate_unit:
+          east: "{0}И"
+          north: "{0}С"
+          south: "{0}Ю"
+          west: "{0}З"
+      duration_unit_type_hm:
+        duration_unit_pattern: h:mm
+      duration_unit_type_hms:
+        duration_unit_pattern: h:mm:ss
+      duration_unit_type_ms:
+        duration_unit_pattern: m:ss

@@ -1,0 +1,4916 @@
+---
+zh-Hans:
+  cldr:
+    dates:
+      calendars:
+        gregorian:
+          months:
+            format:
+              abbreviated:
+                '1': 1月
+                '2': 2月
+                '3': 3月
+                '4': 4月
+                '5': 5月
+                '6': 6月
+                '7': 7月
+                '8': 8月
+                '9': 9月
+                '10': 10月
+                '11': 11月
+                '12': 12月
+              narrow:
+                '1': '1'
+                '2': '2'
+                '3': '3'
+                '4': '4'
+                '5': '5'
+                '6': '6'
+                '7': '7'
+                '8': '8'
+                '9': '9'
+                '10': '10'
+                '11': '11'
+                '12': '12'
+              wide:
+                '1': "一月"
+                '2': "二月"
+                '3': "三月"
+                '4': "四月"
+                '5': "五月"
+                '6': "六月"
+                '7': "七月"
+                '8': "八月"
+                '9': "九月"
+                '10': "十月"
+                '11': "十一月"
+                '12': "十二月"
+            stand_alone:
+              abbreviated:
+                '1': 1月
+                '2': 2月
+                '3': 3月
+                '4': 4月
+                '5': 5月
+                '6': 6月
+                '7': 7月
+                '8': 8月
+                '9': 9月
+                '10': 10月
+                '11': 11月
+                '12': 12月
+              narrow:
+                '1': '1'
+                '2': '2'
+                '3': '3'
+                '4': '4'
+                '5': '5'
+                '6': '6'
+                '7': '7'
+                '8': '8'
+                '9': '9'
+                '10': '10'
+                '11': '11'
+                '12': '12'
+              wide:
+                '1': "一月"
+                '2': "二月"
+                '3': "三月"
+                '4': "四月"
+                '5': "五月"
+                '6': "六月"
+                '7': "七月"
+                '8': "八月"
+                '9': "九月"
+                '10': "十月"
+                '11': "十一月"
+                '12': "十二月"
+          days:
+            format:
+              abbreviated:
+                sun: "周日"
+                mon: "周一"
+                tue: "周二"
+                wed: "周三"
+                thu: "周四"
+                fri: "周五"
+                sat: "周六"
+              narrow:
+                sun: "日"
+                mon: "一"
+                tue: "二"
+                wed: "三"
+                thu: "四"
+                fri: "五"
+                sat: "六"
+              short:
+                sun: "周日"
+                mon: "周一"
+                tue: "周二"
+                wed: "周三"
+                thu: "周四"
+                fri: "周五"
+                sat: "周六"
+              wide:
+                sun: "星期日"
+                mon: "星期一"
+                tue: "星期二"
+                wed: "星期三"
+                thu: "星期四"
+                fri: "星期五"
+                sat: "星期六"
+            stand_alone:
+              abbreviated:
+                sun: "周日"
+                mon: "周一"
+                tue: "周二"
+                wed: "周三"
+                thu: "周四"
+                fri: "周五"
+                sat: "周六"
+              narrow:
+                sun: "日"
+                mon: "一"
+                tue: "二"
+                wed: "三"
+                thu: "四"
+                fri: "五"
+                sat: "六"
+              short:
+                sun: "周日"
+                mon: "周一"
+                tue: "周二"
+                wed: "周三"
+                thu: "周四"
+                fri: "周五"
+                sat: "周六"
+              wide:
+                sun: "星期日"
+                mon: "星期一"
+                tue: "星期二"
+                wed: "星期三"
+                thu: "星期四"
+                fri: "星期五"
+                sat: "星期六"
+          quarters:
+            format:
+              abbreviated:
+                '1': 1季度
+                '2': 2季度
+                '3': 3季度
+                '4': 4季度
+              narrow:
+                '1': '1'
+                '2': '2'
+                '3': '3'
+                '4': '4'
+              wide:
+                '1': "第一季度"
+                '2': "第二季度"
+                '3': "第三季度"
+                '4': "第四季度"
+            stand_alone:
+              abbreviated:
+                '1': 1季度
+                '2': 2季度
+                '3': 3季度
+                '4': 4季度
+              narrow:
+                '1': '1'
+                '2': '2'
+                '3': '3'
+                '4': '4'
+              wide:
+                '1': "第一季度"
+                '2': "第二季度"
+                '3': "第三季度"
+                '4': "第四季度"
+          day_periods:
+            format:
+              abbreviated:
+                midnight: "午夜"
+                am: "上午"
+                pm: "下午"
+                morning1: "清晨"
+                morning2: "上午"
+                afternoon1: "下午"
+                afternoon2: "下午"
+                evening1: "晚上"
+                night1: "凌晨"
+              narrow:
+                midnight: "午夜"
+                am: "上午"
+                pm: "下午"
+                morning1: "清晨"
+                morning2: "上午"
+                afternoon1: "中午"
+                afternoon2: "下午"
+                evening1: "晚上"
+                night1: "凌晨"
+              wide:
+                midnight: "午夜"
+                am: "上午"
+                pm: "下午"
+                morning1: "清晨"
+                morning2: "上午"
+                afternoon1: "下午"
+                afternoon2: "下午"
+                evening1: "晚上"
+                night1: "凌晨"
+            stand_alone:
+              abbreviated:
+                midnight: "午夜"
+                am: "上午"
+                pm: "下午"
+                morning1: "早上"
+                morning2: "上午"
+                afternoon1: "中午"
+                afternoon2: "下午"
+                evening1: "晚上"
+                night1: "凌晨"
+              narrow:
+                midnight: "午夜"
+                am: "上午"
+                pm: "下午"
+                morning1: "早上"
+                morning2: "上午"
+                afternoon1: "中午"
+                afternoon2: "下午"
+                evening1: "晚上"
+                night1: "凌晨"
+              wide:
+                midnight: "午夜"
+                am: "上午"
+                pm: "下午"
+                morning1: "早上"
+                morning2: "上午"
+                afternoon1: "中午"
+                afternoon2: "下午"
+                evening1: "晚上"
+                night1: "凌晨"
+          eras:
+            era_names:
+              '0': "公元前"
+              0_alt_variant: "西元前"
+              '1': "公元"
+              1_alt_variant: "西元"
+            era_abbr:
+              '0': "公元前"
+              0_alt_variant: "西元前"
+              '1': "公元"
+              1_alt_variant: "西元"
+            era_narrow:
+              '0': "公元前"
+              0_alt_variant: "西元前"
+              '1': "公元"
+              1_alt_variant: "西元"
+          date_formats:
+            full: y年M月d日EEEE
+            long: y年M月d日
+            medium: y年M月d日
+            short: y/M/d
+          time_formats:
+            full: zzzz ah:mm:ss
+            long: z ah:mm:ss
+            medium: ah:mm:ss
+            short: ah:mm
+          date_time_formats:
+            full: "{1} {0}"
+            long: "{1} {0}"
+            medium: "{1} {0}"
+            short: "{1} {0}"
+            available_formats:
+              d: d日
+              e: ccc
+              ed: d日E
+              ehm: E ah:mm
+              e_hm: EHH:mm
+              ehms: E ah:mm:ss
+              e_hms: EHH:mm:ss
+              gy: Gy年
+              gy_mmm: Gy年M月
+              gy_mm_md: Gy年M月d日
+              gy_mmm_ed: Gy年M月d日E
+              h: H时
+              hm: HH:mm
+              hms: HH:mm:ss
+              hmsv: v HH:mm:ss
+              hmv: v HH:mm
+              m: M月
+              md: M/d
+              m_ed: M/dE
+              m_mdd: MM/dd
+              mmm: LLL
+              mm_md: M月d日
+              mmm_ed: M月d日E
+              mmm_md: M月d日
+              ms: mm:ss
+              y: y年
+              y_m: y年M月
+              y_md: y/M/d
+              y_m_ed: y/M/dE
+              y_mm: y年M月
+              y_mmm: y年M月
+              y_mm_md: y年M月d日
+              y_mmm_ed: y年M月d日E
+              y_mmmm: y年M月
+              y_qqq: y年第Q季度
+              y_qqqq: y年第Q季度
+            append_items:
+              day: "{0} ({2}: {1})"
+              day_of_week: "{0} {1}"
+              era: "{1} {0}"
+              hour: "{0} ({2}: {1})"
+              minute: "{0} ({2}: {1})"
+              month: "{0} ({2}: {1})"
+              quarter: "{0} ({2}: {1})"
+              second: "{0} ({2}: {1})"
+              timezone: "{1}{0}"
+              week: "{0} ({2}: {1})"
+              year: "{1} {0}"
+            interval_formats:
+              interval_format_fallback: "{0} – {1}"
+              d:
+                d: d–d日
+              h:
+                h: HH–HH
+              hm:
+                h: HH:mm–HH:mm
+                m: HH:mm–HH:mm
+              hmv:
+                h: v HH:mm–HH:mm
+                m: v HH:mm–HH:mm
+              hv:
+                h: v HH–HH
+              m:
+                m: M–M月
+              md:
+                d: M/d – M/d
+                m: M/d – M/d
+              m_ed:
+                d: M/dE至M/dE
+                m: M/dE至M/dE
+              mmm:
+                m: LLL至LLL
+              mm_md:
+                d: M月d日至d日
+                m: M月d日至M月d日
+              mmm_ed:
+                d: M月d日E至d日E
+                m: M月d日E至M月d日E
+              y:
+                y: y–y年
+              y_m:
+                m: y年M月至M月
+                y: y年M月至y年M月
+              y_md:
+                d: y/M/d – y/M/d
+                m: y/M/d – y/M/d
+                y: y/M/d – y/M/d
+              y_m_ed:
+                d: y/M/dE至y/M/dE
+                m: y/M/dE至y/M/dE
+                y: y/M/dE至y/M/dE
+              y_mmm:
+                m: y年M月至M月
+                y: y年M月至y年M月
+              y_mm_md:
+                d: y年M月d日至d日
+                m: y年M月d日至M月d日
+                y: y年M月d日至y年M月d日
+              y_mmm_ed:
+                d: y年M月d日E至d日E
+                m: y年M月d日E至M月d日E
+                y: y年M月d日E至y年M月d日E
+              y_mmmm:
+                m: y年M月至M月
+                y: y年M月至y年M月
+      fields:
+        era:
+          display_name: "纪元"
+        year:
+          display_name: "年"
+          relative_type__1: "去年"
+          relative_type_0: "今年"
+          relative_type_1: "明年"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}年后"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}年前"
+        year_short:
+          display_name: "年"
+          relative_type__1: "去年"
+          relative_type_0: "今年"
+          relative_type_1: "明年"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}年后"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}年前"
+        year_narrow:
+          display_name: "年"
+          relative_type__1: "去年"
+          relative_type_0: "今年"
+          relative_type_1: "明年"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}年后"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}年前"
+        quarter:
+          display_name: "季"
+          relative_type__1: last quarter
+          relative_type_0: this quarter
+          relative_type_1: next quarter
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}季度后"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}季度前"
+        quarter_short:
+          display_name: "季"
+          relative_type__1: last quarter
+          relative_type_0: this quarter
+          relative_type_1: next quarter
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}季度后"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}季度前"
+        quarter_narrow:
+          display_name: "季"
+          relative_type__1: last quarter
+          relative_type_0: this quarter
+          relative_type_1: next quarter
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}季度后"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}季度前"
+        month:
+          display_name: "月"
+          relative_type__1: "上个月"
+          relative_type_0: "本月"
+          relative_type_1: "下个月"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}个月后"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}个月前"
+        month_short:
+          display_name: "月"
+          relative_type__1: "上个月"
+          relative_type_0: "本月"
+          relative_type_1: "下个月"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}个月后"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}个月前"
+        month_narrow:
+          display_name: "月"
+          relative_type__1: "上个月"
+          relative_type_0: "本月"
+          relative_type_1: "下个月"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}个月后"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}个月前"
+        week:
+          display_name: "周"
+          relative_type__1: "上周"
+          relative_type_0: "本周"
+          relative_type_1: "下周"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}周后"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}周前"
+        week_short:
+          display_name: "周"
+          relative_type__1: "上周"
+          relative_type_0: "本周"
+          relative_type_1: "下周"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}周后"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}周前"
+        week_narrow:
+          display_name: "周"
+          relative_type__1: "上周"
+          relative_type_0: "本周"
+          relative_type_1: "下周"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}周后"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}周前"
+        day:
+          display_name: "日"
+          relative_type__2: "前天"
+          relative_type__1: "昨天"
+          relative_type_0: "今天"
+          relative_type_1: "明天"
+          relative_type_2: "后天"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}天后"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}天前"
+        day_short:
+          display_name: "日"
+          relative_type__2: "前天"
+          relative_type__1: "昨天"
+          relative_type_0: "今天"
+          relative_type_1: "明天"
+          relative_type_2: "后天"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}天后"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}天前"
+        day_narrow:
+          display_name: "日"
+          relative_type__2: "前天"
+          relative_type__1: "昨天"
+          relative_type_0: "今天"
+          relative_type_1: "明天"
+          relative_type_2: "后天"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}天后"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}天前"
+        weekday:
+          display_name: "工作日"
+        sun:
+          relative_type__1: "上周日"
+          relative_type_0: "本周日"
+          relative_type_1: "下周日"
+        sun_short:
+          relative_type__1: "上周日"
+          relative_type_0: "本周日"
+          relative_type_1: "下周日"
+        sun_narrow:
+          relative_type__1: "上周日"
+          relative_type_0: "本周日"
+          relative_type_1: "下周日"
+        mon:
+          relative_type__1: "上周一"
+          relative_type_0: "本周一"
+          relative_type_1: "下周一"
+        mon_short:
+          relative_type__1: "上周一"
+          relative_type_0: "本周一"
+          relative_type_1: "下周一"
+        mon_narrow:
+          relative_type__1: "上周一"
+          relative_type_0: "本周一"
+          relative_type_1: "下周一"
+        tue:
+          relative_type__1: "上周二"
+          relative_type_0: "本周二"
+          relative_type_1: "下周二"
+        tue_short:
+          relative_type__1: "上周二"
+          relative_type_0: "本周二"
+          relative_type_1: "下周二"
+        tue_narrow:
+          relative_type__1: "上周二"
+          relative_type_0: "本周二"
+          relative_type_1: "下周二"
+        wed:
+          relative_type__1: "上周三"
+          relative_type_0: "本周三"
+          relative_type_1: "下周三"
+        wed_short:
+          relative_type__1: "上周三"
+          relative_type_0: "本周三"
+          relative_type_1: "下周三"
+        wed_narrow:
+          relative_type__1: "上周三"
+          relative_type_0: "本周三"
+          relative_type_1: "下周三"
+        thu:
+          relative_type__1: "上周四"
+          relative_type_0: "本周四"
+          relative_type_1: "下周四"
+        thu_short:
+          relative_type__1: "上周四"
+          relative_type_0: "本周四"
+          relative_type_1: "下周四"
+        thu_narrow:
+          relative_type__1: "上周四"
+          relative_type_0: "本周四"
+          relative_type_1: "下周四"
+        fri:
+          relative_type__1: "上周五"
+          relative_type_0: "本周五"
+          relative_type_1: "下周五"
+        fri_short:
+          relative_type__1: "上周五"
+          relative_type_0: "本周五"
+          relative_type_1: "下周五"
+        fri_narrow:
+          relative_type__1: "上周五"
+          relative_type_0: "本周五"
+          relative_type_1: "下周五"
+        sat:
+          relative_type__1: "上周六"
+          relative_type_0: "本周六"
+          relative_type_1: "下周六"
+        sat_short:
+          relative_type__1: "上周六"
+          relative_type_0: "本周六"
+          relative_type_1: "下周六"
+        sat_narrow:
+          relative_type__1: "上周六"
+          relative_type_0: "本周六"
+          relative_type_1: "下周六"
+        dayperiod:
+          display_name: "上午/下午"
+        hour:
+          display_name: "小时"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}小时后"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}小时前"
+        hour_short:
+          display_name: "小时"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}小时后"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}小时前"
+        hour_narrow:
+          display_name: "小时"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}小时后"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}小时前"
+        minute:
+          display_name: "分钟"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}分钟后"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}分钟前"
+        minute_short:
+          display_name: "分钟"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}分钟后"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}分钟前"
+        minute_narrow:
+          display_name: "分钟"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}分钟后"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}分钟前"
+        second:
+          display_name: "秒钟"
+          relative_type_0: "现在"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}秒钟后"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}秒钟前"
+        second_short:
+          display_name: "秒钟"
+          relative_type_0: "现在"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}秒后"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}秒前"
+        second_narrow:
+          display_name: "秒钟"
+          relative_type_0: "现在"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}秒后"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}秒前"
+        zone:
+          display_name: "时区"
+      time_zone_names:
+        hour_format: "+HH:mm;-HH:mm"
+        gmt_format: GMT{0}
+        gmt_zero_format: GMT
+        region_format: "{0}时间"
+        region_format_type_daylight: "{0}夏令时间"
+        region_format_type_standard: "{0}标准时间"
+        fallback_format: "{1}（{0}）"
+        zone:
+          america:
+            adak:
+              exemplar_city: "埃达克"
+            anchorage:
+              exemplar_city: "安克雷奇"
+            anguilla:
+              exemplar_city: "安圭拉"
+            antigua:
+              exemplar_city: "安提瓜"
+            araguaina:
+              exemplar_city: "阿拉瓜伊纳"
+            argentina:
+              rio_gallegos:
+                exemplar_city: "里奥加耶戈斯"
+              san_juan:
+                exemplar_city: "圣胡安"
+              ushuaia:
+                exemplar_city: "乌斯怀亚"
+              la_rioja:
+                exemplar_city: "拉里奥哈"
+              san_luis:
+                exemplar_city: "圣路易斯"
+              salta:
+                exemplar_city: "萨尔塔"
+              tucuman:
+                exemplar_city: "图库曼"
+            aruba:
+              exemplar_city: "阿鲁巴"
+            asuncion:
+              exemplar_city: "亚松森"
+            bahia:
+              exemplar_city: "巴伊亚"
+            bahia_banderas:
+              exemplar_city: "巴伊亚班德拉斯"
+            barbados:
+              exemplar_city: "巴巴多斯"
+            belem:
+              exemplar_city: "贝伦"
+            belize:
+              exemplar_city: "伯利兹"
+            blanc_sablon:
+              exemplar_city: "布兰克萨布隆"
+            boa_vista:
+              exemplar_city: "博阿维斯塔"
+            bogota:
+              exemplar_city: "波哥大"
+            boise:
+              exemplar_city: "博伊西"
+            buenos_aires:
+              exemplar_city: "布宜诺斯艾利斯"
+            cambridge_bay:
+              exemplar_city: "剑桥湾"
+            campo_grande:
+              exemplar_city: "大坎普"
+            cancun:
+              exemplar_city: "坎昆"
+            caracas:
+              exemplar_city: "加拉加斯"
+            catamarca:
+              exemplar_city: "卡塔马卡"
+            cayenne:
+              exemplar_city: "卡宴"
+            cayman:
+              exemplar_city: "开曼"
+            chicago:
+              exemplar_city: "芝加哥"
+            chihuahua:
+              exemplar_city: "奇瓦瓦"
+            coral_harbour:
+              exemplar_city: "阿蒂科肯"
+            cordoba:
+              exemplar_city: "科尔多瓦"
+            costa_rica:
+              exemplar_city: "哥斯达黎加"
+            creston:
+              exemplar_city: "克雷斯顿"
+            cuiaba:
+              exemplar_city: "库亚巴"
+            curacao:
+              exemplar_city: "库拉索"
+            danmarkshavn:
+              exemplar_city: "丹马沙文"
+            dawson:
+              exemplar_city: "道森"
+            dawson_creek:
+              exemplar_city: "道森克里克"
+            denver:
+              exemplar_city: "丹佛"
+            detroit:
+              exemplar_city: "底特律"
+            dominica:
+              exemplar_city: "多米尼加"
+            edmonton:
+              exemplar_city: "埃德蒙顿"
+            eirunepe:
+              exemplar_city: "依伦尼贝"
+            el_salvador:
+              exemplar_city: "萨尔瓦多"
+            fortaleza:
+              exemplar_city: "福塔雷萨"
+            glace_bay:
+              exemplar_city: "格莱斯贝"
+            godthab:
+              exemplar_city: "戈特霍布"
+            goose_bay:
+              exemplar_city: "古斯湾"
+            grand_turk:
+              exemplar_city: "大特克"
+            grenada:
+              exemplar_city: "格林纳达"
+            guadeloupe:
+              exemplar_city: "瓜德罗普"
+            guatemala:
+              exemplar_city: "危地马拉"
+            guayaquil:
+              exemplar_city: "瓜亚基尔"
+            guyana:
+              exemplar_city: "圭亚那"
+            halifax:
+              exemplar_city: "哈利法克斯"
+            havana:
+              exemplar_city: "哈瓦那"
+            hermosillo:
+              exemplar_city: "埃莫西约"
+            indiana:
+              vincennes:
+                exemplar_city: "印第安纳州温森斯"
+              petersburg:
+                exemplar_city: "印第安纳州彼得斯堡"
+              tell_city:
+                exemplar_city: "印第安纳州特尔城"
+              knox:
+                exemplar_city: "印第安纳州诺克斯"
+              winamac:
+                exemplar_city: "印第安纳州威纳马克"
+              marengo:
+                exemplar_city: "印第安纳州马伦戈"
+              vevay:
+                exemplar_city: "印第安纳州维维市"
+            indianapolis:
+              exemplar_city: "印第安纳波利斯"
+            inuvik:
+              exemplar_city: "伊努维克"
+            iqaluit:
+              exemplar_city: "伊魁特"
+            jamaica:
+              exemplar_city: "牙买加"
+            jujuy:
+              exemplar_city: "胡胡伊"
+            juneau:
+              exemplar_city: "朱诺"
+            kentucky:
+              monticello:
+                exemplar_city: "肯塔基州蒙蒂塞洛"
+            kralendijk:
+              exemplar_city: "克拉伦代克"
+            la_paz:
+              exemplar_city: "拉巴斯"
+            lima:
+              exemplar_city: "利马"
+            los_angeles:
+              exemplar_city: "洛杉矶"
+            louisville:
+              exemplar_city: "路易斯维尔"
+            lower_princes:
+              exemplar_city: "下太子区"
+            maceio:
+              exemplar_city: "马塞约"
+            managua:
+              exemplar_city: "马那瓜"
+            manaus:
+              exemplar_city: "马瑙斯"
+            marigot:
+              exemplar_city: "马里戈特"
+            martinique:
+              exemplar_city: "马提尼克"
+            matamoros:
+              exemplar_city: "马塔莫罗斯"
+            mazatlan:
+              exemplar_city: "马萨特兰"
+            mendoza:
+              exemplar_city: "门多萨"
+            menominee:
+              exemplar_city: "梅诺米尼"
+            merida:
+              exemplar_city: "梅里达"
+            metlakatla:
+              exemplar_city: "梅特拉卡特拉"
+            mexico_city:
+              exemplar_city: "墨西哥城"
+            miquelon:
+              exemplar_city: "密克隆"
+            moncton:
+              exemplar_city: "蒙克顿"
+            monterrey:
+              exemplar_city: "蒙特雷"
+            montevideo:
+              exemplar_city: "蒙得维的亚"
+            montserrat:
+              exemplar_city: "蒙特塞拉特"
+            nassau:
+              exemplar_city: "拿骚"
+            new_york:
+              exemplar_city: "纽约"
+            nipigon:
+              exemplar_city: "尼皮贡"
+            nome:
+              exemplar_city: "诺姆"
+            noronha:
+              exemplar_city: "洛罗尼亚"
+            north_dakota:
+              beulah:
+                exemplar_city: "北达科他州比尤拉"
+              new_salem:
+                exemplar_city: "北达科他州新塞勒姆"
+              center:
+                exemplar_city: "北达科他州申特"
+            ojinaga:
+              exemplar_city: "奥希纳加"
+            panama:
+              exemplar_city: "巴拿马"
+            pangnirtung:
+              exemplar_city: "旁涅唐"
+            paramaribo:
+              exemplar_city: "帕拉马里博"
+            phoenix:
+              exemplar_city: "凤凰城"
+            port_au_prince:
+              exemplar_city: "太子港"
+            port_of_spain:
+              exemplar_city: "西班牙港"
+            porto_velho:
+              exemplar_city: "波多韦柳"
+            puerto_rico:
+              exemplar_city: "波多黎各"
+            rainy_river:
+              exemplar_city: "雷尼河"
+            rankin_inlet:
+              exemplar_city: "兰今湾"
+            recife:
+              exemplar_city: "累西腓"
+            regina:
+              exemplar_city: "里贾纳"
+            resolute:
+              exemplar_city: "雷索卢特"
+            rio_branco:
+              exemplar_city: "里奥布郎库"
+            santa_isabel:
+              exemplar_city: "圣伊萨贝尔"
+            santarem:
+              exemplar_city: "圣塔伦"
+            santiago:
+              exemplar_city: "圣地亚哥"
+            santo_domingo:
+              exemplar_city: "圣多明各"
+            sao_paulo:
+              exemplar_city: "圣保罗"
+            scoresbysund:
+              exemplar_city: "斯科列斯比桑德"
+            sitka:
+              exemplar_city: "锡特卡"
+            st_barthelemy:
+              exemplar_city: "圣巴泰勒米岛"
+            st_johns:
+              exemplar_city: "圣约翰斯"
+            st_kitts:
+              exemplar_city: "圣基茨"
+            st_lucia:
+              exemplar_city: "圣卢西亚"
+            st_thomas:
+              exemplar_city: "圣托马斯"
+            st_vincent:
+              exemplar_city: "圣文森特"
+            swift_current:
+              exemplar_city: "斯威夫特卡伦特"
+            tegucigalpa:
+              exemplar_city: "特古西加尔巴"
+            thule:
+              exemplar_city: "图勒"
+            thunder_bay:
+              exemplar_city: "桑德贝"
+            tijuana:
+              exemplar_city: "蒂华纳"
+            toronto:
+              exemplar_city: "多伦多"
+            tortola:
+              exemplar_city: "托尔托拉"
+            vancouver:
+              exemplar_city: "温哥华"
+            whitehorse:
+              exemplar_city: "怀特霍斯"
+            winnipeg:
+              exemplar_city: "温尼伯"
+            yakutat:
+              exemplar_city: "亚库塔特"
+            yellowknife:
+              exemplar_city: "耶洛奈夫"
+          atlantic:
+            azores:
+              exemplar_city: "亚速尔群岛"
+            bermuda:
+              exemplar_city: "百慕大"
+            canary:
+              exemplar_city: "加那利"
+            cape_verde:
+              exemplar_city: "佛得角"
+            faeroe:
+              exemplar_city: "法罗"
+            madeira:
+              exemplar_city: "马德拉"
+            reykjavik:
+              exemplar_city: "雷克雅未克"
+            south_georgia:
+              exemplar_city: "南乔治亚"
+            st_helena:
+              exemplar_city: "圣赫勒拿"
+            stanley:
+              exemplar_city: "斯坦利"
+          europe:
+            amsterdam:
+              exemplar_city: "阿姆斯特丹"
+            andorra:
+              exemplar_city: "安道尔"
+            athens:
+              exemplar_city: "雅典"
+            belgrade:
+              exemplar_city: "贝尔格莱德"
+            berlin:
+              exemplar_city: "柏林"
+            bratislava:
+              exemplar_city: "布拉迪斯拉发"
+            brussels:
+              exemplar_city: "布鲁塞尔"
+            bucharest:
+              exemplar_city: "布加勒斯特"
+            budapest:
+              exemplar_city: "布达佩斯"
+            busingen:
+              exemplar_city: "布辛根"
+            chisinau:
+              exemplar_city: "基希讷乌"
+            copenhagen:
+              exemplar_city: "哥本哈根"
+            dublin:
+              long:
+                daylight: "爱尔兰标准时间"
+              exemplar_city: "都柏林"
+            gibraltar:
+              exemplar_city: "直布罗陀"
+            guernsey:
+              exemplar_city: "根西岛"
+            helsinki:
+              exemplar_city: "赫尔辛基"
+            isle_of_man:
+              exemplar_city: "曼岛"
+            istanbul:
+              exemplar_city: "伊斯坦布尔"
+            jersey:
+              exemplar_city: "泽西岛"
+            kaliningrad:
+              exemplar_city: "加里宁格勒"
+            kiev:
+              exemplar_city: "基辅"
+            lisbon:
+              exemplar_city: "里斯本"
+            ljubljana:
+              exemplar_city: "卢布尔雅那"
+            london:
+              long:
+                daylight: "英国夏令时间"
+              exemplar_city: "伦敦"
+            luxembourg:
+              exemplar_city: "卢森堡"
+            madrid:
+              exemplar_city: "马德里"
+            malta:
+              exemplar_city: "马耳他"
+            mariehamn:
+              exemplar_city: "玛丽港"
+            minsk:
+              exemplar_city: "明斯克"
+            monaco:
+              exemplar_city: "摩纳哥"
+            moscow:
+              exemplar_city: "莫斯科"
+            oslo:
+              exemplar_city: "奥斯陆"
+            paris:
+              exemplar_city: "巴黎"
+            podgorica:
+              exemplar_city: "波德戈里察"
+            prague:
+              exemplar_city: "布拉格"
+            riga:
+              exemplar_city: "里加"
+            rome:
+              exemplar_city: "罗马"
+            samara:
+              exemplar_city: "萨马拉"
+            san_marino:
+              exemplar_city: "圣马力诺"
+            sarajevo:
+              exemplar_city: "萨拉热窝"
+            simferopol:
+              exemplar_city: "辛菲罗波尔"
+            skopje:
+              exemplar_city: "斯科普里"
+            sofia:
+              exemplar_city: "索非亚"
+            stockholm:
+              exemplar_city: "斯德哥尔摩"
+            tallinn:
+              exemplar_city: "塔林"
+            tirane:
+              exemplar_city: "地拉那"
+            uzhgorod:
+              exemplar_city: "乌日哥罗德"
+            vaduz:
+              exemplar_city: "瓦杜兹"
+            vatican:
+              exemplar_city: "梵蒂冈"
+            vienna:
+              exemplar_city: "维也纳"
+            vilnius:
+              exemplar_city: "维尔纽斯"
+            volgograd:
+              exemplar_city: "伏尔加格勒"
+            warsaw:
+              exemplar_city: "华沙"
+            zagreb:
+              exemplar_city: "萨格勒布"
+            zaporozhye:
+              exemplar_city: "扎波罗热"
+            zurich:
+              exemplar_city: "苏黎世"
+          africa:
+            abidjan:
+              exemplar_city: "阿比让"
+            accra:
+              exemplar_city: "阿克拉"
+            addis_ababa:
+              exemplar_city: "亚的斯亚贝巴"
+            algiers:
+              exemplar_city: "阿尔及尔"
+            asmera:
+              exemplar_city: "阿斯马拉"
+            bamako:
+              exemplar_city: "巴马科"
+            bangui:
+              exemplar_city: "班吉"
+            banjul:
+              exemplar_city: "班珠尔"
+            bissau:
+              exemplar_city: "比绍"
+            blantyre:
+              exemplar_city: "布兰太尔"
+            brazzaville:
+              exemplar_city: "布拉柴维尔"
+            bujumbura:
+              exemplar_city: "布琼布拉"
+            cairo:
+              exemplar_city: "开罗"
+            casablanca:
+              exemplar_city: "卡萨布兰卡"
+            ceuta:
+              exemplar_city: "休达"
+            conakry:
+              exemplar_city: "科纳克里"
+            dakar:
+              exemplar_city: "达喀尔"
+            dar_es_salaam:
+              exemplar_city: "达累斯萨拉姆"
+            djibouti:
+              exemplar_city: "吉布提"
+            douala:
+              exemplar_city: "杜阿拉"
+            el_aaiun:
+              exemplar_city: "阿尤恩"
+            freetown:
+              exemplar_city: "弗里敦"
+            gaborone:
+              exemplar_city: "哈博罗内"
+            harare:
+              exemplar_city: "哈拉雷"
+            johannesburg:
+              exemplar_city: "约翰内斯堡"
+            juba:
+              exemplar_city: "朱巴"
+            kampala:
+              exemplar_city: "坎帕拉"
+            khartoum:
+              exemplar_city: "喀土穆"
+            kigali:
+              exemplar_city: "基加利"
+            kinshasa:
+              exemplar_city: "金沙萨"
+            lagos:
+              exemplar_city: "拉各斯"
+            libreville:
+              exemplar_city: "利伯维尔"
+            lome:
+              exemplar_city: "洛美"
+            luanda:
+              exemplar_city: "罗安达"
+            lubumbashi:
+              exemplar_city: "卢本巴希"
+            lusaka:
+              exemplar_city: "卢萨卡"
+            malabo:
+              exemplar_city: "马拉博"
+            maputo:
+              exemplar_city: "马普托"
+            maseru:
+              exemplar_city: "马塞卢"
+            mbabane:
+              exemplar_city: "姆巴巴纳"
+            mogadishu:
+              exemplar_city: "摩加迪沙"
+            monrovia:
+              exemplar_city: "蒙罗维亚"
+            nairobi:
+              exemplar_city: "内罗毕"
+            ndjamena:
+              exemplar_city: "恩贾梅纳"
+            niamey:
+              exemplar_city: "尼亚美"
+            nouakchott:
+              exemplar_city: "努瓦克肖特"
+            ouagadougou:
+              exemplar_city: "瓦加杜古"
+            porto_novo:
+              exemplar_city: "波多诺伏"
+            sao_tome:
+              exemplar_city: "圣多美"
+            tripoli:
+              exemplar_city: "的黎波里"
+            tunis:
+              exemplar_city: "突尼斯"
+            windhoek:
+              exemplar_city: "温得和克"
+          asia:
+            aden:
+              exemplar_city: "亚丁"
+            almaty:
+              exemplar_city: "阿拉木图"
+            amman:
+              exemplar_city: "安曼"
+            anadyr:
+              exemplar_city: "阿纳德尔"
+            aqtau:
+              exemplar_city: "阿克套"
+            aqtobe:
+              exemplar_city: "阿克托别"
+            ashgabat:
+              exemplar_city: "阿什哈巴德"
+            baghdad:
+              exemplar_city: "巴格达"
+            bahrain:
+              exemplar_city: "巴林"
+            baku:
+              exemplar_city: "巴库"
+            bangkok:
+              exemplar_city: "曼谷"
+            beirut:
+              exemplar_city: "贝鲁特"
+            bishkek:
+              exemplar_city: "比什凯克"
+            brunei:
+              exemplar_city: "文莱"
+            calcutta:
+              exemplar_city: "加尔各答"
+            chita:
+              exemplar_city: "赤塔"
+            choibalsan:
+              exemplar_city: "乔巴山"
+            colombo:
+              exemplar_city: "科伦坡"
+            damascus:
+              exemplar_city: "大马士革"
+            dhaka:
+              exemplar_city: "达卡"
+            dili:
+              exemplar_city: "帝力"
+            dubai:
+              exemplar_city: "迪拜"
+            dushanbe:
+              exemplar_city: "杜尚别"
+            gaza:
+              exemplar_city: "加沙"
+            hebron:
+              exemplar_city: "希伯伦"
+            hong_kong:
+              exemplar_city: "香港"
+            hovd:
+              exemplar_city: "科布多"
+            irkutsk:
+              exemplar_city: "伊尔库茨克"
+            jakarta:
+              exemplar_city: "雅加达"
+            jayapura:
+              exemplar_city: "查亚普拉"
+            jerusalem:
+              exemplar_city: "耶路撒冷"
+            kabul:
+              exemplar_city: "喀布尔"
+            kamchatka:
+              exemplar_city: "堪察加"
+            karachi:
+              exemplar_city: "卡拉奇"
+            katmandu:
+              exemplar_city: "加德满都"
+            khandyga:
+              exemplar_city: "汉德加"
+            krasnoyarsk:
+              exemplar_city: "克拉斯诺亚尔斯克"
+            kuala_lumpur:
+              exemplar_city: "吉隆坡"
+            kuching:
+              exemplar_city: "古晋"
+            kuwait:
+              exemplar_city: "科威特"
+            macau:
+              exemplar_city: "澳门"
+            magadan:
+              exemplar_city: "马加丹"
+            makassar:
+              exemplar_city: "望加锡"
+            manila:
+              exemplar_city: "马尼拉"
+            muscat:
+              exemplar_city: "马斯喀特"
+            nicosia:
+              exemplar_city: "尼科西亚"
+            novokuznetsk:
+              exemplar_city: "新库兹涅茨克"
+            novosibirsk:
+              exemplar_city: "诺沃西比尔斯克"
+            omsk:
+              exemplar_city: "鄂木斯克"
+            oral:
+              exemplar_city: "乌拉尔"
+            phnom_penh:
+              exemplar_city: "金边"
+            pontianak:
+              exemplar_city: "坤甸"
+            pyongyang:
+              exemplar_city: "平壤"
+            qatar:
+              exemplar_city: "卡塔尔"
+            qyzylorda:
+              exemplar_city: "克孜洛尔达"
+            rangoon:
+              exemplar_city: "仰光"
+            riyadh:
+              exemplar_city: "利雅得"
+            saigon:
+              exemplar_city: "胡志明市"
+            sakhalin:
+              exemplar_city: "萨哈林"
+            samarkand:
+              exemplar_city: "撒马尔罕"
+            seoul:
+              exemplar_city: "首尔"
+            shanghai:
+              exemplar_city: "上海"
+            singapore:
+              exemplar_city: "新加坡"
+            srednekolymsk:
+              exemplar_city: "中科雷姆斯克"
+            taipei:
+              exemplar_city: "台北"
+            tashkent:
+              exemplar_city: "塔什干"
+            tbilisi:
+              exemplar_city: "第比利斯"
+            tehran:
+              exemplar_city: "德黑兰"
+            thimphu:
+              exemplar_city: "廷布"
+            tokyo:
+              exemplar_city: "东京"
+            ulaanbaatar:
+              exemplar_city: "乌兰巴托"
+            urumqi:
+              exemplar_city: "乌鲁木齐"
+            ust_nera:
+              exemplar_city: "乌斯内拉"
+            vientiane:
+              exemplar_city: "万象"
+            vladivostok:
+              exemplar_city: "符拉迪沃斯托克"
+            yakutsk:
+              exemplar_city: "雅库茨克"
+            yekaterinburg:
+              exemplar_city: "叶卡捷琳堡"
+            yerevan:
+              exemplar_city: "埃里温"
+          indian:
+            antananarivo:
+              exemplar_city: "安塔那那利佛"
+            chagos:
+              exemplar_city: "查戈斯"
+            christmas:
+              exemplar_city: "圣诞岛"
+            cocos:
+              exemplar_city: "可可斯"
+            comoro:
+              exemplar_city: "科摩罗"
+            kerguelen:
+              exemplar_city: "凯尔盖朗"
+            mahe:
+              exemplar_city: "马埃岛"
+            maldives:
+              exemplar_city: "马尔代夫"
+            mauritius:
+              exemplar_city: "毛里求斯"
+            mayotte:
+              exemplar_city: "马约特"
+            reunion:
+              exemplar_city: "留尼汪"
+          australia:
+            adelaide:
+              exemplar_city: "阿德莱德"
+            brisbane:
+              exemplar_city: "布里斯班"
+            broken_hill:
+              exemplar_city: "布罗肯希尔"
+            currie:
+              exemplar_city: "库利"
+            darwin:
+              exemplar_city: "达尔文"
+            eucla:
+              exemplar_city: "尤克拉"
+            hobart:
+              exemplar_city: "霍巴特"
+            lindeman:
+              exemplar_city: "林德曼"
+            lord_howe:
+              exemplar_city: "豪勋爵"
+            melbourne:
+              exemplar_city: "墨尔本"
+            perth:
+              exemplar_city: "珀斯"
+            sydney:
+              exemplar_city: "悉尼"
+          pacific:
+            apia:
+              exemplar_city: "阿皮亚"
+            auckland:
+              exemplar_city: "奥克兰"
+            bougainville:
+              exemplar_city: "布干维尔"
+            chatham:
+              exemplar_city: "查塔姆"
+            easter:
+              exemplar_city: "复活节岛"
+            efate:
+              exemplar_city: "埃法特"
+            enderbury:
+              exemplar_city: "恩德伯里"
+            fakaofo:
+              exemplar_city: "法考福"
+            fiji:
+              exemplar_city: "斐济"
+            funafuti:
+              exemplar_city: "富纳富提"
+            galapagos:
+              exemplar_city: "加拉帕戈斯"
+            gambier:
+              exemplar_city: "甘比尔"
+            guadalcanal:
+              exemplar_city: "瓜达尔卡纳尔"
+            guam:
+              exemplar_city: "关岛"
+            honolulu:
+              exemplar_city: "檀香山"
+            johnston:
+              exemplar_city: "约翰斯顿"
+            kiritimati:
+              exemplar_city: "基里地马地岛"
+            kosrae:
+              exemplar_city: "库赛埃"
+            kwajalein:
+              exemplar_city: "夸贾林"
+            majuro:
+              exemplar_city: "马朱罗"
+            marquesas:
+              exemplar_city: "马克萨斯"
+            midway:
+              exemplar_city: "中途岛"
+            nauru:
+              exemplar_city: "瑙鲁"
+            niue:
+              exemplar_city: "纽埃"
+            norfolk:
+              exemplar_city: "诺福克"
+            noumea:
+              exemplar_city: "努美阿"
+            pago_pago:
+              exemplar_city: "帕果帕果"
+            palau:
+              exemplar_city: "帕劳"
+            pitcairn:
+              exemplar_city: "皮特凯恩"
+            ponape:
+              exemplar_city: "波纳佩岛"
+            port_moresby:
+              exemplar_city: "莫尔兹比港"
+            rarotonga:
+              exemplar_city: "拉罗汤加"
+            saipan:
+              exemplar_city: "塞班"
+            tahiti:
+              exemplar_city: "塔希提"
+            tarawa:
+              exemplar_city: "塔拉瓦"
+            tongatapu:
+              exemplar_city: "东加塔布"
+            truk:
+              exemplar_city: "特鲁克群岛"
+            wake:
+              exemplar_city: "威克"
+            wallis:
+              exemplar_city: "瓦利斯"
+          arctic:
+            longyearbyen:
+              exemplar_city: "朗伊尔城"
+          antarctica:
+            casey:
+              exemplar_city: "卡塞"
+            davis:
+              exemplar_city: "戴维斯"
+            dumont_d_urville:
+              exemplar_city: "迪蒙迪尔维尔"
+            macquarie:
+              exemplar_city: "麦格理"
+            mawson:
+              exemplar_city: "莫森"
+            mc_murdo:
+              exemplar_city: "麦克默多"
+            palmer:
+              exemplar_city: "帕默尔"
+            rothera:
+              exemplar_city: "罗瑟拉"
+            syowa:
+              exemplar_city: "昭和"
+            troll:
+              exemplar_city: "特罗尔"
+            vostok:
+              exemplar_city: "沃斯托克"
+          etc:
+            gmt:
+              exemplar_city: GMT
+            gmt1:
+              exemplar_city: GMT+1
+            gmt10:
+              exemplar_city: GMT+10
+            gmt11:
+              exemplar_city: GMT+11
+            gmt12:
+              exemplar_city: GMT+12
+            gmt2:
+              exemplar_city: GMT+2
+            gmt3:
+              exemplar_city: GMT+3
+            gmt4:
+              exemplar_city: GMT+4
+            gmt5:
+              exemplar_city: GMT+5
+            gmt6:
+              exemplar_city: GMT+6
+            gmt7:
+              exemplar_city: GMT+7
+            gmt8:
+              exemplar_city: GMT+8
+            gmt9:
+              exemplar_city: GMT+9
+            gmt_1:
+              exemplar_city: GMT-1
+            gmt_10:
+              exemplar_city: GMT-10
+            gmt_11:
+              exemplar_city: GMT-11
+            gmt_12:
+              exemplar_city: GMT-12
+            gmt_13:
+              exemplar_city: GMT-13
+            gmt_14:
+              exemplar_city: GMT-14
+            gmt_2:
+              exemplar_city: GMT-2
+            gmt_3:
+              exemplar_city: GMT-3
+            gmt_4:
+              exemplar_city: GMT-4
+            gmt_5:
+              exemplar_city: GMT-5
+            gmt_6:
+              exemplar_city: GMT-6
+            gmt_7:
+              exemplar_city: GMT-7
+            gmt_8:
+              exemplar_city: GMT-8
+            gmt_9:
+              exemplar_city: GMT-9
+            unknown:
+              exemplar_city: "未知城市"
+        metazone:
+          acre:
+            long:
+              generic: "阿克里时间"
+              standard: "阿克里标准时间"
+              daylight: "阿克里夏令时间"
+          afghanistan:
+            long:
+              standard: "阿富汗时间"
+          africa_central:
+            long:
+              standard: "中部非洲时间"
+          africa_eastern:
+            long:
+              standard: "东部非洲时间"
+          africa_southern:
+            long:
+              standard: "南部非洲时间"
+          africa_western:
+            long:
+              generic: "西部非洲时间"
+              standard: "西部非洲标准时间"
+              daylight: "西部非洲夏令时间"
+          alaska:
+            long:
+              generic: "阿拉斯加时间"
+              standard: "阿拉斯加标准时间"
+              daylight: "阿拉斯加夏令时间"
+          almaty:
+            long:
+              generic: "阿拉木图时间"
+              standard: "阿拉木图标准时间"
+              daylight: "阿拉木图夏令时间"
+          amazon:
+            long:
+              generic: "亚马逊时间"
+              standard: "亚马逊标准时间"
+              daylight: "亚马逊夏令时间"
+          america_central:
+            long:
+              generic: "北美中部时间"
+              standard: "北美中部标准时间"
+              daylight: "北美中部夏令时间"
+          america_eastern:
+            long:
+              generic: "北美东部时间"
+              standard: "北美东部标准时间"
+              daylight: "北美东部夏令时间"
+          america_mountain:
+            long:
+              generic: "北美山区时间"
+              standard: "北美山区标准时间"
+              daylight: "北美山区夏令时间"
+          america_pacific:
+            long:
+              generic: "北美太平洋时间"
+              standard: "北美太平洋标准时间"
+              daylight: "北美太平洋夏令时间"
+          anadyr:
+            long:
+              generic: "阿纳德尔时间"
+              standard: "阿纳德尔标准时间"
+              daylight: "阿纳德尔夏令时间"
+          apia:
+            long:
+              generic: "阿皮亚时间"
+              standard: "阿皮亚标准时间"
+              daylight: "阿皮亚夏令时间"
+          aqtau:
+            long:
+              generic: "阿克套时间"
+              standard: "阿克套标准时间"
+              daylight: "阿克套夏令时间"
+          aqtobe:
+            long:
+              generic: "阿克托别时间"
+              standard: "阿克托别标准时间"
+              daylight: "阿克托别夏令时间"
+          arabian:
+            long:
+              generic: "阿拉伯时间"
+              standard: "阿拉伯标准时间"
+              daylight: "阿拉伯夏令时间"
+          argentina:
+            long:
+              generic: "阿根廷时间"
+              standard: "阿根廷标准时间"
+              daylight: "阿根廷夏令时间"
+          argentina_western:
+            long:
+              generic: "阿根廷西部时间"
+              standard: "阿根廷西部标准时间"
+              daylight: "阿根廷西部夏令时间"
+          armenia:
+            long:
+              generic: "亚美尼亚时间"
+              standard: "亚美尼亚标准时间"
+              daylight: "亚美尼亚夏令时间"
+          atlantic:
+            long:
+              generic: "大西洋时间"
+              standard: "大西洋标准时间"
+              daylight: "大西洋夏令时间"
+          australia_central:
+            long:
+              generic: "澳大利亚中部时间"
+              standard: "澳大利亚中部标准时间"
+              daylight: "澳大利亚中部夏令时间"
+          australia_central_western:
+            long:
+              generic: "澳大利亚中西部时间"
+              standard: "澳大利亚中西部标准时间"
+              daylight: "澳大利亚中西部夏令时间"
+          australia_eastern:
+            long:
+              generic: "澳大利亚东部时间"
+              standard: "澳大利亚东部标准时间"
+              daylight: "澳大利亚东部夏令时间"
+          australia_western:
+            long:
+              generic: "澳大利亚西部时间"
+              standard: "澳大利亚西部标准时间"
+              daylight: "澳大利亚西部夏令时间"
+          azerbaijan:
+            long:
+              generic: "阿塞拜疆时间"
+              standard: "阿塞拜疆标准时间"
+              daylight: "阿塞拜疆夏令时间"
+          azores:
+            long:
+              generic: "亚速尔群岛时间"
+              standard: "亚速尔群岛标准时间"
+              daylight: "亚速尔群岛夏令时间"
+          bangladesh:
+            long:
+              generic: "孟加拉时间"
+              standard: "孟加拉标准时间"
+              daylight: "孟加拉夏令时间"
+          bhutan:
+            long:
+              standard: "不丹时间"
+          bolivia:
+            long:
+              standard: "玻利维亚时间"
+          brasilia:
+            long:
+              generic: "巴西利亚时间"
+              standard: "巴西利亚标准时间"
+              daylight: "巴西利亚夏令时间"
+          brunei:
+            long:
+              standard: "文莱达鲁萨兰时间"
+          cape_verde:
+            long:
+              generic: "佛得角时间"
+              standard: "佛得角标准时间"
+              daylight: "佛得角夏令时间"
+          casey:
+            long:
+              standard: "凯西时间"
+          chamorro:
+            long:
+              standard: "查莫罗时间"
+          chatham:
+            long:
+              generic: "查坦时间"
+              standard: "查坦标准时间"
+              daylight: "查坦夏令时间"
+          chile:
+            long:
+              generic: "智利时间"
+              standard: "智利标准时间"
+              daylight: "智利夏令时间"
+          china:
+            long:
+              generic: "中国时间"
+              standard: "中国标准时间"
+              daylight: "中国夏令时间"
+          choibalsan:
+            long:
+              generic: "乔巴山时间"
+              standard: "乔巴山标准时间"
+              daylight: "乔巴山夏令时间"
+          christmas:
+            long:
+              standard: "圣诞岛时间"
+          cocos:
+            long:
+              standard: "科科斯群岛时间"
+          colombia:
+            long:
+              generic: "哥伦比亚时间"
+              standard: "哥伦比亚标准时间"
+              daylight: "哥伦比亚夏令时间"
+          cook:
+            long:
+              generic: "库克群岛时间"
+              standard: "库克群岛标准时间"
+              daylight: "库克群岛仲夏时间"
+          cuba:
+            long:
+              generic: "古巴时间"
+              standard: "古巴标准时间"
+              daylight: "古巴夏令时间"
+          davis:
+            long:
+              standard: "戴维斯时间"
+          dumont_d_urville:
+            long:
+              standard: "迪蒙迪尔维尔时间"
+          east_timor:
+            long:
+              standard: "东帝汶时间"
+          easter:
+            long:
+              generic: "复活节岛时间"
+              standard: "复活节岛标准时间"
+              daylight: "复活节岛夏令时间"
+          ecuador:
+            long:
+              standard: "厄瓜多尔时间"
+          europe_central:
+            long:
+              generic: "中欧时间"
+              standard: "中欧标准时间"
+              daylight: "中欧夏令时间"
+          europe_eastern:
+            long:
+              generic: "东欧时间"
+              standard: "东欧标准时间"
+              daylight: "东欧夏令时间"
+          europe_further_eastern:
+            long:
+              standard: "远东标准时间"
+          europe_western:
+            long:
+              generic: "西欧时间"
+              standard: "西欧标准时间"
+              daylight: "西欧夏令时间"
+          falkland:
+            long:
+              generic: "福克兰群岛时间"
+              standard: "福克兰群岛标准时间"
+              daylight: "福克兰群岛夏令时间"
+          fiji:
+            long:
+              generic: "斐济时间"
+              standard: "斐济标准时间"
+              daylight: "斐济夏令时间"
+          french_guiana:
+            long:
+              standard: "法属圭亚那时间"
+          french_southern:
+            long:
+              standard: "法属南方和南极领地时间"
+          galapagos:
+            long:
+              standard: "加拉帕戈斯时间"
+          gambier:
+            long:
+              standard: "甘比尔时间"
+          georgia:
+            long:
+              generic: "格鲁吉亚时间"
+              standard: "格鲁吉亚标准时间"
+              daylight: "格鲁吉亚夏令时间"
+          gilbert_islands:
+            long:
+              standard: "吉尔伯特群岛时间"
+          gmt:
+            long:
+              standard: "格林尼治标准时间"
+          greenland_eastern:
+            long:
+              generic: "格陵兰岛东部时间"
+              standard: "格陵兰岛东部标准时间"
+              daylight: "格陵兰岛东部夏令时间"
+          greenland_western:
+            long:
+              generic: "格陵兰岛西部时间"
+              standard: "格陵兰岛西部标准时间"
+              daylight: "格陵兰岛西部夏令时间"
+          guam:
+            long:
+              standard: "关岛时间"
+          gulf:
+            long:
+              standard: "海湾标准时间"
+          guyana:
+            long:
+              standard: "圭亚那时间"
+          hawaii_aleutian:
+            long:
+              generic: "夏威夷-阿留申时间"
+              standard: "夏威夷-阿留申标准时间"
+              daylight: "夏威夷-阿留申夏令时间"
+          hong_kong:
+            long:
+              generic: "香港时间"
+              standard: "香港标准时间"
+              daylight: "香港夏令时间"
+          hovd:
+            long:
+              generic: "科布多时间"
+              standard: "科布多标准时间"
+              daylight: "科布多夏令时间"
+          india:
+            long:
+              standard: "印度时间"
+          indian_ocean:
+            long:
+              standard: "印度洋时间"
+          indochina:
+            long:
+              standard: "印度支那时间"
+          indonesia_central:
+            long:
+              standard: "印度尼西亚中部时间"
+          indonesia_eastern:
+            long:
+              standard: "印度尼西亚东部时间"
+          indonesia_western:
+            long:
+              standard: "印度尼西亚西部时间"
+          iran:
+            long:
+              generic: "伊朗时间"
+              standard: "伊朗标准时间"
+              daylight: "伊朗夏令时间"
+          irkutsk:
+            long:
+              generic: "伊尔库茨克时间"
+              standard: "伊尔库茨克标准时间"
+              daylight: "伊尔库茨克夏令时间"
+          israel:
+            long:
+              generic: "以色列时间"
+              standard: "以色列标准时间"
+              daylight: "以色列夏令时间"
+          japan:
+            long:
+              generic: "日本时间"
+              standard: "日本标准时间"
+              daylight: "日本夏令时间"
+          kamchatka:
+            long:
+              generic: "彼得罗巴甫洛夫斯克-堪察加时间"
+              standard: "彼得罗巴甫洛夫斯克-堪察加标准时间"
+              daylight: "彼得罗巴甫洛夫斯克-堪察加夏令时间"
+          kazakhstan_eastern:
+            long:
+              standard: "哈萨克斯坦东部时间"
+          kazakhstan_western:
+            long:
+              standard: "哈萨克斯坦西部时间"
+          korea:
+            long:
+              generic: "韩国时间"
+              standard: "韩国标准时间"
+              daylight: "韩国夏令时间"
+          kosrae:
+            long:
+              standard: "科斯雷时间"
+          krasnoyarsk:
+            long:
+              generic: "克拉斯诺亚尔斯克时间"
+              standard: "克拉斯诺亚尔斯克标准时间"
+              daylight: "克拉斯诺亚尔斯克夏令时间"
+          kyrgystan:
+            long:
+              standard: "吉尔吉斯斯坦时间"
+          lanka:
+            long:
+              standard: "兰卡时间"
+          line_islands:
+            long:
+              standard: "莱恩群岛时间"
+          lord_howe:
+            long:
+              generic: "豪勋爵岛时间"
+              standard: "豪勋爵岛标准时间"
+              daylight: "豪勋爵岛夏令时间"
+          macau:
+            long:
+              generic: "澳门时间"
+              standard: "澳门标准时间"
+              daylight: "澳门夏令时间"
+          macquarie:
+            long:
+              standard: "麦夸里岛时间"
+          magadan:
+            long:
+              generic: "马加丹时间"
+              standard: "马加丹标准时间"
+              daylight: "马加丹夏令时间"
+          malaysia:
+            long:
+              standard: "马来西亚时间"
+          maldives:
+            long:
+              standard: "马尔代夫时间"
+          marquesas:
+            long:
+              standard: "马克萨斯群岛时间"
+          marshall_islands:
+            long:
+              standard: "马绍尔群岛时间"
+          mauritius:
+            long:
+              generic: "毛里求斯时间"
+              standard: "毛里求斯标准时间"
+              daylight: "毛里求斯夏令时间"
+          mawson:
+            long:
+              standard: "莫森时间"
+          mexico_northwest:
+            long:
+              generic: "墨西哥西北部时间"
+              standard: "墨西哥西北部标准时间"
+              daylight: "墨西哥西北部夏令时间"
+          mexico_pacific:
+            long:
+              generic: "墨西哥太平洋时间"
+              standard: "墨西哥太平洋标准时间"
+              daylight: "墨西哥太平洋夏令时间"
+          mongolia:
+            long:
+              generic: "乌兰巴托时间"
+              standard: "乌兰巴托标准时间"
+              daylight: "乌兰巴托夏令时间"
+          moscow:
+            long:
+              generic: "莫斯科时间"
+              standard: "莫斯科标准时间"
+              daylight: "莫斯科夏令时间"
+          myanmar:
+            long:
+              standard: "缅甸时间"
+          nauru:
+            long:
+              standard: "瑙鲁时间"
+          nepal:
+            long:
+              standard: "尼泊尔时间"
+          new_caledonia:
+            long:
+              generic: "新喀里多尼亚时间"
+              standard: "新喀里多尼亚标准时间"
+              daylight: "新喀里多尼亚夏令时间"
+          new_zealand:
+            long:
+              generic: "新西兰时间"
+              standard: "新西兰标准时间"
+              daylight: "新西兰夏令时间"
+          newfoundland:
+            long:
+              generic: "纽芬兰时间"
+              standard: "纽芬兰标准时间"
+              daylight: "纽芬兰夏令时间"
+          niue:
+            long:
+              standard: "纽埃时间"
+          norfolk:
+            long:
+              standard: "诺福克岛时间"
+          noronha:
+            long:
+              generic: "费尔南多-迪诺罗尼亚岛时间"
+              standard: "费尔南多-迪诺罗尼亚岛标准时间"
+              daylight: "费尔南多-迪诺罗尼亚岛夏令时间"
+          north_mariana:
+            long:
+              standard: "北马里亚纳群岛时间"
+          novosibirsk:
+            long:
+              generic: "新西伯利亚时间"
+              standard: "新西伯利亚标准时间"
+              daylight: "新西伯利亚夏令时间"
+          omsk:
+            long:
+              generic: "鄂木斯克时间"
+              standard: "鄂木斯克标准时间"
+              daylight: "鄂木斯克夏令时间"
+          pakistan:
+            long:
+              generic: "巴基斯坦时间"
+              standard: "巴基斯坦标准时间"
+              daylight: "巴基斯坦夏令时间"
+          palau:
+            long:
+              standard: "帕劳时间"
+          papua_new_guinea:
+            long:
+              standard: "巴布亚新几内亚时间"
+          paraguay:
+            long:
+              generic: "巴拉圭时间"
+              standard: "巴拉圭标准时间"
+              daylight: "巴拉圭夏令时间"
+          peru:
+            long:
+              generic: "秘鲁时间"
+              standard: "秘鲁标准时间"
+              daylight: "秘鲁夏令时间"
+          philippines:
+            long:
+              generic: "菲律宾时间"
+              standard: "菲律宾标准时间"
+              daylight: "菲律宾夏令时间"
+          phoenix_islands:
+            long:
+              standard: "菲尼克斯群岛时间"
+          pierre_miquelon:
+            long:
+              generic: "圣皮埃尔和密克隆群岛时间"
+              standard: "圣皮埃尔和密克隆群岛标准时间"
+              daylight: "圣皮埃尔和密克隆群岛夏令时间"
+          pitcairn:
+            long:
+              standard: "皮特凯恩时间"
+          ponape:
+            long:
+              standard: "波纳佩时间"
+          qyzylorda:
+            long:
+              generic: "克孜洛尔达时间"
+              standard: "克孜洛尔达标准时间"
+              daylight: "克孜洛尔达夏令时间"
+          reunion:
+            long:
+              standard: "留尼汪时间"
+          rothera:
+            long:
+              standard: "罗瑟拉时间"
+          sakhalin:
+            long:
+              generic: "库页岛时间"
+              standard: "库页岛标准时间"
+              daylight: "库页岛夏令时间"
+          samara:
+            long:
+              generic: "萨马拉时间"
+              standard: "萨马拉标准时间"
+              daylight: "萨马拉夏令时间"
+          samoa:
+            long:
+              generic: "萨摩亚时间"
+              standard: "萨摩亚标准时间"
+              daylight: "萨摩亚夏令时间"
+          seychelles:
+            long:
+              standard: "塞舌尔时间"
+          singapore:
+            long:
+              standard: "新加坡标准时间"
+          solomon:
+            long:
+              standard: "所罗门群岛时间"
+          south_georgia:
+            long:
+              standard: "南乔治亚岛时间"
+          suriname:
+            long:
+              standard: "苏里南时间"
+          syowa:
+            long:
+              standard: "昭和时间"
+          tahiti:
+            long:
+              standard: "塔希提岛时间"
+          taipei:
+            long:
+              generic: "台北时间"
+              standard: "台北标准时间"
+              daylight: "台北夏令时间"
+          tajikistan:
+            long:
+              standard: "塔吉克斯坦时间"
+          tokelau:
+            long:
+              standard: "托克劳时间"
+          tonga:
+            long:
+              generic: "汤加时间"
+              standard: "汤加标准时间"
+              daylight: "汤加夏令时间"
+          truk:
+            long:
+              standard: "楚克时间"
+          turkmenistan:
+            long:
+              generic: "土库曼斯坦时间"
+              standard: "土库曼斯坦标准时间"
+              daylight: "土库曼斯坦夏令时间"
+          tuvalu:
+            long:
+              standard: "图瓦卢时间"
+          uruguay:
+            long:
+              generic: "乌拉圭时间"
+              standard: "乌拉圭标准时间"
+              daylight: "乌拉圭夏令时间"
+          uzbekistan:
+            long:
+              generic: "乌兹别克斯坦时间"
+              standard: "乌兹别克斯坦标准时间"
+              daylight: "乌兹别克斯坦夏令时间"
+          vanuatu:
+            long:
+              generic: "瓦努阿图时间"
+              standard: "瓦努阿图标准时间"
+              daylight: "瓦努阿图夏令时间"
+          venezuela:
+            long:
+              standard: "委内瑞拉时间"
+          vladivostok:
+            long:
+              generic: "海参崴时间"
+              standard: "海参崴标准时间"
+              daylight: "海参崴夏令时间"
+          volgograd:
+            long:
+              generic: "伏尔加格勒时间"
+              standard: "伏尔加格勒标准时间"
+              daylight: "伏尔加格勒夏令时间"
+          vostok:
+            long:
+              standard: "沃斯托克时间"
+          wake:
+            long:
+              standard: "威克岛时间"
+          wallis:
+            long:
+              standard: "瓦利斯和富图纳时间"
+          yakutsk:
+            long:
+              generic: "雅库茨克时间"
+              standard: "雅库茨克标准时间"
+              daylight: "雅库茨克夏令时间"
+          yekaterinburg:
+            long:
+              generic: "叶卡捷琳堡时间"
+              standard: "叶卡捷琳堡标准时间"
+              daylight: "叶卡捷琳堡夏令时间"
+    locale_display_names:
+      languages:
+        aa: "阿法文"
+        ab: "阿布哈西亚文"
+        ace: "亚齐文"
+        ach: "阿乔利文"
+        ada: "阿当梅文"
+        ady: "阿迪何文"
+        ae: "阿维斯塔文"
+        aeb: aeb
+        af: "南非荷兰文"
+        afh: "阿弗里希利文"
+        agq: "亚罕文"
+        ain: "阿伊努文"
+        ak: "阿肯文"
+        akk: "阿卡德文"
+        akz: akz
+        ale: "阿留申文"
+        aln: aln
+        alt: "南阿尔泰文"
+        am: "阿姆哈拉文"
+        an: "阿拉贡文"
+        ang: "古英文"
+        anp: "昂加文"
+        ar: "阿拉伯文"
+        ar_001: "现代标准阿拉伯文"
+        arc: "阿拉米文"
+        arn: "马普切文"
+        aro: aro
+        arp: "阿拉帕霍文"
+        arq: arq
+        arw: "阿拉瓦克文"
+        ary: ary
+        arz: arz
+        as: "阿萨姆文"
+        asa: "阿苏文"
+        ase: ase
+        ast: "阿斯图里亚思特文"
+        av: "阿瓦尔文"
+        avk: avk
+        awa: "阿瓦乔文"
+        ay: "艾马拉文"
+        az: "阿塞拜疆文"
+        az_alt_short: "阿塞拜疆文"
+        az_arab: "南阿塞拜疆文"
+        ba: "巴什客尔文"
+        bal: "俾路支文"
+        ban: "巴里文"
+        bar: bar
+        bas: "巴萨文"
+        bax: "巴姆穆文"
+        bbc: bbc
+        bbj: "戈马拉文"
+        be: "白俄罗斯文"
+        bej: "别札文"
+        bem: "别姆巴文"
+        bew: bew
+        bez: "贝纳文"
+        bfd: "巴非特文"
+        bfq: bfq
+        bg: "保加利亚文"
+        bgn: "西俾路支文"
+        bho: "博杰普尔文"
+        bi: "比斯拉马文"
+        bik: "毕库尔文"
+        bin: "比尼文"
+        bjn: bjn
+        bkm: "科姆文"
+        bla: "司克司卡文"
+        bm: "班巴拉文"
+        bn: "孟加拉文"
+        bo: "藏文"
+        bpy: bpy
+        bqi: bqi
+        br: "布里多尼文"
+        bra: "布拉杰文"
+        brh: brh
+        brx: "博多文"
+        bs: "波斯尼亚文"
+        bss: "阿库色文"
+        bua: "布里亚特文"
+        bug: "布吉文"
+        bum: "布鲁文"
+        byn: "布林文"
+        byv: "梅敦巴文"
+        ca: "加泰罗尼亚文"
+        cad: "卡多文"
+        car: "巴勒比文"
+        cay: "卡尤加文"
+        cch: "阿灿文"
+        ce: "车臣文"
+        ceb: "宿务文"
+        cgg: "奇加文"
+        ch: "查莫罗文"
+        chb: "契布卡文"
+        chg: "查加文"
+        chk: "楚吾克文"
+        chm: "马里文"
+        chn: "契努克文"
+        cho: "乔克托文"
+        chp: "佩瓦扬文"
+        chr: "彻罗基文"
+        chy: "夏延文"
+        ckb: "索拉尼库尔德文"
+        co: "科西嘉文"
+        cop: "科普特文"
+        cps: cps
+        cr: "克里族文"
+        crh: "克里米亚土耳其文"
+        cs: "捷克文"
+        csb: "卡舒文"
+        cu: "宗教斯拉夫文"
+        cv: "楚瓦什文"
+        cy: "威尔士文"
+        da: "丹麦文"
+        dak: "达科他文"
+        dar: "达尔格瓦文"
+        dav: "台塔文"
+        de: "德文"
+        de_at: "奥地利德文"
+        de_ch: "瑞士高地德文"
+        del: "特拉华文"
+        den: "司雷夫文"
+        dgr: "多格里布文"
+        din: "丁卡文"
+        dje: "哲尔马文"
+        doi: "多格拉文"
+        dsb: "下索布文"
+        dtp: dtp
+        dua: "都阿拉文"
+        dum: "中古荷兰文"
+        dv: "迪维希文"
+        dyo: "朱拉文"
+        dyu: "迪尤拉文"
+        dz: "不丹文"
+        dzg: "达扎葛文"
+        ebu: "恩布文"
+        ee: "埃维文"
+        efi: "埃菲克文"
+        egl: egl
+        egy: "古埃及文"
+        eka: "埃克丘克文"
+        el: "希腊文"
+        elx: "艾拉米特文"
+        en: "英文"
+        en_au: "澳大利亚英文"
+        en_ca: "加拿大英文"
+        en_gb: "英式英文"
+        en_gb_alt_short: "英式英文"
+        en_us: "美式英文"
+        en_us_alt_short: "美式英文"
+        enm: "中古英文"
+        eo: "世界文"
+        es: "西班牙文"
+        es_419: "拉丁美洲西班牙文"
+        es_es: "欧洲西班牙文"
+        es_mx: "墨西哥西班牙文"
+        esu: esu
+        et: "爱沙尼亚文"
+        eu: "巴斯克文"
+        ewo: "旺杜文"
+        ext: ext
+        fa: "波斯文"
+        fan: "芳格文"
+        fat: "芳蒂文"
+        ff: "夫拉文"
+        fi: "芬兰文"
+        fil: "菲律宾文"
+        fit: fit
+        fj: "斐济文"
+        fo: "法罗文"
+        fon: "丰文"
+        fr: "法文"
+        fr_ca: "加拿大法文"
+        fr_ch: "瑞士法文"
+        frc: frc
+        frm: "中古法文"
+        fro: "古法文"
+        frp: frp
+        frr: "北弗里西亚文"
+        frs: "东弗里西亚文"
+        fur: "弗留利文"
+        fy: "西弗里西亚文"
+        ga: "爱尔兰文"
+        gaa: "加文"
+        gag: "加告兹文"
+        gan: gan
+        gay: "迦约文"
+        gba: "葛巴亚文"
+        gbz: gbz
+        gd: "苏格兰盖尔文"
+        gez: "吉兹文"
+        gil: "吉尔伯特斯文"
+        gl: "加利西亚文"
+        glk: glk
+        gmh: "中古高地德文"
+        gn: "瓜拉尼文"
+        goh: "古高地德文"
+        gom: gom
+        gon: "岗德文"
+        gor: "科洛涅达罗文"
+        got: "哥特文"
+        grb: "格列博文"
+        grc: "古希腊文"
+        gsw: "瑞士德文"
+        gu: "古吉拉特文"
+        guc: guc
+        gur: gur
+        guz: "古西文"
+        gv: "马恩岛文"
+        gwi: "吉维克琴文"
+        ha: "豪萨文"
+        hai: "海达文"
+        hak: hak
+        haw: "夏威夷文"
+        he: "希伯来文"
+        hi: "印地文"
+        hif: hif
+        hil: "希利盖农文"
+        hit: "赫梯文"
+        hmn: "赫蒙文"
+        ho: "希里莫图文"
+        hr: "克罗地亚文"
+        hsb: "上索布文"
+        hsn: hsn
+        ht: "海地文"
+        hu: "匈牙利文"
+        hup: "胡帕文"
+        hy: "亚美尼亚文"
+        hz: "赫雷罗文"
+        ia: "国际文字"
+        iba: "伊班文"
+        ibb: "伊比比奥文"
+        id: "印度尼西亚文"
+        ie: "国际文字（E）"
+        ig: "伊布文"
+        ii: "四川彝文"
+        ik: "依奴皮维克文"
+        ilo: "伊洛干诺文"
+        inh: "印古什文"
+        io: "伊多文"
+        is: "冰岛文"
+        it: "意大利文"
+        iu: "因纽特文"
+        izh: izh
+        ja: "日文"
+        jam: jam
+        jbo: "逻辑文"
+        jgo: "恩艮巴"
+        jmc: "马切姆文"
+        jpr: "犹太波斯文"
+        jrb: "犹太阿拉伯文"
+        jut: jut
+        jv: "爪哇文"
+        ka: "格鲁吉亚文"
+        kaa: "卡拉卡尔帕克文"
+        kab: "卡比尔文"
+        kac: "卡琴文"
+        kaj: "卡捷文"
+        kam: "卡姆巴文"
+        kaw: "卡威文"
+        kbd: "卡巴尔达文"
+        kbl: "加涅姆布文"
+        kcg: "卡塔布文"
+        kde: "马孔德文"
+        kea: "卡布佛得鲁文"
+        ken: ken
+        kfo: "科罗文"
+        kg: "刚果文"
+        kgp: kgp
+        kha: "卡西文"
+        kho: "和田文"
+        khq: "西桑海文"
+        khw: khw
+        ki: "吉库尤文"
+        kiu: kiu
+        kj: "宽亚玛文"
+        kk: "哈萨克文"
+        kkj: "卡库文"
+        kl: "格陵兰文"
+        kln: "卡伦金文"
+        km: "高棉文"
+        kmb: "金邦杜文"
+        kn: "卡纳达文"
+        ko: "韩文"
+        koi: "科米-彼尔米亚克文"
+        kok: "刚卡尼文"
+        kos: "科斯拉伊文"
+        kpe: "克佩列文"
+        kr: "卡努里文"
+        krc: "卡拉恰伊巴尔卡尔文"
+        kri: kri
+        krj: krj
+        krl: "卡累利阿文"
+        kru: "库鲁克文"
+        ks: "克什米尔文"
+        ksb: "香巴拉文"
+        ksf: "巴菲亚文"
+        ksh: "科隆文"
+        ku: "库尔德文"
+        kum: "库梅克文"
+        kut: "库特内文"
+        kv: "科米文"
+        kw: "凯尔特文"
+        ky: "吉尔吉斯文"
+        la: "拉丁文"
+        lad: "拉迪诺文"
+        lag: "朗吉文"
+        lah: "拉亨达文"
+        lam: "兰巴文"
+        lb: "卢森堡文"
+        lez: "莱兹依昂文"
+        lfn: lfn
+        lg: "卢干达文"
+        li: "淋布尔吉文"
+        lij: lij
+        liv: liv
+        lkt: "拉科塔文"
+        lmo: lmo
+        ln: "林加拉文"
+        lo: "老挝文"
+        lol: "芒戈文"
+        loz: "洛兹文"
+        lrc: "北卢尔文"
+        lt: "立陶宛文"
+        ltg: ltg
+        lu: "鲁巴加丹加文"
+        lua: "鲁巴鲁瓦文"
+        lui: "路易塞诺文"
+        lun: "隆达文"
+        luo: "卢奥文"
+        lus: "卢晒文"
+        luy: "卢雅文"
+        lv: "拉脱维亚文"
+        lzh: lzh
+        lzz: lzz
+        mad: "马都拉文"
+        maf: "马法文"
+        mag: "马加伊文"
+        mai: "迈蒂利文"
+        mak: "望加锡文"
+        man: "曼丁哥文"
+        mas: "萨伊文"
+        mde: "马坝文"
+        mdf: "莫克沙文"
+        mdh: mdh
+        mdr: "曼达尔文"
+        men: "门迪文"
+        mer: "梅鲁文"
+        mfe: "毛里求斯克里奥尔文"
+        mg: "马尔加什文"
+        mga: "中古爱尔兰文"
+        mgh: "马夸文"
+        mgo: "梅塔"
+        mh: "马绍尔文"
+        mi: "毛利文"
+        mic: "米克马克文"
+        min: "米南卡保文"
+        mis: mis
+        mk: "马其顿文"
+        ml: "马拉雅拉姆文"
+        mn: "蒙古文"
+        mnc: "满文"
+        mni: "曼尼普里文"
+        moh: "摩霍克文"
+        mos: "莫西文"
+        mr: "马拉地文"
+        mrj: mrj
+        ms: "马来文"
+        mt: "马耳他文"
+        mua: "蒙当文"
+        mul: "多种语系"
+        mus: "克里克文"
+        mwl: "米兰德斯文"
+        mwr: "马尔瓦利文"
+        mwv: mwv
+        my: "缅甸文"
+        mye: "姆耶内文"
+        myv: "俄日亚文"
+        mzn: "马赞德兰文"
+        na: "瑙鲁文"
+        nan: nan
+        nap: "拿波里文"
+        naq: "纳马文"
+        nb: "挪威博克马尔文"
+        nd: "北恩德贝勒文"
+        nds: "低地德文"
+        nds_nl: "低地德文（荷兰）"
+        ne: "尼泊尔文"
+        new: "尼瓦尔文"
+        ng: "恩东加文"
+        nia: "尼亚斯文"
+        niu: "纽埃文"
+        njo: njo
+        nl: "荷兰文"
+        nl_be: "佛兰芒文"
+        nmg: "夸西奥文"
+        nn: "挪威尼诺斯克文"
+        nnh: "恩甘澎文"
+        'no': "挪威文"
+        nog: "诺盖文"
+        non: "古诺尔斯文"
+        nov: nov
+        nqo: "西非书面文字"
+        nr: "南恩德贝勒文"
+        nso: "北索托文"
+        nus: "努埃尔文"
+        nv: "纳瓦霍文"
+        nwc: "经典尼瓦尔文"
+        ny: "尼扬扎文"
+        nym: "尼亚姆韦齐文"
+        nyn: "尼昂科勒文"
+        nyo: "尼约罗文"
+        nzi: "恩济马文"
+        oc: "奥克西唐文"
+        oj: "奥吉布瓦文"
+        om: "奥洛莫文"
+        or: "奥里亚文"
+        os: "奥塞梯文"
+        osa: "奥萨格文"
+        ota: "奥托曼土耳其文"
+        pa: "旁遮普文"
+        pag: "邦阿西楠文"
+        pal: "帕拉维文"
+        pam: "邦板牙文"
+        pap: "帕皮亚门托文"
+        pau: "帕劳文"
+        pcd: pcd
+        pdc: pdc
+        pdt: pdt
+        peo: "古老波斯文"
+        pfl: pfl
+        phn: "腓尼基文"
+        pi: "巴利文"
+        pl: "波兰文"
+        pms: pms
+        pnt: pnt
+        pon: "波纳佩文"
+        prg: prg
+        pro: "普罗文斯文"
+        ps: "普什图文"
+        pt: "葡萄牙文"
+        pt_br: "巴西葡萄牙文"
+        pt_pt: "欧洲葡萄牙文"
+        qu: "盖丘亚文"
+        quc: "基切文"
+        qug: qug
+        raj: "拉贾斯坦文"
+        rap: "拉帕努伊文"
+        rar: "拉罗汤加文"
+        rgn: rgn
+        rif: rif
+        rm: "罗曼什文"
+        rn: "基隆迪文"
+        ro: "罗马尼亚文"
+        ro_md: "摩尔多瓦文"
+        rof: "兰博文"
+        rom: "吉普赛文"
+        root: "根语言"
+        rtm: rtm
+        ru: "俄文"
+        rue: rue
+        rug: rug
+        rup: "阿罗马尼亚文"
+        rw: "卢旺达文"
+        rwk: "罗瓦文"
+        sa: "梵文"
+        sad: "散达维文"
+        sah: "雅库特文"
+        sam: "萨玛利亚文"
+        saq: "桑布鲁文"
+        sas: "萨萨克文"
+        sat: "桑塔利文"
+        saz: saz
+        sba: "甘拜文"
+        sbp: "桑古文"
+        sc: "萨丁文"
+        scn: "西西里文"
+        sco: "苏格兰文"
+        sd: "信德文"
+        sdc: sdc
+        sdh: "南库尔德文"
+        se: "北萨米文"
+        see: "塞内卡文"
+        seh: "塞纳文"
+        sei: sei
+        sel: "塞尔库普文"
+        ses: "东桑海文"
+        sg: "桑戈文"
+        sga: "古爱尔兰文"
+        sgs: sgs
+        sh: "塞尔维亚-克罗地亚文"
+        shi: "希尔哈文"
+        shn: "掸文"
+        shu: "乍得阿拉伯文"
+        si: "僧伽罗文"
+        sid: "悉达摩文"
+        sk: "斯洛伐克文"
+        sl: "斯洛文尼亚文"
+        sli: sli
+        sly: sly
+        sm: "萨摩亚文"
+        sma: "南萨米文"
+        smj: "律勒欧萨米文"
+        smn: "伊纳里萨米文"
+        sms: "斯科特萨米文"
+        sn: "绍纳文"
+        snk: "索尼基文"
+        so: "索马里文"
+        sog: "古粟特文"
+        sq: "阿尔巴尼亚文"
+        sr: "塞尔维亚文"
+        srn: "苏里南汤加文"
+        srr: "谢列尔文"
+        ss: "斯瓦特文"
+        ssy: "萨霍文"
+        st: "南索托文"
+        stq: stq
+        su: "巽他文"
+        suk: "苏库马文"
+        sus: "苏苏文"
+        sux: "苏马文"
+        sv: "瑞典文"
+        sw: "斯瓦希里文"
+        swb: "科摩罗文"
+        swc: "刚果斯瓦希里文"
+        syc: "经典叙利亚文"
+        syr: "叙利亚文"
+        szl: szl
+        ta: "泰米尔文"
+        tcy: tcy
+        te: "泰卢固文"
+        tem: "滕内文"
+        teo: "特索文"
+        ter: "特列纳文"
+        tet: "特塔姆文"
+        tg: "塔吉克文"
+        th: "泰文"
+        ti: "提格里尼亚文"
+        tig: "提格雷文"
+        tiv: "蒂夫文"
+        tk: "土库曼文"
+        tkl: "托克劳文"
+        tkr: tkr
+        tl: "塔加洛文"
+        tlh: "克林贡文"
+        tli: "特林吉特文"
+        tly: tly
+        tmh: "塔马奇克文"
+        tn: "塞茨瓦纳文"
+        to: "汤加文"
+        tog: "汤加文（尼亚萨地区）"
+        tpi: "托克皮辛文"
+        tr: "土耳其文"
+        tru: tru
+        trv: "太鲁阁文"
+        ts: "宗加文"
+        tsd: tsd
+        tsi: "蒂姆西亚文"
+        tt: "塔塔尔文"
+        ttt: ttt
+        tum: "通布卡文"
+        tvl: "图瓦卢文"
+        tw: "特威文"
+        twq: "北桑海文"
+        ty: "塔西提文"
+        tyv: "图瓦文"
+        tzm: "塔马齐格特文"
+        udm: "乌德穆尔特文"
+        ug: "维吾尔文"
+        uga: "乌加里特文"
+        uk: "乌克兰文"
+        umb: "翁本杜文"
+        und: "未知语言"
+        ur: "乌尔都文"
+        uz: "乌兹别克文"
+        vai: "瓦伊文"
+        ve: "文达文"
+        vec: vec
+        vep: "维普森文"
+        vi: "越南文"
+        vls: vls
+        vmf: vmf
+        vo: "沃拉普克文"
+        vot: "沃提克文"
+        vro: vro
+        vun: "温旧文"
+        wa: "瓦隆文"
+        wae: "瓦尔瑟文"
+        wal: "瓦拉莫文"
+        war: "瓦赖文"
+        was: "瓦绍文"
+        wbp: "瓦尔皮瑞文"
+        wo: "沃洛夫文"
+        wuu: wuu
+        xal: "卡尔梅克文"
+        xh: "科萨文"
+        xmf: xmf
+        xog: "索加文"
+        yao: "瑶族文"
+        yap: "雅浦文"
+        yav: "洋卞文"
+        ybb: "耶姆巴文"
+        yi: "依地文"
+        yo: "约鲁巴文"
+        yrl: yrl
+        yue: "粤语"
+        za: "壮文"
+        zap: "萨波蒂克文"
+        zbl: "布利斯符号"
+        zea: zea
+        zen: "泽纳加文"
+        zgh: "标准摩洛哥塔马塞特文"
+        zh: "中文"
+        zh_hans: "简体中文"
+        zh_hant: "繁体中文"
+        zu: "祖鲁文"
+        zun: "祖尼文"
+        zxx: "无语言内容"
+        zza: "扎扎文"
+      locale_display_pattern:
+        locale_pattern: "{0}（{1}）"
+        locale_separator: "{0}、{1}"
+        locale_key_type_pattern: "{0}：{1}"
+      keys:
+        calendar: "日历"
+        cf: cf
+        col_alternate: "忽略符号排序"
+        col_backwards: "对重音进行逆向排序"
+        col_case_first: "大写/小写字母排序"
+        col_case_level: "区分大小写的排序"
+        col_hiragana_quaternary: "假名排序"
+        collation: "排序"
+        col_normalization: "规范化排序"
+        col_numeric: "数字排序"
+        col_strength: "排序强度"
+        currency: "货币"
+        hc: "小时制（12或24）"
+        lb: "换行符样式"
+        ms: "度量系统"
+        numbers: "数字"
+        timezone: "时区"
+        va: "语言区域别名"
+        variable_top: "按照符号排序"
+        x: "专用"
+      types:
+        calendar:
+          buddhist: "佛教日历"
+          chinese: "农历"
+          coptic: "科普特日历"
+          dangi: "檀纪日历"
+          ethiopic: "埃塞俄比亚日历"
+          ethiopic_amete_alem: "埃塞俄比亚阿米特阿莱姆日历"
+          gregorian: "公历"
+          hebrew: "希伯来日历"
+          indian: "印度国家日历"
+          islamic: "伊斯兰日历"
+          islamic_civil: "伊斯兰希吉来日历"
+          islamic_rgsa: islamic-rgsa
+          islamic_tbla: islamic-tbla
+          islamic_umalqura: islamic-umalqura
+          iso8601: "国际标准历法"
+          japanese: "日本日历"
+          persian: "波斯日历"
+          roc: "民国日历"
+        cf:
+          account: account
+          standard: standard
+        col_alternate:
+          non_ignorable: "对符号进行排序"
+          shifted: "忽略符号进行排序"
+        col_backwards:
+          'no': "对重音进行正常排序"
+          'yes': "对重音进行逆向排序"
+        col_case_first:
+          lower: "先对小写字母进行排序"
+          'no': "对正常大小写顺序进行排序"
+          upper: "先对大写字母进行排序"
+        col_case_level:
+          'no': "不区分大小写进行排序"
+          'yes': "区分大小写进行排序"
+        col_hiragana_quaternary:
+          'no': "对假名进行单独排序"
+          'yes': "对假名进行区别排序"
+        collation:
+          big5han: "繁体中文排序 - Big5"
+          compat: compat
+          dictionary: "字典排序"
+          ducet: "默认 Unicode 排序"
+          emoji: emoji
+          eor: eor
+          gb2312han: "简体中文排序 - GB2312"
+          phonebook: "电话簿排序"
+          phonetic: "语音排序"
+          pinyin: "拼音排序"
+          reformed: "改良排序"
+          search: "常规搜索"
+          searchjl: "按韩文字开首辅音来搜索"
+          standard: "标准排序"
+          stroke: "笔画排序"
+          traditional: "传统排序"
+          unihan: "部首笔画排序"
+          zhuyin: "注音排序"
+        col_normalization:
+          'no': "非规范化排序"
+          'yes': "对 Unicode 进行规范化排序"
+        col_numeric:
+          'no': "对数字进行单独排序"
+          'yes': "按数字顺序对数字进行排序"
+        col_strength:
+          identical: "对所有内容进行排序"
+          primary: "只对基本字母进行排序"
+          quaternary: "对重音/大小写/长度/假名进行排序"
+          secondary: "对重音进行排序"
+          tertiary: "对重音/大小写/长度进行排序"
+        hc:
+          h11: 12小时制（0–11）
+          h12: 12小时制（1–12）
+          h23: 24小时制（0–23）
+          h24: 24小时制（1–24）
+        lb:
+          loose: "宽"
+          normal: "默认"
+          strict: "窄"
+        ms:
+          metric: "公制"
+          uksystem: "英制"
+          ussystem: "美制"
+        numbers:
+          ahom: ahom
+          arab: "阿拉伯印度文数字"
+          arabext: "扩展阿拉伯印度文数字"
+          armn: "亚美尼亚文数字"
+          armnlow: "亚美尼亚文小写数字"
+          bali: "巴厘文数字"
+          beng: "孟加拉文数字"
+          brah: brah
+          cakm: cakm
+          cham: "占文数字"
+          cyrl: cyrl
+          deva: "梵文数字"
+          ethi: "埃塞俄比亚文数字"
+          finance: "金融数字"
+          fullwide: "全角数字"
+          geor: "格鲁吉亚文数字"
+          grek: "希腊文数字"
+          greklow: "希腊文小写数字"
+          gujr: "古吉拉特文数字"
+          guru: "果鲁穆奇文数字"
+          hanidec: "中文十进制数字"
+          hans: "简体中文数字"
+          hansfin: "简体中文大写数字"
+          hant: "繁体中文数字"
+          hantfin: "繁体中文大写数字"
+          hebr: "希伯来文数字"
+          hmng: hmng
+          java: "爪哇文数字"
+          jpan: "日文数字"
+          jpanfin: "日文大写数字"
+          kali: "克耶字母数字"
+          khmr: "高棉文数字"
+          knda: "卡纳达文数字"
+          lana: "老傣文数字"
+          lanatham: "兰纳文数字"
+          laoo: "老挝文数字"
+          latn: "西方数字"
+          lepc: "雷布查文数字"
+          limb: "林布文数字"
+          mathbold: mathbold
+          mathdbl: mathdbl
+          mathmono: mathmono
+          mathsanb: mathsanb
+          mathsans: mathsans
+          mlym: "马拉雅拉姆文数字"
+          modi: modi
+          mong: "蒙古文数字"
+          mroo: mroo
+          mtei: "曼尼普尔数字"
+          mymr: "缅甸文数字"
+          mymrshan: "缅甸掸文数字"
+          mymrtlng: mymrtlng
+          native: "当地数字"
+          nkoo: "曼德数字"
+          olck: "桑塔利文数字"
+          orya: "奥里亚文数字"
+          osma: osma
+          roman: "罗马数字"
+          romanlow: "罗马小写数字"
+          saur: "索拉什特拉文数字"
+          shrd: shrd
+          sind: sind
+          sinh: sinh
+          sora: sora
+          sund: "苏丹文数字"
+          takr: takr
+          talu: "新傣仂文数字"
+          taml: "传统泰米尔文数字"
+          tamldec: "泰米尔文数字"
+          telu: "泰卢固文数字"
+          thai: "泰文数字"
+          tibt: "藏文数字"
+          tirh: tirh
+          traditional: "传统数字"
+          vaii: "瓦伊文数字"
+          wara: wara
+      code_patterns:
+        language: "语言：{0}"
+        script: "文字：{0}"
+        territory: "地区：{0}"
+      scripts:
+        afak: "阿法卡文"
+        aghb: Aghb
+        ahom: Ahom
+        arab: "阿拉伯文"
+        arab_alt_variant: "波斯阿拉伯文"
+        armi: "皇室亚拉姆文"
+        armn: "亚美尼亚文"
+        avst: "阿维斯陀文"
+        bali: "巴厘文"
+        bamu: "巴姆穆文"
+        bass: "巴萨文"
+        batk: "巴塔克文"
+        beng: "孟加拉文"
+        blis: "布列斯符号"
+        bopo: "汉语拼音"
+        brah: "婆罗米文字"
+        brai: "布莱叶盲文"
+        bugi: "布吉文"
+        buhd: "布希德文"
+        cakm: "查克马文"
+        cans: "加拿大土著统一音节"
+        cari: "卡里亚文"
+        cham: "占文"
+        cher: "切罗基文"
+        cirt: "色斯文"
+        copt: "克普特文"
+        cprt: "塞浦路斯文"
+        cyrl: "西里尔文"
+        cyrs: "西里尔文字（古教会斯拉夫文的变体）"
+        deva: "天城文"
+        dsrt: "德塞莱特文"
+        dupl: "杜普洛伊速记"
+        egyd: "后期埃及文"
+        egyh: "古埃及僧侣书写体"
+        egyp: "古埃及象形文"
+        elba: Elba
+        ethi: "埃塞俄比亚文"
+        geok: "格鲁吉亚文（教堂体）"
+        geor: "格鲁吉亚文"
+        glag: "格拉哥里文"
+        goth: "哥特文"
+        gran: "格兰塔文"
+        grek: "希腊文"
+        gujr: "古吉拉特文"
+        guru: "果鲁穆奇文"
+        hang: "韩文字"
+        hani: "汉字"
+        hano: "汉奴罗文"
+        hans: "简体"
+        hans_alt_stand_alone: "简体中文"
+        hant: "繁体"
+        hant_alt_stand_alone: "繁体中文"
+        hatr: Hatr
+        hebr: "希伯来文"
+        hira: "平假名"
+        hluw: "安那托利亚象形文字"
+        hmng: "杨松录苗文"
+        hrkt: "片假名或平假名"
+        hung: "古匈牙利文"
+        inds: "古希腊哈拉潘"
+        ital: "古意大利文"
+        java: "爪哇文"
+        jpan: "日文"
+        jurc: "女真文"
+        kali: "克耶李文字"
+        kana: "片假名"
+        khar: "卡罗须提文"
+        khmr: "高棉文"
+        khoj: "克吉奇文字"
+        knda: "卡纳达文"
+        kore: "韩文"
+        kpel: "克佩列文"
+        kthi: "凯提文"
+        lana: "兰拿文"
+        laoo: "老挝文"
+        latf: "拉丁文（哥特式字体变体）"
+        latg: "拉丁文（盖尔文变体）"
+        latn: "拉丁文"
+        lepc: "雷布查文"
+        limb: "林布文"
+        lina: "线形文字（A）"
+        linb: "线形文字（B）"
+        lisu: "傈僳文"
+        loma: "洛马文"
+        lyci: "利西亚文"
+        lydi: "吕底亚文"
+        mahj: Mahj
+        mand: "阿拉米文"
+        mani: "摩尼教文"
+        maya: "玛雅圣符文"
+        mend: "门迪文"
+        merc: "麦罗埃草书"
+        mero: "麦若提克文"
+        mlym: "马拉雅拉姆文"
+        modi: Modi
+        mong: "蒙古文"
+        moon: "韩文语系"
+        mroo: "谬文"
+        mtei: "曼尼普尔文"
+        mult: Mult
+        mymr: "缅甸文"
+        narb: "古北方阿拉伯文"
+        nbat: "纳巴泰文"
+        nkgb: "纳西格巴文"
+        nkoo: "西非书面文字（N’Ko）"
+        nshu: "女书"
+        ogam: "欧甘文"
+        olck: "桑塔利文"
+        orkh: "鄂尔浑文"
+        orya: "奥里亚文"
+        osma: "奥斯曼亚文"
+        palm: "帕尔迈拉文"
+        pauc: Pauc
+        perm: "古彼尔姆文"
+        phag: "八思巴文"
+        phli: "巴列维文碑铭体"
+        phlp: "巴列维文（圣诗体）"
+        phlv: "巴列维文（书体）"
+        phnx: "腓尼基文"
+        plrd: "波拉德音标文字"
+        prti: "帕提亚文碑铭体"
+        qaaa: Qaaa
+        qaab: Qaab
+        qaac: Qaac
+        qaad: Qaad
+        qaae: Qaae
+        qaaf: Qaaf
+        qaag: Qaag
+        qaah: Qaah
+        qaaj: Qaaj
+        qaak: Qaak
+        qaal: Qaal
+        qaam: Qaam
+        qaan: Qaan
+        qaao: Qaao
+        qaap: Qaap
+        qaaq: Qaaq
+        qaar: Qaar
+        qaas: Qaas
+        qaat: Qaat
+        qaau: Qaau
+        qaav: Qaav
+        qaaw: Qaaw
+        qaax: Qaax
+        qaay: Qaay
+        qaaz: Qaaz
+        qaba: Qaba
+        qabb: Qabb
+        qabc: Qabc
+        qabd: Qabd
+        qabe: Qabe
+        qabf: Qabf
+        qabg: Qabg
+        qabh: Qabh
+        qabi: Qabi
+        qabj: Qabj
+        qabk: Qabk
+        qabl: Qabl
+        qabm: Qabm
+        qabn: Qabn
+        qabo: Qabo
+        qabp: Qabp
+        qabq: Qabq
+        qabr: Qabr
+        qabs: Qabs
+        qabt: Qabt
+        qabu: Qabu
+        qabv: Qabv
+        qabw: Qabw
+        qabx: Qabx
+        rjng: "拉让文"
+        roro: "朗格朗格文"
+        runr: "古代北欧文"
+        samr: "撒马利亚文"
+        sara: "沙拉堤文"
+        sarb: "古南阿拉伯文"
+        saur: "索拉什特拉文"
+        sgnw: "书写符号"
+        shaw: "萧伯纳式文"
+        shrd: "夏拉达文"
+        sidd: Sidd
+        sind: "信德文"
+        sinh: "僧伽罗文"
+        sora: "索朗桑朋文"
+        sund: "巽他文"
+        sylo: "锡尔赫特文"
+        syrc: "叙利亚文"
+        syre: "福音体叙利亚文"
+        syrj: "西叙利亚文"
+        syrn: "东叙利亚文"
+        tagb: "塔格班瓦文"
+        takr: "泰克里文"
+        tale: "泰乐文"
+        talu: "新傣文"
+        taml: "泰米尔文"
+        tang: "唐古特文"
+        tavt: "越南傣文"
+        telu: "泰卢固文"
+        teng: "腾格瓦文字"
+        tfng: "提非纳文"
+        tglg: "塔加路文"
+        thaa: "塔安那文"
+        thai: "泰文"
+        tibt: "藏文"
+        tirh: "迈蒂利文"
+        ugar: "乌加里特文"
+        vaii: "瓦依文"
+        visp: "可见语言"
+        wara: "瓦郎奇蒂文字"
+        wole: "沃莱艾文"
+        xpeo: "古波斯文"
+        xsux: "苏美尔-阿卡德楔形文字"
+        yiii: "彝文"
+        zinh: "遗传学术语"
+        zmth: "数学符号"
+        zsym: "符号"
+        zxxx: "非书面文字"
+        zyyy: "通用"
+        zzzz: "未知文字"
+      territories:
+        '001': "世界"
+        '002': "非洲"
+        '003': "北美洲"
+        '005': "南美洲"
+        009: "大洋洲"
+        '011': "西非"
+        '013': "中美洲"
+        '014': "东非"
+        '015': "北非"
+        '017': "中非"
+        018: "南部非洲"
+        019: "美洲"
+        '021': "美洲北部"
+        029: "加勒比地区"
+        '030': "东亚"
+        '034': "南亚"
+        '035': "东南亚"
+        039: "南欧"
+        '053': "澳大拉西亚"
+        '054': "美拉尼西亚"
+        '057': "密克罗尼西亚地区"
+        '061': "玻利尼西亚"
+        '142': "亚洲"
+        '143': "中亚"
+        '145': "西亚"
+        '150': "欧洲"
+        '151': "东欧"
+        '154': "北欧"
+        '155': "西欧"
+        '419': "拉丁美洲"
+        ac: "阿森松岛"
+        ad: "安道尔"
+        ae: "阿拉伯联合酋长国"
+        af: "阿富汗"
+        ag: "安提瓜和巴布达"
+        ai: "安圭拉"
+        al: "阿尔巴尼亚"
+        am: "亚美尼亚"
+        an: "荷属安的列斯群岛"
+        ao: "安哥拉"
+        aq: "南极洲"
+        ar: "阿根廷"
+        as: "美属萨摩亚"
+        at: "奥地利"
+        au: "澳大利亚"
+        aw: "阿鲁巴"
+        ax: "奥兰群岛"
+        az: "阿塞拜疆"
+        ba: "波斯尼亚和黑塞哥维那"
+        bb: "巴巴多斯"
+        bd: "孟加拉国"
+        be: "比利时"
+        bf: "布基纳法索"
+        bg: "保加利亚"
+        bh: "巴林"
+        bi: "布隆迪"
+        bj: "贝宁"
+        bl: "圣巴泰勒米"
+        bm: "百慕大"
+        bn: "文莱"
+        bo: "玻利维亚"
+        bq: "荷兰加勒比区"
+        br: "巴西"
+        bs: "巴哈马"
+        bt: "不丹"
+        bv: "布维岛"
+        bw: "博茨瓦纳"
+        by: "白俄罗斯"
+        bz: "伯利兹"
+        ca: "加拿大"
+        cc: "科科斯（基林）群岛"
+        cd: "刚果（金）"
+        cd_alt_variant: "刚果民主共和国"
+        cf: "中非共和国"
+        cg: "刚果（布）"
+        cg_alt_variant: "刚果共和国"
+        ch: "瑞士"
+        ci: "科特迪瓦"
+        ci_alt_variant: "象牙海岸"
+        ck: "库克群岛"
+        cl: "智利"
+        cm: "喀麦隆"
+        cn: "中国"
+        co: "哥伦比亚"
+        cp: "克利珀顿岛"
+        cr: "哥斯达黎加"
+        cu: "古巴"
+        cv: "佛得角"
+        cw: "库拉索"
+        cx: "圣诞岛"
+        cy: "塞浦路斯"
+        cz: "捷克共和国"
+        de: "德国"
+        dg: "迪戈加西亚岛"
+        dj: "吉布提"
+        dk: "丹麦"
+        dm: "多米尼克"
+        do: "多米尼加共和国"
+        dz: "阿尔及利亚"
+        ea: "休达及梅利利亚"
+        ec: "厄瓜多尔"
+        ee: "爱沙尼亚"
+        eg: "埃及"
+        eh: "西撒哈拉"
+        er: "厄立特里亚"
+        es: "西班牙"
+        et: "埃塞俄比亚"
+        eu: "欧盟"
+        fi: "芬兰"
+        fj: "斐济"
+        fk: "福克兰群岛"
+        fk_alt_variant: "福克兰群岛（马尔维纳斯群岛）"
+        fm: "密克罗尼西亚"
+        fo: "法罗群岛"
+        fr: "法国"
+        ga: "加蓬"
+        gb: "英国"
+        gb_alt_short: "英国"
+        gd: "格林纳达"
+        ge: "格鲁吉亚"
+        gf: "法属圭亚那"
+        gg: "根西岛"
+        gh: "加纳"
+        gi: "直布罗陀"
+        gl: "格陵兰"
+        gm: "冈比亚"
+        gn: "几内亚"
+        gp: "瓜德罗普"
+        gq: "赤道几内亚"
+        gr: "希腊"
+        gs: "南乔治亚岛和南桑威齐群岛"
+        gt: "危地马拉"
+        gu: "关岛"
+        gw: "几内亚比绍"
+        gy: "圭亚那"
+        hk: "中国香港特别行政区"
+        hk_alt_short: "香港"
+        hm: "赫德岛和麦克唐纳群岛"
+        hn: "洪都拉斯"
+        hr: "克罗地亚"
+        ht: "海地"
+        hu: "匈牙利"
+        ic: "加纳利群岛"
+        id: "印度尼西亚"
+        ie: "爱尔兰"
+        il: "以色列"
+        im: "曼岛"
+        in: "印度"
+        io: "英属印度洋领地"
+        iq: "伊拉克"
+        ir: "伊朗"
+        is: "冰岛"
+        it: "意大利"
+        je: "泽西岛"
+        jm: "牙买加"
+        jo: "约旦"
+        jp: "日本"
+        ke: "肯尼亚"
+        kg: "吉尔吉斯斯坦"
+        kh: "柬埔寨"
+        ki: "基里巴斯"
+        km: "科摩罗"
+        kn: "圣基茨和尼维斯"
+        kp: "朝鲜"
+        kr: "韩国"
+        kw: "科威特"
+        ky: "开曼群岛"
+        kz: "哈萨克斯坦"
+        la: "老挝"
+        lb: "黎巴嫩"
+        lc: "圣卢西亚"
+        li: "列支敦士登"
+        lk: "斯里兰卡"
+        lr: "利比里亚"
+        ls: "莱索托"
+        lt: "立陶宛"
+        lu: "卢森堡"
+        lv: "拉脱维亚"
+        ly: "利比亚"
+        ma: "摩洛哥"
+        mc: "摩纳哥"
+        md: "摩尔多瓦"
+        me: "黑山"
+        mf: "法属圣马丁"
+        mg: "马达加斯加"
+        mh: "马绍尔群岛"
+        mk: "马其顿"
+        mk_alt_variant: "马其顿（前南斯拉夫的马其顿共和国）"
+        ml: "马里"
+        mm: "缅甸"
+        mn: "蒙古"
+        mo: "中国澳门特别行政区"
+        mo_alt_short: "澳门"
+        mp: "北马里亚纳群岛"
+        mq: "马提尼克"
+        mr: "毛里塔尼亚"
+        ms: "蒙特塞拉特"
+        mt: "马耳他"
+        mu: "毛里求斯"
+        mv: "马尔代夫"
+        mw: "马拉维"
+        mx: "墨西哥"
+        my: "马来西亚"
+        mz: "莫桑比克"
+        na: "纳米比亚"
+        nc: "新喀里多尼亚"
+        ne: "尼日尔"
+        nf: "诺福克岛"
+        ng: "尼日利亚"
+        ni: "尼加拉瓜"
+        nl: "荷兰"
+        'no': "挪威"
+        np: "尼泊尔"
+        nr: "瑙鲁"
+        nu: "纽埃"
+        nz: "新西兰"
+        om: "阿曼"
+        pa: "巴拿马"
+        pe: "秘鲁"
+        pf: "法属波利尼西亚"
+        pg: "巴布亚新几内亚"
+        ph: "菲律宾"
+        pk: "巴基斯坦"
+        pl: "波兰"
+        pm: "圣皮埃尔和密克隆群岛"
+        pn: "皮特凯恩群岛"
+        pr: "波多黎各"
+        ps: "巴勒斯坦领土"
+        ps_alt_short: "巴勒斯坦"
+        pt: "葡萄牙"
+        pw: "帕劳"
+        py: "巴拉圭"
+        qa: "卡塔尔"
+        qo: "大洋洲边远群岛"
+        re: "留尼汪"
+        ro: "罗马尼亚"
+        rs: "塞尔维亚"
+        ru: "俄罗斯"
+        rw: "卢旺达"
+        sa: "沙特阿拉伯"
+        sb: "所罗门群岛"
+        sc: "塞舌尔"
+        sd: "苏丹"
+        se: "瑞典"
+        sg: "新加坡"
+        sh: "圣赫勒拿"
+        si: "斯洛文尼亚"
+        sj: "斯瓦尔巴特和扬马延"
+        sk: "斯洛伐克"
+        sl: "塞拉利昂"
+        sm: "圣马力诺"
+        sn: "塞内加尔"
+        so: "索马里"
+        sr: "苏里南"
+        ss: "南苏丹"
+        st: "圣多美和普林西比"
+        sv: "萨尔瓦多"
+        sx: "荷属圣马丁"
+        sy: "叙利亚"
+        sz: "斯威士兰"
+        ta: "特里斯坦-达库尼亚群岛"
+        tc: "特克斯和凯科斯群岛"
+        td: "乍得"
+        tf: "法属南部领地"
+        tg: "多哥"
+        th: "泰国"
+        tj: "塔吉克斯坦"
+        tk: "托克劳"
+        tl: "东帝汶"
+        tl_alt_variant: TL
+        tm: "土库曼斯坦"
+        tn: "突尼斯"
+        to: "汤加"
+        tr: "土耳其"
+        tt: "特立尼达和多巴哥"
+        tv: "图瓦卢"
+        tw: "台湾"
+        tz: "坦桑尼亚"
+        ua: "乌克兰"
+        ug: "乌干达"
+        um: "美国本土外小岛屿"
+        us: "美国"
+        us_alt_short: "美国"
+        uy: "乌拉圭"
+        uz: "乌兹别克斯坦"
+        va: "梵蒂冈"
+        vc: "圣文森特和格林纳丁斯"
+        ve: "委内瑞拉"
+        vg: "英属维京群岛"
+        vi: "美属维京群岛"
+        vn: "越南"
+        vu: "瓦努阿图"
+        wf: "瓦利斯和富图纳"
+        ws: "萨摩亚"
+        xk: "科索沃"
+        ye: "也门"
+        yt: "马约特"
+        za: "南非"
+        zm: "赞比亚"
+        zw: "津巴布韦"
+        zz: "未知地区"
+      transform_names:
+        bgn: "美国地名委员会 (BGN)"
+        numeric: "数字"
+        tone: "音调"
+        ungegn: "联合国地名专家组 (UNGEGN)"
+        x_accents: "重音符号"
+        x_fullwidth: "全角"
+        x_halfwidth: "半角"
+        x_jamo: "韩文字母"
+        x_pinyin: "拼音"
+        x_publishing: "印刷体"
+      variants:
+        '1901': "传统德文拼字"
+        '1994': "标准雷西亚拼字"
+        '1996': 1996 年德文拼字
+        1606_nict: 1606 年前中后期法文
+        1694_acad: "早期现代法文"
+        1959_acad: "学术"
+        abl1943: ABL1943
+        alalc97: 1997 版 ALA-LC 罗马字
+        aluku: "阿鲁库方言"
+        ao1990: AO1990
+        arevela: "东亚美尼亚文"
+        arevmda: "西亚美尼亚文"
+        baku1926: "统一土耳其拉丁字母"
+        balanka: BALANKA
+        barla: BARLA
+        bauddha: "佛陀梵文"
+        biscayan: "比斯开方言"
+        biske: "圣乔治/比拉方言"
+        bohoric: BOHORIC
+        boont: "布恩特林方言"
+        colb1945: COLB1945
+        dajnko: DAJNKO
+        ekavsk: EKAVSK
+        emodeng: EMODENG
+        fonipa: "国际音标"
+        fonupa: UPA 音标
+        fonxsamp: X-SAMPA 音标
+        hepburn: "赫伯恩罗马字"
+        hognorsk: "高地挪威文"
+        ijekavsk: IJEKAVSK
+        itihasa: "史诗梵文"
+        jauer: "米施泰尔方言"
+        jyutping: "粤语拼音"
+        kkcor: "常用拼字"
+        kociewie: KOCIEWIE
+        kscor: KSCOR
+        laukika: "传统梵文"
+        lipaw: "雷西亚 Lipovaz 方言"
+        luna1918: "俄文拼字（1918年起）"
+        metelko: METELKO
+        monoton: "单音字母"
+        ndyuka: Ndyuka 方言
+        nedis: Natisone 方言
+        njiva: Gniva/Njiva 方言
+        nulik: NULIK
+        osojs: Oseacco/Osojane 方言
+        oxendict: OXENDICT
+        pamaka: Pamaka 方言
+        petr1708: "俄文拼字（1708年）"
+        pinyin: "拼音罗马字"
+        polyton: "多音字母"
+        posix: "电脑"
+        puter: "瑞士普特尔方言"
+        revised: "修订的拼字"
+        rigik: RIGIK
+        rozaj: "雷西亚文"
+        rumgr: "罗曼什文"
+        saaho: "萨霍文"
+        scotland: "苏格兰标准英文"
+        scouse: "利物浦方言"
+        solba: Stolvizza/Solbica 方言
+        sotav: SOTAV
+        surmiran: "瑞士苏迈拉方言"
+        sursilv: "瑞士苏瑟瓦方言"
+        sutsilv: "瑞士苏希瓦方言"
+        tarask: Taraskievica 拼字
+        uccor: "统一的拼字"
+        ucrcor: "统一和修订的拼字"
+        ulster: "阿尔斯特方言"
+        unifon: UNIFON
+        vaidika: "吠陀梵文"
+        valencia: "瓦伦西亚文"
+        vallader: "瑞士瓦勒德方言"
+        wadegile: WG 威氏拼音法
+    units:
+      long:
+        per:
+          compound_unit_pattern: "{0}每{1}"
+        acceleration_g_force:
+          display_name: G力
+          unit_pattern_count_other: "{0}G力"
+        acceleration_meter_per_second_squared:
+          display_name: "米/秒²"
+          unit_pattern_count_other: "{0}米/秒²"
+        angle_revolution:
+          display_name: "转"
+          unit_pattern_count_other: "{0}转"
+        angle_radian:
+          display_name: "弧度"
+          unit_pattern_count_other: "{0}弧度"
+        angle_degree:
+          display_name: "度"
+          unit_pattern_count_other: "{0}度"
+        angle_arc_minute:
+          display_name: "弧分"
+          unit_pattern_count_other: "{0}弧分"
+        angle_arc_second:
+          display_name: "弧秒"
+          unit_pattern_count_other: "{0}弧秒"
+        area_square_kilometer:
+          display_name: "平方公里"
+          unit_pattern_count_other: "{0}平方公里"
+        area_hectare:
+          display_name: "公顷"
+          unit_pattern_count_other: "{0}公顷"
+        area_square_meter:
+          display_name: "平方米"
+          unit_pattern_count_other: "{0}平方米"
+          per_unit_pattern: "每平方米{0}"
+        area_square_centimeter:
+          display_name: "平方厘米"
+          unit_pattern_count_other: "{0}平方厘米"
+          per_unit_pattern: "每平方厘米{0}"
+        area_square_mile:
+          display_name: "平方英里"
+          unit_pattern_count_other: "{0}平方英里"
+        area_acre:
+          display_name: "英亩"
+          unit_pattern_count_other: "{0}英亩"
+        area_square_yard:
+          display_name: "平方码"
+          unit_pattern_count_other: "{0}平方码"
+        area_square_foot:
+          display_name: "平方英尺"
+          unit_pattern_count_other: "{0}平方英尺"
+        area_square_inch:
+          display_name: "平方英寸"
+          unit_pattern_count_other: "{0}平方英寸"
+          per_unit_pattern: "每平方英寸{0}"
+        consumption_liter_per_kilometer:
+          display_name: "升每公里"
+          unit_pattern_count_other: "每公里{0}升"
+        consumption_liter_per_100kilometers:
+          display_name: "升/100千米"
+          unit_pattern_count_other: "{0}升/100千米"
+        consumption_mile_per_gallon:
+          display_name: "英里每加仑"
+          unit_pattern_count_other: "每加仑{0}英里"
+        digital_terabyte:
+          display_name: "太字节"
+          unit_pattern_count_other: "{0}太字节"
+        digital_terabit:
+          display_name: "太比特"
+          unit_pattern_count_other: "{0}太比特"
+        digital_gigabyte:
+          display_name: "吉字节"
+          unit_pattern_count_other: "{0}吉字节"
+        digital_gigabit:
+          display_name: "吉比特"
+          unit_pattern_count_other: "{0}吉比特"
+        digital_megabyte:
+          display_name: "兆字节"
+          unit_pattern_count_other: "{0}兆字节"
+        digital_megabit:
+          display_name: "兆比特"
+          unit_pattern_count_other: "{0}兆比特"
+        digital_kilobyte:
+          display_name: "千字节"
+          unit_pattern_count_other: "{0}千字节"
+        digital_kilobit:
+          display_name: "千比特"
+          unit_pattern_count_other: "{0}千比特"
+        digital_byte:
+          display_name: "字节"
+          unit_pattern_count_other: "{0}字节"
+        digital_bit:
+          display_name: "比特"
+          unit_pattern_count_other: "{0}比特"
+        duration_century:
+          display_name: "世纪"
+          unit_pattern_count_other: "{0}世纪"
+        duration_year:
+          display_name: "年"
+          unit_pattern_count_other: "{0}年"
+          per_unit_pattern: "每年{0}"
+        duration_month:
+          display_name: "个月"
+          unit_pattern_count_other: "{0}个月"
+          per_unit_pattern: "每月{0}"
+        duration_week:
+          display_name: "周"
+          unit_pattern_count_other: "{0}周"
+          per_unit_pattern: "每周{0}"
+        duration_day:
+          display_name: "天"
+          unit_pattern_count_other: "{0}天"
+          per_unit_pattern: "每天{0}"
+        duration_hour:
+          display_name: "小时"
+          unit_pattern_count_other: "{0}小时"
+          per_unit_pattern: "{0}/小时"
+        duration_minute:
+          display_name: "分钟"
+          unit_pattern_count_other: "{0}分钟"
+          per_unit_pattern: "每分钟{0}"
+        duration_second:
+          display_name: "秒钟"
+          unit_pattern_count_other: "{0}秒钟"
+          per_unit_pattern: "{0}/秒"
+        duration_millisecond:
+          display_name: "毫秒"
+          unit_pattern_count_other: "{0}毫秒"
+        duration_microsecond:
+          display_name: "微秒"
+          unit_pattern_count_other: "{0}微秒"
+        duration_nanosecond:
+          display_name: "纳秒"
+          unit_pattern_count_other: "{0}纳秒"
+        electric_ampere:
+          display_name: "安培"
+          unit_pattern_count_other: "{0}安培"
+        electric_milliampere:
+          display_name: "毫安"
+          unit_pattern_count_other: "{0}毫安"
+        electric_ohm:
+          display_name: "欧姆"
+          unit_pattern_count_other: "{0}欧姆"
+        electric_volt:
+          display_name: "伏特"
+          unit_pattern_count_other: "{0}伏特"
+        energy_kilocalorie:
+          display_name: "千卡"
+          unit_pattern_count_other: "{0}千卡"
+        energy_calorie:
+          display_name: "卡路里"
+          unit_pattern_count_other: "{0}卡路里"
+        energy_foodcalorie:
+          display_name: "卡路里"
+          unit_pattern_count_other: "{0}卡路里"
+        energy_kilojoule:
+          display_name: "千焦"
+          unit_pattern_count_other: "{0}千焦"
+        energy_joule:
+          display_name: "焦耳"
+          unit_pattern_count_other: "{0}焦耳"
+        energy_kilowatt_hour:
+          display_name: "千瓦时"
+          unit_pattern_count_other: "{0}千瓦时"
+        frequency_gigahertz:
+          display_name: "吉赫"
+          unit_pattern_count_other: "{0}吉赫"
+        frequency_megahertz:
+          display_name: "兆赫"
+          unit_pattern_count_other: "{0}兆赫"
+        frequency_kilohertz:
+          display_name: "千赫"
+          unit_pattern_count_other: "{0}千赫"
+        frequency_hertz:
+          display_name: "赫兹"
+          unit_pattern_count_other: "{0}赫兹"
+        length_kilometer:
+          display_name: "公里"
+          unit_pattern_count_other: "{0}公里"
+          per_unit_pattern: "每公里{0}"
+        length_meter:
+          display_name: "米"
+          unit_pattern_count_other: "{0}米"
+          per_unit_pattern: "每米{0}"
+        length_decimeter:
+          display_name: "分米"
+          unit_pattern_count_other: "{0}分米"
+        length_centimeter:
+          display_name: "厘米"
+          unit_pattern_count_other: "{0}厘米"
+          per_unit_pattern: "每厘米{0}"
+        length_millimeter:
+          display_name: "毫米"
+          unit_pattern_count_other: "{0}毫米"
+        length_micrometer:
+          display_name: "微米"
+          unit_pattern_count_other: "{0}微米"
+        length_nanometer:
+          display_name: "纳米"
+          unit_pattern_count_other: "{0}纳米"
+        length_picometer:
+          display_name: "皮米"
+          unit_pattern_count_other: "{0}皮米"
+        length_mile:
+          display_name: "英里"
+          unit_pattern_count_other: "{0}英里"
+        length_yard:
+          display_name: "码"
+          unit_pattern_count_other: "{0}码"
+        length_foot:
+          display_name: "英尺"
+          unit_pattern_count_other: "{0}英尺"
+          per_unit_pattern: "每英尺{0}"
+        length_inch:
+          display_name: "英寸"
+          unit_pattern_count_other: "{0}英寸"
+          per_unit_pattern: "每英寸{0}"
+        length_parsec:
+          display_name: "秒差距"
+          unit_pattern_count_other: "{0}秒差距"
+        length_light_year:
+          display_name: "光年"
+          unit_pattern_count_other: "{0}光年"
+        length_astronomical_unit:
+          display_name: "天文单位"
+          unit_pattern_count_other: "{0}天文单位"
+        length_furlong:
+          display_name: fur
+          unit_pattern_count_other: "{0} fur"
+        length_fathom:
+          display_name: fm
+          unit_pattern_count_other: "{0} fm"
+        length_nautical_mile:
+          display_name: "海里"
+          unit_pattern_count_other: "{0}海里"
+        length_mile_scandinavian:
+          display_name: "斯堪的纳维亚英里"
+          unit_pattern_count_other: "{0}斯堪的纳维亚英里"
+        light_lux:
+          display_name: "勒克斯"
+          unit_pattern_count_other: "{0}勒克斯"
+        mass_metric_ton:
+          display_name: "公吨"
+          unit_pattern_count_other: "{0}公吨"
+        mass_kilogram:
+          display_name: "千克"
+          unit_pattern_count_other: "{0}千克"
+          per_unit_pattern: "每千克{0}"
+        mass_gram:
+          display_name: "克"
+          unit_pattern_count_other: "{0}克"
+          per_unit_pattern: "每克{0}"
+        mass_milligram:
+          display_name: "毫克"
+          unit_pattern_count_other: "{0}毫克"
+        mass_microgram:
+          display_name: "微克"
+          unit_pattern_count_other: "{0}微克"
+        mass_ton:
+          display_name: "吨"
+          unit_pattern_count_other: "{0}吨"
+        mass_stone:
+          display_name: st
+          unit_pattern_count_other: "{0} st"
+        mass_pound:
+          display_name: "磅"
+          unit_pattern_count_other: "{0}磅"
+          per_unit_pattern: "每磅{0}"
+        mass_ounce:
+          display_name: "盎司"
+          unit_pattern_count_other: "{0}盎司"
+          per_unit_pattern: "每盎司{0}"
+        mass_ounce_troy:
+          display_name: "金衡制盎司"
+          unit_pattern_count_other: "{0}金衡制盎司"
+        mass_carat:
+          display_name: "克拉"
+          unit_pattern_count_other: "{0}克拉"
+        power_gigawatt:
+          display_name: "吉瓦"
+          unit_pattern_count_other: "{0}吉瓦"
+        power_megawatt:
+          display_name: "兆瓦"
+          unit_pattern_count_other: "{0}兆瓦"
+        power_kilowatt:
+          display_name: "千瓦"
+          unit_pattern_count_other: "{0}千瓦"
+        power_watt:
+          display_name: "瓦特"
+          unit_pattern_count_other: "{0}瓦特"
+        power_milliwatt:
+          display_name: "毫瓦"
+          unit_pattern_count_other: "{0}毫瓦"
+        power_horsepower:
+          display_name: "马力"
+          unit_pattern_count_other: "{0}马力"
+        pressure_hectopascal:
+          display_name: "百帕斯卡"
+          unit_pattern_count_other: "{0}百帕斯卡"
+        pressure_millimeter_of_mercury:
+          display_name: "毫米汞柱"
+          unit_pattern_count_other: "{0}毫米汞柱"
+        pressure_pound_per_square_inch:
+          display_name: "磅/平方英寸"
+          unit_pattern_count_other: "每平方英寸{0}磅"
+        pressure_inch_hg:
+          display_name: "英寸汞柱"
+          unit_pattern_count_other: "{0}英寸汞柱"
+        pressure_millibar:
+          display_name: "毫巴"
+          unit_pattern_count_other: "{0}毫巴"
+        proportion_karat:
+          display_name: "克拉"
+          unit_pattern_count_other: "{0}克拉"
+        speed_kilometer_per_hour:
+          display_name: "千米每小时"
+          unit_pattern_count_other: "每小时{0}公里"
+        speed_meter_per_second:
+          display_name: "米每秒"
+          unit_pattern_count_other: "每秒{0}米"
+        speed_mile_per_hour:
+          display_name: "英里每小时"
+          unit_pattern_count_other: "每小时{0}英里"
+        speed_knot:
+          display_name: "海里/小时"
+          unit_pattern_count_other: "{0}海里/小时"
+        temperature_generic:
+          display_name: "°"
+          unit_pattern_count_other: "{0}°"
+        temperature_celsius:
+          display_name: "摄氏度"
+          unit_pattern_count_other: "{0}摄氏度"
+        temperature_fahrenheit:
+          display_name: "华氏度"
+          unit_pattern_count_other: "{0}华氏度"
+        temperature_kelvin:
+          display_name: "开尔文"
+          unit_pattern_count_other: "{0}开尔文"
+        volume_cubic_kilometer:
+          display_name: "立方公里"
+          unit_pattern_count_other: "{0}立方公里"
+        volume_cubic_meter:
+          display_name: "立方米"
+          unit_pattern_count_other: "{0}立方米"
+          per_unit_pattern: "每立方米{0}"
+        volume_cubic_centimeter:
+          display_name: "立方厘米"
+          unit_pattern_count_other: "{0}立方厘米"
+          per_unit_pattern: "每立方厘米{0}"
+        volume_cubic_mile:
+          display_name: "立方英里"
+          unit_pattern_count_other: "{0}立方英里"
+        volume_cubic_yard:
+          display_name: "立方码"
+          unit_pattern_count_other: "{0}立方码"
+        volume_cubic_foot:
+          display_name: "立方英尺"
+          unit_pattern_count_other: "{0}立方英尺"
+        volume_cubic_inch:
+          display_name: "立方英寸"
+          unit_pattern_count_other: "{0}立方英寸"
+        volume_megaliter:
+          display_name: "兆升"
+          unit_pattern_count_other: "{0}兆升"
+        volume_hectoliter:
+          display_name: "公石"
+          unit_pattern_count_other: "{0}公石"
+        volume_liter:
+          display_name: "公升"
+          unit_pattern_count_other: "{0}公升"
+          per_unit_pattern: "每公升{0}"
+        volume_deciliter:
+          display_name: "分升"
+          unit_pattern_count_other: "{0}分升"
+        volume_centiliter:
+          display_name: "厘升"
+          unit_pattern_count_other: "{0}厘升"
+        volume_milliliter:
+          display_name: "毫升"
+          unit_pattern_count_other: "{0}毫升"
+        volume_pint_metric:
+          display_name: "公制品脱"
+          unit_pattern_count_other: "{0}公制品脱"
+        volume_cup_metric:
+          display_name: "公制杯"
+          unit_pattern_count_other: "{0}公制杯"
+        volume_acre_foot:
+          display_name: "英亩英尺"
+          unit_pattern_count_other: "{0}英亩英尺"
+        volume_bushel:
+          display_name: bu
+          unit_pattern_count_other: "{0} bu"
+        volume_gallon:
+          display_name: "加仑"
+          unit_pattern_count_other: "{0}加仑"
+          per_unit_pattern: "每加仑{0}"
+        volume_quart:
+          display_name: "夸脱"
+          unit_pattern_count_other: "{0}夸脱"
+        volume_pint:
+          display_name: "品脱"
+          unit_pattern_count_other: "{0}品脱"
+        volume_cup:
+          display_name: "杯"
+          unit_pattern_count_other: "{0}杯"
+        volume_fluid_ounce:
+          display_name: "液盎司"
+          unit_pattern_count_other: "{0}液盎司"
+        volume_tablespoon:
+          display_name: "汤匙"
+          unit_pattern_count_other: "{0}汤匙"
+        volume_teaspoon:
+          display_name: "茶匙"
+          unit_pattern_count_other: "{0}茶匙"
+        coordinate_unit:
+          east: "东经{0}"
+          north: "北纬{0}"
+          south: "南纬{0}"
+          west: "西经{0}"
+      short:
+        per:
+          compound_unit_pattern: "{0}/{1}"
+        acceleration_g_force:
+          display_name: G力
+          unit_pattern_count_other: "{0} G"
+        acceleration_meter_per_second_squared:
+          display_name: "米/秒²"
+          unit_pattern_count_other: "{0}米/秒²"
+        angle_revolution:
+          display_name: "转"
+          unit_pattern_count_other: "{0}转"
+        angle_radian:
+          display_name: "弧度"
+          unit_pattern_count_other: "{0}弧度"
+        angle_degree:
+          display_name: "度"
+          unit_pattern_count_other: "{0}°"
+        angle_arc_minute:
+          display_name: "弧分"
+          unit_pattern_count_other: "{0}弧分"
+        angle_arc_second:
+          display_name: "弧秒"
+          unit_pattern_count_other: "{0}弧秒"
+        area_square_kilometer:
+          display_name: "平方公里"
+          unit_pattern_count_other: "{0}平方公里"
+        area_hectare:
+          display_name: "公顷"
+          unit_pattern_count_other: "{0}公顷"
+        area_square_meter:
+          display_name: "平方米"
+          unit_pattern_count_other: "{0}平方米"
+          per_unit_pattern: "{0}/平方米"
+        area_square_centimeter:
+          display_name: "平方厘米"
+          unit_pattern_count_other: "{0}平方厘米"
+          per_unit_pattern: "{0}/平方厘米"
+        area_square_mile:
+          display_name: "平方英里"
+          unit_pattern_count_other: "{0}平方英里"
+        area_acre:
+          display_name: "英亩"
+          unit_pattern_count_other: "{0}英亩"
+        area_square_yard:
+          display_name: "平方码"
+          unit_pattern_count_other: "{0}平方码"
+        area_square_foot:
+          display_name: "平方英尺"
+          unit_pattern_count_other: "{0}平方英尺"
+        area_square_inch:
+          display_name: "平方英寸"
+          unit_pattern_count_other: "{0}平方英寸"
+          per_unit_pattern: "{0}/平方英寸"
+        consumption_liter_per_kilometer:
+          display_name: "升/公里"
+          unit_pattern_count_other: "每公里{0}升"
+        consumption_liter_per_100kilometers:
+          display_name: "升/100千米"
+          unit_pattern_count_other: "{0}升/100千米"
+        consumption_mile_per_gallon:
+          display_name: "英里/加仑"
+          unit_pattern_count_other: "每加仑{0}英里"
+        digital_terabyte:
+          display_name: "太字节"
+          unit_pattern_count_other: "{0}太字节"
+        digital_terabit:
+          display_name: "太比特"
+          unit_pattern_count_other: "{0}太比特"
+        digital_gigabyte:
+          display_name: "吉字节"
+          unit_pattern_count_other: "{0}吉字节"
+        digital_gigabit:
+          display_name: "吉比特"
+          unit_pattern_count_other: "{0}吉比特"
+        digital_megabyte:
+          display_name: "兆字节"
+          unit_pattern_count_other: "{0}兆字节"
+        digital_megabit:
+          display_name: "兆比特"
+          unit_pattern_count_other: "{0}兆比特"
+        digital_kilobyte:
+          display_name: "千字节"
+          unit_pattern_count_other: "{0}千字节"
+        digital_kilobit:
+          display_name: "千比特"
+          unit_pattern_count_other: "{0}千比特"
+        digital_byte:
+          display_name: "字节"
+          unit_pattern_count_other: "{0}字节"
+        digital_bit:
+          display_name: "比特"
+          unit_pattern_count_other: "{0}比特"
+        duration_century:
+          display_name: "世纪"
+          unit_pattern_count_other: "{0}世纪"
+        duration_year:
+          display_name: "年"
+          unit_pattern_count_other: "{0}年"
+          per_unit_pattern: "{0}/年"
+        duration_month:
+          display_name: "个月"
+          unit_pattern_count_other: "{0}个月"
+          per_unit_pattern: "{0}/月"
+        duration_week:
+          display_name: "周"
+          unit_pattern_count_other: "{0}周"
+          per_unit_pattern: "{0}/周"
+        duration_day:
+          display_name: "天"
+          unit_pattern_count_other: "{0}天"
+          per_unit_pattern: "{0}/天"
+        duration_hour:
+          display_name: "小时"
+          unit_pattern_count_other: "{0}小时"
+          per_unit_pattern: "{0}/小时"
+        duration_minute:
+          display_name: "分钟"
+          unit_pattern_count_other: "{0}分钟"
+          per_unit_pattern: "{0}/分钟"
+        duration_second:
+          display_name: "秒"
+          unit_pattern_count_other: "{0}秒"
+          per_unit_pattern: "{0}/秒"
+        duration_millisecond:
+          display_name: "毫秒"
+          unit_pattern_count_other: "{0}毫秒"
+        duration_microsecond:
+          display_name: "微秒"
+          unit_pattern_count_other: "{0}微秒"
+        duration_nanosecond:
+          display_name: "纳秒"
+          unit_pattern_count_other: "{0}纳秒"
+        electric_ampere:
+          display_name: "安培"
+          unit_pattern_count_other: "{0}安"
+        electric_milliampere:
+          display_name: "毫安"
+          unit_pattern_count_other: "{0}毫安"
+        electric_ohm:
+          display_name: "欧姆"
+          unit_pattern_count_other: "{0}欧"
+        electric_volt:
+          display_name: "伏特"
+          unit_pattern_count_other: "{0}伏"
+        energy_kilocalorie:
+          display_name: "千卡"
+          unit_pattern_count_other: "{0}千卡"
+        energy_calorie:
+          display_name: "卡"
+          unit_pattern_count_other: "{0}卡"
+        energy_foodcalorie:
+          display_name: "卡"
+          unit_pattern_count_other: "{0}卡"
+        energy_kilojoule:
+          display_name: "千焦"
+          unit_pattern_count_other: "{0}千焦"
+        energy_joule:
+          display_name: "焦耳"
+          unit_pattern_count_other: "{0}焦耳"
+        energy_kilowatt_hour:
+          display_name: "千瓦时"
+          unit_pattern_count_other: "{0}千瓦时"
+        frequency_gigahertz:
+          display_name: "吉赫"
+          unit_pattern_count_other: "{0}吉赫"
+        frequency_megahertz:
+          display_name: "兆赫"
+          unit_pattern_count_other: "{0}兆赫"
+        frequency_kilohertz:
+          display_name: "千赫"
+          unit_pattern_count_other: "{0}千赫"
+        frequency_hertz:
+          display_name: "赫兹"
+          unit_pattern_count_other: "{0}赫"
+        length_kilometer:
+          display_name: "公里"
+          unit_pattern_count_other: "{0}公里"
+          per_unit_pattern: "{0}/公里"
+        length_meter:
+          display_name: "米"
+          unit_pattern_count_other: "{0}米"
+          per_unit_pattern: "{0}/米"
+        length_decimeter:
+          display_name: "分米"
+          unit_pattern_count_other: "{0}分米"
+        length_centimeter:
+          display_name: "厘米"
+          unit_pattern_count_other: "{0}厘米"
+          per_unit_pattern: "{0}/厘米"
+        length_millimeter:
+          display_name: "毫米"
+          unit_pattern_count_other: "{0}毫米"
+        length_micrometer:
+          display_name: "微米"
+          unit_pattern_count_other: "{0}微米"
+        length_nanometer:
+          display_name: "纳米"
+          unit_pattern_count_other: "{0}纳米"
+        length_picometer:
+          display_name: "皮米"
+          unit_pattern_count_other: "{0} 皮米"
+        length_mile:
+          display_name: "英里"
+          unit_pattern_count_other: "{0}英里"
+        length_yard:
+          display_name: "码"
+          unit_pattern_count_other: "{0} 码"
+        length_foot:
+          display_name: "英尺"
+          unit_pattern_count_other: "{0}英尺"
+          per_unit_pattern: "{0}/英尺"
+        length_inch:
+          display_name: "英寸"
+          unit_pattern_count_other: "{0}英寸"
+          per_unit_pattern: "{0}/英寸"
+        length_parsec:
+          display_name: "秒差距"
+          unit_pattern_count_other: "{0}秒差距"
+        length_light_year:
+          display_name: "光年"
+          unit_pattern_count_other: "{0}光年"
+        length_astronomical_unit:
+          display_name: "天文单位"
+          unit_pattern_count_other: "{0}天文单位"
+        length_furlong:
+          display_name: fur
+          unit_pattern_count_other: "{0} fur"
+        length_fathom:
+          display_name: fm
+          unit_pattern_count_other: "{0} fm"
+        length_nautical_mile:
+          display_name: "海里"
+          unit_pattern_count_other: "{0}海里"
+        length_mile_scandinavian:
+          display_name: "斯堪的纳维亚英里"
+          unit_pattern_count_other: "{0}斯堪的纳维亚英里"
+        light_lux:
+          display_name: "勒克斯"
+          unit_pattern_count_other: "{0}勒克斯"
+        mass_metric_ton:
+          display_name: "公吨"
+          unit_pattern_count_other: "{0}公吨"
+        mass_kilogram:
+          display_name: "千克"
+          unit_pattern_count_other: "{0}千克"
+          per_unit_pattern: "{0}/千克"
+        mass_gram:
+          display_name: "克"
+          unit_pattern_count_other: "{0}克"
+          per_unit_pattern: "{0}/克"
+        mass_milligram:
+          display_name: "毫克"
+          unit_pattern_count_other: "{0}毫克"
+        mass_microgram:
+          display_name: "微克"
+          unit_pattern_count_other: "{0}微克"
+        mass_ton:
+          display_name: "吨"
+          unit_pattern_count_other: "{0}吨"
+        mass_stone:
+          display_name: st
+          unit_pattern_count_other: "{0} st"
+        mass_pound:
+          display_name: "磅"
+          unit_pattern_count_other: "{0}磅"
+          per_unit_pattern: "{0}/磅"
+        mass_ounce:
+          display_name: "盎司"
+          unit_pattern_count_other: "{0}盎司"
+          per_unit_pattern: "{0}/盎司"
+        mass_ounce_troy:
+          display_name: "金衡制盎司"
+          unit_pattern_count_other: "{0}金衡制盎司"
+        mass_carat:
+          display_name: "克拉"
+          unit_pattern_count_other: "{0}克拉"
+        power_gigawatt:
+          display_name: "吉瓦"
+          unit_pattern_count_other: "{0}吉瓦"
+        power_megawatt:
+          display_name: "兆瓦"
+          unit_pattern_count_other: "{0}兆瓦"
+        power_kilowatt:
+          display_name: "千瓦"
+          unit_pattern_count_other: "{0}千瓦"
+        power_watt:
+          display_name: "瓦特"
+          unit_pattern_count_other: "{0}瓦"
+        power_milliwatt:
+          display_name: "毫瓦"
+          unit_pattern_count_other: "{0}毫瓦"
+        power_horsepower:
+          display_name: "马力"
+          unit_pattern_count_other: "{0}马力"
+        pressure_hectopascal:
+          display_name: "百帕斯卡"
+          unit_pattern_count_other: "{0}百帕"
+        pressure_millimeter_of_mercury:
+          display_name: "毫米汞柱"
+          unit_pattern_count_other: "{0}毫米汞柱"
+        pressure_pound_per_square_inch:
+          display_name: "磅/平方英寸"
+          unit_pattern_count_other: "每平方英寸{0}磅"
+        pressure_inch_hg:
+          display_name: "英寸汞柱"
+          unit_pattern_count_other: "{0}英寸汞柱"
+        pressure_millibar:
+          display_name: "毫巴"
+          unit_pattern_count_other: "{0}毫巴"
+        proportion_karat:
+          display_name: "克拉"
+          unit_pattern_count_other: "{0}克拉"
+        speed_kilometer_per_hour:
+          display_name: "千米/小时"
+          unit_pattern_count_other: "每小时{0}公里"
+        speed_meter_per_second:
+          display_name: "米/秒"
+          unit_pattern_count_other: "每秒{0}米"
+        speed_mile_per_hour:
+          display_name: "英里/小时"
+          unit_pattern_count_other: "每小时{0}英里"
+        speed_knot:
+          display_name: "海里/小时"
+          unit_pattern_count_other: "{0}海里/小时"
+        temperature_generic:
+          display_name: "°"
+          unit_pattern_count_other: "{0}°"
+        temperature_celsius:
+          display_name: "摄氏度"
+          unit_pattern_count_other: "{0}°C"
+        temperature_fahrenheit:
+          display_name: "华氏度"
+          unit_pattern_count_other: "{0}°F"
+        temperature_kelvin:
+          display_name: "开"
+          unit_pattern_count_other: "{0}K"
+        volume_cubic_kilometer:
+          display_name: "立方公里"
+          unit_pattern_count_other: "{0}立方公里"
+        volume_cubic_meter:
+          display_name: "立方米"
+          unit_pattern_count_other: "{0}立方米"
+          per_unit_pattern: "{0}/立方米"
+        volume_cubic_centimeter:
+          display_name: "立方厘米"
+          unit_pattern_count_other: "{0}立方厘米"
+          per_unit_pattern: "{0}/cm³"
+        volume_cubic_mile:
+          display_name: "立方英里"
+          unit_pattern_count_other: "{0}立方英里"
+        volume_cubic_yard:
+          display_name: "立方码"
+          unit_pattern_count_other: "{0}立方码"
+        volume_cubic_foot:
+          display_name: "立方英尺"
+          unit_pattern_count_other: "{0}立方英尺"
+        volume_cubic_inch:
+          display_name: "立方英寸"
+          unit_pattern_count_other: "{0}立方英寸"
+        volume_megaliter:
+          display_name: "兆升"
+          unit_pattern_count_other: "{0}兆升"
+        volume_hectoliter:
+          display_name: "公石"
+          unit_pattern_count_other: "{0}公石"
+        volume_liter:
+          display_name: "公升"
+          unit_pattern_count_other: "{0}升"
+          per_unit_pattern: "{0}/公升"
+        volume_deciliter:
+          display_name: "分升"
+          unit_pattern_count_other: "{0}分升"
+        volume_centiliter:
+          display_name: "厘升"
+          unit_pattern_count_other: "{0}厘升"
+        volume_milliliter:
+          display_name: "毫升"
+          unit_pattern_count_other: "{0}毫升"
+        volume_pint_metric:
+          display_name: "公制品脱"
+          unit_pattern_count_other: "{0}公制品脱"
+        volume_cup_metric:
+          display_name: "公制杯"
+          unit_pattern_count_other: "{0}公制杯"
+        volume_acre_foot:
+          display_name: "英亩英尺"
+          unit_pattern_count_other: "{0}英亩英尺"
+        volume_bushel:
+          display_name: bu
+          unit_pattern_count_other: "{0} bu"
+        volume_gallon:
+          display_name: "加仑"
+          unit_pattern_count_other: "{0}加仑"
+          per_unit_pattern: "{0}/加仑"
+        volume_quart:
+          display_name: "夸脱"
+          unit_pattern_count_other: "{0}夸脱"
+        volume_pint:
+          display_name: "品脱"
+          unit_pattern_count_other: "{0}品脱"
+        volume_cup:
+          display_name: "杯"
+          unit_pattern_count_other: "{0}杯"
+        volume_fluid_ounce:
+          display_name: "液盎司"
+          unit_pattern_count_other: "{0}液盎司"
+        volume_tablespoon:
+          display_name: "汤匙"
+          unit_pattern_count_other: "{0}汤匙"
+        volume_teaspoon:
+          display_name: "茶匙"
+          unit_pattern_count_other: "{0}茶匙"
+        coordinate_unit:
+          east: "东经{0}"
+          north: "北纬{0}"
+          south: "南纬{0}"
+          west: "西经{0}"
+      narrow:
+        per:
+          compound_unit_pattern: "{0}/{1}"
+        acceleration_g_force:
+          display_name: G力
+          unit_pattern_count_other: "{0}G"
+        acceleration_meter_per_second_squared:
+          display_name: "米/秒²"
+          unit_pattern_count_other: "{0}米/秒²"
+        angle_revolution:
+          display_name: "转"
+          unit_pattern_count_other: "{0}转"
+        angle_radian:
+          display_name: "弧度"
+          unit_pattern_count_other: "{0}弧度"
+        angle_degree:
+          display_name: "度"
+          unit_pattern_count_other: "{0}°"
+        angle_arc_minute:
+          display_name: "弧分"
+          unit_pattern_count_other: "{0}′"
+        angle_arc_second:
+          display_name: "弧秒"
+          unit_pattern_count_other: "{0}″"
+        area_square_kilometer:
+          display_name: "平方公里"
+          unit_pattern_count_other: "{0}km²"
+        area_hectare:
+          display_name: "公顷"
+          unit_pattern_count_other: "{0}ha"
+        area_square_meter:
+          display_name: "平方米"
+          unit_pattern_count_other: "{0}m²"
+          per_unit_pattern: "{0}/平方米"
+        area_square_centimeter:
+          display_name: "平方厘米"
+          unit_pattern_count_other: "{0}平方厘米"
+          per_unit_pattern: "{0}/平方厘米"
+        area_square_mile:
+          display_name: "平方英里"
+          unit_pattern_count_other: "{0}mi²"
+        area_acre:
+          display_name: "英亩"
+          unit_pattern_count_other: "{0}ac"
+        area_square_yard:
+          display_name: "平方码"
+          unit_pattern_count_other: "{0}平方码"
+        area_square_foot:
+          display_name: "平方英尺"
+          unit_pattern_count_other: "{0}ft²"
+        area_square_inch:
+          display_name: "平方英寸"
+          unit_pattern_count_other: "{0}平方英寸"
+          per_unit_pattern: "{0}/平方英寸"
+        consumption_liter_per_kilometer:
+          display_name: "升/公里"
+          unit_pattern_count_other: "每公里{0}升"
+        consumption_liter_per_100kilometers:
+          display_name: L/100km
+          unit_pattern_count_other: "{0}L/100km"
+        consumption_mile_per_gallon:
+          display_name: "英里/加仑"
+          unit_pattern_count_other: "每加仑{0}英里"
+        digital_terabyte:
+          display_name: "太字节"
+          unit_pattern_count_other: "{0}太字节"
+        digital_terabit:
+          display_name: "太比特"
+          unit_pattern_count_other: "{0}太比特"
+        digital_gigabyte:
+          display_name: "吉字节"
+          unit_pattern_count_other: "{0}吉字节"
+        digital_gigabit:
+          display_name: "吉比特"
+          unit_pattern_count_other: "{0}吉比特"
+        digital_megabyte:
+          display_name: "兆字节"
+          unit_pattern_count_other: "{0}兆字节"
+        digital_megabit:
+          display_name: "兆比特"
+          unit_pattern_count_other: "{0}兆比特"
+        digital_kilobyte:
+          display_name: "千字节"
+          unit_pattern_count_other: "{0}千字节"
+        digital_kilobit:
+          display_name: "千比特"
+          unit_pattern_count_other: "{0}千比特"
+        digital_byte:
+          display_name: "字节"
+          unit_pattern_count_other: "{0}字节"
+        digital_bit:
+          display_name: "比特"
+          unit_pattern_count_other: "{0}比特"
+        duration_century:
+          display_name: "世纪"
+          unit_pattern_count_other: "{0}世纪"
+        duration_year:
+          display_name: "年"
+          unit_pattern_count_other: "{0}年"
+          per_unit_pattern: "{0}/年"
+        duration_month:
+          display_name: "个月"
+          unit_pattern_count_other: "{0}个月"
+          per_unit_pattern: "{0}/月"
+        duration_week:
+          display_name: "周"
+          unit_pattern_count_other: "{0}周"
+          per_unit_pattern: "{0}/周"
+        duration_day:
+          display_name: "天"
+          unit_pattern_count_other: "{0}天"
+          per_unit_pattern: "{0}/天"
+        duration_hour:
+          display_name: "小时"
+          unit_pattern_count_other: "{0}小时"
+          per_unit_pattern: "{0}/小时"
+        duration_minute:
+          display_name: "分钟"
+          unit_pattern_count_other: "{0}分钟"
+          per_unit_pattern: "{0}/分钟"
+        duration_second:
+          display_name: "秒"
+          unit_pattern_count_other: "{0}秒"
+          per_unit_pattern: "{0}/秒"
+        duration_millisecond:
+          display_name: "毫秒"
+          unit_pattern_count_other: "{0}毫秒"
+        duration_microsecond:
+          display_name: "微秒"
+          unit_pattern_count_other: "{0}微秒"
+        duration_nanosecond:
+          display_name: "纳秒"
+          unit_pattern_count_other: "{0}纳秒"
+        electric_ampere:
+          display_name: "安培"
+          unit_pattern_count_other: "{0}安"
+        electric_milliampere:
+          display_name: "毫安"
+          unit_pattern_count_other: "{0}毫安"
+        electric_ohm:
+          display_name: "欧姆"
+          unit_pattern_count_other: "{0}欧"
+        electric_volt:
+          display_name: "伏特"
+          unit_pattern_count_other: "{0}伏"
+        energy_kilocalorie:
+          display_name: "千卡"
+          unit_pattern_count_other: "{0}千卡"
+        energy_calorie:
+          display_name: "卡"
+          unit_pattern_count_other: "{0}卡"
+        energy_foodcalorie:
+          display_name: "卡"
+          unit_pattern_count_other: "{0}卡"
+        energy_kilojoule:
+          display_name: "千焦"
+          unit_pattern_count_other: "{0}千焦"
+        energy_joule:
+          display_name: "焦耳"
+          unit_pattern_count_other: "{0}焦耳"
+        energy_kilowatt_hour:
+          display_name: "千瓦时"
+          unit_pattern_count_other: "{0}千瓦时"
+        frequency_gigahertz:
+          display_name: "吉赫"
+          unit_pattern_count_other: "{0}吉赫"
+        frequency_megahertz:
+          display_name: "兆赫"
+          unit_pattern_count_other: "{0}兆赫"
+        frequency_kilohertz:
+          display_name: "千赫"
+          unit_pattern_count_other: "{0}千赫"
+        frequency_hertz:
+          display_name: "赫兹"
+          unit_pattern_count_other: "{0}赫"
+        length_kilometer:
+          display_name: "公里"
+          unit_pattern_count_other: "{0}公里"
+          per_unit_pattern: "{0}/公里"
+        length_meter:
+          display_name: "米"
+          unit_pattern_count_other: "{0}米"
+          per_unit_pattern: "{0}/米"
+        length_decimeter:
+          display_name: "分米"
+          unit_pattern_count_other: "{0}分米"
+        length_centimeter:
+          display_name: "厘米"
+          unit_pattern_count_other: "{0}厘米"
+          per_unit_pattern: "{0}/厘米"
+        length_millimeter:
+          display_name: "毫米"
+          unit_pattern_count_other: "{0}毫米"
+        length_micrometer:
+          display_name: "微米"
+          unit_pattern_count_other: "{0}微米"
+        length_nanometer:
+          display_name: "纳米"
+          unit_pattern_count_other: "{0}纳米"
+        length_picometer:
+          display_name: "皮米"
+          unit_pattern_count_other: "{0}pm"
+        length_mile:
+          display_name: "英里"
+          unit_pattern_count_other: "{0}mi"
+        length_yard:
+          display_name: "码"
+          unit_pattern_count_other: "{0}yd"
+        length_foot:
+          display_name: "英尺"
+          unit_pattern_count_other: "{0}′"
+          per_unit_pattern: "{0}/英尺"
+        length_inch:
+          display_name: "英寸"
+          unit_pattern_count_other: "{0}″"
+          per_unit_pattern: "{0}/英寸"
+        length_parsec:
+          display_name: "秒差距"
+          unit_pattern_count_other: "{0}秒差距"
+        length_light_year:
+          display_name: "光年"
+          unit_pattern_count_other: "{0}ly"
+        length_astronomical_unit:
+          display_name: "天文单位"
+          unit_pattern_count_other: "{0}天文单位"
+        length_furlong:
+          display_name: fur
+          unit_pattern_count_other: "{0} fur"
+        length_fathom:
+          display_name: fm
+          unit_pattern_count_other: "{0} fm"
+        length_nautical_mile:
+          display_name: "海里"
+          unit_pattern_count_other: "{0}海里"
+        length_mile_scandinavian:
+          display_name: "斯堪的纳维亚英里"
+          unit_pattern_count_other: "{0}斯堪的纳维亚英里"
+        light_lux:
+          display_name: "勒克斯"
+          unit_pattern_count_other: "{0}勒克斯"
+        mass_metric_ton:
+          display_name: "公吨"
+          unit_pattern_count_other: "{0}公吨"
+        mass_kilogram:
+          display_name: "千克"
+          unit_pattern_count_other: "{0}千克"
+          per_unit_pattern: "{0}/千克"
+        mass_gram:
+          display_name: "克"
+          unit_pattern_count_other: "{0}克"
+          per_unit_pattern: "{0}/克"
+        mass_milligram:
+          display_name: "毫克"
+          unit_pattern_count_other: "{0}毫克"
+        mass_microgram:
+          display_name: "微克"
+          unit_pattern_count_other: "{0}微克"
+        mass_ton:
+          display_name: "吨"
+          unit_pattern_count_other: "{0}吨"
+        mass_stone:
+          display_name: st
+          unit_pattern_count_other: "{0} st"
+        mass_pound:
+          display_name: "磅"
+          unit_pattern_count_other: "{0}磅"
+          per_unit_pattern: "{0}/磅"
+        mass_ounce:
+          display_name: "盎司"
+          unit_pattern_count_other: "{0}盎司"
+          per_unit_pattern: "{0}/盎司"
+        mass_ounce_troy:
+          display_name: "金衡制盎司"
+          unit_pattern_count_other: "{0}金衡制盎司"
+        mass_carat:
+          display_name: "克拉"
+          unit_pattern_count_other: "{0}克拉"
+        power_gigawatt:
+          display_name: "吉瓦"
+          unit_pattern_count_other: "{0}吉瓦"
+        power_megawatt:
+          display_name: "兆瓦"
+          unit_pattern_count_other: "{0}兆瓦"
+        power_kilowatt:
+          display_name: "千瓦"
+          unit_pattern_count_other: "{0}kW"
+        power_watt:
+          display_name: "瓦特"
+          unit_pattern_count_other: "{0}W"
+        power_milliwatt:
+          display_name: "毫瓦"
+          unit_pattern_count_other: "{0}毫瓦"
+        power_horsepower:
+          display_name: "马力"
+          unit_pattern_count_other: "{0}hp"
+        pressure_hectopascal:
+          display_name: "百帕斯卡"
+          unit_pattern_count_other: "{0}hPa"
+        pressure_millimeter_of_mercury:
+          display_name: "毫米汞柱"
+          unit_pattern_count_other: "{0}毫米汞柱"
+        pressure_pound_per_square_inch:
+          display_name: "磅/平方英寸"
+          unit_pattern_count_other: "每平方英寸{0}磅"
+        pressure_inch_hg:
+          display_name: "英寸汞柱"
+          unit_pattern_count_other: '{0}\" Hg'
+        pressure_millibar:
+          display_name: "毫巴"
+          unit_pattern_count_other: "{0}mb"
+        proportion_karat:
+          display_name: "克拉"
+          unit_pattern_count_other: "{0}克拉"
+        speed_kilometer_per_hour:
+          display_name: "千米/小时"
+          unit_pattern_count_other: "每小时{0}公里"
+        speed_meter_per_second:
+          display_name: "米/秒"
+          unit_pattern_count_other: "{0}m/s"
+        speed_mile_per_hour:
+          display_name: "英里/小时"
+          unit_pattern_count_other: "{0}mi/h"
+        speed_knot:
+          display_name: "海里/小时"
+          unit_pattern_count_other: "{0}海里/小时"
+        temperature_generic:
+          display_name: "°"
+          unit_pattern_count_other: "{0}°"
+        temperature_celsius:
+          display_name: "°C"
+          unit_pattern_count_other: "{0}°"
+        temperature_fahrenheit:
+          display_name: "华氏度"
+          unit_pattern_count_other: "{0}°F"
+        temperature_kelvin:
+          display_name: "开"
+          unit_pattern_count_other: "{0}K"
+        volume_cubic_kilometer:
+          display_name: "立方公里"
+          unit_pattern_count_other: "{0}km³"
+        volume_cubic_meter:
+          display_name: "立方米"
+          unit_pattern_count_other: "{0}立方米"
+          per_unit_pattern: "{0}/立方米"
+        volume_cubic_centimeter:
+          display_name: "立方厘米"
+          unit_pattern_count_other: "{0}立方厘米"
+          per_unit_pattern: "{0}/cm³"
+        volume_cubic_mile:
+          display_name: "立方英里"
+          unit_pattern_count_other: "{0}mi³"
+        volume_cubic_yard:
+          display_name: "立方码"
+          unit_pattern_count_other: "{0}立方码"
+        volume_cubic_foot:
+          display_name: "立方英尺"
+          unit_pattern_count_other: "{0}立方英尺"
+        volume_cubic_inch:
+          display_name: "立方英寸"
+          unit_pattern_count_other: "{0}立方英寸"
+        volume_megaliter:
+          display_name: "兆升"
+          unit_pattern_count_other: "{0}兆升"
+        volume_hectoliter:
+          display_name: "公石"
+          unit_pattern_count_other: "{0}公石"
+        volume_liter:
+          display_name: "升"
+          unit_pattern_count_other: "{0}升"
+          per_unit_pattern: "{0}/公升"
+        volume_deciliter:
+          display_name: "分升"
+          unit_pattern_count_other: "{0}分升"
+        volume_centiliter:
+          display_name: "厘升"
+          unit_pattern_count_other: "{0}厘升"
+        volume_milliliter:
+          display_name: "毫升"
+          unit_pattern_count_other: "{0}毫升"
+        volume_pint_metric:
+          display_name: "公制品脱"
+          unit_pattern_count_other: "{0}公制品脱"
+        volume_cup_metric:
+          display_name: "公制杯"
+          unit_pattern_count_other: "{0}公制杯"
+        volume_acre_foot:
+          display_name: "英亩英尺"
+          unit_pattern_count_other: "{0}英亩英尺"
+        volume_bushel:
+          display_name: bu
+          unit_pattern_count_other: "{0} bu"
+        volume_gallon:
+          display_name: "加仑"
+          unit_pattern_count_other: "{0}加仑"
+          per_unit_pattern: "{0}/加仑"
+        volume_quart:
+          display_name: "夸脱"
+          unit_pattern_count_other: "{0}夸脱"
+        volume_pint:
+          display_name: "品脱"
+          unit_pattern_count_other: "{0}品脱"
+        volume_cup:
+          display_name: "杯"
+          unit_pattern_count_other: "{0}杯"
+        volume_fluid_ounce:
+          display_name: "液盎司"
+          unit_pattern_count_other: "{0}液盎司"
+        volume_tablespoon:
+          display_name: "汤匙"
+          unit_pattern_count_other: "{0}汤匙"
+        volume_teaspoon:
+          display_name: "茶匙"
+          unit_pattern_count_other: "{0}茶匙"
+        coordinate_unit:
+          east: "{0}E"
+          north: "{0}N"
+          south: "{0}S"
+          west: "{0}W"
+      duration_unit_type_hm:
+        duration_unit_pattern: h:mm
+      duration_unit_type_hms:
+        duration_unit_pattern: h:mm:ss
+      duration_unit_type_ms:
+        duration_unit_pattern: m:ss

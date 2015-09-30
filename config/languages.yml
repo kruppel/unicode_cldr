@@ -1,0 +1,311 @@
+---
+en_us:
+  name: English
+  id: 1
+  unicode_code: en-US
+  territory: US
+en_ca:
+  name: English (Canada)
+  id: 1181
+  unicode_code: en-CA
+  territory: CA
+en_gb:
+  name: English (UK)
+  id: 1176
+  unicode_code: en-GB
+  territory: GB
+fr:
+  name: Français
+  id: 16
+  unicode_code: fr
+  territory: FR
+fr_ca:
+  name: Français (Canada)
+  id: 1187
+  unicode_code: fr-CA
+  territory: CA
+es:
+  name: Español
+  id: 2
+  unicode_code: es
+  territory: MX
+ja:
+  name: 日本語 (Japanese)
+  id: 67
+  unicode_code: ja
+  territory: JP
+pt_br:
+  name: Português (Brasil)
+  id: 19
+  unicode_code: pt-BR
+  territory: BR
+de:
+  name: Deutsch
+  id: 8
+  unicode_code: de
+  territory: DE
+es_419:
+  name: Español (Latinoamérica)
+  id: 1194
+  unicode_code: es-419
+  territory: MX
+it:
+  name: Italiano
+  id: 22
+  unicode_code: it
+  territory: IT
+nl:
+  name: Nederlands (Dutch)
+  id: 1005
+  unicode_code: nl
+  territory: NL
+ru:
+  name: Русский
+  id: 27
+  unicode_code: ru
+  territory: RU
+zh_tw:
+  name: 繁體中文 (Traditional Chinese)
+  id: 9
+  unicode_code: zh-Hant
+  territory: TW
+zh_cn:
+  name: 简体中文 (Simplified Chinese)
+  id: 10
+  unicode_code: zh-Hans
+  territory: CN
+ko:
+  name: 한국어 (Korean)
+  id: 69
+  unicode_code: ko
+  territory: KR
+da:
+  name: Dansk
+  id: 1000
+  unicode_code: da
+  territory: DK
+'no':
+  name: Norsk
+  id: 34
+  unicode_code: nb-NO
+  territory: 'NO'
+tr:
+  name: Türkçe
+  id: 88
+  unicode_code: tr
+  territory: TR
+sv:
+  name: Svenska
+  id: 92
+  unicode_code: sv
+  territory: SE
+pl:
+  name: Polski (Polish)
+  id: 13
+  unicode_code: pl
+  territory: PL
+fi:
+  name: Suomi (Finnish)
+  id: 84
+  unicode_code: fi
+  territory: FI
+ar:
+  name: Arabic
+  id: 66
+  unicode_code: ar
+  territory: EG
+he:
+  name: עִבְרִית (Hebrew)
+  id: 30
+  unicode_code: he
+  territory: IL
+id:
+  name: Indonesian
+  id: 77
+  unicode_code: id
+  territory: ID
+th:
+  name: Thai (ไทย)
+  id: 81
+  unicode_code: th
+  territory: TH
+pt:
+  name: Português (Portugal)
+  id: 1011
+  unicode_code: pt
+  territory: PT
+cs:
+  name: Čeština
+  id: 78
+  unicode_code: cs
+  territory: CZ
+el:
+  name: Ελληνικά (Greek)
+  id: 93
+  unicode_code: el
+  territory: GR
+vi:
+  name: Vietnamese
+  id: 26
+  unicode_code: vi
+  territory: VN
+hi:
+  name: हिंदी
+  id: 1303
+  unicode_code: hi
+  territory: IN
+ca:
+  name: Català (Catalan)
+  id: 1075
+  unicode_code: ca
+  territory: ES
+hr:
+  name: Hrvatski
+  id: 74
+  unicode_code: hr
+  territory: HR
+hu:
+  name: Magyar
+  id: 1009
+  unicode_code: hu
+  territory: HU
+is:
+  name: Íslenska
+  id: 24
+  unicode_code: is
+  territory: IS
+lv:
+  name: Latvian
+  id: 1101
+  unicode_code: lv
+  territory: LV
+ro:
+  name: Romana
+  id: 23
+  unicode_code: ro
+  territory: RO
+sl:
+  name: Slovenian
+  id: 72
+  unicode_code: sl
+  territory: SI
+uk:
+  name: Українська
+  id: 1173
+  unicode_code: uk
+  territory: UA
+sr:
+  name: Srpski
+  id: 1150
+  unicode_code: sr
+  territory: RS
+bs:
+  name: Bosnian
+  id: 1008
+  unicode_code: bs
+  territory: BA
+bg:
+  name: Bulgarian
+  id: 94
+  unicode_code: bg
+  territory: BG
+et:
+  name: Eesti keel (Estonian)
+  id: 101
+  unicode_code: et
+  territory: EE
+ka:
+  name: ქართული
+  id: 1267
+  unicode_code: ka
+  territory: GE
+lt:
+  name: Lietuvių kalba
+  id: 1092
+  unicode_code: lt
+  territory: LT
+fil:
+  name: Filipino
+  id: 47
+  unicode_code: fil
+  territory: PH
+sk:
+  name: Slovak
+  id: 1003
+  unicode_code: sk
+  territory: SK
+sr_me:
+  name: Montenegrin
+  id: 1298
+  unicode_code: sr-Latn-ME
+  territory: ME
+es_es:
+  name: Español (España)
+  id: 1186
+  unicode_code: es-ES
+  territory: ES
+ms:
+  name: Bahasa Melayu
+  id: 1307
+  unicode_code: ms
+  territory: MY
+ar_eg:
+  name: Arabic (Egypt)
+  id: 1287
+  unicode_code: ar-EG
+  territory: EG
+de_at:
+  name: Deutsch (Austria)
+  id: 1294
+  unicode_code: de-AT
+  territory: AT
+de_ch:
+  name: Deutsch (Switzerland)
+  id: 1295
+  unicode_code: de-CH
+  territory: CH
+fr_ch:
+  name: French (Switzerland)
+  id: 1292
+  unicode_code: fr-CH
+  territory: CH
+fr_be:
+  name: French (Belgium)
+  id: 1291
+  unicode_code: fr-BE
+  territory: BE
+nl_be:
+  name: Dutch (Belgium)
+  id: 1293
+  unicode_code: nl-BE
+  territory: BE
+en_au:
+  name: English (AU)
+  id: 1277
+  unicode_code: en-AU
+  territory: AU
+en_ie:
+  name: English (IE)
+  id: 1279
+  unicode_code: en-IE
+  territory: IE
+en_nz:
+  name: English (New Zealand)
+  id: 1288
+  unicode_code: en-NZ
+  territory: NZ
+en_be:
+  name: English (Belgium)
+  id: 1350
+  unicode_code: en-BE
+  territory: BE
+es_MX:
+  name: Español (Mexico)
+  id: 1364
+  unicode_code: es-MX
+  territory: MX
+fr_FR:
+  name: Français (France)
+  id: 1365
+  unicode_code: fr-FR
+  territory: FR

@@ -1,0 +1,4909 @@
+---
+vi:
+  cldr:
+    dates:
+      calendars:
+        gregorian:
+          months:
+            format:
+              abbreviated:
+                '1': thg 1
+                '2': thg 2
+                '3': thg 3
+                '4': thg 4
+                '5': thg 5
+                '6': thg 6
+                '7': thg 7
+                '8': thg 8
+                '9': thg 9
+                '10': thg 10
+                '11': thg 11
+                '12': thg 12
+              narrow:
+                '1': '1'
+                '2': '2'
+                '3': '3'
+                '4': '4'
+                '5': '5'
+                '6': '6'
+                '7': '7'
+                '8': '8'
+                '9': '9'
+                '10': '10'
+                '11': '11'
+                '12': '12'
+              wide:
+                '1': tháng 1
+                '2': tháng 2
+                '3': tháng 3
+                '4': tháng 4
+                '5': tháng 5
+                '6': tháng 6
+                '7': tháng 7
+                '8': tháng 8
+                '9': tháng 9
+                '10': tháng 10
+                '11': tháng 11
+                '12': tháng 12
+            stand_alone:
+              abbreviated:
+                '1': Thg 1
+                '2': Thg 2
+                '3': Thg 3
+                '4': Thg 4
+                '5': Thg 5
+                '6': Thg 6
+                '7': Thg 7
+                '8': Thg 8
+                '9': Thg 9
+                '10': Thg 10
+                '11': Thg 11
+                '12': Thg 12
+              narrow:
+                '1': '1'
+                '2': '2'
+                '3': '3'
+                '4': '4'
+                '5': '5'
+                '6': '6'
+                '7': '7'
+                '8': '8'
+                '9': '9'
+                '10': '10'
+                '11': '11'
+                '12': '12'
+              wide:
+                '1': Tháng 1
+                '2': Tháng 2
+                '3': Tháng 3
+                '4': Tháng 4
+                '5': Tháng 5
+                '6': Tháng 6
+                '7': Tháng 7
+                '8': Tháng 8
+                '9': Tháng 9
+                '10': Tháng 10
+                '11': Tháng 11
+                '12': Tháng 12
+          days:
+            format:
+              abbreviated:
+                sun: CN
+                mon: Th 2
+                tue: Th 3
+                wed: Th 4
+                thu: Th 5
+                fri: Th 6
+                sat: Th 7
+              narrow:
+                sun: CN
+                mon: T2
+                tue: T3
+                wed: T4
+                thu: T5
+                fri: T6
+                sat: T7
+              short:
+                sun: CN
+                mon: T2
+                tue: T3
+                wed: T4
+                thu: T5
+                fri: T6
+                sat: T7
+              wide:
+                sun: Chủ Nhật
+                mon: Thứ Hai
+                tue: Thứ Ba
+                wed: Thứ Tư
+                thu: Thứ Năm
+                fri: Thứ Sáu
+                sat: Thứ Bảy
+            stand_alone:
+              abbreviated:
+                sun: CN
+                mon: Th 2
+                tue: Th 3
+                wed: Th 4
+                thu: Th 5
+                fri: Th 6
+                sat: Th 7
+              narrow:
+                sun: CN
+                mon: T2
+                tue: T3
+                wed: T4
+                thu: T5
+                fri: T6
+                sat: T7
+              short:
+                sun: CN
+                mon: T2
+                tue: T3
+                wed: T4
+                thu: T5
+                fri: T6
+                sat: T7
+              wide:
+                sun: Chủ Nhật
+                mon: Thứ Hai
+                tue: Thứ Ba
+                wed: Thứ Tư
+                thu: Thứ Năm
+                fri: Thứ Sáu
+                sat: Thứ Bảy
+          quarters:
+            format:
+              abbreviated:
+                '1': Q1
+                '2': Q2
+                '3': Q3
+                '4': Q4
+              narrow:
+                '1': '1'
+                '2': '2'
+                '3': '3'
+                '4': '4'
+              wide:
+                '1': Quý 1
+                '2': Quý 2
+                '3': Quý 3
+                '4': Quý 4
+            stand_alone:
+              abbreviated:
+                '1': Q1
+                '2': Q2
+                '3': Q3
+                '4': Q4
+              narrow:
+                '1': '1'
+                '2': '2'
+                '3': '3'
+                '4': '4'
+              wide:
+                '1': quý 1
+                '2': quý 2
+                '3': quý 3
+                '4': quý 4
+          day_periods:
+            format:
+              abbreviated:
+                midnight: nửa đêm
+                am: SA
+                noon: TR
+                pm: CH
+                morning1: sáng
+                afternoon1: chiều
+                evening1: tối
+                night1: "đêm"
+              narrow:
+                midnight: nửa đêm
+                am: s
+                noon: tr
+                pm: c
+                morning1: sáng
+                afternoon1: chiều
+                evening1: tối
+                night1: "đêm"
+              wide:
+                midnight: nửa đêm
+                am: SA
+                noon: TR
+                pm: CH
+                morning1: sáng
+                afternoon1: chiều
+                evening1: tối
+                night1: "đêm"
+            stand_alone:
+              abbreviated:
+                midnight: nửa đêm
+                am: SA
+                noon: TR
+                pm: CH
+                morning1: sáng
+                afternoon1: chiều
+                evening1: tối
+                night1: "đêm"
+              narrow:
+                midnight: nửa đêm
+                am: SA
+                noon: trưa
+                pm: CH
+                morning1: sáng
+                afternoon1: chiều
+                evening1: tối
+                night1: "đêm"
+              wide:
+                midnight: nửa đêm
+                am: SA
+                noon: trưa
+                pm: CH
+                morning1: sáng
+                afternoon1: chiều
+                evening1: tối
+                night1: "đêm"
+          eras:
+            era_names:
+              '0': tr. CN
+              0_alt_variant: BCE
+              '1': sau CN
+              1_alt_variant: CE
+            era_abbr:
+              '0': tr. CN
+              0_alt_variant: BCE
+              '1': sau CN
+              1_alt_variant: CE
+            era_narrow:
+              '0': tr. CN
+              0_alt_variant: BCE
+              '1': sau CN
+              1_alt_variant: CE
+          date_formats:
+            full: EEEE, 'ngày' dd MMMM 'năm' y
+            long: "'Ngày' dd 'tháng' MM 'năm' y"
+            medium: d MMM, y
+            short: dd/MM/y
+          time_formats:
+            full: HH:mm:ss zzzz
+            long: HH:mm:ss z
+            medium: HH:mm:ss
+            short: HH:mm
+          date_time_formats:
+            full: "{0} {1}"
+            long: "{0} {1}"
+            medium: "{0}, {1}"
+            short: "{0}, {1}"
+            available_formats:
+              d: d
+              e: ccc
+              ed: E, 'ngày' d
+              ehm: E h:mm a
+              e_hm: E HH:mm
+              ehms: E h:mm:ss a
+              e_hms: E HH:mm:ss
+              gy: y G
+              gy_mmm: MMM y G
+              gy_mm_md: dd MMM, y G
+              gy_mmm_ed: E, d MMM, y G
+              h: HH
+              hm: H:mm
+              hms: HH:mm:ss
+              hmsv: HH:mm:ss v
+              hmv: HH:mm v
+              m: L
+              md: dd/M
+              m_ed: E, dd/M
+              m_mdd: dd-MM
+              mmm: LLL
+              mm_md: d MMM
+              mmm_ed: E, d MMM
+              mmm_md: d MMMM
+              mmmm_ed: E, d MMMM
+              mmss: mm:ss
+              ms: mm:ss
+              y: y
+              y_m: M/y
+              y_md: d/M/y
+              y_m_ed: E, dd/M/y
+              y_mm: "'tháng' MM, y"
+              y_mmm: MMM y
+              y_mm_md: d MMM, y
+              y_mmm_ed: E, d MMM, y
+              y_mmmm: MMMM 'năm' y
+              y_qqq: QQQ y
+              y_qqqq: QQQQ 'năm' y
+            append_items:
+              day: "{0} ({2}: {1})"
+              day_of_week: "{0} {1}"
+              era: "{1} {0}"
+              hour: "{0} ({2}: {1})"
+              minute: "{0} ({2}: {1})"
+              month: "{0} ({2}: {1})"
+              quarter: "{0} ({2}: {1})"
+              second: "{0} ({2}: {1})"
+              timezone: "{0} {1}"
+              week: "{0} ({2}: {1})"
+              year: "{1} {0}"
+            interval_formats:
+              interval_format_fallback: "{0} - {1}"
+              d:
+                d: "'Ngày' dd–dd"
+              h:
+                h: HH–HH
+              hm:
+                h: HH:mm–HH:mm
+                m: HH:mm–HH:mm
+              hmv:
+                h: HH:mm–HH:mm v
+                m: HH:mm–HH:mm v
+              hv:
+                h: HH–HH v
+              m:
+                m: "'Tháng' M – M"
+              md:
+                d: dd/MM – dd/MM
+                m: dd/MM – dd/MM
+              m_ed:
+                d: EEEE, dd/MM – EEEE, dd/MM
+                m: EEEE, dd/MM – EEEE, dd/MM
+              mmm:
+                m: MMM–MMM
+              mm_md:
+                d: "'Ngày' dd - 'Ngày' dd 'tháng' M"
+                m: "'Ngày' dd 'tháng' M - 'Ngày' dd 'tháng' M"
+              mmm_ed:
+                d: E, d MMM – E, d MMM
+                m: E, d MMM – E, d MMM
+              y:
+                y: y–y
+              y_m:
+                m: MM/y – MM/y
+                y: MM/y – MM/y
+              y_md:
+                d: dd/MM/y – dd/MM/y
+                m: dd/MM/y – dd/MM/y
+                y: dd/MM/y – dd/MM/y
+              y_m_ed:
+                d: EEEE, dd/MM/y – EEEE, dd/MM/y
+                m: EEEE, dd/MM/y – EEEE, dd/MM/y
+                y: EEEE, dd/MM/y – EEEE, dd/MM/y
+              y_mmm:
+                m: "'Tháng' M - 'Tháng' M 'năm' y"
+                y: "'Tháng' M 'năm' y - 'Tháng' M 'năm' y"
+              y_mm_md:
+                d: d – d MMM, y
+                m: d MMM – d MMM, y
+                y: "'Ngày' dd 'tháng' M 'năm' y - 'Ngày' dd 'tháng' M 'năm' y"
+              y_mmm_ed:
+                d: EEEE, 'ngày' dd MMM – EEEE, 'ngày' dd MMM 'năm' y
+                m: E, dd 'tháng' M – E, dd 'tháng' M, y
+                y: E, dd 'tháng' M, y – E, dd 'tháng' M, y
+              y_mmmm:
+                m: MMMM–MMMM 'năm' y
+                y: MMMM, y – MMMM, y
+      fields:
+        era:
+          display_name: Thời đại
+        year:
+          display_name: Năm
+          relative_type__1: năm ngoái
+          relative_type_0: năm nay
+          relative_type_1: năm sau
+          relative_time_type_future:
+            relative_time_pattern_count_other: sau {0} năm nữa
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} năm trước"
+        year_short:
+          display_name: Năm
+          relative_type__1: năm ngoái
+          relative_type_0: năm nay
+          relative_type_1: năm sau
+          relative_time_type_future:
+            relative_time_pattern_count_other: sau {0} năm nữa
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} năm trước"
+        year_narrow:
+          display_name: Năm
+          relative_type__1: năm ngoái
+          relative_type_0: năm nay
+          relative_type_1: năm sau
+          relative_time_type_future:
+            relative_time_pattern_count_other: sau {0} năm nữa
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} năm trước"
+        quarter:
+          display_name: Quý
+          relative_type__1: quý trước
+          relative_type_0: quý này
+          relative_type_1: quý sau
+          relative_time_type_future:
+            relative_time_pattern_count_other: sau {0} quý nữa
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} quý trước"
+        quarter_short:
+          display_name: Quý
+          relative_type__1: quý trước
+          relative_type_0: quý này
+          relative_type_1: quý sau
+          relative_time_type_future:
+            relative_time_pattern_count_other: sau {0} quý nữa
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} quý trước"
+        quarter_narrow:
+          display_name: Quý
+          relative_type__1: quý trước
+          relative_type_0: quý này
+          relative_type_1: quý sau
+          relative_time_type_future:
+            relative_time_pattern_count_other: sau {0} quý nữa
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} quý trước"
+        month:
+          display_name: Tháng
+          relative_type__1: tháng trước
+          relative_type_0: tháng này
+          relative_type_1: tháng sau
+          relative_time_type_future:
+            relative_time_pattern_count_other: sau {0} tháng nữa
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} tháng trước"
+        month_short:
+          display_name: Tháng
+          relative_type__1: tháng trước
+          relative_type_0: tháng này
+          relative_type_1: tháng sau
+          relative_time_type_future:
+            relative_time_pattern_count_other: sau {0} tháng nữa
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} tháng trước"
+        month_narrow:
+          display_name: Tháng
+          relative_type__1: tháng trước
+          relative_type_0: tháng này
+          relative_type_1: tháng sau
+          relative_time_type_future:
+            relative_time_pattern_count_other: sau {0} tháng nữa
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} tháng trước"
+        week:
+          display_name: Tuần
+          relative_type__1: tuần trước
+          relative_type_0: tuần này
+          relative_type_1: tuần sau
+          relative_time_type_future:
+            relative_time_pattern_count_other: sau {0} tuần nữa
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} tuần trước"
+        week_short:
+          display_name: Tuần
+          relative_type__1: tuần trước
+          relative_type_0: tuần này
+          relative_type_1: tuần sau
+          relative_time_type_future:
+            relative_time_pattern_count_other: sau {0} tuần nữa
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} tuần trước"
+        week_narrow:
+          display_name: Tuần
+          relative_type__1: tuần trước
+          relative_type_0: tuần này
+          relative_type_1: tuần sau
+          relative_time_type_future:
+            relative_time_pattern_count_other: sau {0} tuần nữa
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} tuần trước"
+        day:
+          display_name: Ngày
+          relative_type__2: Hôm kia
+          relative_type__1: Hôm qua
+          relative_type_0: Hôm nay
+          relative_type_1: Ngày mai
+          relative_type_2: Ngày kia
+          relative_time_type_future:
+            relative_time_pattern_count_other: sau {0} ngày nữa
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} ngày trước"
+        day_short:
+          display_name: Ngày
+          relative_type__2: Hôm kia
+          relative_type__1: Hôm qua
+          relative_type_0: Hôm nay
+          relative_type_1: Ngày mai
+          relative_type_2: Ngày kia
+          relative_time_type_future:
+            relative_time_pattern_count_other: sau {0} ngày nữa
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} ngày trước"
+        day_narrow:
+          display_name: Ngày
+          relative_type__2: Hôm kia
+          relative_type__1: Hôm qua
+          relative_type_0: Hôm nay
+          relative_type_1: Ngày mai
+          relative_type_2: Ngày kia
+          relative_time_type_future:
+            relative_time_pattern_count_other: sau {0} ngày nữa
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} ngày trước"
+        weekday:
+          display_name: Ngày trong tuần
+        sun:
+          relative_type__1: Chủ Nhật tuần trước
+          relative_type_0: Chủ Nhật tuần này
+          relative_type_1: Chủ Nhật tuần sau
+        sun_short:
+          relative_type__1: Chủ Nhật tuần trước
+          relative_type_0: Chủ Nhật tuần này
+          relative_type_1: Chủ Nhật tuần sau
+        sun_narrow:
+          relative_type__1: Chủ Nhật tuần trước
+          relative_type_0: Chủ Nhật tuần này
+          relative_type_1: Chủ Nhật tuần sau
+        mon:
+          relative_type__1: Thứ Hai tuần trước
+          relative_type_0: Thứ Hai tuần này
+          relative_type_1: Thứ Hai tuần sau
+        mon_short:
+          relative_type__1: Thứ Hai tuần trước
+          relative_type_0: Thứ Hai tuần này
+          relative_type_1: Thứ Hai tuần sau
+        mon_narrow:
+          relative_type__1: Thứ Hai tuần trước
+          relative_type_0: Thứ Hai tuần này
+          relative_type_1: Thứ Hai tuần sau
+        tue:
+          relative_type__1: Thứ Ba tuần trước
+          relative_type_0: Thứ Ba tuần này
+          relative_type_1: Thứ Ba tuần sau
+        tue_short:
+          relative_type__1: Thứ Ba tuần trước
+          relative_type_0: Thứ Ba tuần này
+          relative_type_1: Thứ Ba tuần sau
+        tue_narrow:
+          relative_type__1: Thứ Ba tuần trước
+          relative_type_0: Thứ Ba tuần này
+          relative_type_1: Thứ Ba tuần sau
+        wed:
+          relative_type__1: Thứ Tư tuần trước
+          relative_type_0: Thứ Tư tuần này
+          relative_type_1: Thứ Tư tuần sau
+        wed_short:
+          relative_type__1: Thứ Tư tuần trước
+          relative_type_0: Thứ Tư tuần này
+          relative_type_1: Thứ Tư tuần sau
+        wed_narrow:
+          relative_type__1: Thứ Tư tuần trước
+          relative_type_0: Thứ Tư tuần này
+          relative_type_1: Thứ Tư tuần sau
+        thu:
+          relative_type__1: Thứ Năm tuần trước
+          relative_type_0: Thứ Năm tuần này
+          relative_type_1: Thứ Năm tuần sau
+        thu_short:
+          relative_type__1: Thứ Năm tuần trước
+          relative_type_0: Thứ Năm tuần này
+          relative_type_1: Thứ Năm tuần sau
+        thu_narrow:
+          relative_type__1: Thứ Năm tuần trước
+          relative_type_0: Thứ Năm tuần này
+          relative_type_1: Thứ Năm tuần sau
+        fri:
+          relative_type__1: Thứ Sáu tuần trước
+          relative_type_0: Thứ Sáu tuần này
+          relative_type_1: Thứ Sáu tuần sau
+        fri_short:
+          relative_type__1: Thứ Sáu tuần trước
+          relative_type_0: Thứ Sáu tuần này
+          relative_type_1: Thứ Sáu tuần sau
+        fri_narrow:
+          relative_type__1: Thứ Sáu tuần trước
+          relative_type_0: Thứ Sáu tuần này
+          relative_type_1: Thứ Sáu tuần sau
+        sat:
+          relative_type__1: Thứ Bảy tuần trước
+          relative_type_0: Thứ Bảy tuần này
+          relative_type_1: Thứ Bảy tuần sau
+        sat_short:
+          relative_type__1: Thứ Bảy tuần trước
+          relative_type_0: Thứ Bảy tuần này
+          relative_type_1: Thứ Bảy tuần sau
+        sat_narrow:
+          relative_type__1: Thứ Bảy tuần trước
+          relative_type_0: Thứ Bảy tuần này
+          relative_type_1: Thứ Bảy tuần sau
+        dayperiod:
+          display_name: SA/CH
+        hour:
+          display_name: Giờ
+          relative_time_type_future:
+            relative_time_pattern_count_other: sau {0} giờ nữa
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} giờ trước"
+        hour_short:
+          display_name: Giờ
+          relative_time_type_future:
+            relative_time_pattern_count_other: sau {0} giờ nữa
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} giờ trước"
+        hour_narrow:
+          display_name: Giờ
+          relative_time_type_future:
+            relative_time_pattern_count_other: sau {0} giờ nữa
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} giờ trước"
+        minute:
+          display_name: Phút
+          relative_time_type_future:
+            relative_time_pattern_count_other: sau {0} phút nữa
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} phút trước"
+        minute_short:
+          display_name: Phút
+          relative_time_type_future:
+            relative_time_pattern_count_other: sau {0} phút nữa
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} phút trước"
+        minute_narrow:
+          display_name: Phút
+          relative_time_type_future:
+            relative_time_pattern_count_other: sau {0} phút nữa
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} phút trước"
+        second:
+          display_name: Giây
+          relative_type_0: bây giờ
+          relative_time_type_future:
+            relative_time_pattern_count_other: sau {0} giây nữa
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} giây trước"
+        second_short:
+          display_name: Giây
+          relative_type_0: bây giờ
+          relative_time_type_future:
+            relative_time_pattern_count_other: sau {0} giây nữa
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} giây trước"
+        second_narrow:
+          display_name: Giây
+          relative_type_0: bây giờ
+          relative_time_type_future:
+            relative_time_pattern_count_other: sau {0} giây nữa
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} giây trước"
+        zone:
+          display_name: Múi giờ
+      time_zone_names:
+        hour_format: "+HH:mm;-HH:mm"
+        gmt_format: GMT{0}
+        gmt_zero_format: GMT
+        region_format: Giờ {0}
+        region_format_type_daylight: Giờ ban ngày {0}
+        region_format_type_standard: Giờ chuẩn {0}
+        fallback_format: "{1} ({0})"
+        zone:
+          america:
+            adak:
+              exemplar_city: Adak
+            anchorage:
+              exemplar_city: Anchorage
+            anguilla:
+              exemplar_city: Anguilla
+            antigua:
+              exemplar_city: Antigua
+            araguaina:
+              exemplar_city: Araguaina
+            argentina:
+              rio_gallegos:
+                exemplar_city: Rio Gallegos
+              san_juan:
+                exemplar_city: San Juan
+              ushuaia:
+                exemplar_city: Ushuaia
+              la_rioja:
+                exemplar_city: La Rioja
+              san_luis:
+                exemplar_city: San Luis
+              salta:
+                exemplar_city: Salta
+              tucuman:
+                exemplar_city: Tucuman
+            aruba:
+              exemplar_city: Aruba
+            asuncion:
+              exemplar_city: Asunción
+            bahia:
+              exemplar_city: Bahia
+            bahia_banderas:
+              exemplar_city: Bahia Banderas
+            barbados:
+              exemplar_city: Barbados
+            belem:
+              exemplar_city: Belem
+            belize:
+              exemplar_city: Belize
+            blanc_sablon:
+              exemplar_city: Blanc-Sablon
+            boa_vista:
+              exemplar_city: Boa Vista
+            bogota:
+              exemplar_city: Bogota
+            boise:
+              exemplar_city: Boise
+            buenos_aires:
+              exemplar_city: Buenos Aires
+            cambridge_bay:
+              exemplar_city: Cambridge Bay
+            campo_grande:
+              exemplar_city: Campo Grande
+            cancun:
+              exemplar_city: Cancun
+            caracas:
+              exemplar_city: Caracas
+            catamarca:
+              exemplar_city: Catamarca
+            cayenne:
+              exemplar_city: Cayenne
+            cayman:
+              exemplar_city: Cayman
+            chicago:
+              exemplar_city: Chicago
+            chihuahua:
+              exemplar_city: Chihuahua
+            coral_harbour:
+              exemplar_city: Atikokan
+            cordoba:
+              exemplar_city: Cordoba
+            costa_rica:
+              exemplar_city: Costa Rica
+            creston:
+              exemplar_city: Creston
+            cuiaba:
+              exemplar_city: Cuiaba
+            curacao:
+              exemplar_city: Curaçao
+            danmarkshavn:
+              exemplar_city: Danmarkshavn
+            dawson:
+              exemplar_city: Dawson
+            dawson_creek:
+              exemplar_city: Dawson Creek
+            denver:
+              exemplar_city: Denver
+            detroit:
+              exemplar_city: Detroit
+            dominica:
+              exemplar_city: Dominica
+            edmonton:
+              exemplar_city: Edmonton
+            eirunepe:
+              exemplar_city: Eirunepe
+            el_salvador:
+              exemplar_city: El Salvador
+            fortaleza:
+              exemplar_city: Fortaleza
+            glace_bay:
+              exemplar_city: Glace Bay
+            godthab:
+              exemplar_city: Nuuk
+            goose_bay:
+              exemplar_city: Goose Bay
+            grand_turk:
+              exemplar_city: Grand Turk
+            grenada:
+              exemplar_city: Grenada
+            guadeloupe:
+              exemplar_city: Guadeloupe
+            guatemala:
+              exemplar_city: Guatemala
+            guayaquil:
+              exemplar_city: Guayaquil
+            guyana:
+              exemplar_city: Guyana
+            halifax:
+              exemplar_city: Halifax
+            havana:
+              exemplar_city: Havana
+            hermosillo:
+              exemplar_city: Hermosillo
+            indiana:
+              vincennes:
+                exemplar_city: Vincennes, Indiana
+              petersburg:
+                exemplar_city: Petersburg, Indiana
+              tell_city:
+                exemplar_city: Tell City, Indiana
+              knox:
+                exemplar_city: Knox, Indiana
+              winamac:
+                exemplar_city: Winamac, Indiana
+              marengo:
+                exemplar_city: Marengo, Indiana
+              vevay:
+                exemplar_city: Vevay, Indiana
+            indianapolis:
+              exemplar_city: Indianapolis
+            inuvik:
+              exemplar_city: Inuvik
+            iqaluit:
+              exemplar_city: Iqaluit
+            jamaica:
+              exemplar_city: Jamaica
+            jujuy:
+              exemplar_city: Jujuy
+            juneau:
+              exemplar_city: Juneau
+            kentucky:
+              monticello:
+                exemplar_city: Monticello, Kentucky
+            kralendijk:
+              exemplar_city: Kralendijk
+            la_paz:
+              exemplar_city: La Paz
+            lima:
+              exemplar_city: Lima
+            los_angeles:
+              exemplar_city: Los Angeles
+            louisville:
+              exemplar_city: Louisville
+            lower_princes:
+              exemplar_city: Lower Prince’s Quarter
+            maceio:
+              exemplar_city: Maceio
+            managua:
+              exemplar_city: Managua
+            manaus:
+              exemplar_city: Manaus
+            marigot:
+              exemplar_city: Marigot
+            martinique:
+              exemplar_city: Martinique
+            matamoros:
+              exemplar_city: Matamoros
+            mazatlan:
+              exemplar_city: Mazatlan
+            mendoza:
+              exemplar_city: Mendoza
+            menominee:
+              exemplar_city: Menominee
+            merida:
+              exemplar_city: Merida
+            metlakatla:
+              exemplar_city: Metlakatla
+            mexico_city:
+              exemplar_city: Mexico City
+            miquelon:
+              exemplar_city: Miquelon
+            moncton:
+              exemplar_city: Moncton
+            monterrey:
+              exemplar_city: Monterrey
+            montevideo:
+              exemplar_city: Montevideo
+            montserrat:
+              exemplar_city: Montserrat
+            nassau:
+              exemplar_city: Nassau
+            new_york:
+              exemplar_city: New York
+            nipigon:
+              exemplar_city: Nipigon
+            nome:
+              exemplar_city: Nome
+            noronha:
+              exemplar_city: Noronha
+            north_dakota:
+              beulah:
+                exemplar_city: Beulah, Bắc Dakota
+              new_salem:
+                exemplar_city: New Salem, Bắc Dakota
+              center:
+                exemplar_city: Center, Bắc Dakota
+            ojinaga:
+              exemplar_city: Ojinaga
+            panama:
+              exemplar_city: Panama
+            pangnirtung:
+              exemplar_city: Pangnirtung
+            paramaribo:
+              exemplar_city: Paramaribo
+            phoenix:
+              exemplar_city: Phoenix
+            port_au_prince:
+              exemplar_city: Port-au-Prince
+            port_of_spain:
+              exemplar_city: Port of Spain
+            porto_velho:
+              exemplar_city: Porto Velho
+            puerto_rico:
+              exemplar_city: Puerto Rico
+            rainy_river:
+              exemplar_city: Rainy River
+            rankin_inlet:
+              exemplar_city: Rankin Inlet
+            recife:
+              exemplar_city: Recife
+            regina:
+              exemplar_city: Regina
+            resolute:
+              exemplar_city: Resolute
+            rio_branco:
+              exemplar_city: Rio Branco
+            santa_isabel:
+              exemplar_city: Santa Isabel
+            santarem:
+              exemplar_city: Santarem
+            santiago:
+              exemplar_city: Santiago
+            santo_domingo:
+              exemplar_city: Santo Domingo
+            sao_paulo:
+              exemplar_city: Sao Paulo
+            scoresbysund:
+              exemplar_city: Ittoqqortoormiit
+            sitka:
+              exemplar_city: Sitka
+            st_barthelemy:
+              exemplar_city: Saint Barthélemy
+            st_johns:
+              exemplar_city: St. John’s
+            st_kitts:
+              exemplar_city: St. Kitts
+            st_lucia:
+              exemplar_city: St. Lucia
+            st_thomas:
+              exemplar_city: St. Thomas
+            st_vincent:
+              exemplar_city: St. Vincent
+            swift_current:
+              exemplar_city: Swift Current
+            tegucigalpa:
+              exemplar_city: Tegucigalpa
+            thule:
+              exemplar_city: Thule
+            thunder_bay:
+              exemplar_city: Thunder Bay
+            tijuana:
+              exemplar_city: Tijuana
+            toronto:
+              exemplar_city: Toronto
+            tortola:
+              exemplar_city: Tortola
+            vancouver:
+              exemplar_city: Vancouver
+            whitehorse:
+              exemplar_city: Whitehorse
+            winnipeg:
+              exemplar_city: Winnipeg
+            yakutat:
+              exemplar_city: Yakutat
+            yellowknife:
+              exemplar_city: Yellowknife
+          atlantic:
+            azores:
+              exemplar_city: Azores
+            bermuda:
+              exemplar_city: Bermuda
+            canary:
+              exemplar_city: Canary
+            cape_verde:
+              exemplar_city: Cape Verde
+            faeroe:
+              exemplar_city: Faroe
+            madeira:
+              exemplar_city: Madeira
+            reykjavik:
+              exemplar_city: Reykjavik
+            south_georgia:
+              exemplar_city: Nam Georgia
+            st_helena:
+              exemplar_city: St. Helena
+            stanley:
+              exemplar_city: Stanley
+          europe:
+            amsterdam:
+              exemplar_city: Amsterdam
+            andorra:
+              exemplar_city: Andorra
+            athens:
+              exemplar_city: Athens
+            belgrade:
+              exemplar_city: Belgrade
+            berlin:
+              exemplar_city: Berlin
+            bratislava:
+              exemplar_city: Bratislava
+            brussels:
+              exemplar_city: Brussels
+            bucharest:
+              exemplar_city: Bucharest
+            budapest:
+              exemplar_city: Budapest
+            busingen:
+              exemplar_city: Busingen
+            chisinau:
+              exemplar_city: Chisinau
+            copenhagen:
+              exemplar_city: Copenhagen
+            dublin:
+              long:
+                daylight: Giờ chuẩn Ai-len
+              exemplar_city: Dublin
+            gibraltar:
+              exemplar_city: Gibraltar
+            guernsey:
+              exemplar_city: Guernsey
+            helsinki:
+              exemplar_city: Helsinki
+            isle_of_man:
+              exemplar_city: "Đảo Man"
+            istanbul:
+              exemplar_city: Istanbul
+            jersey:
+              exemplar_city: Jersey
+            kaliningrad:
+              exemplar_city: Kaliningrad
+            kiev:
+              exemplar_city: Kiev
+            lisbon:
+              exemplar_city: Lisbon
+            ljubljana:
+              exemplar_city: Ljubljana
+            london:
+              long:
+                daylight: Giờ Mùa Hè Anh
+              exemplar_city: London
+            luxembourg:
+              exemplar_city: Luxembourg
+            madrid:
+              exemplar_city: Madrid
+            malta:
+              exemplar_city: Malta
+            mariehamn:
+              exemplar_city: Mariehamn
+            minsk:
+              exemplar_city: Minsk
+            monaco:
+              exemplar_city: Monaco
+            moscow:
+              exemplar_city: Mát-xcơ-va
+            oslo:
+              exemplar_city: Oslo
+            paris:
+              exemplar_city: Paris
+            podgorica:
+              exemplar_city: Podgorica
+            prague:
+              exemplar_city: Praha
+            riga:
+              exemplar_city: Riga
+            rome:
+              exemplar_city: Rome
+            samara:
+              exemplar_city: Samara
+            san_marino:
+              exemplar_city: San Marino
+            sarajevo:
+              exemplar_city: Sarajevo
+            simferopol:
+              exemplar_city: Simferopol
+            skopje:
+              exemplar_city: Skopje
+            sofia:
+              exemplar_city: Sofia
+            stockholm:
+              exemplar_city: Stockholm
+            tallinn:
+              exemplar_city: Tallinn
+            tirane:
+              exemplar_city: Tirane
+            uzhgorod:
+              exemplar_city: Uzhgorod
+            vaduz:
+              exemplar_city: Vaduz
+            vatican:
+              exemplar_city: Vatican
+            vienna:
+              exemplar_city: Viên
+            vilnius:
+              exemplar_city: Vilnius
+            volgograd:
+              exemplar_city: Volgograd
+            warsaw:
+              exemplar_city: Warsaw
+            zagreb:
+              exemplar_city: Zagreb
+            zaporozhye:
+              exemplar_city: Zaporozhye
+            zurich:
+              exemplar_city: Zurich
+          africa:
+            abidjan:
+              exemplar_city: Abidjan
+            accra:
+              exemplar_city: Accra
+            addis_ababa:
+              exemplar_city: Addis Ababa
+            algiers:
+              exemplar_city: Algiers
+            asmera:
+              exemplar_city: Asmara
+            bamako:
+              exemplar_city: Bamako
+            bangui:
+              exemplar_city: Bangui
+            banjul:
+              exemplar_city: Banjul
+            bissau:
+              exemplar_city: Bissau
+            blantyre:
+              exemplar_city: Blantyre
+            brazzaville:
+              exemplar_city: Brazzaville
+            bujumbura:
+              exemplar_city: Bujumbura
+            cairo:
+              exemplar_city: Cairo
+            casablanca:
+              exemplar_city: Casablanca
+            ceuta:
+              exemplar_city: Ceuta
+            conakry:
+              exemplar_city: Conakry
+            dakar:
+              exemplar_city: Dakar
+            dar_es_salaam:
+              exemplar_city: Dar es Salaam
+            djibouti:
+              exemplar_city: Djibouti
+            douala:
+              exemplar_city: Douala
+            el_aaiun:
+              exemplar_city: El Aaiun
+            freetown:
+              exemplar_city: Freetown
+            gaborone:
+              exemplar_city: Gaborone
+            harare:
+              exemplar_city: Harare
+            johannesburg:
+              exemplar_city: Johannesburg
+            juba:
+              exemplar_city: Juba
+            kampala:
+              exemplar_city: Kampala
+            khartoum:
+              exemplar_city: Khartoum
+            kigali:
+              exemplar_city: Kigali
+            kinshasa:
+              exemplar_city: Kinshasa
+            lagos:
+              exemplar_city: Lagos
+            libreville:
+              exemplar_city: Libreville
+            lome:
+              exemplar_city: Lome
+            luanda:
+              exemplar_city: Luanda
+            lubumbashi:
+              exemplar_city: Lubumbashi
+            lusaka:
+              exemplar_city: Lusaka
+            malabo:
+              exemplar_city: Malabo
+            maputo:
+              exemplar_city: Maputo
+            maseru:
+              exemplar_city: Maseru
+            mbabane:
+              exemplar_city: Mbabane
+            mogadishu:
+              exemplar_city: Mogadishu
+            monrovia:
+              exemplar_city: Monrovia
+            nairobi:
+              exemplar_city: Nairobi
+            ndjamena:
+              exemplar_city: Ndjamena
+            niamey:
+              exemplar_city: Niamey
+            nouakchott:
+              exemplar_city: Nouakchott
+            ouagadougou:
+              exemplar_city: Ouagadougou
+            porto_novo:
+              exemplar_city: Porto-Novo
+            sao_tome:
+              exemplar_city: São Tomé
+            tripoli:
+              exemplar_city: Tripoli
+            tunis:
+              exemplar_city: Tunis
+            windhoek:
+              exemplar_city: Windhoek
+          asia:
+            aden:
+              exemplar_city: Aden
+            almaty:
+              exemplar_city: Almaty
+            amman:
+              exemplar_city: Amman
+            anadyr:
+              exemplar_city: Anadyr
+            aqtau:
+              exemplar_city: Aqtau
+            aqtobe:
+              exemplar_city: Aqtobe
+            ashgabat:
+              exemplar_city: Ashgabat
+            baghdad:
+              exemplar_city: Baghdad
+            bahrain:
+              exemplar_city: Bahrain
+            baku:
+              exemplar_city: Baku
+            bangkok:
+              exemplar_city: Bangkok
+            beirut:
+              exemplar_city: Beirut
+            bishkek:
+              exemplar_city: Bishkek
+            brunei:
+              exemplar_city: Brunei
+            calcutta:
+              exemplar_city: Kolkata
+            chita:
+              exemplar_city: Chita
+            choibalsan:
+              exemplar_city: Choibalsan
+            colombo:
+              exemplar_city: Colombo
+            damascus:
+              exemplar_city: Damascus
+            dhaka:
+              exemplar_city: Dhaka
+            dili:
+              exemplar_city: Dili
+            dubai:
+              exemplar_city: Dubai
+            dushanbe:
+              exemplar_city: Dushanbe
+            gaza:
+              exemplar_city: Gaza
+            hebron:
+              exemplar_city: Hebron
+            hong_kong:
+              exemplar_city: Hồng Kông
+            hovd:
+              exemplar_city: Hovd
+            irkutsk:
+              exemplar_city: Irkutsk
+            jakarta:
+              exemplar_city: Jakarta
+            jayapura:
+              exemplar_city: Jayapura
+            jerusalem:
+              exemplar_city: Jerusalem
+            kabul:
+              exemplar_city: Kabul
+            kamchatka:
+              exemplar_city: Kamchatka
+            karachi:
+              exemplar_city: Karachi
+            katmandu:
+              exemplar_city: Kathmandu
+            khandyga:
+              exemplar_city: Khandyga
+            krasnoyarsk:
+              exemplar_city: Krasnoyarsk
+            kuala_lumpur:
+              exemplar_city: Kuala Lumpur
+            kuching:
+              exemplar_city: Kuching
+            kuwait:
+              exemplar_city: Kuwait
+            macau:
+              exemplar_city: Ma Cao
+            magadan:
+              exemplar_city: Magadan
+            makassar:
+              exemplar_city: Makassar
+            manila:
+              exemplar_city: Manila
+            muscat:
+              exemplar_city: Muscat
+            nicosia:
+              exemplar_city: Nicosia
+            novokuznetsk:
+              exemplar_city: Novokuznetsk
+            novosibirsk:
+              exemplar_city: Novosibirsk
+            omsk:
+              exemplar_city: Omsk
+            oral:
+              exemplar_city: Oral
+            phnom_penh:
+              exemplar_city: Phnom Penh
+            pontianak:
+              exemplar_city: Pontianak
+            pyongyang:
+              exemplar_city: Bình Nhưỡng
+            qatar:
+              exemplar_city: Qatar
+            qyzylorda:
+              exemplar_city: Qyzylorda
+            rangoon:
+              exemplar_city: Rangoon
+            riyadh:
+              exemplar_city: Riyadh
+            saigon:
+              exemplar_city: TP Hồ Chí Minh
+            sakhalin:
+              exemplar_city: Sakhalin
+            samarkand:
+              exemplar_city: Samarkand
+            seoul:
+              exemplar_city: Seoul
+            shanghai:
+              exemplar_city: Thượng Hải
+            singapore:
+              exemplar_city: Singapore
+            srednekolymsk:
+              exemplar_city: Srednekolymsk
+            taipei:
+              exemplar_city: "Đài Bắc"
+            tashkent:
+              exemplar_city: Tashkent
+            tbilisi:
+              exemplar_city: Tbilisi
+            tehran:
+              exemplar_city: Tehran
+            thimphu:
+              exemplar_city: Thimphu
+            tokyo:
+              exemplar_city: Tokyo
+            ulaanbaatar:
+              exemplar_city: Ulaanbaatar
+            urumqi:
+              exemplar_city: Urumqi
+            ust_nera:
+              exemplar_city: Ust-Nera
+            vientiane:
+              exemplar_city: Viêng Chăn
+            vladivostok:
+              exemplar_city: Vladivostok
+            yakutsk:
+              exemplar_city: Yakutsk
+            yekaterinburg:
+              exemplar_city: Yekaterinburg
+            yerevan:
+              exemplar_city: Yerevan
+          indian:
+            antananarivo:
+              exemplar_city: Antananarivo
+            chagos:
+              exemplar_city: Chagos
+            christmas:
+              exemplar_city: Christmas
+            cocos:
+              exemplar_city: Cocos
+            comoro:
+              exemplar_city: Comoro
+            kerguelen:
+              exemplar_city: Kerguelen
+            mahe:
+              exemplar_city: Mahe
+            maldives:
+              exemplar_city: Maldives
+            mauritius:
+              exemplar_city: Mauritius
+            mayotte:
+              exemplar_city: Mayotte
+            reunion:
+              exemplar_city: Reunion
+          australia:
+            adelaide:
+              exemplar_city: Adelaide
+            brisbane:
+              exemplar_city: Brisbane
+            broken_hill:
+              exemplar_city: Broken Hill
+            currie:
+              exemplar_city: Currie
+            darwin:
+              exemplar_city: Darwin
+            eucla:
+              exemplar_city: Eucla
+            hobart:
+              exemplar_city: Hobart
+            lindeman:
+              exemplar_city: Lindeman
+            lord_howe:
+              exemplar_city: Lord Howe
+            melbourne:
+              exemplar_city: Melbourne
+            perth:
+              exemplar_city: Perth
+            sydney:
+              exemplar_city: Sydney
+          pacific:
+            apia:
+              exemplar_city: Apia
+            auckland:
+              exemplar_city: Auckland
+            bougainville:
+              exemplar_city: Bougainville
+            chatham:
+              exemplar_city: Chatham
+            easter:
+              exemplar_city: Easter
+            efate:
+              exemplar_city: Efate
+            enderbury:
+              exemplar_city: Enderbury
+            fakaofo:
+              exemplar_city: Fakaofo
+            fiji:
+              exemplar_city: Fiji
+            funafuti:
+              exemplar_city: Funafuti
+            galapagos:
+              exemplar_city: Galapagos
+            gambier:
+              exemplar_city: Gambier
+            guadalcanal:
+              exemplar_city: Guadalcanal
+            guam:
+              exemplar_city: Guam
+            honolulu:
+              exemplar_city: Honolulu
+            johnston:
+              exemplar_city: Johnston
+            kiritimati:
+              exemplar_city: Kiritimati
+            kosrae:
+              exemplar_city: Kosrae
+            kwajalein:
+              exemplar_city: Kwajalein
+            majuro:
+              exemplar_city: Majuro
+            marquesas:
+              exemplar_city: Marquesas
+            midway:
+              exemplar_city: Midway
+            nauru:
+              exemplar_city: Nauru
+            niue:
+              exemplar_city: Niue
+            norfolk:
+              exemplar_city: Norfolk
+            noumea:
+              exemplar_city: Noumea
+            pago_pago:
+              exemplar_city: Pago Pago
+            palau:
+              exemplar_city: Palau
+            pitcairn:
+              exemplar_city: Pitcairn
+            ponape:
+              exemplar_city: Pohnpei
+            port_moresby:
+              exemplar_city: Port Moresby
+            rarotonga:
+              exemplar_city: Rarotonga
+            saipan:
+              exemplar_city: Saipan
+            tahiti:
+              exemplar_city: Tahiti
+            tarawa:
+              exemplar_city: Tarawa
+            tongatapu:
+              exemplar_city: Tongatapu
+            truk:
+              exemplar_city: Chuuk
+            wake:
+              exemplar_city: Wake
+            wallis:
+              exemplar_city: Wallis
+          arctic:
+            longyearbyen:
+              exemplar_city: Longyearbyen
+          antarctica:
+            casey:
+              exemplar_city: Casey
+            davis:
+              exemplar_city: Davis
+            dumont_d_urville:
+              exemplar_city: Dumont d’Urville
+            macquarie:
+              exemplar_city: Macquarie
+            mawson:
+              exemplar_city: Mawson
+            mc_murdo:
+              exemplar_city: McMurdo
+            palmer:
+              exemplar_city: Palmer
+            rothera:
+              exemplar_city: Rothera
+            syowa:
+              exemplar_city: Syowa
+            troll:
+              exemplar_city: Troll
+            vostok:
+              exemplar_city: Vostok
+          etc:
+            gmt:
+              exemplar_city: GMT
+            gmt1:
+              exemplar_city: GMT+1
+            gmt10:
+              exemplar_city: GMT+10
+            gmt11:
+              exemplar_city: GMT+11
+            gmt12:
+              exemplar_city: GMT+12
+            gmt2:
+              exemplar_city: GMT+2
+            gmt3:
+              exemplar_city: GMT+3
+            gmt4:
+              exemplar_city: GMT+4
+            gmt5:
+              exemplar_city: GMT+5
+            gmt6:
+              exemplar_city: GMT+6
+            gmt7:
+              exemplar_city: GMT+7
+            gmt8:
+              exemplar_city: GMT+8
+            gmt9:
+              exemplar_city: GMT+9
+            gmt_1:
+              exemplar_city: GMT-1
+            gmt_10:
+              exemplar_city: GMT-10
+            gmt_11:
+              exemplar_city: GMT-11
+            gmt_12:
+              exemplar_city: GMT-12
+            gmt_13:
+              exemplar_city: GMT-13
+            gmt_14:
+              exemplar_city: GMT-14
+            gmt_2:
+              exemplar_city: GMT-2
+            gmt_3:
+              exemplar_city: GMT-3
+            gmt_4:
+              exemplar_city: GMT-4
+            gmt_5:
+              exemplar_city: GMT-5
+            gmt_6:
+              exemplar_city: GMT-6
+            gmt_7:
+              exemplar_city: GMT-7
+            gmt_8:
+              exemplar_city: GMT-8
+            gmt_9:
+              exemplar_city: GMT-9
+            unknown:
+              exemplar_city: Thành phố Không xác định
+        metazone:
+          acre:
+            long:
+              generic: Giờ Acre
+              standard: Giờ Chuẩn Acre
+              daylight: Giờ Mùa Hè Acre
+          afghanistan:
+            long:
+              standard: Giờ Afghanistan
+          africa_central:
+            long:
+              standard: Giờ Trung Phi
+          africa_eastern:
+            long:
+              standard: Giờ Đông Phi
+          africa_southern:
+            long:
+              standard: Giờ Chuẩn Nam Phi
+          africa_western:
+            long:
+              generic: Giờ Tây Phi
+              standard: Giờ Chuẩn Tây Phi
+              daylight: Giờ Mùa Hè Tây Phi
+          alaska:
+            long:
+              generic: Giờ Alaska
+              standard: Giờ Chuẩn Alaska
+              daylight: Giờ Mùa Hè Alaska
+          almaty:
+            long:
+              generic: Giờ Almaty
+              standard: Giờ Chuẩn Almaty
+              daylight: Giờ Mùa Hè Almaty
+          amazon:
+            long:
+              generic: Giờ Amazon
+              standard: Giờ Chuẩn Amazon
+              daylight: Giờ Mùa Hè Amazon
+          america_central:
+            long:
+              generic: Giờ miền trung
+              standard: Giờ chuẩn miền trung
+              daylight: Giờ ban ngày miền trung
+          america_eastern:
+            long:
+              generic: Giờ miền đông
+              standard: Giờ chuẩn miền đông
+              daylight: Giờ ban ngày miền đông
+          america_mountain:
+            long:
+              generic: Giờ miền núi
+              standard: Giờ chuẩn miền núi
+              daylight: Giờ ban ngày miền núi
+          america_pacific:
+            long:
+              generic: Giờ Thái Bình Dương
+              standard: Giờ chuẩn Thái Bình Dương
+              daylight: Giờ ban ngày Thái Bình Dương
+          anadyr:
+            long:
+              generic: Giờ Anadyr
+              standard: Giờ Chuẩn Anadyr
+              daylight: Giờ mùa hè Anadyr
+          apia:
+            long:
+              generic: Giờ Apia
+              standard: Giờ Chuẩn Apia
+              daylight: Giờ Ban ngày Apia
+          aqtau:
+            long:
+              generic: Giờ Aqtau
+              standard: Giờ Chuẩn Aqtau
+              daylight: Giờ Mùa Hè Aqtau
+          aqtobe:
+            long:
+              generic: Giờ Aqtobe
+              standard: Giờ Chuẩn Aqtobe
+              daylight: Giờ Mùa Hè Aqtobe
+          arabian:
+            long:
+              generic: Giờ Ả Rập
+              standard: Giờ chuẩn Ả Rập
+              daylight: Giờ Mùa Hè Ả Rập
+          argentina:
+            long:
+              generic: Giờ Argentina
+              standard: Giờ Chuẩn Argentina
+              daylight: Giờ Mùa Hè Argentina
+          argentina_western:
+            long:
+              generic: Giờ miền tây Argentina
+              standard: Giờ chuẩn miền mây Argentina
+              daylight: Giờ mùa hè miền tây Argentina
+          armenia:
+            long:
+              generic: Giờ Armenia
+              standard: Giờ Chuẩn Armenia
+              daylight: Giờ Mùa Hè Armenia
+          atlantic:
+            long:
+              generic: Giờ Đại Tây Dương
+              standard: Giờ Chuẩn Đại Tây Dương
+              daylight: Giờ Mùa hè Đại Tây Dương
+          australia_central:
+            long:
+              generic: Giờ Miền Trung Nước Úc
+              standard: Giờ Chuẩn Miền Trung Nước Úc
+              daylight: Giờ Mùa Hè Miền Trung Nước Úc
+          australia_central_western:
+            long:
+              generic: Giờ Miền Trung Tây Nước Úc
+              standard: Giờ Chuẩn Miền Trung Tây Nước Úc
+              daylight: Giờ Mùa Hè Miền Trung Tây Nước Úc
+          australia_eastern:
+            long:
+              generic: Giờ Miền Đông Nước Úc
+              standard: Giờ Chuẩn Miền Đông Nước Úc
+              daylight: Giờ Mùa Hè Miền Đông Nước Úc
+          australia_western:
+            long:
+              generic: Giờ Miền Tây Nước Úc
+              standard: Giờ Chuẩn Miền Tây Nước Úc
+              daylight: Giờ Mùa Hè Miền Tây Nước Úc
+          azerbaijan:
+            long:
+              generic: Giờ Azerbaijan
+              standard: Giờ Chuẩn Azerbaijan
+              daylight: Giờ Mùa Hè Azerbaijan
+          azores:
+            long:
+              generic: Giờ Azores
+              standard: Giờ Chuẩn Azores
+              daylight: Giờ Mùa Hè Azores
+          bangladesh:
+            long:
+              generic: Giờ Bangladesh
+              standard: Giờ Chuẩn Bangladesh
+              daylight: Giờ Mùa Hè Bangladesh
+          bhutan:
+            long:
+              standard: Giờ Bhutan
+          bolivia:
+            long:
+              standard: Giờ Bolivia
+          brasilia:
+            long:
+              generic: Giờ Brasilia
+              standard: Giờ Chuẩn Brasilia
+              daylight: Giờ Mùa Hè Brasilia
+          brunei:
+            long:
+              standard: Giờ Brunei Darussalam
+          cape_verde:
+            long:
+              generic: Giờ Cape Verde
+              standard: Giờ Chuẩn Cape Verde
+              daylight: Giờ Mùa Hè Cape Verde
+          chamorro:
+            long:
+              standard: Giờ Chamorro
+          chatham:
+            long:
+              generic: Giờ Chatham
+              standard: Giờ Chuẩn Chatham
+              daylight: Giờ Mùa Hè Chatham
+          chile:
+            long:
+              generic: Giờ Chile
+              standard: Giờ Chuẩn Chile
+              daylight: Giờ Mùa Hè Chile
+          china:
+            long:
+              generic: Giờ Trung Quốc
+              standard: Giờ Chuẩn Trung Quốc
+              daylight: Giờ Mùa Hè Trung Quốc
+          choibalsan:
+            long:
+              generic: Giờ Choibalsan
+              standard: Giờ Chuẩn Choibalsan
+              daylight: Giờ Mùa Hè Choibalsan
+          christmas:
+            long:
+              standard: Giờ Đảo Christmas
+          cocos:
+            long:
+              standard: Giờ Quần Đảo Cocos
+          colombia:
+            long:
+              generic: Giờ Colombia
+              standard: Giờ Chuẩn Colombia
+              daylight: Giờ Mùa Hè Colombia
+          cook:
+            long:
+              generic: Giờ Quần Đảo Cook
+              standard: Giờ Chuẩn Quần Đảo Cook
+              daylight: Giờ Nửa Mùa Hè Quần Đảo Cook
+          cuba:
+            long:
+              generic: Giờ Cuba
+              standard: Giờ Chuẩn Cuba
+              daylight: Giờ Mùa Hè Cuba
+          davis:
+            long:
+              standard: Giờ Davis
+          dumont_d_urville:
+            long:
+              standard: Giờ Dumont-d’Urville
+          east_timor:
+            long:
+              standard: Giờ Đông Timor
+          easter:
+            long:
+              generic: Giờ Đảo Phục Sinh
+              standard: Giờ Chuẩn Đảo Phục Sinh
+              daylight: Giờ Mùa Hè Đảo Phục Sinh
+          ecuador:
+            long:
+              standard: Giờ Ecuador
+          europe_central:
+            long:
+              generic: Giờ Trung Âu
+              standard: Giờ Chuẩn Trung Âu
+              daylight: Giờ Mùa Hè Trung Âu
+          europe_eastern:
+            long:
+              generic: Giờ Đông Âu
+              standard: Giờ Chuẩn Đông Âu
+              daylight: Giờ Mùa Hè Đông Âu
+          europe_further_eastern:
+            long:
+              standard: Giờ Châu Âu Viễn Đông
+          europe_western:
+            long:
+              generic: Giờ Tây Âu
+              standard: Giờ Chuẩn Tây Âu
+              daylight: Giờ Mùa hè Tây Âu
+          falkland:
+            long:
+              generic: Giờ Quần Đảo Falkland
+              standard: Giờ Chuẩn Quần Đảo Falkland
+              daylight: Giờ Mùa Hè Quần Đảo Falkland
+          fiji:
+            long:
+              generic: Giờ Fiji
+              standard: Giờ Chuẩn Fiji
+              daylight: Giờ Mùa Hè Fiji
+          french_guiana:
+            long:
+              standard: Giờ Guiana thuộc Pháp
+          french_southern:
+            long:
+              standard: Giờ Nam Cực và Nam Nước Pháp
+          galapagos:
+            long:
+              standard: Giờ Galapagos
+          gambier:
+            long:
+              standard: Giờ Gambier
+          georgia:
+            long:
+              generic: Giờ Georgia
+              standard: Giờ Chuẩn Georgia
+              daylight: Giờ Mùa Hè Georgia
+          gilbert_islands:
+            long:
+              standard: Giờ Quần Đảo Gilbert
+          gmt:
+            long:
+              standard: Giờ Trung bình Greenwich
+          greenland_eastern:
+            long:
+              generic: Giờ Miền Đông Greenland
+              standard: Giờ Chuẩn Miền Đông Greenland
+              daylight: Giờ Mùa Hè Miền Đông Greenland
+          greenland_western:
+            long:
+              generic: Giờ Miền Tây Greenland
+              standard: Giờ Chuẩn Miền Tây Greenland
+              daylight: Giờ Mùa Hè Miền Tây Greenland
+          guam:
+            long:
+              standard: Giờ Chuẩn Guam
+          gulf:
+            long:
+              standard: Giờ Chuẩn Vùng Vịnh
+          guyana:
+            long:
+              standard: Giờ Guyana
+          hawaii_aleutian:
+            long:
+              generic: Giờ Hawaii-Aleutian
+              standard: Giờ Chuẩn Hawaii-Aleutian
+              daylight: Giờ Mùa Hè Hawaii-Aleutian
+          hong_kong:
+            long:
+              generic: Giờ Hồng Kông
+              standard: Giờ Chuẩn Hồng Kông
+              daylight: Giờ Mùa Hè Hồng Kông
+          hovd:
+            long:
+              generic: Giờ Hovd
+              standard: Giờ Chuẩn Hovd
+              daylight: Giờ Mùa Hè Hovd
+          india:
+            long:
+              standard: Giờ Chuẩn Ấn Độ
+          indian_ocean:
+            long:
+              standard: Giờ Ấn Độ Dương
+          indochina:
+            long:
+              standard: Giờ Đông Dương
+          indonesia_central:
+            long:
+              standard: Giờ Miền Trung Indonesia
+          indonesia_eastern:
+            long:
+              standard: Giờ Miền Đông Indonesia
+          indonesia_western:
+            long:
+              standard: Giờ Miền Tây Indonesia
+          iran:
+            long:
+              generic: Giờ Iran
+              standard: Giờ Chuẩn Iran
+              daylight: Giờ Mùa Hè Iran
+          irkutsk:
+            long:
+              generic: Giờ Irkutsk
+              standard: Giờ Chuẩn Irkutsk
+              daylight: Giờ Mùa Hè Irkutsk
+          israel:
+            long:
+              generic: Giờ Israel
+              standard: Giờ Chuẩn Israel
+              daylight: Giờ Mùa Hè Israel
+          japan:
+            long:
+              generic: Giờ Nhật Bản
+              standard: Giờ Chuẩn Nhật Bản
+              daylight: Giờ Mùa Hè Nhật Bản
+          kamchatka:
+            long:
+              generic: Giờ Petropavlovsk-Kamchatski
+              standard: Giờ chuẩn Petropavlovsk-Kamchatski
+              daylight: Giờ mùa hè Petropavlovsk-Kamchatski
+          kazakhstan_eastern:
+            long:
+              standard: Giờ Miền Đông Kazakhstan
+          kazakhstan_western:
+            long:
+              standard: Giờ Miền Tây Kazakhstan
+          korea:
+            long:
+              generic: Giờ Hàn Quốc
+              standard: Giờ Chuẩn Hàn Quốc
+              daylight: Giờ Mùa Hè Hàn Quốc
+          kosrae:
+            long:
+              standard: Giờ Kosrae
+          krasnoyarsk:
+            long:
+              generic: Giờ Krasnoyarsk
+              standard: Giờ Chuẩn Krasnoyarsk
+              daylight: Giờ Mùa Hè Krasnoyarsk
+          kyrgystan:
+            long:
+              standard: Giờ Kyrgystan
+          lanka:
+            long:
+              standard: Giờ Lanka
+          line_islands:
+            long:
+              standard: Giờ Quần Đảo Line
+          lord_howe:
+            long:
+              generic: Giờ Lord Howe
+              standard: Giờ Chuẩn Lord Howe
+              daylight: Giờ Mùa Hè Lord Howe
+          macau:
+            long:
+              generic: Giờ Ma Cao
+              standard: Giờ Chuẩn Ma Cao
+              daylight: Giờ Mùa Hè Ma Cao
+          macquarie:
+            long:
+              standard: Giờ đảo Macquarie
+          magadan:
+            long:
+              generic: Giờ Magadan
+              standard: Giờ Chuẩn Magadan
+              daylight: Giờ mùa hè Magadan
+          malaysia:
+            long:
+              standard: Giờ Malaysia
+          maldives:
+            long:
+              standard: Giờ Maldives
+          marquesas:
+            long:
+              standard: Giờ Marquesas
+          marshall_islands:
+            long:
+              standard: Giờ Quần Đảo Marshall
+          mauritius:
+            long:
+              generic: Giờ Mauritius
+              standard: Giờ Chuẩn Mauritius
+              daylight: Giờ Mùa Hè Mauritius
+          mawson:
+            long:
+              standard: Giờ Mawson
+          mexico_northwest:
+            long:
+              generic: Giờ Tây Bắc Mexico
+              standard: Giờ Chuẩn Tây Bắc Mexico
+              daylight: Giờ Mùa Hè Tây Bắc Mexico
+          mexico_pacific:
+            long:
+              generic: Giờ Thái Bình Dương Mexico
+              standard: Giờ Chuẩn Thái Bình Dương Mexico
+              daylight: Giờ Mùa Hè Thái Bình Dương Mexico
+          mongolia:
+            long:
+              generic: Giờ Ulan Bator
+              standard: Giờ chuẩn Ulan Bator
+              daylight: Giờ mùa hè Ulan Bator
+          moscow:
+            long:
+              generic: Giờ Matxcơva
+              standard: Giờ Chuẩn Matxcơva
+              daylight: Giờ Mùa Hè Matxcơva
+          myanmar:
+            long:
+              standard: Giờ Myanmar
+          nauru:
+            long:
+              standard: Giờ Nauru
+          nepal:
+            long:
+              standard: Giờ Nepal
+          new_caledonia:
+            long:
+              generic: Giờ New Caledonia
+              standard: Giờ Chuẩn New Caledonia
+              daylight: Giờ Mùa Hè New Caledonia
+          new_zealand:
+            long:
+              generic: Giờ New Zealand
+              standard: Giờ Chuẩn New Zealand
+              daylight: Giờ Mùa Hè New Zealand
+          newfoundland:
+            long:
+              generic: Giờ Newfoundland
+              standard: Giờ Chuẩn Newfoundland
+              daylight: Giờ Mùa Hè Newfoundland
+          niue:
+            long:
+              standard: Giờ Niue
+          norfolk:
+            long:
+              standard: Giờ đảo Norfolk
+          noronha:
+            long:
+              generic: Giờ Fernando de Noronha
+              standard: Giờ Chuẩn Fernando de Noronha
+              daylight: Giờ Mùa Hè Fernando de Noronha
+          north_mariana:
+            long:
+              standard: Giờ Quần Đảo Bắc Mariana
+          novosibirsk:
+            long:
+              generic: Giờ Novosibirsk
+              standard: Giờ chuẩn Novosibirsk
+              daylight: Giờ mùa hè Novosibirsk
+          omsk:
+            long:
+              generic: Giờ Omsk
+              standard: Giờ chuẩn Omsk
+              daylight: Giờ mùa hè Omsk
+          pakistan:
+            long:
+              generic: Giờ Pakistan
+              standard: Giờ Chuẩn Pakistan
+              daylight: Giờ Mùa Hè Pakistan
+          palau:
+            long:
+              standard: Giờ Palau
+          papua_new_guinea:
+            long:
+              standard: Giờ Papua New Guinea
+          paraguay:
+            long:
+              generic: Giờ Paraguay
+              standard: Giờ Chuẩn Paraguay
+              daylight: Giờ Mùa Hè Paraguay
+          peru:
+            long:
+              generic: Giờ Peru
+              standard: Giờ Chuẩn Peru
+              daylight: Giờ Mùa Hè Peru
+          philippines:
+            long:
+              generic: Giờ Philippin
+              standard: Giờ Chuẩn Philippin
+              daylight: Giờ Mùa Hè Philippin
+          phoenix_islands:
+            long:
+              standard: Giờ Quần Đảo Phoenix
+          pierre_miquelon:
+            long:
+              generic: Giờ St. Pierre và Miquelon
+              standard: Giờ Chuẩn St. Pierre và Miquelon
+              daylight: Giờ Mùa Hè Saint Pierre và Miquelon
+          pitcairn:
+            long:
+              standard: Giờ Pitcairn
+          ponape:
+            long:
+              standard: Giờ Ponape
+          qyzylorda:
+            long:
+              generic: Giờ Qyzylorda
+              standard: Giờ Chuẩn Qyzylorda
+              daylight: Giờ Mùa Hè Qyzylorda
+          reunion:
+            long:
+              standard: Giờ Reunion
+          rothera:
+            long:
+              standard: Giờ Rothera
+          sakhalin:
+            long:
+              generic: Giờ Sakhalin
+              standard: Giờ Chuẩn Sakhalin
+              daylight: Giờ mùa hè Sakhalin
+          samara:
+            long:
+              generic: Giờ Samara
+              standard: Giờ Chuẩn Samara
+              daylight: Giờ mùa hè Samara
+          samoa:
+            long:
+              generic: Giờ Samoa
+              standard: Giờ Chuẩn Samoa
+              daylight: Giờ ban ngày Samoa
+          seychelles:
+            long:
+              standard: Giờ Seychelles
+          singapore:
+            long:
+              standard: Giờ Singapore
+          solomon:
+            long:
+              standard: Giờ Quần Đảo Solomon
+          south_georgia:
+            long:
+              standard: Giờ Nam Georgia
+          suriname:
+            long:
+              standard: Giờ Suriname
+          syowa:
+            long:
+              standard: Giờ Syowa
+          tahiti:
+            long:
+              standard: Giờ Tahiti
+          taipei:
+            long:
+              generic: Giờ Đài Bắc
+              standard: Giờ Chuẩn Đài Bắc
+              daylight: Giờ Mùa Hè Đài Bắc
+          tajikistan:
+            long:
+              standard: Giờ Tajikistan
+          tokelau:
+            long:
+              standard: Giờ Tokelau
+          tonga:
+            long:
+              generic: Giờ Tonga
+              standard: Giờ Chuẩn Tonga
+              daylight: Giờ Mùa Hè Tonga
+          truk:
+            long:
+              standard: Giờ Chuuk
+          turkmenistan:
+            long:
+              generic: Giờ Turkmenistan
+              standard: Giờ Chuẩn Turkmenistan
+              daylight: Giờ Mùa Hè Turkmenistan
+          tuvalu:
+            long:
+              standard: Giờ Tuvalu
+          uruguay:
+            long:
+              generic: Giờ Uruguay
+              standard: Giờ Chuẩn Uruguay
+              daylight: Giờ Mùa Hè Uruguay
+          uzbekistan:
+            long:
+              generic: Giờ Uzbekistan
+              standard: Giờ Chuẩn Uzbekistan
+              daylight: Giờ Mùa Hè Uzbekistan
+          vanuatu:
+            long:
+              generic: Giờ Vanuatu
+              standard: Giờ Chuẩn Vanuatu
+              daylight: Giờ Mùa Hè Vanuatu
+          venezuela:
+            long:
+              standard: Giờ Venezuela
+          vladivostok:
+            long:
+              generic: Giờ Vladivostok
+              standard: Giờ Chuẩn Vladivostok
+              daylight: Giờ mùa hè Vladivostok
+          volgograd:
+            long:
+              generic: Giờ Volgograd
+              standard: Giờ Chuẩn Volgograd
+              daylight: Giờ Mùa Hè Volgograd
+          vostok:
+            long:
+              standard: Giờ Vostok
+          wake:
+            long:
+              standard: Giờ Đảo Wake
+          wallis:
+            long:
+              standard: Giờ Wallis và Futuna
+          yakutsk:
+            long:
+              generic: Giờ Yakutsk
+              standard: Giờ Chuẩn Yakutsk
+              daylight: Giờ mùa hè Yakutsk
+          yekaterinburg:
+            long:
+              generic: Giờ Yekaterinburg
+              standard: Giờ Chuẩn Yekaterinburg
+              daylight: Giờ mùa hè Yekaterinburg
+    locale_display_names:
+      languages:
+        aa: Tiếng Afar
+        ab: Tiếng Abkhazia
+        ace: Tiếng Achinese
+        ach: Tiếng Acoli
+        ada: Tiếng Adangme
+        ady: Tiếng Adyghe
+        ae: Tiếng Avestan
+        aeb: aeb
+        af: Tiếng Nam Phi
+        afh: Tiếng Afrihili
+        agq: Tiếng Aghem
+        ain: Tiếng Ainu
+        ak: Tiếng Akan
+        akk: Tiếng Akkadia
+        akz: Tiếng Alabama
+        ale: Tiếng Aleut
+        aln: Tiếng Gheg Albani
+        alt: Tiếng Altai Miền Nam
+        am: Tiếng Amharic
+        an: Tiếng Aragon
+        ang: Tiếng Anh cổ
+        anp: Tiếng Angika
+        ar: Tiếng Ả Rập
+        ar_001: Tiếng Ả Rập Hiện đại
+        arc: Tiếng Aramaic
+        arn: Tiếng Araucanian
+        aro: Tiếng Araona
+        arp: Tiếng Arapaho
+        arq: Tiếng Ả Rập Algeria
+        arw: Tiếng Arawak
+        ary: ary
+        arz: Tiếng Ả Rập Ai Cập
+        as: Tiếng Assam
+        asa: Tiếng Asu
+        ase: Ngôn ngữ Ký hiệu Mỹ
+        ast: Tiếng Asturias
+        av: Tiếng Avaric
+        avk: avk
+        awa: Tiếng Awadhi
+        ay: Tiếng Aymara
+        az: Tiếng Azerbaijan
+        az_alt_short: Tiếng Azeri
+        ba: Tiếng Bashkir
+        bal: Tiếng Baluchi
+        ban: Tiếng Bali
+        bar: Tiếng Bavaria
+        bas: Tiếng Basaa
+        bax: Tiếng Bamun
+        bbc: Tiếng Batak Toba
+        bbj: Tiếng Ghomala
+        be: Tiếng Belarus
+        bej: Tiếng Beja
+        bem: Tiếng Bemba
+        bew: Tiếng Betawi
+        bez: Tiếng Bena
+        bfd: Tiếng Bafut
+        bfq: Tiếng Badaga
+        bg: Tiếng Bulgaria
+        bgn: Tiếng Tây Balochi
+        bho: Tiếng Bhojpuri
+        bi: Tiếng Bislama
+        bik: Tiếng Bikol
+        bin: Tiếng Bini
+        bjn: Tiếng Banjar
+        bkm: Tiếng Kom
+        bla: Tiếng Siksika
+        bm: Tiếng Bambara
+        bn: Tiếng Bengali
+        bo: Tiếng Tây Tạng
+        bpy: Tiếng Bishnupriya
+        bqi: Tiếng Bakhtiari
+        br: Tiếng Breton
+        bra: Tiếng Braj
+        brh: Tiếng Brahui
+        brx: Tiếng Bodo
+        bs: Tiếng Nam Tư
+        bss: Tiếng Akoose
+        bua: Tiếng Buriat
+        bug: Tiếng Bugin
+        bum: Tiếng Bulu
+        byn: Tiếng Blin
+        byv: Tiếng Medumba
+        ca: Tiếng Catalan
+        cad: Tiếng Caddo
+        car: Tiếng Carib
+        cay: Tiếng Cayuga
+        cch: Tiếng Atsam
+        ce: Tiếng Chechen
+        ceb: Tiếng Cebuano
+        cgg: Tiếng Chiga
+        ch: Tiếng Chamorro
+        chb: Tiếng Chibcha
+        chg: Tiếng Chagatai
+        chk: Tiếng Chuuk
+        chm: Tiếng Mari
+        chn: Biệt ngữ Chinook
+        cho: Tiếng Choctaw
+        chp: Tiếng Chipewyan
+        chr: Tiếng Cherokee
+        chy: Tiếng Cheyenne
+        ckb: Tiếng Kurd Miền Trung
+        co: Tiếng Corsica
+        cop: Tiếng Coptic
+        cps: Tiếng Capiznon
+        cr: Tiếng Cree
+        crh: Tiếng Thổ Nhĩ Kỳ Crimean
+        cs: Tiếng Séc
+        csb: Tiếng Kashubia
+        cu: Tiếng Slavơ Nhà thờ
+        cv: Tiếng Chuvash
+        cy: Tiếng Wales
+        da: Tiếng Đan Mạch
+        dak: Tiếng Dakota
+        dar: Tiếng Dargwa
+        dav: Tiếng Taita
+        de: Tiếng Đức
+        de_at: Tiếng Đức (Áo)
+        de_ch: Tiếng Thượng Giéc-man (Thụy Sĩ)
+        del: Tiếng Delaware
+        den: Tiếng Slave
+        dgr: Tiếng Dogrib
+        din: Tiếng Dinka
+        dje: Tiếng Zarma
+        doi: Tiếng Dogri
+        dsb: Tiếng Hạ Sorbia
+        dtp: Tiếng Dusun Miền Trung
+        dua: Tiếng Duala
+        dum: Tiếng Hà Lan Trung cổ
+        dv: Tiếng Divehi
+        dyo: Tiếng Jola-Fonyi
+        dyu: Tiếng Dyula
+        dz: Tiếng Dzongkha
+        dzg: Tiếng Dazaga
+        ebu: Tiếng Embu
+        ee: Tiếng Ewe
+        efi: Tiếng Efik
+        egl: Tiếng Emilia
+        egy: Tiếng Ai Cập cổ
+        eka: Tiếng Ekajuk
+        el: Tiếng Hy Lạp
+        elx: Tiếng Elamite
+        en: Tiếng Anh
+        en_au: Tiếng Anh (Úc)
+        en_ca: Tiếng Anh (Canada)
+        en_gb: Tiếng Anh (Anh)
+        en_gb_alt_short: Tiếng Anh (Anh)
+        en_us: Tiếng Anh (Mỹ)
+        en_us_alt_short: Tiếng Anh (Mỹ)
+        enm: Tiếng Anh Trung cổ
+        eo: Tiếng Quốc Tế Ngữ
+        es: Tiếng Tây Ban Nha
+        es_419: Tiếng Tây Ban Nha (Mỹ La tinh)
+        es_es: Tiếng Tây Ban Nha (Châu Âu)
+        es_mx: Tiếng Tây Ban Nha (Mexico)
+        esu: Tiếng Yupik Miền Trung
+        et: Tiếng Estonia
+        eu: Tiếng Basque
+        ewo: Tiếng Ewondo
+        ext: Tiếng Extremadura
+        fa: Tiếng Ba Tư
+        fan: Tiếng Fang
+        fat: Tiếng Fanti
+        ff: Tiếng Fulah
+        fi: Tiếng Phần Lan
+        fil: Tiếng Philipin
+        fit: fit
+        fj: Tiếng Fiji
+        fo: Tiếng Faore
+        fon: Tiếng Fon
+        fr: Tiếng Pháp
+        fr_ca: Tiếng Pháp (Canada)
+        fr_ch: Tiếng Pháp (Thụy Sĩ)
+        frc: Tiếng Pháp Cajun
+        frm: Tiếng Pháp Trung cổ
+        fro: Tiếng Pháp cổ
+        frp: Tiếng Arpitan
+        frr: Tiếng Frisian Miền Bắc
+        frs: Tiếng Frisian Miền Đông
+        fur: Tiếng Friulian
+        fy: Tiếng Frisia
+        ga: Tiếng Ai-len
+        gaa: Tiếng Ga
+        gag: Tiếng Gagauz
+        gan: gan
+        gay: Tiếng Gayo
+        gba: Tiếng Gbaya
+        gbz: gbz
+        gd: Tiếng Xentơ (Xcốt len)
+        gez: Tiếng Geez
+        gil: Tiếng Gilbert
+        gl: Tiếng Galician
+        glk: Tiếng Gilaki
+        gmh: Tiếng Thượng Giéc-man Trung cổ
+        gn: Tiếng Guarani
+        goh: Tiếng Thượng Giéc-man cổ
+        gom: Tiếng Goan Konkani
+        gon: Tiếng Gondi
+        gor: Tiếng Gorontalo
+        got: Tiếng Gô-tích
+        grb: Tiếng Grebo
+        grc: Tiếng Hy Lạp cổ
+        gsw: Tiếng Đức (Thụy Sĩ)
+        gu: Tiếng Gujarati
+        guc: guc
+        gur: Tiếng Frafra
+        guz: Tiếng Gusii
+        gv: Tiếng Manx
+        gwi: Tiếng Gwichʼin
+        ha: Tiếng Hausa
+        hai: Tiếng Haida
+        hak: Tiếng Trung Hakka
+        haw: Tiếng Hawaii
+        he: Tiếng Do Thái
+        hi: Tiếng Hindi
+        hif: Tiếng Fiji Hindi
+        hil: Tiếng Hiligaynon
+        hit: Tiếng Hittite
+        hmn: Tiếng Hmông
+        ho: Tiếng Hiri Motu
+        hr: Tiếng Croatia
+        hsb: Tiếng Thượng Sorbia
+        hsn: hsn
+        ht: Tiếng Haiti
+        hu: Tiếng Hungary
+        hup: Tiếng Hupa
+        hy: Tiếng Armenia
+        hz: Tiếng Herero
+        ia: Tiếng Khoa Học Quốc Tế
+        iba: Tiếng Iban
+        ibb: Tiếng Ibibio
+        id: Tiếng Indonesia
+        ie: Tiếng Interlingue
+        ig: Tiếng Igbo
+        ii: Tiếng Di Tứ Xuyên
+        ik: Tiếng Inupiaq
+        ilo: Tiếng Iloko
+        inh: Tiếng Ingush
+        io: Tiếng Ido
+        is: Tiếng Iceland
+        it: Tiếng Ý
+        iu: Tiếng Inuktitut
+        izh: Tiếng Ingria
+        ja: Tiếng Nhật
+        jam: Tiếng Anh Jamaica Creole
+        jbo: Tiếng Lojban
+        jgo: Tiếng Ngomba
+        jmc: Tiếng Machame
+        jpr: Tiếng Judeo-Ba Tư
+        jrb: Tiếng Judeo-Ả Rập
+        jut: Tiếng Jutish
+        jv: Tiếng Java
+        ka: Tiếng Gruzia
+        kaa: Tiếng Kara-Kalpak
+        kab: Tiếng Kabyle
+        kac: Tiếng Kachin
+        kaj: Tiếng Jju
+        kam: Tiếng Kamba
+        kaw: Tiếng Kawi
+        kbd: Tiếng Kabardian
+        kbl: Tiếng Kanembu
+        kcg: Tiếng Tyap
+        kde: Tiếng Makonde
+        kea: Tiếng Kabuverdianu
+        ken: ken
+        kfo: Tiếng Koro
+        kg: Tiếng Kongo
+        kgp: kgp
+        kha: Tiếng Khasi
+        kho: Tiếng Khotan
+        khq: Tiếng Koyra Chiini
+        khw: khw
+        ki: Tiếng Kikuyu
+        kiu: kiu
+        kj: Tiếng Kuanyama
+        kk: Tiếng Kazakh
+        kkj: Tiếng Kako
+        kl: Tiếng Kalaallisut
+        kln: Tiếng Kalenjin
+        km: Tiếng Khơ-me
+        kmb: Tiếng Kimbundu
+        kn: Tiếng Kannada
+        ko: Tiếng Hàn
+        koi: Tiếng Komi-Permyak
+        kok: Tiếng Konkani
+        kos: Tiếng Kosrae
+        kpe: Tiếng Kpelle
+        kr: Tiếng Kanuri
+        krc: Tiếng Karachay-Balkar
+        kri: kri
+        krj: krj
+        krl: Tiếng Karelian
+        kru: Tiếng Kurukh
+        ks: Tiếng Kashmiri
+        ksb: Tiếng Shambala
+        ksf: Tiếng Bafia
+        ksh: Tiếng Cologne
+        ku: Tiếng Kurd
+        kum: Tiếng Kumyk
+        kut: Tiếng Kutenai
+        kv: Tiếng Komi
+        kw: Tiếng Cornwall
+        ky: Tiếng Kyrgyz
+        la: Tiếng La-tinh
+        lad: Tiếng Ladino
+        lag: Tiếng Langi
+        lah: Tiếng Lahnda
+        lam: Tiếng Lamba
+        lb: Tiếng Luxembourg
+        lez: Tiếng Lezghian
+        lfn: lfn
+        lg: Tiếng Ganda
+        li: Tiếng Limburg
+        lij: lij
+        liv: liv
+        lkt: Tiếng Lakota
+        lmo: lmo
+        ln: Tiếng Lingala
+        lo: Tiếng Lào
+        lol: Tiếng Mongo
+        loz: Tiếng Lozi
+        lrc: Tiếng Bắc Luri
+        lt: Tiếng Lít-va
+        ltg: ltg
+        lu: Tiếng Luba-Katanga
+        lua: Tiếng Luba-Lulua
+        lui: Tiếng Luiseno
+        lun: Tiếng Lunda
+        luo: Tiếng Luo
+        lus: Tiếng Lushai
+        luy: Tiếng Luyia
+        lv: Tiếng Latvia
+        lzh: lzh
+        lzz: lzz
+        mad: Tiếng Madura
+        maf: Tiếng Mafa
+        mag: Tiếng Magahi
+        mai: Tiếng Maithili
+        mak: Tiếng Makasar
+        man: Tiếng Mandingo
+        mas: Tiếng Masai
+        mde: Tiếng Maba
+        mdf: Tiếng Moksha
+        mdh: mdh
+        mdr: Tiếng Mandar
+        men: Tiếng Mende
+        mer: Tiếng Meru
+        mfe: Tiếng Morisyen
+        mg: Tiếng Malagasy
+        mga: Tiếng Ai-len Trung cổ
+        mgh: Tiếng Makhuwa-Meetto
+        mgo: Tiếng Meta’
+        mh: Tiếng Marshall
+        mi: Tiếng Maori
+        mic: Tiếng Micmac
+        min: Tiếng Minangkabau
+        mis: mis
+        mk: Tiếng Macedonia
+        ml: Tiếng Malayalam
+        mn: Tiếng Mông Cổ
+        mnc: Tiếng Manchu
+        mni: Tiếng Manipuri
+        moh: Tiếng Mohawk
+        mos: Tiếng Mossi
+        mr: Tiếng Marathi
+        mrj: mrj
+        ms: Tiếng Malaysia
+        mt: Tiếng Malt
+        mua: Tiếng Mundang
+        mul: Nhiều Ngôn ngữ
+        mus: Tiếng Creek
+        mwl: Tiếng Miranda
+        mwr: Tiếng Marwari
+        mwv: mwv
+        my: Tiếng Miến Điện
+        mye: Tiếng Myene
+        myv: Tiếng Erzya
+        mzn: Tiếng Mazanderani
+        na: Tiếng Nauru
+        nan: nan
+        nap: Tiếng Napoli
+        naq: Tiếng Nama
+        nb: Tiếng Na Uy (Bokmål)
+        nd: Tiếng Ndebele Miền Bắc
+        nds: Tiếng Hạ Giéc-man
+        nds_nl: Tiếng Hạ Saxon
+        ne: Tiếng Nepal
+        new: Tiếng Newari
+        ng: Tiếng Ndonga
+        nia: Tiếng Nias
+        niu: Tiếng Niuean
+        njo: Tiếng Ao Naga
+        nl: Tiếng Hà Lan
+        nl_be: Tiếng Flemish
+        nmg: Tiếng Kwasio
+        nn: Tiếng Na Uy (Nynorsk)
+        nnh: Tiếng Ngiemboon
+        'no': Tiếng Na Uy
+        nog: Tiếng Nogai
+        non: Tiếng Na Uy cổ
+        nov: nov
+        nqo: Tiếng N’Ko
+        nr: Tiếng Ndebele Miền Nam
+        nso: Bắc Sotho
+        nus: Tiếng Nuer
+        nv: Tiếng Navajo
+        nwc: Tiếng Newari Cổ điển
+        ny: Tiếng Nyanja
+        nym: Tiếng Nyamwezi
+        nyn: Tiếng Nyankole
+        nyo: Tiếng Nyoro
+        nzi: Tiếng Nzima
+        oc: Tiếng Occitan
+        oj: Tiếng Ojibwa
+        om: Tiếng Oromo
+        or: Tiếng Oriya
+        os: Tiếng Ossetic
+        osa: Tiếng Osage
+        ota: Tiếng Thổ Nhĩ Kỳ Ottoman
+        pa: Tiếng Punjab
+        pag: Tiếng Pangasinan
+        pal: Tiếng Pahlavi
+        pam: Tiếng Pampanga
+        pap: Tiếng Papiamento
+        pau: Tiếng Palauan
+        pcd: pcd
+        pdc: pdc
+        pdt: pdt
+        peo: Tiếng Ba Tư cổ
+        pfl: pfl
+        phn: Tiếng Phoenicia
+        pi: Tiếng Pali
+        pl: Tiếng Ba Lan
+        pms: pms
+        pnt: pnt
+        pon: Tiếng Pohnpeian
+        prg: prg
+        pro: Tiếng Provençal cổ
+        ps: Tiếng Pashto
+        ps_alt_variant: Tiếng Pushto
+        pt: Tiếng Bồ Đào Nha
+        pt_br: Tiếng Bồ Đào Nha (Braxin)
+        pt_pt: Tiếng Bồ Đào Nha (Châu Âu)
+        qu: Tiếng Quechua
+        quc: Tiếng Kʼicheʼ
+        qug: Tiếng Quechua ở Cao nguyên Chimborazo
+        raj: Tiếng Rajasthani
+        rap: Tiếng Rapanui
+        rar: Tiếng Rarotongan
+        rgn: rgn
+        rif: rif
+        rm: Tiếng Romansh
+        rn: Tiếng Rundi
+        ro: Tiếng Rumani
+        ro_md: Tiếng Moldova
+        rof: Tiếng Rombo
+        rom: Tiếng Romany
+        root: Tiếng Root
+        rtm: rtm
+        ru: Tiếng Nga
+        rue: rue
+        rug: rug
+        rup: Tiếng Aromania
+        rw: Tiếng Kinyarwanda
+        rwk: Tiếng Rwa
+        sa: Tiếng Phạn
+        sad: Tiếng Sandawe
+        sah: Tiếng Sakha
+        sam: Tiếng Samaritan Aramaic
+        saq: Tiếng Samburu
+        sas: Tiếng Sasak
+        sat: Tiếng Santali
+        saz: saz
+        sba: Tiếng Ngambay
+        sbp: Tiếng Sangu
+        sc: Tiếng Sardinia
+        scn: Tiếng Sicilia
+        sco: Tiếng Scots
+        sd: Tiếng Sindhi
+        sdc: sdc
+        sdh: Tiếng Kurd Miền Nam
+        se: Tiếng Sami Miền Bắc
+        see: Tiếng Seneca
+        seh: Tiếng Sena
+        sei: sei
+        sel: Tiếng Selkup
+        ses: Tiếng Koyraboro Senni
+        sg: Tiếng Sango
+        sga: Tiếng Ai-len cổ
+        sgs: sgs
+        sh: Tiếng Xéc bi - Croatia
+        shi: Tiếng Tachelhit
+        shn: Tiếng Shan
+        shu: Tiếng Ả-Rập Chad
+        si: Tiếng Sinhala
+        sid: Tiếng Sidamo
+        sk: Tiếng Slovak
+        sl: Tiếng Slovenia
+        sli: sli
+        sly: sly
+        sm: Tiếng Samoa
+        sma: TIếng Sami Miền Nam
+        smj: Tiếng Lule Sami
+        smn: Tiếng Inari Sami
+        sms: Tiếng Skolt Sami
+        sn: Tiếng Shona
+        snk: Tiếng Soninke
+        so: Tiếng Somali
+        sog: Tiếng Sogdien
+        sq: Tiếng An-ba-ni
+        sr: Tiếng Serbia
+        srn: Tiếng Sranan Tongo
+        srr: Tiếng Serer
+        ss: Tiếng Swati
+        ssy: Tiếng Saho
+        st: Tiếng Sesotho
+        stq: stq
+        su: Tiếng Sunda
+        suk: Tiếng Sukuma
+        sus: Tiếng Susu
+        sux: Tiếng Sumeria
+        sv: Tiếng Thụy Điển
+        sw: Tiếng Swahili
+        swb: Tiếng Cômo
+        swc: Tiếng Swahili Congo
+        syc: Tiếng Syria Cổ điển
+        syr: Tiếng Syriac
+        szl: szl
+        ta: Tiếng Tamil
+        tcy: tcy
+        te: Tiếng Telugu
+        tem: Tiếng Timne
+        teo: Tiếng Teso
+        ter: Tiếng Tereno
+        tet: Tetum
+        tg: Tiếng Tajik
+        th: Tiếng Thái
+        ti: Tiếng Tigrigya
+        tig: Tiếng Tigre
+        tiv: Tiếng Tiv
+        tk: Tiếng Turk
+        tkl: Tiếng Tokelau
+        tkr: tkr
+        tl: Tiếng Tagalog
+        tlh: Tiếng Klingon
+        tli: Tiếng Tlingit
+        tly: tly
+        tmh: Tiếng Tamashek
+        tn: Tiếng Tswana
+        to: Tiếng Tonga
+        tog: Tiếng Nyasa Tonga
+        tpi: Tiếng Tok Pisin
+        tr: Tiếng Thổ Nhĩ Kỳ
+        tru: tru
+        trv: Tiếng Taroko
+        ts: Tiếng Tsonga
+        tsd: tsd
+        tsi: Tiếng Tsimshian
+        tt: Tiếng Tatar
+        ttt: ttt
+        tum: Tiếng Tumbuka
+        tvl: Tiếng Tuvalu
+        tw: Tiếng Twi
+        twq: Tiếng Tasawaq
+        ty: Tiếng Tahiti
+        tyv: Tiếng Tuvinian
+        tzm: Tiếng Tamazight Miền Trung Ma-rốc
+        udm: Tiếng Udmurt
+        ug: Tiếng Uyghur
+        uga: Tiếng Ugaritic
+        uk: Tiếng Ucraina
+        umb: Tiếng Umbundu
+        und: Ngôn ngữ không xác định
+        ur: Tiếng Uđu
+        uz: Tiếng Uzbek
+        vai: Tiếng Vai
+        ve: Tiếng Venda
+        vec: vec
+        vep: vep
+        vi: Tiếng Việt
+        vls: vls
+        vmf: vmf
+        vo: Tiếng Volapük
+        vot: Tiếng Votic
+        vro: vro
+        vun: Tiếng Vunjo
+        wa: Tiếng Walloon
+        wae: Tiếng Walser
+        wal: Tiếng Walamo
+        war: Tiếng Waray
+        was: Tiếng Washo
+        wbp: Tiếng Warlpiri
+        wo: Tiếng Wolof
+        wuu: wuu
+        xal: Tiếng Kalmyk
+        xh: Tiếng Xhosa
+        xmf: xmf
+        xog: Tiếng Soga
+        yao: Tiếng Yao
+        yap: Tiếng Yap
+        yav: Tiếng Yangben
+        ybb: Tiếng Yemba
+        yi: Tiếng Y-đit
+        yo: Tiếng Yoruba
+        yrl: yrl
+        yue: Tiếng Quảng Đông
+        za: Tiếng Zhuang
+        zap: Tiếng Zapotec
+        zbl: Ký hiệu Blissymbols
+        zea: zea
+        zen: Tiếng Zenaga
+        zgh: Tiếng Tamazight Chuẩn của Ma-rốc
+        zh: Tiếng Trung
+        zh_hans: Tiếng Trung (Giản thể)
+        zh_hant: Tiếng Trung (Phồn thể)
+        zu: Tiếng Zulu
+        zun: Tiếng Zuni
+        zxx: Không có nội dung ngôn ngữ
+        zza: Tiếng Zaza
+      locale_display_pattern:
+        locale_pattern: "{0} ({1})"
+        locale_separator: "{0}, {1}"
+        locale_key_type_pattern: "{0}: {1}"
+      keys:
+        calendar: Lịch
+        cf: cf
+        col_alternate: Bỏ qua sắp xếp biểu tượng
+        col_backwards: Sắp xếp dấu trọng âm đảo ngược
+        col_case_first: Sắp xếp chữ hoa/chữ thường
+        col_case_level: Sắp xếp phân biệt chữ hoa/chữ thường
+        col_hiragana_quaternary: Sắp xếp chữ Kana
+        collation: Thứ tự sắp xếp
+        col_normalization: Sắp xếp theo chuẩn hóa
+        col_numeric: Sắp xếp theo số
+        col_strength: Cường độ sắp xếp
+        currency: Tiền tệ
+        hc: Chu kỳ giờ (12 vs 24)
+        lb: Kiểu xuống dòng
+        ms: Hệ thống đo lường
+        numbers: Số
+        timezone: Múi giờ
+        va: Biến thể ngôn ngữ
+        variable_top: Sắp xếp dưới dạng biểu tượng
+        x: Sử dụng cá nhân
+      types:
+        calendar:
+          buddhist: Lịch Phật Giáo
+          chinese: Lịch Trung Quốc
+          coptic: Lịch Copts
+          dangi: Lịch Dangi
+          ethiopic: Lịch Ethiopia
+          ethiopic_amete_alem: Lịch Ethiopic Amete Alem
+          gregorian: Lịch Gregory
+          hebrew: Lịch Do Thái
+          indian: Lịch Quốc gia Ấn Độ
+          islamic: Lịch Hồi Giáo
+          islamic_civil: Lịch Islamic-Civil
+          islamic_rgsa: Lịch Hồi Giáo - Ả Rập Xê-út
+          islamic_tbla: Lịch Hồi Giáo - Thiên văn
+          islamic_umalqura: Lịch Hồi Giáo - Umm al-Qura
+          iso8601: Lịch ISO-8601
+          japanese: Lịch Nhật Bản
+          persian: Lịch Ba Tư
+          roc: Lịch Trung Hoa Dân Quốc
+        cf:
+          account: account
+          standard: standard
+        col_alternate:
+          non_ignorable: Sắp xếp biểu tượng
+          shifted: Sắp xếp biểu tượng bỏ qua
+        col_backwards:
+          'no': Sắp xếp dấu trọng âm bình thường
+          'yes': Sắp xếp dấu trọng âm đảo ngược
+        col_case_first:
+          lower: Sắp xếp chữ thường đầu tiên
+          'no': Sắp xếp thứ tự chữ cái bình thường
+          upper: Sắp xếp chữ hoa đầu tiên
+        col_case_level:
+          'no': Sắp xếp không phân biệt chữ hoa/chữ thường
+          'yes': Sắp xếp phân biệt chữ hoa/chữ thường
+        col_hiragana_quaternary:
+          'no': Sắp xếp chữ Kana riêng biệt
+          'yes': Sắp xếp chữ Kana khác nhau
+        collation:
+          big5han: Thứ tự sắp xếp theo tiếng Trung phồn thể - Big5
+          compat: compat
+          dictionary: Thứ tự sắp xếp theo từ điển
+          ducet: Thứ tự sắp xếp unicode mặc định
+          emoji: emoji
+          eor: eor
+          gb2312han: Thứ tự sắp xếp theo tiếng Trung giản thể - GB2312
+          phonebook: Thứ tự sắp xếp theo danh bạ điện thoại
+          phonetic: Thứ tự sắp xếp theo ngữ âm
+          pinyin: Thứ tự sắp xếp theo bính âm
+          reformed: Thứ tự sắp xếp đã sửa đổi
+          search: Tìm kiếm mục đích chung
+          searchjl: Tìm kiếm theo Phụ âm Đầu Hangul
+          standard: Thứ tự sắp xếp chuẩn
+          stroke: Thứ tự sắp xếp theo nét chữ
+          traditional: Thứ tự sắp xếp truyền thống
+          unihan: Trình tự sắp xếp theo bộ-nét
+          zhuyin: Thứ tự sắp xếp Zhuyin
+        col_normalization:
+          'no': Sắp xếp không theo chuẩn hóa
+          'yes': Sắp xếp unicode được chuẩn hóa
+        col_numeric:
+          'no': Sắp xếp từng chữ số
+          'yes': Sắp xếp chữ số theo số
+        col_strength:
+          identical: Sắp xếp tất cả
+          primary: Chỉ sắp xếp chữ cái cơ sở
+          quaternary: Sắp xếp dấu trọng âm/chữ cái/độ rộng/chữ Kana
+          secondary: Sắp xếp dấu trọng âm
+          tertiary: Sắp xếp dấu trọng âm/chữ cái/độ rộng
+        hc:
+          h11: Hệ thống 12 giờ (0–11)
+          h12: Hệ thống 12 giờ (1–12)
+          h23: Hệ thống 24 giờ (0–23)
+          h24: Hệ thống 24 giờ (1–24)
+        lb:
+          loose: Kiểu xuống dòng thoáng
+          normal: Kiểu xuống dòng thường
+          strict: Kiểu xuống dòng hẹp
+        ms:
+          metric: Hệ mét
+          uksystem: Hệ đo lường Anh
+          ussystem: Hệ đo lường Mỹ
+        numbers:
+          ahom: ahom
+          arab: Chữ số Ả Rập - Ấn Độ
+          arabext: Chữ số Ả Rập - Ấn Độ mở rộng
+          armn: Chữ số Armenia
+          armnlow: Chữ số Armenia viết thường
+          bali: Chữ số Bali
+          beng: Chữ số Bangladesh
+          brah: Chữ số Brahmi
+          cakm: Chữ số Chakma
+          cham: Chữ số Chăm
+          cyrl: cyrl
+          deva: Chữ số Devanagari
+          ethi: Chữ số Ethiopia
+          finance: Chữ số dùng trong tài chính
+          fullwide: Chữ số có độ rộng đầy đủ
+          geor: Chữ số Gruzia
+          grek: Chữ số Hy Lạp
+          greklow: Chữ số Hy Lạp viết thường
+          gujr: Chữ số Gujarati
+          guru: Chữ số Gurmukhi
+          hanidec: Chữ số thập phân Trung Quốc
+          hans: Chữ số của tiếng Trung giản thể
+          hansfin: Chữ số dùng trong tài chính của tiếng Trung giản thể
+          hant: Chữ số tiếng Trung phồn thể
+          hantfin: Chữ số dùng trong tài chính của tiếng Trung phồn thể
+          hebr: Chữ số Do Thái
+          hmng: hmng
+          java: Chữ số Java
+          jpan: Chữ số Nhật Bản
+          jpanfin: Chữ số dùng trong tài chính của tiếng Nhật
+          kali: Chữ số Kayah Li
+          khmr: Chữ số Khơ-me
+          knda: Chữ số Kannada
+          lana: Chữ số Hora Thái Đam
+          lanatham: Chữ số Tham Thái Đam
+          laoo: Chữ số Lào
+          latn: Chữ số phương Tây
+          lepc: Chữ số Lepcha
+          limb: Chữ số Limbu
+          mathbold: mathbold
+          mathdbl: mathdbl
+          mathmono: mathmono
+          mathsanb: mathsanb
+          mathsans: mathsans
+          mlym: Chữ số Malayalam
+          modi: modi
+          mong: Chữ số Mông Cổ
+          mroo: mroo
+          mtei: Chữ số Meetei Mayek
+          mymr: Chữ số Myanma
+          mymrshan: Chữ số Myanmar Shan
+          mymrtlng: mymrtlng
+          native: Chữ số tự nhiên
+          nkoo: Chữ số N’Ko
+          olck: Chữ số Ol Chiki
+          orya: Chữ số Oriya
+          osma: Chữ số Osmanya
+          roman: Chữ số La mã
+          romanlow: Chữ số La Mã viết thường
+          saur: Chữ số Saurashtra
+          shrd: Chữ số Sharada
+          sind: sind
+          sinh: sinh
+          sora: Chữ số Sora Sompeng
+          sund: Chữ số Sudan
+          takr: Chữ số Takri
+          talu: Chữ số Thái Lặc mới
+          taml: Chữ số Tamil Truyền thống
+          tamldec: Chữ số Tamil
+          telu: Chữ số Telugu
+          thai: Chữ số Thái
+          tibt: Chữ số Tây Tạng
+          tirh: tirh
+          traditional: Số truyền thống
+          vaii: Chữ số Vai
+          wara: wara
+      code_patterns:
+        language: 'Ngôn ngữ: {0}'
+        script: 'Chữ viết: {0}'
+        territory: 'Vùng: {0}'
+      scripts:
+        afak: Chữ Afaka
+        aghb: Aghb
+        ahom: Ahom
+        arab: Chữ Ả Rập
+        arab_alt_variant: Chữ Ba Tư-Ả Rập
+        armi: Chữ Imperial Aramaic
+        armn: Chữ Armenia
+        avst: Chữ Avestan
+        bali: Chữ Bali
+        bamu: Chữ Bamum
+        bass: Chữ Bassa Vah
+        batk: Chữ Batak
+        beng: Chữ Bengali
+        blis: Chữ Blissymbols
+        bopo: Chữ Bopomofo
+        brah: Chữ Brahmi
+        brai: Chữ nổi Braille
+        bugi: Chữ Bugin
+        buhd: Chữ Buhid
+        cakm: Chữ Chakma
+        cans: "Âm tiết Thổ dân Canada Hợp nhất"
+        cari: Chữ Caria
+        cham: Chữ Chăm
+        cher: Chữ Cherokee
+        cirt: Chữ Cirth
+        copt: Chữ Coptic
+        cprt: Chứ Síp
+        cyrl: Chữ Kirin
+        cyrs: Chữ Kirin Slavơ Nhà thờ cổ
+        deva: Chữ Devanagari
+        dsrt: Chữ Deseret
+        dupl: Chữ tốc ký Duployan
+        egyd: Chữ Ai Cập bình dân
+        egyh: Chữ Ai Cập thày tu
+        egyp: Chữ tượng hình Ai Cập
+        elba: Elba
+        ethi: Chữ Ethiopia
+        geok: Chữ Khutsuri Georgia
+        geor: Chữ Gruzia
+        glag: Chữ Glagolitic
+        goth: Chữ Gô-tích
+        gran: Chữ Grantha
+        grek: Chữ Hy Lạp
+        gujr: Chữ Gujarati
+        guru: Chữ Gurmukhi
+        hang: Chữ Hangul
+        hani: Chữ Hán
+        hano: Chữ Hanunoo
+        hans: Giản thể
+        hans_alt_stand_alone: Chữ Hán giản thể
+        hant: Phồn thể
+        hant_alt_stand_alone: Chữ Hán phồn thể
+        hatr: Hatr
+        hebr: Chữ Do Thái
+        hira: Chữ Hiragana
+        hluw: Chữ tượng hình Anatolia
+        hmng: Chữ Pahawh Hmong
+        hrkt: Bảng ký hiệu âm tiết Tiếng Nhật
+        hung: Chữ Hungary cổ
+        inds: Chữ Indus
+        ital: Chữ Italic cổ
+        java: Chữ Java
+        jpan: Chữ Nhật Bản
+        jurc: Chữ Jurchen
+        kali: Chữ Kayah Li
+        kana: Chữ Katakana
+        khar: Chữ Kharoshthi
+        khmr: Chữ Khơ-me
+        khoj: Chữ Khojki
+        knda: Chữ Kannada
+        kore: Chữ Hàn Quốc
+        kpel: Chữ Kpelle
+        kthi: Chữ Kaithi
+        lana: Chữ Lanna
+        laoo: Chữ Lào
+        latf: Chữ La-tinh Fraktur
+        latg: Chữ La-tinh Xcốt-len
+        latn: Chữ La tinh
+        lepc: Chữ Lepcha
+        limb: Chữ Limbu
+        lina: Chữ Linear A
+        linb: Chữ Linear B
+        lisu: Chữ Fraser
+        loma: Chữ Loma
+        lyci: Chữ Lycia
+        lydi: Chữ Lydia
+        mahj: Mahj
+        mand: Chữ Mandaean
+        mani: Chữ Manichaean
+        maya: Chữ tượng hình Maya
+        mend: Chữ Mende
+        merc: Chữ Meroitic Nét thảo
+        mero: Chữ Meroitic
+        mlym: Chữ Malayalam
+        modi: Modi
+        mong: Chữ Mông Cổ
+        moon: Chữ nổi Moon
+        mroo: Chữ Mro
+        mtei: Chữ Meitei Mayek
+        mult: Mult
+        mymr: Myanma
+        narb: Chữ Bắc Ả Rập cổ
+        nbat: Chữ Nabataean
+        nkgb: Chữ Naxi Geba
+        nkoo: Chữ N’Ko
+        nshu: Chữ Nüshu
+        ogam: Chữ Ogham
+        olck: Chữ Ol Chiki
+        orkh: Chữ Orkhon
+        orya: Chữ Oriya
+        osma: Chữ Osmanya
+        palm: Chữ Palmyrene
+        pauc: Pauc
+        perm: Chữ Permic cổ
+        phag: Chữ Phags-pa
+        phli: Chữ Pahlavi Văn bia
+        phlp: Chữ Pahlavi Thánh ca
+        phlv: Chữ Pahlavi Sách
+        phnx: Chữ Phoenicia
+        plrd: Ngữ âm Pollard
+        prti: Chữ Parthia Văn bia
+        qaaa: Qaaa
+        qaab: Qaab
+        qaac: Qaac
+        qaad: Qaad
+        qaae: Qaae
+        qaaf: Qaaf
+        qaag: Qaag
+        qaah: Qaah
+        qaaj: Qaaj
+        qaak: Qaak
+        qaal: Qaal
+        qaam: Qaam
+        qaan: Qaan
+        qaao: Qaao
+        qaap: Qaap
+        qaaq: Qaaq
+        qaar: Qaar
+        qaas: Qaas
+        qaat: Qaat
+        qaau: Qaau
+        qaav: Qaav
+        qaaw: Qaaw
+        qaax: Qaax
+        qaay: Qaay
+        qaaz: Qaaz
+        qaba: Qaba
+        qabb: Qabb
+        qabc: Qabc
+        qabd: Qabd
+        qabe: Qabe
+        qabf: Qabf
+        qabg: Qabg
+        qabh: Qabh
+        qabi: Qabi
+        qabj: Qabj
+        qabk: Qabk
+        qabl: Qabl
+        qabm: Qabm
+        qabn: Qabn
+        qabo: Qabo
+        qabp: Qabp
+        qabq: Qabq
+        qabr: Qabr
+        qabs: Qabs
+        qabt: Qabt
+        qabu: Qabu
+        qabv: Qabv
+        qabw: Qabw
+        qabx: Qabx
+        rjng: Chữ Rejang
+        roro: Chữ Rongorongo
+        runr: Chữ Runic
+        samr: Chữ Samaritan
+        sara: Chữ Sarati
+        sarb: Chữ Nam Ả Rập cổ
+        saur: Chữ Saurashtra
+        sgnw: Chữ viết Ký hiệu
+        shaw: Chữ Shavian
+        shrd: Chữ Sharada
+        sidd: Sidd
+        sind: Chữ Khudawadi
+        sinh: Chữ Sinhala
+        sora: Chữ Sora Sompeng
+        sund: Chữ Xu-đăng
+        sylo: Chữ Syloti Nagri
+        syrc: Chữ Syria
+        syre: Chữ Estrangelo Syriac
+        syrj: Chữ Tây Syria
+        syrn: Chữ Đông Syria
+        tagb: Chữ Tagbanwa
+        takr: Chữ Takri
+        tale: Chữ Thái Na
+        talu: Chữ Thái Lặc mới
+        taml: Chữ Tamil
+        tang: Chữ Tangut
+        tavt: Chữ Thái Việt
+        telu: Chữ Telugu
+        teng: Chữ Tengwar
+        tfng: Chữ Tifinagh
+        tglg: Chữ Tagalog
+        thaa: Chữ Thaana
+        thai: Chữ Thái
+        tibt: Chữ Tây Tạng
+        tirh: Chữ Tirhuta
+        ugar: Chữ Ugarit
+        vaii: Chữ Vai
+        visp: Tiếng nói Nhìn thấy được
+        wara: Chữ Varang Kshiti
+        wole: Chữ Woleai
+        xpeo: Chữ Ba Tư cổ
+        xsux: Chữ hình nêm Sumero-Akkadian
+        yiii: Chữ Di
+        zinh: Chữ Kế thừa
+        zmth: Ký hiệu Toán học
+        zsym: Ký hiệu
+        zxxx: Chưa có chữ viết
+        zyyy: Chung
+        zzzz: Chữ viết không xác định
+      territories:
+        '001': Thế giới
+        '002': Châu Phi
+        '003': Bắc Mỹ
+        '005': Nam Mỹ
+        009: Châu Đại Dương
+        '011': Tây Phi
+        '013': Trung Mỹ
+        '014': "Đông Phi"
+        '015': Bắc Phi
+        '017': Trung Phi
+        018: Miền Nam Châu Phi
+        019: Châu Mỹ
+        '021': Miền Bắc Châu Mỹ
+        029: Ca-ri-bê
+        '030': "Đông Á"
+        '034': Nam Á
+        '035': "Đông Nam Á"
+        039: Nam Âu
+        '053': "Úc và New Zealand"
+        '054': Melanesia
+        '057': Vùng Micronesian
+        '061': Polynesia
+        '142': Châu Á
+        '143': Trung Á
+        '145': Tây Á
+        '150': Châu Âu
+        '151': "Đông Âu"
+        '154': Bắc Âu
+        '155': Tây Âu
+        '419': Châu Mỹ La-tinh
+        ac: "Đảo Ascension"
+        ad: Andorra
+        ae: Các Tiểu V.quốc Ả Rập T.nhất
+        af: Afghanistan
+        ag: Antigua và Barbuda
+        ai: Anguilla
+        al: Albani
+        am: Armenia
+        an: Tây Ấn Hà Lan
+        ao: Angola
+        aq: Nam Cực
+        ar: Argentina
+        as: "Đảo Somoa thuộc Mỹ"
+        at: "Áo"
+        au: "Úc"
+        aw: Aruba
+        ax: Quần đảo Åland
+        az: Azerbaijan
+        ba: Bosnia và Herzegovina
+        bb: Barbados
+        bd: Bangladesh
+        be: Bỉ
+        bf: Burkina Faso
+        bg: Bungari
+        bh: Bahrain
+        bi: Burundi
+        bj: Benin
+        bl: St. Barthélemy
+        bm: Bermuda
+        bn: Brunei
+        bo: Bolivia
+        bq: Ca-ri-bê Hà Lan
+        br: Brazil
+        bs: Bahamas
+        bt: Bhutan
+        bv: "Đảo Bouvet"
+        bw: Botswana
+        by: Belarus
+        bz: Belize
+        ca: Canada
+        cc: Quần đảo Cocos (Keeling)
+        cd: Congo - Kinshasa
+        cd_alt_variant: Cộng hòa Dân chủ Congo
+        cf: Cộng hòa Trung Phi
+        cg: Congo - Brazzaville
+        cg_alt_variant: Cộng hòa Congo
+        ch: Thụy Sĩ
+        ci: Bờ Biển Ngà
+        ci_alt_variant: CI
+        ck: Quần đảo Cook
+        cl: Chile
+        cm: Cameroon
+        cn: Trung Quốc
+        co: Colombia
+        cp: "Đảo Clipperton"
+        cr: Costa Rica
+        cu: Cuba
+        cv: Cape Verde
+        cw: Curaçao
+        cx: "Đảo Giáng Sinh"
+        cy: Síp
+        cz: Cộng hòa Séc
+        de: "Đức"
+        dg: Diego Garcia
+        dj: Djibouti
+        dk: "Đan Mạch"
+        dm: Dominica
+        do: Cộng hòa Dominica
+        dz: Algeria
+        ea: Ceuta và Melilla
+        ec: Ecuador
+        ee: Estonia
+        eg: Ai Cập
+        eh: Tây Sahara
+        er: Eritrea
+        es: Tây Ban Nha
+        et: Ethiopia
+        eu: Liên Minh Châu Âu
+        fi: Phần Lan
+        fj: Fiji
+        fk: Quần đảo Falkland
+        fk_alt_variant: Quần đảo Falkland (Islas Malvinas)
+        fm: Micronesia
+        fo: Quần đảo Faroe
+        fr: Pháp
+        ga: Gabon
+        gb: Vương quốc Anh
+        gb_alt_short: Vương quốc Anh
+        gd: Grenada
+        ge: Georgia
+        gf: Guiana thuộc Pháp
+        gg: Guernsey
+        gh: Ghana
+        gi: Gibraltar
+        gl: Greenland
+        gm: Gambia
+        gn: Guinea
+        gp: Guadeloupe
+        gq: Guinea Xích Đạo
+        gr: Hy Lạp
+        gs: Quần đảo Nam Georgia và Nam Sandwich
+        gt: Guatemala
+        gu: Guam
+        gw: Guinea-Bissau
+        gy: Guyana
+        hk: Hồng Kông, Trung Quốc
+        hk_alt_short: Hồng Kông
+        hm: Quần đảo Heard và McDonald
+        hn: Honduras
+        hr: Croatia
+        ht: Haiti
+        hu: Hungari
+        ic: Quần đảo Canary
+        id: Indonesia
+        ie: Ai-len
+        il: Israel
+        im: "Đảo Man"
+        in: "Ấn Độ"
+        io: Thuộc địa Anh tại Ấn Độ Dương
+        iq: I-rắc
+        ir: Iran
+        is: Iceland
+        it: "Ý"
+        je: Jersey
+        jm: Jamaica
+        jo: Jordan
+        jp: Nhật Bản
+        ke: Kenya
+        kg: Kyrgyzstan
+        kh: Campuchia
+        ki: Kiribati
+        km: Comoros
+        kn: St. Kitts và Nevis
+        kp: Triều Tiên
+        kr: Hàn Quốc
+        kw: Cô-oét
+        ky: Quần đảo Cayman
+        kz: Kazakhstan
+        la: Lào
+        lb: Li-băng
+        lc: St. Lucia
+        li: Liechtenstein
+        lk: Sri Lanka
+        lr: Liberia
+        ls: Lesotho
+        lt: Lít-va
+        lu: Luxembourg
+        lv: Latvia
+        ly: Li-bi
+        ma: Ma-rốc
+        mc: Monaco
+        md: Moldova
+        me: Montenegro
+        mf: St. Martin
+        mg: Madagascar
+        mh: Quần đảo Marshall
+        mk: Macedonia
+        mk_alt_variant: Macedonia (FYROM)
+        ml: Mali
+        mm: Myanmar (Miến Điện)
+        mn: Mông Cổ
+        mo: Macao, Trung Quốc
+        mo_alt_short: Macao
+        mp: Quần đảo Bắc Mariana
+        mq: Martinique
+        mr: Mauritania
+        ms: Montserrat
+        mt: Malta
+        mu: Mauritius
+        mv: Maldives
+        mw: Malawi
+        mx: Mexico
+        my: Malaysia
+        mz: Mozambique
+        na: Namibia
+        nc: New Caledonia
+        ne: Niger
+        nf: "Đảo Norfolk"
+        ng: Nigeria
+        ni: Nicaragua
+        nl: Hà Lan
+        'no': Na Uy
+        np: Nepal
+        nr: Nauru
+        nu: Niue
+        nz: New Zealand
+        om: Oman
+        pa: Panama
+        pe: Peru
+        pf: Polynesia thuộc Pháp
+        pg: Papua New Guinea
+        ph: Philippin
+        pk: Pakistan
+        pl: Ba Lan
+        pm: Saint Pierre và Miquelon
+        pn: Quần đảo Pitcairn
+        pr: Puerto Rico
+        ps: Lãnh thổ Palestine
+        ps_alt_short: Palestine
+        pt: Bồ Đào Nha
+        pw: Palau
+        py: Paraguay
+        qa: Qatar
+        qo: Vùng xa xôi thuộc Châu Đại Dương
+        re: Réunion
+        ro: Romania
+        rs: Serbia
+        ru: Nga
+        rw: Rwanda
+        sa: "Ả Rập Xê-út"
+        sb: Quần đảo Solomon
+        sc: Seychelles
+        sd: Sudan
+        se: Thụy Điển
+        sg: Singapore
+        sh: St. Helena
+        si: Slovenia
+        sj: Svalbard và Jan Mayen
+        sk: Slovakia
+        sl: Sierra Leone
+        sm: San Marino
+        sn: Senegal
+        so: Somali
+        sr: Suriname
+        ss: Nam Sudan
+        st: São Tomé và Príncipe
+        sv: El Salvador
+        sx: Sint Maarten
+        sy: Syria
+        sz: Swaziland
+        ta: Tristan da Cunha
+        tc: Quần đảo Turk và Caicos
+        td: Chad
+        tf: Lãnh thổ miền nam nước Pháp
+        tg: Togo
+        th: Thái Lan
+        tj: Tajikistan
+        tk: Tokelau
+        tl: "Đông Timor"
+        tl_alt_variant: TL
+        tm: Turkmenistan
+        tn: Tunisia
+        to: Tonga
+        tr: Thổ Nhĩ Kỳ
+        tt: Trinidad và Tobago
+        tv: Tuvalu
+        tw: "Đài Loan"
+        tz: Tanzania
+        ua: Ukraina
+        ug: Uganda
+        um: Các đảo nhỏ xa t.tâm thuộc Mỹ
+        us: Hoa Kỳ
+        us_alt_short: Hoa Kỳ
+        uy: Uruguay
+        uz: Uzbekistan
+        va: Thành Vatican
+        vc: St. Vincent và Grenadines
+        ve: Venezuela
+        vg: Quần đảo Virgin thuộc Anh
+        vi: Quần đảo Virgin thuộc Mỹ
+        vn: Việt Nam
+        vu: Vanuatu
+        wf: Wallis và Futuna
+        ws: Samoa
+        xk: Kosovo
+        ye: Yemen
+        yt: Mayotte
+        za: Nam Phi
+        zm: Zambia
+        zw: Zimbabwe
+        zz: Vùng không xác định
+      transform_names:
+        bgn: BGN
+        numeric: Số
+        tone: "Âm"
+        ungegn: UNGEGN
+        x_accents: Dấu
+        x_fullwidth: "Độ rộng tối đa"
+        x_halfwidth: Nửa độ rộng
+        x_jamo: Jamo
+        x_pinyin: Bính âm
+        x_publishing: Xuất bản
+      variants:
+        '1901': Phép chính tả Tiếng Đức Truyền thống
+        '1994': Phép chính tả Resian Chuẩn hóa
+        '1996': Phép chính tả Tiếng Đức năm 1996
+        1606_nict: Tiếng Pháp từ Cuối thời Trung cổ đến 1606
+        1694_acad: Tiếng Pháp Hiện đại Thời kỳ đầu
+        1959_acad: Hàn lâm
+        abl1943: ABL1943
+        alalc97: La Mã hóa ALA-LC, ấn bản năm 1997
+        aluku: Phương ngữ Aluku
+        ao1990: AO1990
+        arevela: Tiếng Armenia Miền Đông
+        arevmda: Tiếng Armenia Miền Tây
+        baku1926: Bảng chữ cái La-tinh Tiếng Turk Hợp nhất
+        balanka: BALANKA
+        barla: BARLA
+        bauddha: BAUDDHA
+        biscayan: BISCAYAN
+        biske: Phương ngữ San Giorgio/Bila
+        bohoric: Bảng chữ cái Bohorič
+        boont: Tiếng Boontling
+        colb1945: COLB1945
+        dajnko: Bảng chữ cái Dajnko
+        ekavsk: EKAVSK
+        emodeng: Tiếng Anh Hiện đại Thời kỳ đầu
+        fonipa: Ngữ âm học IPA
+        fonupa: Ngữ âm học UPA
+        fonxsamp: FONXSAMP
+        hepburn: La mã hóa Hepburn
+        hognorsk: HOGNORSK
+        ijekavsk: IJEKAVSK
+        itihasa: ITIHASA
+        jauer: JAUER
+        jyutping: JYUTPING
+        kkcor: Phép chính tả Chung
+        kociewie: KOCIEWIE
+        kscor: Phép chính tả Chuẩn
+        laukika: LAUKIKA
+        lipaw: Phương ngữ Lipovaz của người Resian
+        luna1918: LUNA1918
+        metelko: Bảng chữ cái Metelko
+        monoton: "Đơn âm"
+        ndyuka: Phương ngữ Ndyuka
+        nedis: Phương ngữ Natisone
+        njiva: Phương ngữ Gniva/Njiva
+        nulik: Tiếng Volapük Hiện đại
+        osojs: Phương ngữ Oseacco/Osojane
+        oxendict: OXENDICT
+        pamaka: Phương ngữ Pamaka
+        petr1708: PETR1708
+        pinyin: La Mã hóa Bính âm
+        polyton: "Đa âm"
+        posix: Máy tính
+        puter: PUTER
+        revised: Phép chính tả Sửa đổi
+        rigik: Tiếng Volapük Cổ điển
+        rozaj: Tiếng Resian
+        rumgr: RUMGR
+        saaho: Tiếng Saho
+        scotland: Tiếng Anh chuẩn tại Scotland
+        scouse: Phương ngữ Liverpool
+        solba: Phương ngữ Stolvizza/Solbica
+        sotav: SOTAV
+        surmiran: SURMIRAN
+        sursilv: SURSILV
+        sutsilv: SUTSILV
+        tarask: Phép chính tả Taraskievica
+        uccor: Phép chính tả Hợp nhất
+        ucrcor: Phép chính tả Sửa đổi Hợp nhất
+        ulster: ULSTER
+        unifon: UNIFON
+        vaidika: VAIDIKA
+        valencia: Tiếng Valencia
+        vallader: VALLADER
+        wadegile: La Mã hóa Wade-Giles
+    units:
+      long:
+        per:
+          compound_unit_pattern: "{0}/{1}"
+        acceleration_g_force:
+          display_name: lực g
+          unit_pattern_count_other: "{0} lực g"
+        acceleration_meter_per_second_squared:
+          display_name: m/s²
+          unit_pattern_count_other: "{0} m/s²"
+        angle_revolution:
+          display_name: vòng
+          unit_pattern_count_other: "{0} vòng"
+        angle_radian:
+          display_name: radian
+          unit_pattern_count_other: "{0} radian"
+        angle_degree:
+          display_name: "độ"
+          unit_pattern_count_other: "{0} độ"
+        angle_arc_minute:
+          display_name: phút
+          unit_pattern_count_other: "{0} phút"
+        angle_arc_second:
+          display_name: giây
+          unit_pattern_count_other: "{0} giây"
+        area_square_kilometer:
+          display_name: kilômét vuông
+          unit_pattern_count_other: "{0} kilômét vuông"
+        area_hectare:
+          display_name: héc-ta
+          unit_pattern_count_other: "{0} héc-ta"
+        area_square_meter:
+          display_name: mét vuông
+          unit_pattern_count_other: "{0} mét vuông"
+          per_unit_pattern: "{0}/m²"
+        area_square_centimeter:
+          display_name: xentimét vuông
+          unit_pattern_count_other: "{0} xentimét vuông"
+          per_unit_pattern: "{0}/cm²"
+        area_square_mile:
+          display_name: dặm vuông
+          unit_pattern_count_other: "{0} dặm vuông"
+        area_acre:
+          display_name: mẫu
+          unit_pattern_count_other: "{0} mẫu"
+        area_square_yard:
+          display_name: yard vuông
+          unit_pattern_count_other: "{0} yard vuông"
+        area_square_foot:
+          display_name: feet vuông
+          unit_pattern_count_other: "{0} feet vuông"
+        area_square_inch:
+          display_name: inch vuông
+          unit_pattern_count_other: "{0} inch vuông"
+          per_unit_pattern: "{0}/in²"
+        consumption_liter_per_kilometer:
+          display_name: lít/km
+          unit_pattern_count_other: "{0} lít/km"
+        consumption_liter_per_100kilometers:
+          display_name: lít/100km
+          unit_pattern_count_other: "{0} l/100km"
+        consumption_mile_per_gallon:
+          display_name: dặm/gallon
+          unit_pattern_count_other: "{0} dặm/gallon"
+        digital_terabyte:
+          display_name: terabyte
+          unit_pattern_count_other: "{0} terabyte"
+        digital_terabit:
+          display_name: terabit
+          unit_pattern_count_other: "{0} terabit"
+        digital_gigabyte:
+          display_name: gigabyte
+          unit_pattern_count_other: "{0} gigabyte"
+        digital_gigabit:
+          display_name: gigabit
+          unit_pattern_count_other: "{0} gigabit"
+        digital_megabyte:
+          display_name: megabyte
+          unit_pattern_count_other: "{0} megabyte"
+        digital_megabit:
+          display_name: megabit
+          unit_pattern_count_other: "{0} megabit"
+        digital_kilobyte:
+          display_name: kilobyte
+          unit_pattern_count_other: "{0} kilobyte"
+        digital_kilobit:
+          display_name: kilobit
+          unit_pattern_count_other: "{0} kilobit"
+        digital_byte:
+          display_name: byte
+          unit_pattern_count_other: "{0} byte"
+        digital_bit:
+          display_name: bit
+          unit_pattern_count_other: "{0} bit"
+        duration_century:
+          display_name: thế kỷ
+          unit_pattern_count_other: "{0} thế kỷ"
+        duration_year:
+          display_name: năm
+          unit_pattern_count_other: "{0} năm"
+          per_unit_pattern: "{0}/năm"
+        duration_month:
+          display_name: tháng
+          unit_pattern_count_other: "{0} tháng"
+          per_unit_pattern: "{0}/tháng"
+        duration_week:
+          display_name: tuần
+          unit_pattern_count_other: "{0} tuần"
+          per_unit_pattern: "{0}/tuần"
+        duration_day:
+          display_name: ngày
+          unit_pattern_count_other: "{0} ngày"
+          per_unit_pattern: "{0}/ngày"
+        duration_hour:
+          display_name: giờ
+          unit_pattern_count_other: "{0} giờ"
+          per_unit_pattern: "{0}/giờ"
+        duration_minute:
+          display_name: phút
+          unit_pattern_count_other: "{0} phút"
+          per_unit_pattern: "{0}/phút"
+        duration_second:
+          display_name: giây
+          unit_pattern_count_other: "{0} giây"
+          per_unit_pattern: "{0}/giây"
+        duration_millisecond:
+          display_name: mili giây
+          unit_pattern_count_other: "{0} mili giây"
+        duration_microsecond:
+          display_name: micrô giây
+          unit_pattern_count_other: "{0} micrô giây"
+        duration_nanosecond:
+          display_name: nano giây
+          unit_pattern_count_other: "{0} nano giây"
+        electric_ampere:
+          display_name: ampe
+          unit_pattern_count_other: "{0} ampe"
+        electric_milliampere:
+          display_name: mili ampe
+          unit_pattern_count_other: "{0} mili ampe"
+        electric_ohm:
+          display_name: ohm
+          unit_pattern_count_other: "{0} ohm"
+        electric_volt:
+          display_name: vôn
+          unit_pattern_count_other: "{0} vôn"
+        energy_kilocalorie:
+          display_name: kilô calo
+          unit_pattern_count_other: "{0} kilô calo"
+        energy_calorie:
+          display_name: calo
+          unit_pattern_count_other: "{0} calo"
+        energy_foodcalorie:
+          display_name: Calo
+          unit_pattern_count_other: "{0} Calo"
+        energy_kilojoule:
+          display_name: kilô jun
+          unit_pattern_count_other: "{0} kilô jun"
+        energy_joule:
+          display_name: jun
+          unit_pattern_count_other: "{0} jun"
+        energy_kilowatt_hour:
+          display_name: kilôoát giờ
+          unit_pattern_count_other: "{0} kilôoát giờ"
+        frequency_gigahertz:
+          display_name: GHz
+          unit_pattern_count_other: "{0} GHz"
+        frequency_megahertz:
+          display_name: MHz
+          unit_pattern_count_other: "{0} MHz"
+        frequency_kilohertz:
+          display_name: kHz
+          unit_pattern_count_other: "{0} kHz"
+        frequency_hertz:
+          display_name: Hz
+          unit_pattern_count_other: "{0} Hz"
+        length_kilometer:
+          display_name: kilômét
+          unit_pattern_count_other: "{0} kilômét"
+          per_unit_pattern: "{0}/km"
+        length_meter:
+          display_name: mét
+          unit_pattern_count_other: "{0} mét"
+          per_unit_pattern: "{0}/m"
+        length_decimeter:
+          display_name: "đềximét"
+          unit_pattern_count_other: "{0} đềximét"
+        length_centimeter:
+          display_name: xentimét
+          unit_pattern_count_other: "{0} xentimét"
+          per_unit_pattern: "{0}/cm"
+        length_millimeter:
+          display_name: milimét
+          unit_pattern_count_other: "{0} milimét"
+        length_micrometer:
+          display_name: micrômét
+          unit_pattern_count_other: "{0} micrômét"
+        length_nanometer:
+          display_name: nanomét
+          unit_pattern_count_other: "{0} nanomét"
+        length_picometer:
+          display_name: picômét
+          unit_pattern_count_other: "{0} picômét"
+        length_mile:
+          display_name: dặm
+          unit_pattern_count_other: "{0} dặm"
+        length_yard:
+          display_name: yard
+          unit_pattern_count_other: "{0} yard"
+        length_foot:
+          display_name: feet
+          unit_pattern_count_other: "{0} feet"
+          per_unit_pattern: "{0}/ft"
+        length_inch:
+          display_name: inch
+          unit_pattern_count_other: "{0} inch"
+          per_unit_pattern: "{0}/inch"
+        length_parsec:
+          display_name: parsec
+          unit_pattern_count_other: "{0} parsec"
+        length_light_year:
+          display_name: năm ánh sáng
+          unit_pattern_count_other: "{0} năm ánh sáng"
+        length_astronomical_unit:
+          display_name: au
+          unit_pattern_count_other: "{0} au"
+        length_furlong:
+          display_name: fur
+          unit_pattern_count_other: "{0} fur"
+        length_fathom:
+          display_name: fm
+          unit_pattern_count_other: "{0} fm"
+        length_nautical_mile:
+          display_name: hải lý
+          unit_pattern_count_other: "{0} hải lý"
+        length_mile_scandinavian:
+          display_name: dặm scandinavia
+          unit_pattern_count_other: "{0} dặm scandinavia"
+        light_lux:
+          display_name: lux
+          unit_pattern_count_other: "{0} lux"
+        mass_metric_ton:
+          display_name: MT
+          unit_pattern_count_other: "{0} MT"
+        mass_kilogram:
+          display_name: kilôgam
+          unit_pattern_count_other: "{0} kilôgam"
+          per_unit_pattern: "{0}/kg"
+        mass_gram:
+          display_name: gam
+          unit_pattern_count_other: "{0} gam"
+          per_unit_pattern: "{0}/gam"
+        mass_milligram:
+          display_name: miligam
+          unit_pattern_count_other: "{0} miligam"
+        mass_microgram:
+          display_name: micrôgam
+          unit_pattern_count_other: "{0} micrô gam"
+        mass_ton:
+          display_name: tấn
+          unit_pattern_count_other: "{0} tấn"
+        mass_stone:
+          display_name: st
+          unit_pattern_count_other: "{0} st"
+        mass_pound:
+          display_name: pao
+          unit_pattern_count_other: "{0} pao"
+          per_unit_pattern: "{0}/lb"
+        mass_ounce:
+          display_name: ao-xơ
+          unit_pattern_count_other: "{0} ao-xơ"
+          per_unit_pattern: "{0}/oz"
+        mass_ounce_troy:
+          display_name: oz t
+          unit_pattern_count_other: "{0} oz t"
+        mass_carat:
+          display_name: carat
+          unit_pattern_count_other: "{0} carat"
+        power_gigawatt:
+          display_name: gigaoát
+          unit_pattern_count_other: "{0} gigaoát"
+        power_megawatt:
+          display_name: Megaoát
+          unit_pattern_count_other: "{0} Megaoát"
+        power_kilowatt:
+          display_name: kilôoát
+          unit_pattern_count_other: "{0} kilôoát"
+        power_watt:
+          display_name: oát
+          unit_pattern_count_other: "{0} oát"
+        power_milliwatt:
+          display_name: milioát
+          unit_pattern_count_other: "{0} milioát"
+        power_horsepower:
+          display_name: mã lực
+          unit_pattern_count_other: "{0} mã lực"
+        pressure_hectopascal:
+          display_name: héctô pascal
+          unit_pattern_count_other: "{0} héctô pascal"
+        pressure_millimeter_of_mercury:
+          display_name: mm Hg
+          unit_pattern_count_other: "{0} mm Hg"
+        pressure_pound_per_square_inch:
+          display_name: psi
+          unit_pattern_count_other: "{0} psi"
+        pressure_inch_hg:
+          display_name: inch thủy ngân
+          unit_pattern_count_other: "{0} inch thủy ngân"
+        pressure_millibar:
+          display_name: millibar
+          unit_pattern_count_other: "{0} millibar"
+        proportion_karat:
+          display_name: karat
+          unit_pattern_count_other: "{0} karat"
+        speed_kilometer_per_hour:
+          display_name: kilômét/giờ
+          unit_pattern_count_other: "{0} kilômét/giờ"
+        speed_meter_per_second:
+          display_name: mét/giây
+          unit_pattern_count_other: "{0} mét/giây"
+        speed_mile_per_hour:
+          display_name: dặm/giờ
+          unit_pattern_count_other: "{0} dặm/giờ"
+        speed_knot:
+          display_name: nút
+          unit_pattern_count_other: "{0} nút"
+        temperature_generic:
+          display_name: "°"
+          unit_pattern_count_other: "{0}°"
+        temperature_celsius:
+          display_name: "độ C"
+          unit_pattern_count_other: "{0} độ C"
+        temperature_fahrenheit:
+          display_name: "độ F"
+          unit_pattern_count_other: "{0} độ F"
+        temperature_kelvin:
+          display_name: "độ K"
+          unit_pattern_count_other: "{0} độ K"
+        volume_cubic_kilometer:
+          display_name: kilômét khối
+          unit_pattern_count_other: "{0} kilômét khối"
+        volume_cubic_meter:
+          display_name: mét khối
+          unit_pattern_count_other: "{0} mét khối"
+          per_unit_pattern: "{0}/m³"
+        volume_cubic_centimeter:
+          display_name: xentimét khối
+          unit_pattern_count_other: "{0} xentimét khối"
+          per_unit_pattern: "{0}/cm³"
+        volume_cubic_mile:
+          display_name: dặm khối
+          unit_pattern_count_other: "{0} dặm khối"
+        volume_cubic_yard:
+          display_name: yard khối
+          unit_pattern_count_other: "{0} yard khối"
+        volume_cubic_foot:
+          display_name: foot khối
+          unit_pattern_count_other: "{0} foot khối"
+        volume_cubic_inch:
+          display_name: inch khối
+          unit_pattern_count_other: "{0} inch khối"
+        volume_megaliter:
+          display_name: megalít
+          unit_pattern_count_other: "{0} megalít"
+        volume_hectoliter:
+          display_name: hectolit
+          unit_pattern_count_other: "{0} hectolit"
+        volume_liter:
+          display_name: lít
+          unit_pattern_count_other: "{0} lít"
+          per_unit_pattern: "{0}/l"
+        volume_deciliter:
+          display_name: "đềxilít"
+          unit_pattern_count_other: "{0} đềxilít"
+        volume_centiliter:
+          display_name: xentilít
+          unit_pattern_count_other: "{0} xentilít"
+        volume_milliliter:
+          display_name: mililít
+          unit_pattern_count_other: "{0} mililít"
+        volume_pint_metric:
+          display_name: panh khối
+          unit_pattern_count_other: "{0} panh khối"
+        volume_cup_metric:
+          display_name: cup khối
+          unit_pattern_count_other: "{0} cup khối"
+        volume_acre_foot:
+          display_name: ac ft
+          unit_pattern_count_other: "{0} ac ft"
+        volume_bushel:
+          display_name: bu
+          unit_pattern_count_other: "{0} bu"
+        volume_gallon:
+          display_name: gallon
+          unit_pattern_count_other: "{0} gallon"
+          per_unit_pattern: "{0}/gal"
+        volume_quart:
+          display_name: quart
+          unit_pattern_count_other: "{0} quart"
+        volume_pint:
+          display_name: pint
+          unit_pattern_count_other: "{0} pint"
+        volume_cup:
+          display_name: cup
+          unit_pattern_count_other: "{0} cup"
+        volume_fluid_ounce:
+          display_name: fl oz
+          unit_pattern_count_other: "{0} fl oz"
+        volume_tablespoon:
+          display_name: muỗng canh
+          unit_pattern_count_other: "{0} muỗng canh"
+        volume_teaspoon:
+          display_name: muỗng cà phê
+          unit_pattern_count_other: "{0} muỗng cà phê"
+        coordinate_unit:
+          east: "{0}E"
+          north: "{0}N"
+          south: "{0}S"
+          west: "{0}W"
+      short:
+        per:
+          compound_unit_pattern: "{0}/{1}"
+        acceleration_g_force:
+          display_name: lực g
+          unit_pattern_count_other: "{0} G"
+        acceleration_meter_per_second_squared:
+          display_name: m/s²
+          unit_pattern_count_other: "{0} m/s²"
+        angle_revolution:
+          display_name: rev
+          unit_pattern_count_other: "{0} rev"
+        angle_radian:
+          display_name: rad
+          unit_pattern_count_other: "{0} rad"
+        angle_degree:
+          display_name: "độ"
+          unit_pattern_count_other: "{0}°"
+        angle_arc_minute:
+          display_name: phút
+          unit_pattern_count_other: "{0}′"
+        angle_arc_second:
+          display_name: giây
+          unit_pattern_count_other: "{0}″"
+        area_square_kilometer:
+          display_name: km²
+          unit_pattern_count_other: "{0} km²"
+        area_hectare:
+          display_name: ha
+          unit_pattern_count_other: "{0} ha"
+        area_square_meter:
+          display_name: m²
+          unit_pattern_count_other: "{0} m²"
+          per_unit_pattern: "{0}/m²"
+        area_square_centimeter:
+          display_name: cm²
+          unit_pattern_count_other: "{0} cm²"
+          per_unit_pattern: "{0}/cm²"
+        area_square_mile:
+          display_name: mi²
+          unit_pattern_count_other: "{0} mi²"
+        area_acre:
+          display_name: mẫu
+          unit_pattern_count_other: "{0} mẫu"
+        area_square_yard:
+          display_name: yd²
+          unit_pattern_count_other: "{0} yd²"
+        area_square_foot:
+          display_name: ft²
+          unit_pattern_count_other: "{0} ft²"
+        area_square_inch:
+          display_name: in²
+          unit_pattern_count_other: "{0} in²"
+          per_unit_pattern: "{0}/in²"
+        consumption_liter_per_kilometer:
+          display_name: l/km
+          unit_pattern_count_other: "{0} l/km"
+        consumption_liter_per_100kilometers:
+          display_name: L/100km
+          unit_pattern_count_other: "{0} L/100km"
+        consumption_mile_per_gallon:
+          display_name: mpg
+          unit_pattern_count_other: "{0} mpg"
+        digital_terabyte:
+          display_name: TB
+          unit_pattern_count_other: "{0} TB"
+        digital_terabit:
+          display_name: Tb
+          unit_pattern_count_other: "{0} Tb"
+        digital_gigabyte:
+          display_name: GB
+          unit_pattern_count_other: "{0} GB"
+        digital_gigabit:
+          display_name: Gb
+          unit_pattern_count_other: "{0} Gb"
+        digital_megabyte:
+          display_name: MB
+          unit_pattern_count_other: "{0} MB"
+        digital_megabit:
+          display_name: Mb
+          unit_pattern_count_other: "{0} Mb"
+        digital_kilobyte:
+          display_name: kB
+          unit_pattern_count_other: "{0} kB"
+        digital_kilobit:
+          display_name: kb
+          unit_pattern_count_other: "{0} kb"
+        digital_byte:
+          display_name: byte
+          unit_pattern_count_other: "{0} byte"
+        digital_bit:
+          display_name: bit
+          unit_pattern_count_other: "{0} bit"
+        duration_century:
+          display_name: c
+          unit_pattern_count_other: "{0} c"
+        duration_year:
+          display_name: năm
+          unit_pattern_count_other: "{0} năm"
+          per_unit_pattern: "{0}/năm"
+        duration_month:
+          display_name: tháng
+          unit_pattern_count_other: "{0} tháng"
+          per_unit_pattern: "{0}/tháng"
+        duration_week:
+          display_name: tuần
+          unit_pattern_count_other: "{0} tuần"
+          per_unit_pattern: "{0}/tuần"
+        duration_day:
+          display_name: ngày
+          unit_pattern_count_other: "{0} ngày"
+          per_unit_pattern: "{0}/ngày"
+        duration_hour:
+          display_name: giờ
+          unit_pattern_count_other: "{0} giờ"
+          per_unit_pattern: "{0}/giờ"
+        duration_minute:
+          display_name: phút
+          unit_pattern_count_other: "{0} phút"
+          per_unit_pattern: "{0}/phút"
+        duration_second:
+          display_name: giây
+          unit_pattern_count_other: "{0} giây"
+          per_unit_pattern: "{0}/giây"
+        duration_millisecond:
+          display_name: ms
+          unit_pattern_count_other: "{0} ms"
+        duration_microsecond:
+          display_name: "μs"
+          unit_pattern_count_other: "{0} μs"
+        duration_nanosecond:
+          display_name: ns
+          unit_pattern_count_other: "{0} ns"
+        electric_ampere:
+          display_name: A
+          unit_pattern_count_other: "{0} A"
+        electric_milliampere:
+          display_name: mA
+          unit_pattern_count_other: "{0} mA"
+        electric_ohm:
+          display_name: "Ω"
+          unit_pattern_count_other: "{0} Ω"
+        electric_volt:
+          display_name: v
+          unit_pattern_count_other: "{0} V"
+        energy_kilocalorie:
+          display_name: kcal
+          unit_pattern_count_other: "{0} kcal"
+        energy_calorie:
+          display_name: cal
+          unit_pattern_count_other: "{0} cal"
+        energy_foodcalorie:
+          display_name: Cal
+          unit_pattern_count_other: "{0} Cal"
+        energy_kilojoule:
+          display_name: kJ
+          unit_pattern_count_other: "{0} kJ"
+        energy_joule:
+          display_name: J
+          unit_pattern_count_other: "{0} J"
+        energy_kilowatt_hour:
+          display_name: kWh
+          unit_pattern_count_other: "{0} kWh"
+        frequency_gigahertz:
+          display_name: GHz
+          unit_pattern_count_other: "{0} GHz"
+        frequency_megahertz:
+          display_name: MHz
+          unit_pattern_count_other: "{0} MHz"
+        frequency_kilohertz:
+          display_name: kHz
+          unit_pattern_count_other: "{0} kHz"
+        frequency_hertz:
+          display_name: Hz
+          unit_pattern_count_other: "{0} Hz"
+        length_kilometer:
+          display_name: km
+          unit_pattern_count_other: "{0} km"
+          per_unit_pattern: "{0}/km"
+        length_meter:
+          display_name: m
+          unit_pattern_count_other: "{0} m"
+          per_unit_pattern: "{0}/m"
+        length_decimeter:
+          display_name: dm
+          unit_pattern_count_other: "{0} dm"
+        length_centimeter:
+          display_name: cm
+          unit_pattern_count_other: "{0} cm"
+          per_unit_pattern: "{0}/cm"
+        length_millimeter:
+          display_name: mm
+          unit_pattern_count_other: "{0} mm"
+        length_micrometer:
+          display_name: "µm"
+          unit_pattern_count_other: "{0} µm"
+        length_nanometer:
+          display_name: nm
+          unit_pattern_count_other: "{0} nm"
+        length_picometer:
+          display_name: pm
+          unit_pattern_count_other: "{0} pm"
+        length_mile:
+          display_name: dặm
+          unit_pattern_count_other: "{0} dặm"
+        length_yard:
+          display_name: yd
+          unit_pattern_count_other: "{0} yd"
+        length_foot:
+          display_name: ft
+          unit_pattern_count_other: "{0} ft"
+          per_unit_pattern: "{0}/ft"
+        length_inch:
+          display_name: inch
+          unit_pattern_count_other: "{0} inch"
+          per_unit_pattern: "{0}/in"
+        length_parsec:
+          display_name: pc
+          unit_pattern_count_other: "{0} pc"
+        length_light_year:
+          display_name: ly
+          unit_pattern_count_other: "{0} ly"
+        length_astronomical_unit:
+          display_name: au
+          unit_pattern_count_other: "{0} au"
+        length_furlong:
+          display_name: fur
+          unit_pattern_count_other: "{0} fur"
+        length_fathom:
+          display_name: fm
+          unit_pattern_count_other: "{0} fm"
+        length_nautical_mile:
+          display_name: nmi
+          unit_pattern_count_other: "{0} nmi"
+        length_mile_scandinavian:
+          display_name: smi
+          unit_pattern_count_other: "{0} smi"
+        light_lux:
+          display_name: lx
+          unit_pattern_count_other: "{0} lx"
+        mass_metric_ton:
+          display_name: t
+          unit_pattern_count_other: "{0} t"
+        mass_kilogram:
+          display_name: kg
+          unit_pattern_count_other: "{0} kg"
+          per_unit_pattern: "{0}/kg"
+        mass_gram:
+          display_name: g
+          unit_pattern_count_other: "{0} g"
+          per_unit_pattern: "{0}/g"
+        mass_milligram:
+          display_name: mg
+          unit_pattern_count_other: "{0} mg"
+        mass_microgram:
+          display_name: "µg"
+          unit_pattern_count_other: "{0} µg"
+        mass_ton:
+          display_name: tn
+          unit_pattern_count_other: "{0} tn"
+        mass_stone:
+          display_name: st
+          unit_pattern_count_other: "{0} st"
+        mass_pound:
+          display_name: pao
+          unit_pattern_count_other: "{0} lb"
+          per_unit_pattern: "{0}/lb"
+        mass_ounce:
+          display_name: oz
+          unit_pattern_count_other: "{0} oz"
+          per_unit_pattern: "{0}/oz"
+        mass_ounce_troy:
+          display_name: oz t
+          unit_pattern_count_other: "{0} oz t"
+        mass_carat:
+          display_name: CD
+          unit_pattern_count_other: "{0} CD"
+        power_gigawatt:
+          display_name: GW
+          unit_pattern_count_other: "{0} GW"
+        power_megawatt:
+          display_name: MW
+          unit_pattern_count_other: "{0} MW"
+        power_kilowatt:
+          display_name: kW
+          unit_pattern_count_other: "{0} kW"
+        power_watt:
+          display_name: W
+          unit_pattern_count_other: "{0} W"
+        power_milliwatt:
+          display_name: mW
+          unit_pattern_count_other: "{0} mW"
+        power_horsepower:
+          display_name: hp
+          unit_pattern_count_other: "{0} hp"
+        pressure_hectopascal:
+          display_name: hPa
+          unit_pattern_count_other: "{0} hPa"
+        pressure_millimeter_of_mercury:
+          display_name: mm Hg
+          unit_pattern_count_other: "{0} mm Hg"
+        pressure_pound_per_square_inch:
+          display_name: psi
+          unit_pattern_count_other: "{0} psi"
+        pressure_inch_hg:
+          display_name: inHg
+          unit_pattern_count_other: "{0} inHg"
+        pressure_millibar:
+          display_name: mbar
+          unit_pattern_count_other: "{0} mbar"
+        proportion_karat:
+          display_name: kt
+          unit_pattern_count_other: "{0} kt"
+        speed_kilometer_per_hour:
+          display_name: km/h
+          unit_pattern_count_other: "{0} km/h"
+        speed_meter_per_second:
+          display_name: m/s
+          unit_pattern_count_other: "{0} m/s"
+        speed_mile_per_hour:
+          display_name: mi/h
+          unit_pattern_count_other: "{0} mi/h"
+        speed_knot:
+          display_name: kn
+          unit_pattern_count_other: "{0} kn"
+        temperature_generic:
+          display_name: "°"
+          unit_pattern_count_other: "{0}°"
+        temperature_celsius:
+          display_name: "°C"
+          unit_pattern_count_other: "{0}°C"
+        temperature_fahrenheit:
+          display_name: "°F"
+          unit_pattern_count_other: "{0}°F"
+        temperature_kelvin:
+          display_name: K
+          unit_pattern_count_other: "{0} K"
+        volume_cubic_kilometer:
+          display_name: km³
+          unit_pattern_count_other: "{0} km³"
+        volume_cubic_meter:
+          display_name: m³
+          unit_pattern_count_other: "{0} m³"
+          per_unit_pattern: "{0}/m³"
+        volume_cubic_centimeter:
+          display_name: cm³
+          unit_pattern_count_other: "{0} cm³"
+          per_unit_pattern: "{0}/cm³"
+        volume_cubic_mile:
+          display_name: mi³
+          unit_pattern_count_other: "{0} mi³"
+        volume_cubic_yard:
+          display_name: yd³
+          unit_pattern_count_other: "{0} yd³"
+        volume_cubic_foot:
+          display_name: ft³
+          unit_pattern_count_other: "{0} ft³"
+        volume_cubic_inch:
+          display_name: in³
+          unit_pattern_count_other: "{0} in³"
+        volume_megaliter:
+          display_name: ML
+          unit_pattern_count_other: "{0} ML"
+        volume_hectoliter:
+          display_name: hL
+          unit_pattern_count_other: "{0} hL"
+        volume_liter:
+          display_name: l
+          unit_pattern_count_other: "{0} L"
+          per_unit_pattern: "{0}/l"
+        volume_deciliter:
+          display_name: dL
+          unit_pattern_count_other: "{0} dL"
+        volume_centiliter:
+          display_name: cL
+          unit_pattern_count_other: "{0} cL"
+        volume_milliliter:
+          display_name: mL
+          unit_pattern_count_other: "{0} mL"
+        volume_pint_metric:
+          display_name: mpt
+          unit_pattern_count_other: "{0} mpt"
+        volume_cup_metric:
+          display_name: mcup
+          unit_pattern_count_other: "{0} mc"
+        volume_acre_foot:
+          display_name: ac ft
+          unit_pattern_count_other: "{0} ac ft"
+        volume_bushel:
+          display_name: bu
+          unit_pattern_count_other: "{0} bu"
+        volume_gallon:
+          display_name: gal
+          unit_pattern_count_other: "{0} gal"
+          per_unit_pattern: "{0}/gal"
+        volume_quart:
+          display_name: qt
+          unit_pattern_count_other: "{0} qt"
+        volume_pint:
+          display_name: pt
+          unit_pattern_count_other: "{0} pt"
+        volume_cup:
+          display_name: c
+          unit_pattern_count_other: "{0} c"
+        volume_fluid_ounce:
+          display_name: fl oz
+          unit_pattern_count_other: "{0} fl oz"
+        volume_tablespoon:
+          display_name: tbsp
+          unit_pattern_count_other: "{0} tbsp"
+        volume_teaspoon:
+          display_name: tsp
+          unit_pattern_count_other: "{0} tsp"
+        coordinate_unit:
+          east: "{0}E"
+          north: "{0}N"
+          south: "{0}S"
+          west: "{0}W"
+      narrow:
+        per:
+          compound_unit_pattern: "{0}/{1}"
+        acceleration_g_force:
+          display_name: lực g
+          unit_pattern_count_other: "{0}G"
+        acceleration_meter_per_second_squared:
+          display_name: m/s²
+          unit_pattern_count_other: "{0} m/s²"
+        angle_revolution:
+          display_name: rev
+          unit_pattern_count_other: "{0} rev"
+        angle_radian:
+          display_name: rad
+          unit_pattern_count_other: "{0} rad"
+        angle_degree:
+          display_name: "độ"
+          unit_pattern_count_other: "{0}°"
+        angle_arc_minute:
+          display_name: phút
+          unit_pattern_count_other: "{0}′"
+        angle_arc_second:
+          display_name: giây
+          unit_pattern_count_other: "{0}″"
+        area_square_kilometer:
+          display_name: km²
+          unit_pattern_count_other: "{0} km²"
+        area_hectare:
+          display_name: ha
+          unit_pattern_count_other: "{0}ha"
+        area_square_meter:
+          display_name: m²
+          unit_pattern_count_other: "{0} m²"
+          per_unit_pattern: "{0}/m²"
+        area_square_centimeter:
+          display_name: cm²
+          unit_pattern_count_other: "{0} cm²"
+          per_unit_pattern: "{0}/cm²"
+        area_square_mile:
+          display_name: mi²
+          unit_pattern_count_other: "{0} mi²"
+        area_acre:
+          display_name: mẫu
+          unit_pattern_count_other: "{0} mẫu"
+        area_square_yard:
+          display_name: yd²
+          unit_pattern_count_other: "{0} yd²"
+        area_square_foot:
+          display_name: ft²
+          unit_pattern_count_other: "{0} ft²"
+        area_square_inch:
+          display_name: in²
+          unit_pattern_count_other: "{0} in²"
+          per_unit_pattern: "{0}/in²"
+        consumption_liter_per_kilometer:
+          display_name: l/km
+          unit_pattern_count_other: "{0} l/km"
+        consumption_liter_per_100kilometers:
+          display_name: L/100km
+          unit_pattern_count_other: "{0}L/100km"
+        consumption_mile_per_gallon:
+          display_name: mpg
+          unit_pattern_count_other: "{0} mpg"
+        digital_terabyte:
+          display_name: TB
+          unit_pattern_count_other: "{0} TB"
+        digital_terabit:
+          display_name: Tb
+          unit_pattern_count_other: "{0} Tb"
+        digital_gigabyte:
+          display_name: GB
+          unit_pattern_count_other: "{0} GB"
+        digital_gigabit:
+          display_name: Gb
+          unit_pattern_count_other: "{0} Gb"
+        digital_megabyte:
+          display_name: MB
+          unit_pattern_count_other: "{0} MB"
+        digital_megabit:
+          display_name: Mb
+          unit_pattern_count_other: "{0} Mb"
+        digital_kilobyte:
+          display_name: kB
+          unit_pattern_count_other: "{0} kB"
+        digital_kilobit:
+          display_name: kb
+          unit_pattern_count_other: "{0} kb"
+        digital_byte:
+          display_name: byte
+          unit_pattern_count_other: "{0} byte"
+        digital_bit:
+          display_name: bit
+          unit_pattern_count_other: "{0} bit"
+        duration_century:
+          display_name: c
+          unit_pattern_count_other: "{0} c"
+        duration_year:
+          display_name: năm
+          unit_pattern_count_other: "{0} năm"
+          per_unit_pattern: "{0}/năm"
+        duration_month:
+          display_name: tháng
+          unit_pattern_count_other: "{0} tháng"
+          per_unit_pattern: "{0}/tháng"
+        duration_week:
+          display_name: tuần
+          unit_pattern_count_other: "{0} tuần"
+          per_unit_pattern: "{0}/tuần"
+        duration_day:
+          display_name: ngày
+          unit_pattern_count_other: "{0} ngày"
+          per_unit_pattern: "{0}/ngày"
+        duration_hour:
+          display_name: giờ
+          unit_pattern_count_other: "{0} giờ"
+          per_unit_pattern: "{0}/giờ"
+        duration_minute:
+          display_name: phút
+          unit_pattern_count_other: "{0} phút"
+          per_unit_pattern: "{0}/phút"
+        duration_second:
+          display_name: giây
+          unit_pattern_count_other: "{0} giây"
+          per_unit_pattern: "{0}/giây"
+        duration_millisecond:
+          display_name: ms
+          unit_pattern_count_other: "{0}ms"
+        duration_microsecond:
+          display_name: "μs"
+          unit_pattern_count_other: "{0} μs"
+        duration_nanosecond:
+          display_name: ns
+          unit_pattern_count_other: "{0} ns"
+        electric_ampere:
+          display_name: A
+          unit_pattern_count_other: "{0} A"
+        electric_milliampere:
+          display_name: mA
+          unit_pattern_count_other: "{0} mA"
+        electric_ohm:
+          display_name: "Ω"
+          unit_pattern_count_other: "{0} Ω"
+        electric_volt:
+          display_name: v
+          unit_pattern_count_other: "{0} V"
+        energy_kilocalorie:
+          display_name: kcal
+          unit_pattern_count_other: "{0} kcal"
+        energy_calorie:
+          display_name: cal
+          unit_pattern_count_other: "{0} cal"
+        energy_foodcalorie:
+          display_name: Cal
+          unit_pattern_count_other: "{0} Cal"
+        energy_kilojoule:
+          display_name: kJ
+          unit_pattern_count_other: "{0} kJ"
+        energy_joule:
+          display_name: J
+          unit_pattern_count_other: "{0} J"
+        energy_kilowatt_hour:
+          display_name: kWh
+          unit_pattern_count_other: "{0} kWh"
+        frequency_gigahertz:
+          display_name: GHz
+          unit_pattern_count_other: "{0} GHz"
+        frequency_megahertz:
+          display_name: MHz
+          unit_pattern_count_other: "{0} MHz"
+        frequency_kilohertz:
+          display_name: kHz
+          unit_pattern_count_other: "{0} kHz"
+        frequency_hertz:
+          display_name: Hz
+          unit_pattern_count_other: "{0} Hz"
+        length_kilometer:
+          display_name: km
+          unit_pattern_count_other: "{0}km"
+          per_unit_pattern: "{0}/km"
+        length_meter:
+          display_name: m
+          unit_pattern_count_other: "{0}m"
+          per_unit_pattern: "{0}/m"
+        length_decimeter:
+          display_name: dm
+          unit_pattern_count_other: "{0} dm"
+        length_centimeter:
+          display_name: cm
+          unit_pattern_count_other: "{0}cm"
+          per_unit_pattern: "{0}/cm"
+        length_millimeter:
+          display_name: mm
+          unit_pattern_count_other: "{0}mm"
+        length_micrometer:
+          display_name: "µm"
+          unit_pattern_count_other: "{0} µm"
+        length_nanometer:
+          display_name: nm
+          unit_pattern_count_other: "{0} nm"
+        length_picometer:
+          display_name: pm
+          unit_pattern_count_other: "{0}pm"
+        length_mile:
+          display_name: dặm
+          unit_pattern_count_other: "{0}mi"
+        length_yard:
+          display_name: yd
+          unit_pattern_count_other: "{0}yd"
+        length_foot:
+          display_name: ft
+          unit_pattern_count_other: "{0}'"
+          per_unit_pattern: "{0}/ft"
+        length_inch:
+          display_name: inch
+          unit_pattern_count_other: '{0}\"'
+          per_unit_pattern: "{0}/in"
+        length_parsec:
+          display_name: pc
+          unit_pattern_count_other: "{0} pc"
+        length_light_year:
+          display_name: ly
+          unit_pattern_count_other: "{0}ly"
+        length_astronomical_unit:
+          display_name: au
+          unit_pattern_count_other: "{0} au"
+        length_furlong:
+          display_name: fur
+          unit_pattern_count_other: "{0} fur"
+        length_fathom:
+          display_name: fm
+          unit_pattern_count_other: "{0} fm"
+        length_nautical_mile:
+          display_name: nmi
+          unit_pattern_count_other: "{0} nmi"
+        length_mile_scandinavian:
+          display_name: smi
+          unit_pattern_count_other: "{0} smi"
+        light_lux:
+          display_name: lx
+          unit_pattern_count_other: "{0} lx"
+        mass_metric_ton:
+          display_name: t
+          unit_pattern_count_other: "{0} t"
+        mass_kilogram:
+          display_name: kg
+          unit_pattern_count_other: "{0}kg"
+          per_unit_pattern: "{0}/kg"
+        mass_gram:
+          display_name: g
+          unit_pattern_count_other: "{0}g"
+          per_unit_pattern: "{0}/g"
+        mass_milligram:
+          display_name: mg
+          unit_pattern_count_other: "{0} mg"
+        mass_microgram:
+          display_name: "µg"
+          unit_pattern_count_other: "{0} µg"
+        mass_ton:
+          display_name: tn
+          unit_pattern_count_other: "{0} tn"
+        mass_stone:
+          display_name: st
+          unit_pattern_count_other: "{0} st"
+        mass_pound:
+          display_name: pao
+          unit_pattern_count_other: "{0}lb"
+          per_unit_pattern: "{0}/lb"
+        mass_ounce:
+          display_name: oz
+          unit_pattern_count_other: "{0}oz"
+          per_unit_pattern: "{0}/oz"
+        mass_ounce_troy:
+          display_name: oz t
+          unit_pattern_count_other: "{0} oz t"
+        mass_carat:
+          display_name: CD
+          unit_pattern_count_other: "{0} CD"
+        power_gigawatt:
+          display_name: GW
+          unit_pattern_count_other: "{0} GW"
+        power_megawatt:
+          display_name: MW
+          unit_pattern_count_other: "{0} MW"
+        power_kilowatt:
+          display_name: kW
+          unit_pattern_count_other: "{0}kW"
+        power_watt:
+          display_name: W
+          unit_pattern_count_other: "{0}W"
+        power_milliwatt:
+          display_name: mW
+          unit_pattern_count_other: "{0} mW"
+        power_horsepower:
+          display_name: hp
+          unit_pattern_count_other: "{0}hp"
+        pressure_hectopascal:
+          display_name: hPa
+          unit_pattern_count_other: "{0}hPa"
+        pressure_millimeter_of_mercury:
+          display_name: mm Hg
+          unit_pattern_count_other: "{0} mm Hg"
+        pressure_pound_per_square_inch:
+          display_name: psi
+          unit_pattern_count_other: "{0} psi"
+        pressure_inch_hg:
+          display_name: inHg
+          unit_pattern_count_other: '{0}\" Hg'
+        pressure_millibar:
+          display_name: mbar
+          unit_pattern_count_other: "{0}mb"
+        proportion_karat:
+          display_name: kt
+          unit_pattern_count_other: "{0} kt"
+        speed_kilometer_per_hour:
+          display_name: km/h
+          unit_pattern_count_other: "{0}km/h"
+        speed_meter_per_second:
+          display_name: m/s
+          unit_pattern_count_other: "{0}m/s"
+        speed_mile_per_hour:
+          display_name: mi/h
+          unit_pattern_count_other: "{0}mph"
+        speed_knot:
+          display_name: kn
+          unit_pattern_count_other: "{0} kn"
+        temperature_generic:
+          display_name: "°"
+          unit_pattern_count_other: "{0}°"
+        temperature_celsius:
+          display_name: "°C"
+          unit_pattern_count_other: "{0}°C"
+        temperature_fahrenheit:
+          display_name: "°F"
+          unit_pattern_count_other: "{0}°F"
+        temperature_kelvin:
+          display_name: K
+          unit_pattern_count_other: "{0} K"
+        volume_cubic_kilometer:
+          display_name: km³
+          unit_pattern_count_other: "{0}km³"
+        volume_cubic_meter:
+          display_name: m³
+          unit_pattern_count_other: "{0} m³"
+          per_unit_pattern: "{0}/m³"
+        volume_cubic_centimeter:
+          display_name: cm³
+          unit_pattern_count_other: "{0} cm³"
+          per_unit_pattern: "{0}/cm³"
+        volume_cubic_mile:
+          display_name: mi³
+          unit_pattern_count_other: "{0}mi³"
+        volume_cubic_yard:
+          display_name: yd³
+          unit_pattern_count_other: "{0} yd³"
+        volume_cubic_foot:
+          display_name: ft³
+          unit_pattern_count_other: "{0} ft³"
+        volume_cubic_inch:
+          display_name: in³
+          unit_pattern_count_other: "{0} in³"
+        volume_megaliter:
+          display_name: ML
+          unit_pattern_count_other: "{0} ML"
+        volume_hectoliter:
+          display_name: hL
+          unit_pattern_count_other: "{0} hL"
+        volume_liter:
+          display_name: l
+          unit_pattern_count_other: "{0}L"
+          per_unit_pattern: "{0}/l"
+        volume_deciliter:
+          display_name: dL
+          unit_pattern_count_other: "{0} dL"
+        volume_centiliter:
+          display_name: cL
+          unit_pattern_count_other: "{0} cL"
+        volume_milliliter:
+          display_name: mL
+          unit_pattern_count_other: "{0} mL"
+        volume_pint_metric:
+          display_name: mpt
+          unit_pattern_count_other: "{0} mpt"
+        volume_cup_metric:
+          display_name: mcup
+          unit_pattern_count_other: "{0} mc"
+        volume_acre_foot:
+          display_name: ac ft
+          unit_pattern_count_other: "{0} ac ft"
+        volume_bushel:
+          display_name: bu
+          unit_pattern_count_other: "{0} bu"
+        volume_gallon:
+          display_name: gal
+          unit_pattern_count_other: "{0} gal"
+          per_unit_pattern: "{0}/gal"
+        volume_quart:
+          display_name: qt
+          unit_pattern_count_other: "{0} qt"
+        volume_pint:
+          display_name: pt
+          unit_pattern_count_other: "{0} pt"
+        volume_cup:
+          display_name: c
+          unit_pattern_count_other: "{0} c"
+        volume_fluid_ounce:
+          display_name: fl oz
+          unit_pattern_count_other: "{0} fl oz"
+        volume_tablespoon:
+          display_name: tbsp
+          unit_pattern_count_other: "{0} tbsp"
+        volume_teaspoon:
+          display_name: tsp
+          unit_pattern_count_other: "{0} tsp"
+        coordinate_unit:
+          east: "{0}E"
+          north: "{0}N"
+          south: "{0}S"
+          west: "{0}W"
+      duration_unit_type_hm:
+        duration_unit_pattern: h:mm
+      duration_unit_type_hms:
+        duration_unit_pattern: h:mm:ss
+      duration_unit_type_ms:
+        duration_unit_pattern: m:ss

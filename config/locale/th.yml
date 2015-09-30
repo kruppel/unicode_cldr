@@ -1,0 +1,4950 @@
+---
+th:
+  cldr:
+    dates:
+      calendars:
+        gregorian:
+          months:
+            format:
+              abbreviated:
+                '1': "ม.ค."
+                '2': "ก.พ."
+                '3': "มี.ค."
+                '4': "เม.ย."
+                '5': "พ.ค."
+                '6': "มิ.ย."
+                '7': "ก.ค."
+                '8': "ส.ค."
+                '9': "ก.ย."
+                '10': "ต.ค."
+                '11': "พ.ย."
+                '12': "ธ.ค."
+              narrow:
+                '1': "ม.ค."
+                '2': "ก.พ."
+                '3': "มี.ค."
+                '4': "เม.ย."
+                '5': "พ.ค."
+                '6': "มิ.ย."
+                '7': "ก.ค."
+                '8': "ส.ค."
+                '9': "ก.ย."
+                '10': "ต.ค."
+                '11': "พ.ย."
+                '12': "ธ.ค."
+              wide:
+                '1': "มกราคม"
+                '2': "กุมภาพันธ์"
+                '3': "มีนาคม"
+                '4': "เมษายน"
+                '5': "พฤษภาคม"
+                '6': "มิถุนายน"
+                '7': "กรกฎาคม"
+                '8': "สิงหาคม"
+                '9': "กันยายน"
+                '10': "ตุลาคม"
+                '11': "พฤศจิกายน"
+                '12': "ธันวาคม"
+            stand_alone:
+              abbreviated:
+                '1': "ม.ค."
+                '2': "ก.พ."
+                '3': "มี.ค."
+                '4': "เม.ย."
+                '5': "พ.ค."
+                '6': "มิ.ย."
+                '7': "ก.ค."
+                '8': "ส.ค."
+                '9': "ก.ย."
+                '10': "ต.ค."
+                '11': "พ.ย."
+                '12': "ธ.ค."
+              narrow:
+                '1': "ม.ค."
+                '2': "ก.พ."
+                '3': "มี.ค."
+                '4': "เม.ย."
+                '5': "พ.ค."
+                '6': "มิ.ย."
+                '7': "ก.ค."
+                '8': "ส.ค."
+                '9': "ก.ย."
+                '10': "ต.ค."
+                '11': "พ.ย."
+                '12': "ธ.ค."
+              wide:
+                '1': "มกราคม"
+                '2': "กุมภาพันธ์"
+                '3': "มีนาคม"
+                '4': "เมษายน"
+                '5': "พฤษภาคม"
+                '6': "มิถุนายน"
+                '7': "กรกฎาคม"
+                '8': "สิงหาคม"
+                '9': "กันยายน"
+                '10': "ตุลาคม"
+                '11': "พฤศจิกายน"
+                '12': "ธันวาคม"
+          days:
+            format:
+              abbreviated:
+                sun: "อา."
+                mon: "จ."
+                tue: "อ."
+                wed: "พ."
+                thu: "พฤ."
+                fri: "ศ."
+                sat: "ส."
+              narrow:
+                sun: "อา"
+                mon: "จ"
+                tue: "อ"
+                wed: "พ"
+                thu: "พฤ"
+                fri: "ศ"
+                sat: "ส"
+              short:
+                sun: "อา."
+                mon: "จ."
+                tue: "อ."
+                wed: "พ."
+                thu: "พฤ."
+                fri: "ศ."
+                sat: "ส."
+              wide:
+                sun: "วันอาทิตย์"
+                mon: "วันจันทร์"
+                tue: "วันอังคาร"
+                wed: "วันพุธ"
+                thu: "วันพฤหัสบดี"
+                fri: "วันศุกร์"
+                sat: "วันเสาร์"
+            stand_alone:
+              abbreviated:
+                sun: "อา."
+                mon: "จ."
+                tue: "อ."
+                wed: "พ."
+                thu: "พฤ."
+                fri: "ศ."
+                sat: "ส."
+              narrow:
+                sun: "อา"
+                mon: "จ"
+                tue: "อ"
+                wed: "พ"
+                thu: "พฤ"
+                fri: "ศ"
+                sat: "ส"
+              short:
+                sun: "อา."
+                mon: "จ."
+                tue: "อ."
+                wed: "พ."
+                thu: "พฤ."
+                fri: "ศ."
+                sat: "ส."
+              wide:
+                sun: "วันอาทิตย์"
+                mon: "วันจันทร์"
+                tue: "วันอังคาร"
+                wed: "วันพุธ"
+                thu: "วันพฤหัสบดี"
+                fri: "วันศุกร์"
+                sat: "วันเสาร์"
+          quarters:
+            format:
+              abbreviated:
+                '1': "ไตรมาส 1"
+                '2': "ไตรมาส 2"
+                '3': "ไตรมาส 3"
+                '4': "ไตรมาส 4"
+              narrow:
+                '1': '1'
+                '2': '2'
+                '3': '3'
+                '4': '4'
+              wide:
+                '1': "ไตรมาส 1"
+                '2': "ไตรมาส 2"
+                '3': "ไตรมาส 3"
+                '4': "ไตรมาส 4"
+            stand_alone:
+              abbreviated:
+                '1': "ไตรมาส 1"
+                '2': "ไตรมาส 2"
+                '3': "ไตรมาส 3"
+                '4': "ไตรมาส 4"
+              narrow:
+                '1': '1'
+                '2': '2'
+                '3': '3'
+                '4': '4'
+              wide:
+                '1': "ไตรมาส 1"
+                '2': "ไตรมาส 2"
+                '3': "ไตรมาส 3"
+                '4': "ไตรมาส 4"
+          day_periods:
+            format:
+              abbreviated:
+                midnight: "เที่ยงคืน"
+                am: "ก่อนเที่ยง"
+                noon: "เที่ยง"
+                pm: "หลังเที่ยง"
+                morning1: "ในตอนเช้า"
+                afternoon1: "ในตอนบ่าย"
+                afternoon2: "บ่าย"
+                evening1: "ในตอนเย็น"
+                evening2: "ค่ำ"
+                night1: "กลางคืน"
+              narrow:
+                midnight: "เที่ยงคืน"
+                am: a
+                noon: n
+                pm: p
+                morning1: "เช้า"
+                afternoon1: "เที่ยง"
+                afternoon2: "บ่าย"
+                evening1: "เย็น"
+                evening2: "ค่ำ"
+                night1: "กลางคืน"
+              wide:
+                midnight: "เที่ยงคืน"
+                am: "ก่อนเที่ยง"
+                noon: "เที่ยง"
+                pm: "หลังเที่ยง"
+                morning1: "ในตอนเช้า"
+                afternoon1: "ในตอนบ่าย"
+                afternoon2: "บ่าย"
+                evening1: "ในตอนเย็น"
+                evening2: "ค่ำ"
+                night1: "กลางคืน"
+            stand_alone:
+              abbreviated:
+                midnight: "เที่ยงคืน"
+                am: "ก่อนเที่ยง"
+                noon: "เที่ยง"
+                pm: "หลังเที่ยง"
+                morning1: "ในตอนเช้า"
+                afternoon1: "ในตอนบ่าย"
+                afternoon2: "บ่าย"
+                evening1: "ในตอนเย็น"
+                evening2: "ค่ำ"
+                night1: "กลางคืน"
+              narrow:
+                midnight: "เที่ยงคืน"
+                am: "ก่อนเที่ยง"
+                noon: "เที่ยง"
+                pm: "หลังเที่ยง"
+                morning1: "เช้า"
+                afternoon1: "ช่วงเที่ยง"
+                afternoon2: "บ่าย"
+                evening1: "เย็น"
+                evening2: "ค่ำ"
+                night1: "กลางคืน"
+              wide:
+                midnight: "เที่ยงคืน"
+                am: "ก่อนเที่ยง"
+                noon: "เที่ยง"
+                pm: "หลังเที่ยง"
+                morning1: "เช้า"
+                afternoon1: "ช่วงเที่ยง"
+                afternoon2: "บ่าย"
+                evening1: "เย็น"
+                evening2: "ค่ำ"
+                night1: "กลางคืน"
+          eras:
+            era_names:
+              '0': "ปีก่อนคริสต์ศักราช"
+              0_alt_variant: "ก่อนสามัญศักราช"
+              '1': "คริสต์ศักราช"
+              1_alt_variant: "สามัญศักราช"
+            era_abbr:
+              '0': "ปีก่อน ค.ศ."
+              0_alt_variant: "ก.ส.ศ."
+              '1': "ค.ศ."
+              1_alt_variant: "ส.ศ."
+            era_narrow:
+              '0': "ก่อน ค.ศ."
+              0_alt_variant: "ก.ส.ศ."
+              '1': "ค.ศ."
+              1_alt_variant: "ส.ศ."
+          date_formats:
+            full: EEEEที่ d MMMM G y
+            long: d MMMM G y
+            medium: d MMM y
+            short: d/M/yy
+          time_formats:
+            full: H นาฬิกา mm นาที ss วินาที zzzz
+            long: H นาฬิกา mm นาที ss วินาที z
+            medium: HH:mm:ss
+            short: HH:mm
+          date_time_formats:
+            full: "{1} {0}"
+            long: "{1} {0}"
+            medium: "{1} {0}"
+            short: "{1} {0}"
+            available_formats:
+              d: d
+              e: ccc
+              ed: E d
+              ehm: E h:mm a
+              e_hm: E HH:mm น.
+              ehms: E h:mm:ss a
+              e_hms: E HH:mm:ss
+              gy: G y
+              gy_mmm: MMM G y
+              gy_mm_md: d MMM G y
+              gy_mmm_ed: E d MMM G y
+              gy_mmmeee_ed: EEEEที่ d MMM G y
+              h: HH
+              hm: HH:mm น.
+              hms: HH:mm:ss
+              hmsv: HH:mm:ss v
+              hmv: HH:mm v
+              m: L
+              md: d/M
+              m_ed: E d/M
+              mmm: LLL
+              mm_md: d MMM
+              mmm_ed: E d MMM
+              mmmeee_ed: EEEEที่ d MMM
+              mmm_md: d MMMM
+              mmmm_ed: E d MMMM
+              mmmmeee_ed: EEEEที่ d MMMM
+              mmss: mm:ss
+              ms: mm:ss
+              y: y
+              y_m: M/y
+              y_md: d/M/y
+              y_m_ed: E d/M/y
+              y_mmm: MMM y
+              y_mm_md: d MMM y
+              y_mmm_ed: E d MMM y
+              y_mmmeee_ed: EEEEที่ d MMM y
+              y_mmmm: MMMM G y
+              y_mmm_md: d MMMM G y
+              y_mmmm_ed: E d MMMM G y
+              y_mmmmeee_ed: EEEEที่ d MMMM G y
+              y_qqq: QQQ y
+              y_qqqq: QQQQ G y
+            append_items:
+              day: "{0} ({2}: {1})"
+              day_of_week: "{0} {1}"
+              era: "{1} {0}"
+              hour: "{0} ({2}: {1})"
+              minute: "{0} ({2}: {1})"
+              month: "{0} ({2}: {1})"
+              quarter: "{0} ({2}: {1})"
+              second: "{0} ({2}: {1})"
+              timezone: "{0} {1}"
+              week: "{0} ({2}: {1})"
+              year: "{1} {0}"
+            interval_formats:
+              interval_format_fallback: "{0} – {1}"
+              d:
+                d: d–d
+              h:
+                h: HH–HH
+              hm:
+                h: HH:mm น. – HH:mm น.
+                m: HH:mm น. – HH:mm น.
+              hmv:
+                h: H:mm น. – H:mm น. v
+                m: H:mm น. – H:mm น. v
+              hv:
+                h: HH–HH v
+              m:
+                m: M–M
+              md:
+                d: d/M – d/M
+                m: d/M – d/M
+              m_ed:
+                d: E d – E d/M
+                m: E d/M – E d/M
+              mmm:
+                m: LLL–LLL
+              mm_md:
+                d: d – d MMM
+                m: d MMM – d MMM
+              mmm_ed:
+                d: E d – E d MMM
+                m: E d MMM – E d MMM
+              mmmeee_ed:
+                d: EEEEที่ d – EEEEที่ d MMM
+                m: EEEEที่ d MMM – EEEEที่ d MMM
+              y:
+                y: y–y
+              y_m:
+                m: M/y – M/y
+                y: M/y – M/y
+              y_md:
+                d: d–d/M/y
+                m: d/M/y – d/M/y
+                y: d/M/y – d/M/y
+              y_m_ed:
+                d: E d – E d/M/y
+                m: E d/M/y – E d/M/y
+                y: E d/M/y – E d/M/y
+              y_mmm:
+                m: MMM–MMM y
+                y: MMM y – MMM y
+              y_mm_md:
+                d: d–d MMM y
+                m: d MMM – d MMM y
+                y: d MMM y – d MMM y
+              y_mmm_ed:
+                d: E d – E d MMM y
+                m: E d MMM – E d MMM y
+                y: E d MMM y – E d MMM y
+              y_mmmeee_ed:
+                d: EEEEที่ d – EEEEที่ d MMM y
+                m: EEEEที่ d MMM – EEEEที่ d MMM y
+                y: EEEEที่ d MMM y – EEEEที่ d MMM y
+              y_mmmm:
+                m: MMMM–MMMM G y
+                y: MMMM G y – MMMM y
+              y_mmm_md:
+                d: d–d MMMM G y
+                m: d MMMM – d MMMM G y
+                y: d MMMM G y – d MMMM y
+              y_mmmm_ed:
+                d: E d – E d MMMM G y
+                m: E d MMMM – E d MMMM G y
+                y: E d MMMM G y – E d MMMM y
+              y_mmmmeee_ed:
+                d: EEEEที่ d – EEEEที่ d MMMM G y
+                m: EEEEที่ d MMMM – EEEEที่ d MMMM G y
+                y: EEEEที่ d MMMM G y – EEEEที่ d MMMM y
+      fields:
+        era:
+          display_name: "สมัย"
+        year:
+          display_name: "ปี"
+          relative_type__1: "ปีที่แล้ว"
+          relative_type_0: "ปีนี้"
+          relative_type_1: "ปีหน้า"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "ในอีก {0} ปี"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} ปีที่แล้ว"
+        year_short:
+          display_name: "ปี"
+          relative_type__1: "ปีที่แล้ว"
+          relative_type_0: "ปีนี้"
+          relative_type_1: "ปีหน้า"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "ใน {0} ปี"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} ปีที่แล้ว"
+        year_narrow:
+          display_name: "ปี"
+          relative_type__1: "ปีที่แล้ว"
+          relative_type_0: "ปีนี้"
+          relative_type_1: "ปีหน้า"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "ใน {0} ปี"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} ปีที่แล้ว"
+        quarter:
+          display_name: "ไตรมาส"
+          relative_type__1: last quarter
+          relative_type_0: this quarter
+          relative_type_1: next quarter
+          relative_time_type_future:
+            relative_time_pattern_count_other: "ในอีก {0} ไตรมาส"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} ไตรมาสที่แล้ว"
+        quarter_short:
+          display_name: "ไตรมาส"
+          relative_type__1: last quarter
+          relative_type_0: this quarter
+          relative_type_1: next quarter
+          relative_time_type_future:
+            relative_time_pattern_count_other: "ใน {0} ไตรมาส"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} ไตรมาสที่แล้ว"
+        quarter_narrow:
+          display_name: "ไตรมาส"
+          relative_type__1: last quarter
+          relative_type_0: this quarter
+          relative_type_1: next quarter
+          relative_time_type_future:
+            relative_time_pattern_count_other: "ใน {0} ไตรมาส"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} ไตรมาสที่แล้ว"
+        month:
+          display_name: "เดือน"
+          relative_type__1: "เดือนที่แล้ว"
+          relative_type_0: "เดือนนี้"
+          relative_type_1: "เดือนหน้า"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "ในอีก {0} เดือน"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} เดือนที่ผ่านมา"
+        month_short:
+          display_name: "เดือน"
+          relative_type__1: "เดือนที่แล้ว"
+          relative_type_0: "เดือนนี้"
+          relative_type_1: "เดือนหน้า"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "ใน {0} เดือน"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} เดือนที่แล้ว"
+        month_narrow:
+          display_name: "เดือน"
+          relative_type__1: "เดือนที่แล้ว"
+          relative_type_0: "เดือนนี้"
+          relative_type_1: "เดือนหน้า"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "ใน {0} เดือน"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} เดือนที่แล้ว"
+        week:
+          display_name: "สัปดาห์"
+          relative_type__1: "สัปดาห์ที่แล้ว"
+          relative_type_0: "สัปดาห์นี้"
+          relative_type_1: "สัปดาห์หน้า"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "ในอีก {0} สัปดาห์"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} สัปดาห์ที่ผ่านมา"
+        week_short:
+          display_name: "สัปดาห์"
+          relative_type__1: "สัปดาห์ที่แล้ว"
+          relative_type_0: "สัปดาห์นี้"
+          relative_type_1: "สัปดาห์หน้า"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "ใน {0} สัปดาห์"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} สัปดาห์ที่แล้ว"
+        week_narrow:
+          display_name: "สัปดาห์"
+          relative_type__1: "สัปดาห์ที่แล้ว"
+          relative_type_0: "สัปดาห์นี้"
+          relative_type_1: "สัปดาห์หน้า"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "ใน {0} สัปดาห์"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} สัปดาห์ที่แล้ว"
+        day:
+          display_name: "วัน"
+          relative_type__2: "เมื่อวานซืน"
+          relative_type__1: "เมื่อวาน"
+          relative_type_0: "วันนี้"
+          relative_type_1: "พรุ่งนี้"
+          relative_type_2: "มะรืนนี้"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "ในอีก {0} วัน"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} วันที่ผ่านมา"
+        day_short:
+          display_name: "วัน"
+          relative_type__2: "เมื่อวานซืน"
+          relative_type__1: "เมื่อวาน"
+          relative_type_0: "วันนี้"
+          relative_type_1: "พรุ่งนี้"
+          relative_type_2: "มะรืนนี้"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "ใน {0} วัน"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} วันที่แล้ว"
+        day_narrow:
+          display_name: "วัน"
+          relative_type__2: "เมื่อวานซืน"
+          relative_type__1: "เมื่อวาน"
+          relative_type_0: "วันนี้"
+          relative_type_1: "พรุ่งนี้"
+          relative_type_2: "มะรืนนี้"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "ใน {0} วัน"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} วันที่แล้ว"
+        weekday:
+          display_name: "วันในสัปดาห์"
+        sun:
+          relative_type__1: "อาทิตย์ที่แล้ว"
+          relative_type_0: "อาทิตย์นี้"
+          relative_type_1: "อาทิตย์หน้า"
+        sun_short:
+          relative_type__1: "อาทิตย์ที่แล้ว"
+          relative_type_0: "อาทิตย์นี้"
+          relative_type_1: "อาทิตย์หน้า"
+        sun_narrow:
+          relative_type__1: "อาทิตย์ที่แล้ว"
+          relative_type_0: "อาทิตย์นี้"
+          relative_type_1: "อาทิตย์หน้า"
+        mon:
+          relative_type__1: "จันทร์ที่แล้ว"
+          relative_type_0: "จันทร์นี้"
+          relative_type_1: "จันทร์หน้า"
+        mon_short:
+          relative_type__1: "จันทร์ที่แล้ว"
+          relative_type_0: "จันทร์นี้"
+          relative_type_1: "จันทร์หน้า"
+        mon_narrow:
+          relative_type__1: "จันทร์ที่แล้ว"
+          relative_type_0: "จันทร์นี้"
+          relative_type_1: "จันทร์หน้า"
+        tue:
+          relative_type__1: "อังคารที่แล้ว"
+          relative_type_0: "อังคารนี้"
+          relative_type_1: "อังคารหน้า"
+        tue_short:
+          relative_type__1: "อังคารที่แล้ว"
+          relative_type_0: "อังคารนี้"
+          relative_type_1: "อังคารหน้า"
+        tue_narrow:
+          relative_type__1: "อังคารที่แล้ว"
+          relative_type_0: "อังคารนี้"
+          relative_type_1: "อังคารหน้า"
+        wed:
+          relative_type__1: "พุธที่แล้ว"
+          relative_type_0: "พุธนี้"
+          relative_type_1: "พุธหน้า"
+        wed_short:
+          relative_type__1: "พุธที่แล้ว"
+          relative_type_0: "พุธนี้"
+          relative_type_1: "พุธหน้า"
+        wed_narrow:
+          relative_type__1: "พุธที่แล้ว"
+          relative_type_0: "พุธนี้"
+          relative_type_1: "พุธหน้า"
+        thu:
+          relative_type__1: "พฤหัสที่แล้ว"
+          relative_type_0: "พฤหัสนี้"
+          relative_type_1: "พฤหัสหน้า"
+        thu_short:
+          relative_type__1: "พฤหัสที่แล้ว"
+          relative_type_0: "พฤหัสนี้"
+          relative_type_1: "พฤหัสหน้า"
+        thu_narrow:
+          relative_type__1: "พฤหัสที่แล้ว"
+          relative_type_0: "พฤหัสนี้"
+          relative_type_1: "พฤหัสหน้า"
+        fri:
+          relative_type__1: "ศุกร์ที่แล้ว"
+          relative_type_0: "ศุกร์นี้"
+          relative_type_1: "ศุกร์หน้า"
+        fri_short:
+          relative_type__1: "ศุกร์ที่แล้ว"
+          relative_type_0: "ศุกร์นี้"
+          relative_type_1: "ศุกร์หน้า"
+        fri_narrow:
+          relative_type__1: "ศุกร์ที่แล้ว"
+          relative_type_0: "ศุกร์นี้"
+          relative_type_1: "ศุกร์หน้า"
+        sat:
+          relative_type__1: "เสาร์ที่แล้ว"
+          relative_type_0: "เสาร์นี้"
+          relative_type_1: "เสาร์หน้า"
+        sat_short:
+          relative_type__1: "เสาร์ที่แล้ว"
+          relative_type_0: "เสาร์นี้"
+          relative_type_1: "เสาร์หน้า"
+        sat_narrow:
+          relative_type__1: "เสาร์ที่แล้ว"
+          relative_type_0: "เสาร์นี้"
+          relative_type_1: "เสาร์หน้า"
+        dayperiod:
+          display_name: "ช่วงวัน"
+        hour:
+          display_name: "ชั่วโมง"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "ในอีก {0} ชั่วโมง"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} ชั่วโมงที่ผ่านมา"
+        hour_short:
+          display_name: "ชม."
+          relative_time_type_future:
+            relative_time_pattern_count_other: "ใน {0} ชม."
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} ชม. ที่แล้ว"
+        hour_narrow:
+          display_name: "ชม."
+          relative_time_type_future:
+            relative_time_pattern_count_other: "ใน {0} ชม."
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} ชม. ที่แล้ว"
+        minute:
+          display_name: "นาที"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "ในอีก {0} นาที"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} นาทีที่ผ่านมา"
+        minute_short:
+          display_name: "น."
+          relative_time_type_future:
+            relative_time_pattern_count_other: "ใน {0} นาที"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} นาทีที่แล้ว"
+        minute_narrow:
+          display_name: "น."
+          relative_time_type_future:
+            relative_time_pattern_count_other: "ใน {0} นาที"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} นาทีที่แล้ว"
+        second:
+          display_name: "วินาที"
+          relative_type_0: "ขณะนี้"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "ในอีก {0} วินาที"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} วินาทีที่ผ่านมา"
+        second_short:
+          display_name: "วิ"
+          relative_type_0: "ขณะนี้"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "ใน {0} วินาที"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} วินาทีที่แล้ว"
+        second_narrow:
+          display_name: "วิ"
+          relative_type_0: "ขณะนี้"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "ใน {0} วินาที"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0} วินาทีที่แล้ว"
+        zone:
+          display_name: "เขตเวลา"
+      time_zone_names:
+        hour_format: "+HH:mm;-HH:mm"
+        gmt_format: GMT{0}
+        gmt_zero_format: GMT
+        region_format: "เวลา{0}"
+        region_format_type_daylight: "เวลาออมแสง{0}"
+        region_format_type_standard: "เวลามาตรฐาน{0}"
+        fallback_format: "{1} ({0})"
+        zone:
+          america:
+            adak:
+              exemplar_city: "เอดัก"
+            anchorage:
+              exemplar_city: "แองเคอเรจ"
+            anguilla:
+              exemplar_city: "แองกิลลา"
+            antigua:
+              exemplar_city: "แอนติกา"
+            araguaina:
+              exemplar_city: "อารากัวนา"
+            argentina:
+              rio_gallegos:
+                exemplar_city: "ริโอกาลเลกอส"
+              san_juan:
+                exemplar_city: "ซานฮวน"
+              ushuaia:
+                exemplar_city: "อูชูเอีย"
+              la_rioja:
+                exemplar_city: "ลาริโอจา"
+              san_luis:
+                exemplar_city: "ซันลูอิส"
+              salta:
+                exemplar_city: "ซัลตา"
+              tucuman:
+                exemplar_city: "ทูคูแมน"
+            aruba:
+              exemplar_city: "อารูบา"
+            asuncion:
+              exemplar_city: "อะซุนซิออง"
+            bahia:
+              exemplar_city: "บาเยีย"
+            bahia_banderas:
+              exemplar_city: "บาเอียบันเดรัส"
+            barbados:
+              exemplar_city: "บาร์เบโดส"
+            belem:
+              exemplar_city: "เบเลง"
+            belize:
+              exemplar_city: "เบลีซ"
+            blanc_sablon:
+              exemplar_city: "บลังค์-ซาบลอน"
+            boa_vista:
+              exemplar_city: "บัววีชตา"
+            bogota:
+              exemplar_city: "โบโกตา"
+            boise:
+              exemplar_city: "บอยซี"
+            buenos_aires:
+              exemplar_city: "บัวโนสไอเรส"
+            cambridge_bay:
+              exemplar_city: "อ่าวแคมบริดจ์"
+            campo_grande:
+              exemplar_city: "กัมปูกรันดี"
+            cancun:
+              exemplar_city: "แคนคุน"
+            caracas:
+              exemplar_city: "คาราคัส"
+            catamarca:
+              exemplar_city: "กาตามาร์กา"
+            cayenne:
+              exemplar_city: "กาแยน"
+            cayman:
+              exemplar_city: "เคย์แมน"
+            chicago:
+              exemplar_city: "ชิคาโก"
+            chihuahua:
+              exemplar_city: "ชีวาวา"
+            coral_harbour:
+              exemplar_city: "คอรัลฮาร์เบอร์"
+            cordoba:
+              exemplar_city: "คอร์โดบา"
+            costa_rica:
+              exemplar_city: "คอสตาริกา"
+            creston:
+              exemplar_city: "เครสตัน"
+            cuiaba:
+              exemplar_city: "กุยาบา"
+            curacao:
+              exemplar_city: "คูราเซา"
+            danmarkshavn:
+              exemplar_city: "ดานมาร์กสฮาวน์"
+            dawson:
+              exemplar_city: "ดอว์สัน"
+            dawson_creek:
+              exemplar_city: "ดอว์สัน ครีก"
+            denver:
+              exemplar_city: "เดนเวอร์"
+            detroit:
+              exemplar_city: "ดีทรอยต์"
+            dominica:
+              exemplar_city: "โดมินิกา"
+            edmonton:
+              exemplar_city: "เอดมันตัน"
+            eirunepe:
+              exemplar_city: "เอรูเนเป"
+            el_salvador:
+              exemplar_city: "เอลซัลวาดอร์"
+            fortaleza:
+              exemplar_city: "ฟอร์ตาเลซา"
+            glace_bay:
+              exemplar_city: "แกลซเบย์"
+            godthab:
+              exemplar_city: "กอดแธบ"
+            goose_bay:
+              exemplar_city: "กูสเบย์"
+            grand_turk:
+              exemplar_city: "แกรนด์เติร์ก"
+            grenada:
+              exemplar_city: "เกรนาดา"
+            guadeloupe:
+              exemplar_city: "กวาเดอลูป"
+            guatemala:
+              exemplar_city: "กัวเตมาลา"
+            guayaquil:
+              exemplar_city: "กัวยากิล"
+            guyana:
+              exemplar_city: "กายอานา"
+            halifax:
+              exemplar_city: "แฮลิแฟกซ์"
+            havana:
+              exemplar_city: "ฮาวานา"
+            hermosillo:
+              exemplar_city: "เอร์โมซีโย"
+            indiana:
+              vincennes:
+                exemplar_city: "วินเซนเนส, อินดีแอนา"
+              petersburg:
+                exemplar_city: "ปีเตอร์สเบิร์ก, อินดีแอนา"
+              tell_city:
+                exemplar_city: "เทลล์ซิตี, อินดีแอนา"
+              knox:
+                exemplar_city: "นอกซ์, อินดีแอนา"
+              winamac:
+                exemplar_city: "วินาแมค, อินดีแอนา"
+              marengo:
+                exemplar_city: "มาเรงโก, อินดีแอนา"
+              vevay:
+                exemplar_city: "วีเวย์, อินดีแอนา"
+            indianapolis:
+              exemplar_city: "อินเดียแนโพลิส"
+            inuvik:
+              exemplar_city: "อินูวิก"
+            iqaluit:
+              exemplar_city: "อีกวาลิต"
+            jamaica:
+              exemplar_city: "จาเมกา"
+            jujuy:
+              exemplar_city: "จูจิว"
+            juneau:
+              exemplar_city: "จูโน"
+            kentucky:
+              monticello:
+                exemplar_city: "มอนติเซลโล, เคนตักกี"
+            kralendijk:
+              exemplar_city: "คราเลนดิจค์"
+            la_paz:
+              exemplar_city: "ลาปาซ"
+            lima:
+              exemplar_city: "ลิมา"
+            los_angeles:
+              exemplar_city: "ลอสแองเจลิส"
+            louisville:
+              exemplar_city: "ลูส์วิลล์"
+            lower_princes:
+              exemplar_city: "โลเวอร์พรินซ์ ควอเตอร์"
+            maceio:
+              exemplar_city: "มาเซโอ"
+            managua:
+              exemplar_city: "มานากัว"
+            manaus:
+              exemplar_city: "มาเนาส์"
+            marigot:
+              exemplar_city: "มาริโกต์"
+            martinique:
+              exemplar_city: "มาร์ตินีก"
+            matamoros:
+              exemplar_city: "มาตาโมรอส"
+            mazatlan:
+              exemplar_city: "มาซาทลาน"
+            mendoza:
+              exemplar_city: "เมนดูซา"
+            menominee:
+              exemplar_city: "เมโนมินี"
+            merida:
+              exemplar_city: "เมรีดา"
+            metlakatla:
+              exemplar_city: "เมทลากาตละ"
+            mexico_city:
+              exemplar_city: "เม็กซิโกซิตี"
+            miquelon:
+              exemplar_city: "มีเกอลง"
+            moncton:
+              exemplar_city: "มองตัน"
+            monterrey:
+              exemplar_city: "มอนเตร์เรย์"
+            montevideo:
+              exemplar_city: "มอนเตวิเดโอ"
+            montserrat:
+              exemplar_city: "มอนเซอร์รัต"
+            nassau:
+              exemplar_city: "แนสซอ"
+            new_york:
+              exemplar_city: "นิวยอร์ก"
+            nipigon:
+              exemplar_city: "นิปิกอน"
+            nome:
+              exemplar_city: "นอม"
+            noronha:
+              exemplar_city: "โนรอนฮา"
+            north_dakota:
+              beulah:
+                exemplar_city: "โบลาห์, นอร์ทดาโคตา"
+              new_salem:
+                exemplar_city: "นิวเซเลม, นอร์ทดาโคตา"
+              center:
+                exemplar_city: "เซนเตอร์, นอร์ทดาโคตา"
+            ojinaga:
+              exemplar_city: "โอจินากา"
+            panama:
+              exemplar_city: "ปานามา"
+            pangnirtung:
+              exemplar_city: "พางนีทัง"
+            paramaribo:
+              exemplar_city: "ปารามาริโบ"
+            phoenix:
+              exemplar_city: "ฟินิกซ์"
+            port_au_prince:
+              exemplar_city: "ปอร์โตแปรงซ์"
+            port_of_spain:
+              exemplar_city: "พอร์ทออฟสเปน"
+            porto_velho:
+              exemplar_city: "ปอร์ตูเวลโย"
+            puerto_rico:
+              exemplar_city: "เปอโตริโก"
+            rainy_river:
+              exemplar_city: "เรนนี่ริเวอร์"
+            rankin_inlet:
+              exemplar_city: "แรงกินอินเล็ต"
+            recife:
+              exemplar_city: "เรซีเฟ"
+            regina:
+              exemplar_city: "ริไจนา"
+            resolute:
+              exemplar_city: "เรโซลูท"
+            rio_branco:
+              exemplar_city: "รีโอบรังโก"
+            santa_isabel:
+              exemplar_city: "ซานตาอิซาเบล"
+            santarem:
+              exemplar_city: "ซันตาเรม"
+            santiago:
+              exemplar_city: "ซันติอาโก"
+            santo_domingo:
+              exemplar_city: "ซานโต โดมิงโก"
+            sao_paulo:
+              exemplar_city: "เซาเปาลู"
+            scoresbysund:
+              exemplar_city: "สกอเรสไบซันด์"
+            sitka:
+              exemplar_city: "ซิตกา"
+            st_barthelemy:
+              exemplar_city: "เซนต์บาร์เธเลมี"
+            st_johns:
+              exemplar_city: "เซนต์จอนส์"
+            st_kitts:
+              exemplar_city: "เซนต์คิตส์"
+            st_lucia:
+              exemplar_city: "เซนต์ลูเซีย"
+            st_thomas:
+              exemplar_city: "เซนต์โธมัส"
+            st_vincent:
+              exemplar_city: "เซนต์วินเซนต์"
+            swift_current:
+              exemplar_city: "สวิฟต์เคอร์เรนต์"
+            tegucigalpa:
+              exemplar_city: "เตกูซิกัลปา"
+            thule:
+              exemplar_city: "ทูเล"
+            thunder_bay:
+              exemplar_city: "ทันเดอร์เบย์"
+            tijuana:
+              exemplar_city: "ทิฮัวนา"
+            toronto:
+              exemplar_city: "โทรอนโต"
+            tortola:
+              exemplar_city: "ตอร์โตลา"
+            vancouver:
+              exemplar_city: "แวนคูเวอร์"
+            whitehorse:
+              exemplar_city: "ไวต์ฮอร์ส"
+            winnipeg:
+              exemplar_city: "วินนิเพก"
+            yakutat:
+              exemplar_city: "ยากูทัต"
+            yellowknife:
+              exemplar_city: "เยลโลว์ไนฟ์"
+          atlantic:
+            azores:
+              exemplar_city: "อาซอเรส"
+            bermuda:
+              exemplar_city: "เบอร์มิวดา"
+            canary:
+              exemplar_city: "คะเนรี"
+            cape_verde:
+              exemplar_city: "เคปเวิร์ด"
+            faeroe:
+              exemplar_city: "แฟโร"
+            madeira:
+              exemplar_city: "มาเดรา"
+            reykjavik:
+              exemplar_city: "เรคยาวิก"
+            south_georgia:
+              exemplar_city: "เซาท์ จอร์เจีย"
+            st_helena:
+              exemplar_city: "เซนต์เฮเลนา"
+            stanley:
+              exemplar_city: "สแตนลีย์"
+          europe:
+            amsterdam:
+              exemplar_city: "อัมสเตอดัม"
+            andorra:
+              exemplar_city: "อันดอร์รา"
+            athens:
+              exemplar_city: "เอเธนส์"
+            belgrade:
+              exemplar_city: "เบลเกรด"
+            berlin:
+              exemplar_city: "เบอร์ลิน"
+            bratislava:
+              exemplar_city: "บราติสลาวา"
+            brussels:
+              exemplar_city: "บรัสเซลส์"
+            bucharest:
+              exemplar_city: "บูคาเรส"
+            budapest:
+              exemplar_city: "บูดาเปส"
+            busingen:
+              exemplar_city: "บุสซิงเง็น"
+            chisinau:
+              exemplar_city: "คีชีเนา"
+            copenhagen:
+              exemplar_city: "โคเปนเฮเกน"
+            dublin:
+              long:
+                daylight: "เวลามาตรฐานไอร์แลนด์"
+              exemplar_city: "ดับบลิน"
+            gibraltar:
+              exemplar_city: "ยิบรอลตาร์"
+            guernsey:
+              exemplar_city: "เกิร์นซีย์"
+            helsinki:
+              exemplar_city: "เฮลซิงกิ"
+            isle_of_man:
+              exemplar_city: "เกาะแมน"
+            istanbul:
+              exemplar_city: "อิสตันบูล"
+            jersey:
+              exemplar_city: "เจอร์ซีย์"
+            kaliningrad:
+              exemplar_city: "คาลินิงกราด"
+            kiev:
+              exemplar_city: "เคียฟ"
+            lisbon:
+              exemplar_city: "ลิสบอน"
+            ljubljana:
+              exemplar_city: "ลูบลิยานา"
+            london:
+              long:
+                daylight: "เวลาฤดูร้อนอังกฤษ"
+              exemplar_city: "ลอนดอน"
+            luxembourg:
+              exemplar_city: "ลักเซมเบิร์ก"
+            madrid:
+              exemplar_city: "มาดริด"
+            malta:
+              exemplar_city: "มอลตา"
+            mariehamn:
+              exemplar_city: "มารีฮามน์"
+            minsk:
+              exemplar_city: "มินสก์"
+            monaco:
+              exemplar_city: "โมนาโก"
+            moscow:
+              exemplar_city: "มอสโก"
+            oslo:
+              exemplar_city: "ออสโล"
+            paris:
+              exemplar_city: "ปารีส"
+            podgorica:
+              exemplar_city: "พอดกอรีตซา"
+            prague:
+              exemplar_city: "ปราก"
+            riga:
+              exemplar_city: "ริกา"
+            rome:
+              exemplar_city: "โรม"
+            samara:
+              exemplar_city: "ซามารา"
+            san_marino:
+              exemplar_city: "ซานมารีโน"
+            sarajevo:
+              exemplar_city: "ซาราเยโว"
+            simferopol:
+              exemplar_city: "ซิมเฟอโรโปล"
+            skopje:
+              exemplar_city: "สโกเปีย"
+            sofia:
+              exemplar_city: "โซเฟีย"
+            stockholm:
+              exemplar_city: "สตอกโฮล์ม"
+            tallinn:
+              exemplar_city: "ทาลลินน์"
+            tirane:
+              exemplar_city: "ติรานา"
+            uzhgorod:
+              exemplar_city: "อัซโกร็อด"
+            vaduz:
+              exemplar_city: "วาดุซ"
+            vatican:
+              exemplar_city: "วาติกัน"
+            vienna:
+              exemplar_city: "เวียนนา"
+            vilnius:
+              exemplar_city: "วิลนีอุส"
+            volgograd:
+              exemplar_city: "วอลโกกราด"
+            warsaw:
+              exemplar_city: "วอร์ซอ"
+            zagreb:
+              exemplar_city: "ซาเกร็บ"
+            zaporozhye:
+              exemplar_city: "ซาโปโรซี"
+            zurich:
+              exemplar_city: "ซูริค"
+          africa:
+            abidjan:
+              exemplar_city: "อาบีจาน"
+            accra:
+              exemplar_city: "อักกรา"
+            addis_ababa:
+              exemplar_city: "แอดดิสอาบาบา"
+            algiers:
+              exemplar_city: "แอลเจียร์"
+            asmera:
+              exemplar_city: "แอสมารา"
+            bamako:
+              exemplar_city: "บามาโก"
+            bangui:
+              exemplar_city: "บังกี"
+            banjul:
+              exemplar_city: "บันจูล"
+            bissau:
+              exemplar_city: "บิสเซา"
+            blantyre:
+              exemplar_city: "แบลนไทร์"
+            brazzaville:
+              exemplar_city: "บราซซาวิล"
+            bujumbura:
+              exemplar_city: "บูจุมบูรา"
+            cairo:
+              exemplar_city: "ไคโร"
+            casablanca:
+              exemplar_city: "คาสซาบลางก้า"
+            ceuta:
+              exemplar_city: "เซวตา"
+            conakry:
+              exemplar_city: "โกนากรี"
+            dakar:
+              exemplar_city: "ดาการ์"
+            dar_es_salaam:
+              exemplar_city: "ดาร์เอสซาลาม"
+            djibouti:
+              exemplar_city: "จิบูตี"
+            douala:
+              exemplar_city: "ดูอาลา"
+            el_aaiun:
+              exemplar_city: "เอลไอย์อุง"
+            freetown:
+              exemplar_city: "ฟรีทาวน์"
+            gaborone:
+              exemplar_city: "กาโบโรเน"
+            harare:
+              exemplar_city: "ฮาราเร"
+            johannesburg:
+              exemplar_city: "โจฮันเนสเบอร์ก"
+            juba:
+              exemplar_city: "จูบา"
+            kampala:
+              exemplar_city: "คัมพาลา"
+            khartoum:
+              exemplar_city: "คาร์ทูม"
+            kigali:
+              exemplar_city: "คิกาลี"
+            kinshasa:
+              exemplar_city: "กินชาซา"
+            lagos:
+              exemplar_city: "ลากอส"
+            libreville:
+              exemplar_city: "ลีเบรอวิล"
+            lome:
+              exemplar_city: "โลเม"
+            luanda:
+              exemplar_city: "ลูอันดา"
+            lubumbashi:
+              exemplar_city: "ลูบัมบาชิ"
+            lusaka:
+              exemplar_city: "ลูซากา"
+            malabo:
+              exemplar_city: "มาลาโบ"
+            maputo:
+              exemplar_city: "มาปูโต"
+            maseru:
+              exemplar_city: "มาเซรู"
+            mbabane:
+              exemplar_city: "อัมบาบาเน"
+            mogadishu:
+              exemplar_city: "โมกาดิชู"
+            monrovia:
+              exemplar_city: "มันโรเวีย"
+            nairobi:
+              exemplar_city: "ไนโรเบีย"
+            ndjamena:
+              exemplar_city: "เอ็นจาเมนา"
+            niamey:
+              exemplar_city: "นีอาเมย์"
+            nouakchott:
+              exemplar_city: "นูแอกชอต"
+            ouagadougou:
+              exemplar_city: "วากาดูกู"
+            porto_novo:
+              exemplar_city: "ปอร์โต-โนโว"
+            sao_tome:
+              exemplar_city: "เซาตูเม"
+            tripoli:
+              exemplar_city: "ตรีโปลี"
+            tunis:
+              exemplar_city: "ตูนิส"
+            windhoek:
+              exemplar_city: "วินด์ฮุก"
+          asia:
+            aden:
+              exemplar_city: "เอเดน"
+            almaty:
+              exemplar_city: "อัลมาตี"
+            amman:
+              exemplar_city: "อัมมาน"
+            anadyr:
+              exemplar_city: "อานาดีร์"
+            aqtau:
+              exemplar_city: "อัคตาอู"
+            aqtobe:
+              exemplar_city: "อัคโทบี"
+            ashgabat:
+              exemplar_city: "อาชกาบัต"
+            baghdad:
+              exemplar_city: "แบกแดด"
+            bahrain:
+              exemplar_city: "บาห์เรน"
+            baku:
+              exemplar_city: "บากู"
+            bangkok:
+              exemplar_city: "กรุงเทพ"
+            beirut:
+              exemplar_city: "เบรุต"
+            bishkek:
+              exemplar_city: "บิชเคก"
+            brunei:
+              exemplar_city: "บรูไน"
+            calcutta:
+              exemplar_city: "โกลกาตา"
+            chita:
+              exemplar_city: "ชิตา"
+            choibalsan:
+              exemplar_city: "ชอยบาลซาน"
+            colombo:
+              exemplar_city: "โคลัมโบ"
+            damascus:
+              exemplar_city: "ดามัสกัส"
+            dhaka:
+              exemplar_city: "ดากา"
+            dili:
+              exemplar_city: "ดิลี"
+            dubai:
+              exemplar_city: "ดูไบ"
+            dushanbe:
+              exemplar_city: "ดูชานเบ"
+            gaza:
+              exemplar_city: "กาซา"
+            hebron:
+              exemplar_city: "เฮบรอน"
+            hong_kong:
+              exemplar_city: "ฮ่องกง"
+            hovd:
+              exemplar_city: "ฮอฟด์"
+            irkutsk:
+              exemplar_city: "อีร์คุตสค์"
+            jakarta:
+              exemplar_city: "จาการ์ตา"
+            jayapura:
+              exemplar_city: "จายาปุระ"
+            jerusalem:
+              exemplar_city: "เยรูซาเลม"
+            kabul:
+              exemplar_city: "คาบูล"
+            kamchatka:
+              exemplar_city: "คามชัตกา"
+            karachi:
+              exemplar_city: "การาจี"
+            katmandu:
+              exemplar_city: "กาตมันดุ"
+            khandyga:
+              exemplar_city: "ฮันดืยกา"
+            krasnoyarsk:
+              exemplar_city: "ครัสโนยาร์สก์"
+            kuala_lumpur:
+              exemplar_city: "กัวลาลัมเปอร์"
+            kuching:
+              exemplar_city: "กูชิง"
+            kuwait:
+              exemplar_city: "คูเวต"
+            macau:
+              exemplar_city: "มาเก๊า"
+            magadan:
+              exemplar_city: "มากาดาน"
+            makassar:
+              exemplar_city: "มากัสซาร์"
+            manila:
+              exemplar_city: "มะนิลา"
+            muscat:
+              exemplar_city: "มัสกัต"
+            nicosia:
+              exemplar_city: "นิโคเซีย"
+            novokuznetsk:
+              exemplar_city: "โนโวคุซเนตสค์"
+            novosibirsk:
+              exemplar_city: "โนโวซิบิร์สก์"
+            omsk:
+              exemplar_city: "โอมสก์"
+            oral:
+              exemplar_city: "ออรัล"
+            phnom_penh:
+              exemplar_city: "พนมเปญ"
+            pontianak:
+              exemplar_city: "พอนเทียนัก"
+            pyongyang:
+              exemplar_city: "เปียงยาง"
+            qatar:
+              exemplar_city: "กาตาร์"
+            qyzylorda:
+              exemplar_city: "ไคซีลอร์ดา"
+            rangoon:
+              exemplar_city: "ย่างกุ้ง"
+            riyadh:
+              exemplar_city: "ริยาร์ด"
+            saigon:
+              exemplar_city: "นครโฮจิมินห์"
+            sakhalin:
+              exemplar_city: "ซาคาลิน"
+            samarkand:
+              exemplar_city: "ซามาร์กานด์"
+            seoul:
+              exemplar_city: "โซล"
+            shanghai:
+              exemplar_city: "เซี่ยงไฮ้"
+            singapore:
+              exemplar_city: "สิงคโปร์"
+            srednekolymsk:
+              exemplar_city: "ซเรดเนคโคลิมสก์"
+            taipei:
+              exemplar_city: "ไทเป"
+            tashkent:
+              exemplar_city: "ทาชเคนต์"
+            tbilisi:
+              exemplar_city: "ทบิลิซิ"
+            tehran:
+              exemplar_city: "เตหะราน"
+            thimphu:
+              exemplar_city: "ทิมพู"
+            tokyo:
+              exemplar_city: "โตเกียว"
+            ulaanbaatar:
+              exemplar_city: "อูลานบาตอร์"
+            urumqi:
+              exemplar_city: "อุรุมชี"
+            ust_nera:
+              exemplar_city: "อุสต์เนรา"
+            vientiane:
+              exemplar_city: "เวียงจันทน์"
+            vladivostok:
+              exemplar_city: "วลาดิโวสต็อก"
+            yakutsk:
+              exemplar_city: "ยาคุตสค์"
+            yekaterinburg:
+              exemplar_city: "ยีคาเตอรินเบิร์ก"
+            yerevan:
+              exemplar_city: "เยเรวาน"
+          indian:
+            antananarivo:
+              exemplar_city: "อันตานานาริโว"
+            chagos:
+              exemplar_city: "ชากัส"
+            christmas:
+              exemplar_city: "คริสต์มาส"
+            cocos:
+              exemplar_city: "โคโคส"
+            comoro:
+              exemplar_city: "โคโมโร"
+            kerguelen:
+              exemplar_city: "แกร์เกอลอง"
+            mahe:
+              exemplar_city: "มาเอ"
+            maldives:
+              exemplar_city: "มัลดีฟส์"
+            mauritius:
+              exemplar_city: "มอริเชียส"
+            mayotte:
+              exemplar_city: "มาโยเต"
+            reunion:
+              exemplar_city: "เรอูนียง"
+          australia:
+            adelaide:
+              exemplar_city: "แอดิเลด"
+            brisbane:
+              exemplar_city: "บริสเบน"
+            broken_hill:
+              exemplar_city: "โบรกเคนฮิลล์"
+            currie:
+              exemplar_city: "คูร์รี"
+            darwin:
+              exemplar_city: "ดาร์วิน"
+            eucla:
+              exemplar_city: "ยูคลา"
+            hobart:
+              exemplar_city: "โฮบาร์ต"
+            lindeman:
+              exemplar_city: "ลินดีแมน"
+            lord_howe:
+              exemplar_city: "ลอร์ดโฮวี"
+            melbourne:
+              exemplar_city: "เมลเบิร์น"
+            perth:
+              exemplar_city: "เพิร์ท"
+            sydney:
+              exemplar_city: "ซิดนีย์"
+          pacific:
+            apia:
+              exemplar_city: "อาปีอา"
+            auckland:
+              exemplar_city: "โอคแลนด์"
+            bougainville:
+              exemplar_city: "บูเกนวิลล์"
+            chatham:
+              exemplar_city: "แชแทม"
+            easter:
+              exemplar_city: "อีสเตอร์"
+            efate:
+              exemplar_city: "เอฟาเต"
+            enderbury:
+              exemplar_city: "เอนเดอร์เบอร์รี"
+            fakaofo:
+              exemplar_city: "ฟาเคาโฟ"
+            fiji:
+              exemplar_city: "ฟิจิ"
+            funafuti:
+              exemplar_city: "ฟูนะฟูตี"
+            galapagos:
+              exemplar_city: "กาลาปาโกส"
+            gambier:
+              exemplar_city: "แกมเบียร์"
+            guadalcanal:
+              exemplar_city: "กัวดัลคานัล"
+            guam:
+              exemplar_city: "กวม"
+            honolulu:
+              exemplar_city: "โฮโนลูลู"
+            johnston:
+              exemplar_city: "จอห์นสตัน"
+            kiritimati:
+              exemplar_city: "คิริทิมาตี"
+            kosrae:
+              exemplar_city: "คอสแร"
+            kwajalein:
+              exemplar_city: "ควาจาเลน"
+            majuro:
+              exemplar_city: "มาจูโร"
+            marquesas:
+              exemplar_city: "มาร์เควซัส"
+            midway:
+              exemplar_city: "มิดเวย์"
+            nauru:
+              exemplar_city: "นาอูรู"
+            niue:
+              exemplar_city: "นีอูเอ"
+            norfolk:
+              exemplar_city: "นอร์ฟอล์ก"
+            noumea:
+              exemplar_city: "นูเมอา"
+            pago_pago:
+              exemplar_city: "ปาโก ปาโก"
+            palau:
+              exemplar_city: "ปาเลา"
+            pitcairn:
+              exemplar_city: "พิตแคร์น"
+            ponape:
+              exemplar_city: "โปนาเป"
+            port_moresby:
+              exemplar_city: "พอร์ตมอร์สบี"
+            rarotonga:
+              exemplar_city: "ราโรตองกา"
+            saipan:
+              exemplar_city: "ไซปัน"
+            tahiti:
+              exemplar_city: "ทาฮิติ"
+            tarawa:
+              exemplar_city: "ตาระวา"
+            tongatapu:
+              exemplar_city: "ตองกาตาปู"
+            truk:
+              exemplar_city: "ทรัก"
+            wake:
+              exemplar_city: "เวก"
+            wallis:
+              exemplar_city: "วาลลิส"
+          arctic:
+            longyearbyen:
+              exemplar_city: "ลองเยียร์เบียน"
+          antarctica:
+            casey:
+              exemplar_city: "เคซีย์"
+            davis:
+              exemplar_city: "ดาวีส์"
+            dumont_d_urville:
+              exemplar_city: "ดูมองต์ดูร์วิลล์"
+            macquarie:
+              exemplar_city: "แมคควอรี"
+            mawson:
+              exemplar_city: "มาว์ซัน"
+            mc_murdo:
+              exemplar_city: "แมคมัวโด"
+            palmer:
+              exemplar_city: "พาล์เมอร์"
+            rothera:
+              exemplar_city: "โรเทรา"
+            syowa:
+              exemplar_city: "เซียวา"
+            troll:
+              exemplar_city: "โทรล"
+            vostok:
+              exemplar_city: "วอสต็อค"
+          etc:
+            gmt:
+              exemplar_city: GMT
+            gmt1:
+              exemplar_city: GMT+1
+            gmt10:
+              exemplar_city: GMT+10
+            gmt11:
+              exemplar_city: GMT+11
+            gmt12:
+              exemplar_city: GMT+12
+            gmt2:
+              exemplar_city: GMT+2
+            gmt3:
+              exemplar_city: GMT+3
+            gmt4:
+              exemplar_city: GMT+4
+            gmt5:
+              exemplar_city: GMT+5
+            gmt6:
+              exemplar_city: GMT+6
+            gmt7:
+              exemplar_city: GMT+7
+            gmt8:
+              exemplar_city: GMT+8
+            gmt9:
+              exemplar_city: GMT+9
+            gmt_1:
+              exemplar_city: GMT-1
+            gmt_10:
+              exemplar_city: GMT-10
+            gmt_11:
+              exemplar_city: GMT-11
+            gmt_12:
+              exemplar_city: GMT-12
+            gmt_13:
+              exemplar_city: GMT-13
+            gmt_14:
+              exemplar_city: GMT-14
+            gmt_2:
+              exemplar_city: GMT-2
+            gmt_3:
+              exemplar_city: GMT-3
+            gmt_4:
+              exemplar_city: GMT-4
+            gmt_5:
+              exemplar_city: GMT-5
+            gmt_6:
+              exemplar_city: GMT-6
+            gmt_7:
+              exemplar_city: GMT-7
+            gmt_8:
+              exemplar_city: GMT-8
+            gmt_9:
+              exemplar_city: GMT-9
+            unknown:
+              exemplar_city: "เมืองที่ไม่รู้จัก"
+        metazone:
+          acre:
+            long:
+              generic: "เวลาอาเกร"
+              standard: "เวลามาตรฐานอาเกร"
+              daylight: "เวลาฤดูร้อนอาเกร"
+          afghanistan:
+            long:
+              standard: "เวลาอัฟกานิสถาน"
+          africa_central:
+            long:
+              standard: "เวลาแอฟริกากลาง"
+          africa_eastern:
+            long:
+              standard: "เวลาแอฟริกาตะวันออก"
+          africa_southern:
+            long:
+              standard: "เวลาแอฟริกาใต้"
+          africa_western:
+            long:
+              generic: "เวลาแอฟริกาตะวันตก"
+              standard: "เวลามาตรฐานแอฟริกาตะวันตก"
+              daylight: "เวลาฤดูร้อนแอฟริกาตะวันตก"
+          alaska:
+            long:
+              generic: "เวลาอะแลสกา"
+              standard: "เวลามาตรฐานอะแลสกา"
+              daylight: "เวลาออมแสงของอะแลสกา"
+          almaty:
+            long:
+              generic: "เวลาอัลมาตี"
+              standard: "เวลามาตรฐานอัลมาตี"
+              daylight: "เวลาฤดูร้อนอัลมาตี"
+          amazon:
+            long:
+              generic: "เวลาอะเมซอน"
+              standard: "เวลามาตรฐานอะเมซอน"
+              daylight: "เวลาฤดูร้อนอะเมซอน"
+          america_central:
+            long:
+              generic: "เวลาตอนกลางในอเมริกาเหนือ"
+              standard: "เวลามาตรฐานตอนกลางในอเมริกาเหนือ"
+              daylight: "เวลาออมแสงตอนกลางในอเมริกาเหนือ"
+          america_eastern:
+            long:
+              generic: "เวลาทางตะวันออกในอเมริกาเหนือ"
+              standard: "เวลามาตรฐานทางตะวันออกในอเมริกาเหนือ"
+              daylight: "เวลาออมแสงทางตะวันออกในอเมริกาเหนือ"
+          america_mountain:
+            long:
+              generic: "เวลาแถบภูเขาในอเมริกาเหนือ"
+              standard: "เวลามาตรฐานแถบภูเขาในอเมริกาเหนือ"
+              daylight: "เวลาออมแสงแถบภูเขาในอเมริกาเหนือ"
+          america_pacific:
+            long:
+              generic: "เวลาแปซิฟิกในอเมริกาเหนือ"
+              standard: "เวลามาตรฐานแปซิฟิกในอเมริกาเหนือ"
+              daylight: "เวลาออมแสงแปซิฟิกในอเมริกาเหนือ"
+          anadyr:
+            long:
+              generic: "เวลาอะนาดีร์"
+              standard: "เวลามาตรฐานอะนาดีร์"
+              daylight: "เวลาฤดูร้อนอะนาดีร์"
+          apia:
+            long:
+              generic: "เวลาอาปีอา"
+              standard: "เวลามาตรฐานอาปีอา"
+              daylight: "เวลาออมแสงอาปีอา"
+          aqtau:
+            long:
+              generic: "เวลาอัคตาอู"
+              standard: "เวลามาตรฐานอัคตาอู"
+              daylight: "เวลาฤดูร้อนอัคตาอู"
+          aqtobe:
+            long:
+              generic: "เวลาอัคโทเบ"
+              standard: "เวลามาตรฐานอัคโทเบ"
+              daylight: "เวลาฤดูร้อนอัคโทเบ"
+          arabian:
+            long:
+              generic: "เวลาอาหรับ"
+              standard: "เวลามาตรฐานอาหรับ"
+              daylight: "เวลาออมแสงอาหรับ"
+          argentina:
+            long:
+              generic: "เวลาอาร์เจนตินา"
+              standard: "เวลามาตรฐานอาร์เจนตินา"
+              daylight: "เวลาฤดูร้อนอาร์เจนตินา"
+          argentina_western:
+            long:
+              generic: "เวลาตะวันตกของอาร์เจนตินา"
+              standard: "เวลามาตรฐานทางตะวันตกของอาร์เจนตินา"
+              daylight: "เวลาฤดูร้อนทางตะวันตกของอาร์เจนตินา"
+          armenia:
+            long:
+              generic: "เวลาอาร์เมเนีย"
+              standard: "เวลามาตรฐานอาร์เมเนีย"
+              daylight: "เวลาฤดูร้อนอาร์เมเนีย"
+          atlantic:
+            long:
+              generic: "เวลาแอตแลนติก"
+              standard: "เวลามาตรฐานแอตแลนติก"
+              daylight: "เวลาออมแสงของแอตแลนติก"
+          australia_central:
+            long:
+              generic: "เวลาออสเตรเลียกลาง"
+              standard: "เวลามาตรฐานทางตอนกลางของออสเตรเลีย"
+              daylight: "เวลาออมแสงทางตอนกลางของออสเตรเลีย"
+          australia_central_western:
+            long:
+              generic: "เวลาทางตะวันตกตอนกลางของออสเตรเลีย"
+              standard: "เวลามาตรฐานทางตะวันตกตอนกลางของออสเตรเลีย"
+              daylight: "เวลาออมแสงทางตะวันตกตอนกลางของออสเตรเลีย"
+          australia_eastern:
+            long:
+              generic: "เวลาออสเตรเลียตะวันออก"
+              standard: "เวลามาตรฐานทางตะวันออกของออสเตรเลีย"
+              daylight: "เวลาออมแสงทางตะวันออกของออสเตรเลีย"
+          australia_western:
+            long:
+              generic: "เวลาออสเตรเลียตะวันตก"
+              standard: "เวลามาตรฐานทางตะวันตกของออสเตรเลีย"
+              daylight: "เวลาออมแสงทางตะวันตกของออสเตรเลีย"
+          azerbaijan:
+            long:
+              generic: "เวลาอาเซอร์ไบจาน"
+              standard: "เวลามาตรฐานอาเซอร์ไบจาน"
+              daylight: "เวลาฤดูร้อนอาเซอร์ไบจาน"
+          azores:
+            long:
+              generic: "เวลาอะโซร์ส"
+              standard: "เวลามาตรฐานอะโซร์ส"
+              daylight: "เวลาฤดูร้อนอะโซร์ส"
+          bangladesh:
+            long:
+              generic: "เวลาบังกลาเทศ"
+              standard: "เวลามาตรฐานบังกลาเทศ"
+              daylight: "เวลาฤดูร้อนบังกลาเทศ"
+          bhutan:
+            long:
+              standard: "เวลาภูฏาน"
+          bolivia:
+            long:
+              standard: "เวลาโบลิเวีย"
+          brasilia:
+            long:
+              generic: "เวลาบราซิเลีย"
+              standard: "เวลามาตรฐานบราซิเลีย"
+              daylight: "เวลาฤดูร้อนบราซิเลีย"
+          brunei:
+            long:
+              standard: "เวลาบรูไนดารุสซาลาม"
+          cape_verde:
+            long:
+              generic: "เวลาเคปเวิร์ด"
+              standard: "เวลามาตรฐานเคปเวิร์ด"
+              daylight: "เวลาฤดูร้อนเคปเวิร์ด"
+          casey:
+            long:
+              standard: "เวลาเคซีย์"
+          chamorro:
+            long:
+              standard: "เวลาชามอร์โร"
+          chatham:
+            long:
+              generic: "เวลาแชทัม"
+              standard: "เวลามาตรฐานแชทัม"
+              daylight: "เวลาออมแสงแชทัม"
+          chile:
+            long:
+              generic: "เวลาชิลี"
+              standard: "เวลามาตรฐานชิลี"
+              daylight: "เวลาฤดูร้อนชิลี"
+          china:
+            long:
+              generic: "เวลาจีน"
+              standard: "เวลามาตรฐานจีน"
+              daylight: "เวลาออมแสงจีน"
+          choibalsan:
+            long:
+              generic: "เวลาชอยปาลชาน"
+              standard: "เวลามาตรฐานชอยปาลชาน"
+              daylight: "เวลาฤดูร้อนชอยปาลชาน"
+          christmas:
+            long:
+              standard: "เวลาเกาะคริสต์มาส"
+          cocos:
+            long:
+              standard: "เวลาหมู่เกาะโคโคส"
+          colombia:
+            long:
+              generic: "เวลาโคลอมเบีย"
+              standard: "เวลามาตรฐานโคลอมเบีย"
+              daylight: "เวลาฤดูร้อนโคลอมเบีย"
+          cook:
+            long:
+              generic: "เวลาหมู่เกาะคุก"
+              standard: "เวลามาตรฐานหมู่เกาะคุก"
+              daylight: "เวลาครึ่งฤดูร้อนหมู่เกาะคุก"
+          cuba:
+            long:
+              generic: "เวลาคิวบา"
+              standard: "เวลามาตรฐานคิวบา"
+              daylight: "เวลาออมแสงของคิวบา"
+          davis:
+            long:
+              standard: "เวลาเดวิส"
+          dumont_d_urville:
+            long:
+              standard: "เวลาดูมองต์ดูร์วิลล์"
+          east_timor:
+            long:
+              standard: "เวลาติมอร์ตะวันออก"
+          easter:
+            long:
+              generic: "เวลาเกาะอีสเตอร์"
+              standard: "เวลามาตรฐานเกาะอีสเตอร์"
+              daylight: "เวลาฤดูร้อนเกาะอีสเตอร์"
+          ecuador:
+            long:
+              standard: "เวลาเอกวาดอร์"
+          europe_central:
+            long:
+              generic: "เวลายุโรปกลาง"
+              standard: "เวลามาตรฐานยุโรปกลาง"
+              daylight: "เวลาฤดูร้อนยุโรปกลาง"
+          europe_eastern:
+            long:
+              generic: "เวลายุโรปตะวันออก"
+              standard: "เวลามาตรฐานยุโรปตะวันออก"
+              daylight: "เวลาฤดูร้อนยุโรปตะวันออก"
+          europe_further_eastern:
+            long:
+              standard: "เวลายุโรปตะวันออกไกล"
+          europe_western:
+            long:
+              generic: "เวลายุโรปตะวันตก"
+              standard: "เวลามาตรฐานยุโรปตะวันตก"
+              daylight: "เวลาฤดูร้อนยุโรปตะวันตก"
+          falkland:
+            long:
+              generic: "เวลาหมู่เกาะฟอล์กแลนด์"
+              standard: "เวลามาตรฐานหมู่เกาะฟอล์กแลนด์"
+              daylight: "เวลาฤดูร้อนหมู่เกาะฟอล์กแลนด์"
+          fiji:
+            long:
+              generic: "เวลาฟิจิ"
+              standard: "เวลามาตรฐานฟิจิ"
+              daylight: "เวลาฤดูร้อนฟิจิ"
+          french_guiana:
+            long:
+              standard: "เวลาเฟรนช์เกียนา"
+          french_southern:
+            long:
+              standard: "เวลาเฟรนช์เซาเทิร์นและแอนตาร์กติก"
+          galapagos:
+            long:
+              standard: "เวลากาลาปาโกส"
+          gambier:
+            long:
+              standard: "เวลาแกมเบียร์"
+          georgia:
+            long:
+              generic: "เวลาจอร์เจีย"
+              standard: "เวลามาตรฐานจอร์เจีย"
+              daylight: "เวลาฤดูร้อนจอร์เจีย"
+          gilbert_islands:
+            long:
+              standard: "เวลาหมู่เกาะกิลเบิร์ต"
+          gmt:
+            long:
+              standard: "เวลามาตรฐานกรีนิช"
+          greenland_eastern:
+            long:
+              generic: "เวลากรีนแลนด์ตะวันออก"
+              standard: "เวลามาตรฐานกรีนแลนด์ตะวันออก"
+              daylight: "เวลาฤดูร้อนกรีนแลนด์ตะวันออก"
+          greenland_western:
+            long:
+              generic: "เวลากรีนแลนด์ตะวันตก"
+              standard: "เวลามาตรฐานกรีนแลนด์ตะวันตก"
+              daylight: "เวลาฤดูร้อนกรีนแลนด์ตะวันตก"
+          guam:
+            long:
+              standard: "เวลากวม"
+          gulf:
+            long:
+              standard: "เวลากัลฟ์"
+          guyana:
+            long:
+              standard: "เวลากายอานา"
+          hawaii_aleutian:
+            long:
+              generic: "เวลาฮาวาย-อะลูเชียน"
+              standard: "เวลามาตรฐานฮาวาย-อะลูเชียน"
+              daylight: "เวลาออมแสงฮาวาย-อะลูเชียน"
+          hong_kong:
+            long:
+              generic: "เวลาฮ่องกง"
+              standard: "เวลามาตรฐานฮ่องกง"
+              daylight: "เวลาฤดูร้อนฮ่องกง"
+          hovd:
+            long:
+              generic: "เวลาฮอฟด์"
+              standard: "เวลามาตรฐานฮอฟด์"
+              daylight: "เวลาฤดูร้อนฮอฟด์"
+          india:
+            long:
+              standard: "เวลาอินเดีย"
+          indian_ocean:
+            long:
+              standard: "เวลามหาสมุทรอินเดีย"
+          indochina:
+            long:
+              standard: "เวลาอินโดจีน"
+          indonesia_central:
+            long:
+              standard: "เวลาอินโดนีเซียตอนกลาง"
+          indonesia_eastern:
+            long:
+              standard: "เวลาอินโดนีเซียฝั่งตะวันออก"
+          indonesia_western:
+            long:
+              standard: "เวลาอินโดนีเซียฝั่งตะวันตก"
+          iran:
+            long:
+              generic: "เวลาอิหร่าน"
+              standard: "เวลามาตรฐานอิหร่าน"
+              daylight: "เวลาออมแสงอิหร่าน"
+          irkutsk:
+            long:
+              generic: "เวลาอีร์คุตสค์"
+              standard: "เวลามาตรฐานอีร์คุตสค์"
+              daylight: "เวลาฤดูร้อนอีร์คุตสค์"
+          israel:
+            long:
+              generic: "เวลาอิสราเอล"
+              standard: "เวลามาตรฐานอิสราเอล"
+              daylight: "เวลาออมแสงอิสราเอล"
+          japan:
+            long:
+              generic: "เวลาญี่ปุ่น"
+              standard: "เวลามาตรฐานญี่ปุ่น"
+              daylight: "เวลาออมแสงญี่ปุ่น"
+          kamchatka:
+            long:
+              generic: "เวลาคัมชัตคา"
+              standard: "เวลาเปโตรปัฟลอฟสค์-คัมชัตสกี"
+              daylight: "เวลาฤดูร้อนเปโตรปัฟลอฟสค์-คัมชัตสกี"
+          kazakhstan_eastern:
+            long:
+              standard: "เวลาคาซัคสถานตะวันออก"
+          kazakhstan_western:
+            long:
+              standard: "เวลาคาซัคสถานตะวันตก"
+          korea:
+            long:
+              generic: "เวลาเกาหลี"
+              standard: "เวลามาตรฐานเกาหลี"
+              daylight: "เวลาออมแสงเกาหลี"
+          kosrae:
+            long:
+              standard: "เวลาคอสไร"
+          krasnoyarsk:
+            long:
+              generic: "เวลาครัสโนยาสค์"
+              standard: "เวลามาตรฐานครัสโนยาสค์"
+              daylight: "เวลาฤดูร้อนครัสโนยาสค์"
+          kyrgystan:
+            long:
+              standard: "เวลาคีร์กีซสถาน"
+          lanka:
+            long:
+              standard: "เวลาลังกา"
+          line_islands:
+            long:
+              standard: "เวลาหมู่เกาะไลน์"
+          lord_howe:
+            long:
+              generic: "เวลาลอร์ดโฮว"
+              standard: "เวลามาตรฐานลอร์ดโฮว์"
+              daylight: "เวลาออมแสงของลอร์ดโฮว์"
+          macau:
+            long:
+              generic: "เวลามาเก๊า"
+              standard: "เวลามาตรฐานมาเก๊า"
+              daylight: "เวลาฤดูร้อนมาเก๊า"
+          macquarie:
+            long:
+              standard: "เวลาเกาะแมกควอรี"
+          magadan:
+            long:
+              generic: "เวลามากาดาน"
+              standard: "เวลามาตรฐานมากาดาน"
+              daylight: "เวลาฤดูร้อนมากาดาน"
+          malaysia:
+            long:
+              standard: "เวลามาเลเซีย"
+          maldives:
+            long:
+              standard: "เวลามัลดีฟส์"
+          marquesas:
+            long:
+              standard: "เวลามาร์เคซัส"
+          marshall_islands:
+            long:
+              standard: "เวลาหมู่เกาะมาร์แชลล์"
+          mauritius:
+            long:
+              generic: "เวลามอริเชียส"
+              standard: "เวลามาตรฐานมอริเชียส"
+              daylight: "เวลาฤดูร้อนของมอริเชียส"
+          mawson:
+            long:
+              standard: "เวลามอว์สัน"
+          mexico_northwest:
+            long:
+              generic: "เวลาเม็กซิโกตะวันตกเฉียงเหนือ"
+              standard: "เวลามาตรฐานเม็กซิโกตะวันตกเฉียงเหนือ"
+              daylight: "เวลาออมแสงเม็กซิโกตะวันตกเฉียงเหนือ"
+          mexico_pacific:
+            long:
+              generic: "เวลาแปซิฟิกเม็กซิโก"
+              standard: "เวลามาตรฐานแปซิฟิกเม็กซิโก"
+              daylight: "เวลาออมแสงแปซิฟิกเม็กซิโก"
+          mongolia:
+            long:
+              generic: "เวลาอูลานบาตอร์"
+              standard: "เวลามาตรฐานอูลานบาตอร์"
+              daylight: "เวลาฤดูร้อนอูลานบาตอร์"
+          moscow:
+            long:
+              generic: "เวลามอสโก"
+              standard: "เวลามาตรฐานมอสโก"
+              daylight: "เวลาฤดูร้อนมอสโก"
+          myanmar:
+            long:
+              standard: "เวลาพม่า"
+          nauru:
+            long:
+              standard: "เวลานาอูรู"
+          nepal:
+            long:
+              standard: "เวลาเนปาล"
+          new_caledonia:
+            long:
+              generic: "เวลานิวแคลิโดเนีย"
+              standard: "เวลามาตรฐานนิวแคลิโดเนีย"
+              daylight: "เวลาฤดูร้อนนิวแคลิโดเนีย"
+          new_zealand:
+            long:
+              generic: "เวลานิวซีแลนด์"
+              standard: "เวลามาตรฐานนิวซีแลนด์"
+              daylight: "เวลาออมแสงนิวซีแลนด์"
+          newfoundland:
+            long:
+              generic: "เวลานิวฟันด์แลนด์"
+              standard: "เวลามาตรฐานนิวฟันด์แลนด์"
+              daylight: "เวลาออมแสงนิวฟันด์แลนด์"
+          niue:
+            long:
+              standard: "เวลานีอูเอ"
+          norfolk:
+            long:
+              standard: "เวลาเกาะนอร์ฟอล์ก"
+          noronha:
+            long:
+              generic: "เวลาหมู่เกาะเฟอร์นันโด"
+              standard: "เวลามาตรฐานหมู่เกาะเฟอร์นันโด"
+              daylight: "เวลาฤดูร้อนของหมู่เกาะเฟอร์นันโด"
+          north_mariana:
+            long:
+              standard: "เวลาหมู่เกาะมาเรียนาเหนือ"
+          novosibirsk:
+            long:
+              generic: "เวลาโนโวซีบีสค์"
+              standard: "เวลามาตรฐานโนโวซีบีสค์"
+              daylight: "เวลาฤดูร้อนโนโวซีบีสค์"
+          omsk:
+            long:
+              generic: "เวลาออมสค์"
+              standard: "เวลามาตรฐานออมสค์"
+              daylight: "เวลาฤดูร้อนออมสค์"
+          pakistan:
+            long:
+              generic: "เวลาปากีสถาน"
+              standard: "เวลามาตรฐานปากีสถาน"
+              daylight: "เวลาฤดูร้อนปากีสถาน"
+          palau:
+            long:
+              standard: "เวลาปาเลา"
+          papua_new_guinea:
+            long:
+              standard: "เวลาปาปัวนิวกินี"
+          paraguay:
+            long:
+              generic: "เวลาปารากวัย"
+              standard: "เวลามาตรฐานปารากวัย"
+              daylight: "เวลาฤดูร้อนปารากวัย"
+          peru:
+            long:
+              generic: "เวลาเปรู"
+              standard: "เวลามาตรฐานเปรู"
+              daylight: "เวลาฤดูร้อนเปรู"
+          philippines:
+            long:
+              generic: "เวลาฟิลิปปินส์"
+              standard: "เวลามาตรฐานฟิลิปปินส์"
+              daylight: "เวลาฤดูร้อนฟิลิปปินส์"
+          phoenix_islands:
+            long:
+              standard: "เวลาหมู่เกาะฟินิกซ์"
+          pierre_miquelon:
+            long:
+              generic: "เวลาแซงปีแยร์และมีเกอลง"
+              standard: "เวลามาตรฐานแซงปีแยร์และมีเกอลง"
+              daylight: "เวลาออมแสงของแซงปีแยร์และมีเกอลง"
+          pitcairn:
+            long:
+              standard: "เวลาพิตแคร์น"
+          ponape:
+            long:
+              standard: "เวลาโปเนป"
+          qyzylorda:
+            long:
+              generic: "เวลาคืยซิลออร์ดา"
+              standard: "เวลามาตรฐานคืยซิลออร์ดา"
+              daylight: "เวลาฤดูร้อนคืยซิลออร์ดา"
+          reunion:
+            long:
+              standard: "เวลาเรอูนียง"
+          rothera:
+            long:
+              standard: "เวลาโรธีรา"
+          sakhalin:
+            long:
+              generic: "เวลาซาคาลิน"
+              standard: "เวลามาตรฐานซาคาลิน"
+              daylight: "เวลาฤดูร้อนซาคาลิน"
+          samara:
+            long:
+              generic: "เวลาซามารา"
+              standard: "เวลามาตรฐานซามารา"
+              daylight: "เวลาฤดูร้อนซามารา"
+          samoa:
+            long:
+              generic: "เวลาซามัว"
+              standard: "เวลามาตรฐานซามัว"
+              daylight: "เวลาฤดูร้อนซามัว"
+          seychelles:
+            long:
+              standard: "เวลาเซเชลส์"
+          singapore:
+            long:
+              standard: "เวลาสิงคโปร์"
+          solomon:
+            long:
+              standard: "เวลาหมู่เกาะโซโลมอน"
+          south_georgia:
+            long:
+              standard: "เวลาเซาท์จอร์เจีย"
+          suriname:
+            long:
+              standard: "เวลาซูรินาเม"
+          syowa:
+            long:
+              standard: "เวลาโซวา"
+          tahiti:
+            long:
+              standard: "เวลาตาฮีตี"
+          taipei:
+            long:
+              generic: "เวลาไทเป"
+              standard: "เวลามาตรฐานไทเป"
+              daylight: "เวลาออมแสงไทเป"
+          tajikistan:
+            long:
+              standard: "เวลาทาจิกิสถาน"
+          tokelau:
+            long:
+              standard: "เวลาโตเกเลา"
+          tonga:
+            long:
+              generic: "เวลาตองกา"
+              standard: "เวลามาตรฐานตองกา"
+              daylight: "เวลาฤดูร้อนตองกา"
+          truk:
+            long:
+              standard: "เวลาชุก"
+          turkmenistan:
+            long:
+              generic: "เวลาเติร์กเมนิสถาน"
+              standard: "เวลามาตรฐานเติร์กเมนิสถาน"
+              daylight: "เวลาฤดูร้อนเติร์กเมนิสถาน"
+          tuvalu:
+            long:
+              standard: "เวลาตูวาลู"
+          uruguay:
+            long:
+              generic: "เวลาอุรุกวัย"
+              standard: "เวลามาตรฐานอุรุกวัย"
+              daylight: "เวลาฤดูร้อนอุรุกวัย"
+          uzbekistan:
+            long:
+              generic: "เวลาอุซเบกิสถาน"
+              standard: "เวลามาตรฐานอุซเบกิสถาน"
+              daylight: "เวลาฤดูร้อนอุซเบกิสถาน"
+          vanuatu:
+            long:
+              generic: "เวลาวานูอาตู"
+              standard: "เวลามาตรฐานวานูอาตู"
+              daylight: "เวลาฤดูร้อนวานูอาตู"
+          venezuela:
+            long:
+              standard: "เวลาเวเนซุเอลา"
+          vladivostok:
+            long:
+              generic: "เวลาวลาดีวอสตอค"
+              standard: "เวลามาตรฐานวลาดีวอสตอค"
+              daylight: "เวลาฤดูร้อนวลาดีวอสตอค"
+          volgograd:
+            long:
+              generic: "เวลาวอลโกกราด"
+              standard: "เวลามาตรฐานวอลโกกราด"
+              daylight: "เวลาฤดูร้อนวอลโกกราด"
+          vostok:
+            long:
+              standard: "เวลาวอสตอค"
+          wake:
+            long:
+              standard: "เวลาเกาะเวก"
+          wallis:
+            long:
+              standard: "เวลาวาลลิสและฟุตูนา"
+          yakutsk:
+            long:
+              generic: "เวลายาคุตสค์"
+              standard: "เวลามาตรฐานยาคุตสค์"
+              daylight: "เวลาฤดูร้อนยาคุตสค์"
+          yekaterinburg:
+            long:
+              generic: "เวลาเยคาเตรินบูร์ก"
+              standard: "เวลามาตรฐานเยคาเตรินบูร์ก"
+              daylight: "เวลาฤดูร้อนเยคาเตรินบูร์ก"
+    locale_display_names:
+      languages:
+        aa: "อะฟาร์"
+        ab: "อับคาซ"
+        ace: "อาเจะห์"
+        ach: "อาโคลิ"
+        ada: "อาแดงมี"
+        ady: "อะดืยเก"
+        ae: "อเวสตะ"
+        aeb: "อาหรับตูนิเซีย"
+        af: "แอฟริกานส์"
+        afh: "แอฟริฮีลี"
+        agq: "อักเฮม"
+        ain: "ไอนุ"
+        ak: "อาคัน"
+        akk: "อักกาด"
+        akz: "แอละแบมา"
+        ale: "อาลิวต์"
+        aln: "เกกแอลเบเนีย"
+        alt: "อัลไตใต้"
+        am: "อัมฮารา"
+        an: "อารากอน"
+        ang: "อังกฤษโบราณ"
+        anp: "อังคิกา"
+        ar: "อาหรับ"
+        ar_001: "อาหรับมาตรฐานสมัยใหม่"
+        arc: "อราเมอิก"
+        arn: "อาเราคาเนียน"
+        aro: "อาเรานา"
+        arp: "อาราปาโฮ"
+        arq: "อาหรับแอลจีเรีย"
+        arw: "อาราวัก"
+        ary: "อาหรับโมร็อกโก"
+        arz: "อาหรับพื้นเมืองอียิปต์"
+        as: "อัสสัม"
+        asa: "อาซู"
+        ase: "ภาษามืออเมริกัน"
+        ast: "อัสตูเรียส"
+        av: "อาวาร์"
+        avk: "โคตาวา"
+        awa: "อวธี"
+        ay: "ไอย์มารา"
+        az: "อาเซอร์ไบจาน"
+        az_alt_short: "อะเซอรี"
+        ba: "บัชคีร์"
+        bal: "บาลูชิ"
+        ban: "บาหลี"
+        bar: "บาวาเรีย"
+        bas: "บาสา"
+        bax: "บามัน"
+        bbc: "บาตักโทบา"
+        bbj: "โคมาลา"
+        be: "เบลารุส"
+        bej: "เบจา"
+        bem: "เบมบา"
+        bew: "เบตาวี"
+        bez: "เบนา"
+        bfd: "บาฟัต"
+        bfq: "พทคะ"
+        bg: "บัลแกเรีย"
+        bgn: "บาลูจิตะวันออก"
+        bho: "โภชปุรี"
+        bi: "บิสลามา"
+        bik: "บิกอล"
+        bin: "บินี"
+        bjn: "บันจาร์"
+        bkm: "กม"
+        bla: "สิกสิกา"
+        bm: "บัมบารา"
+        bn: "เบงกาลี"
+        bo: "ทิเบต"
+        bpy: "พิศนุปริยะ"
+        bqi: "บักติยารี"
+        br: "เบรตัน"
+        bra: "พัรช"
+        brh: "บราฮุย"
+        brx: "โพโฑ"
+        bs: "บอสเนีย"
+        bss: "อาโคซี"
+        bua: "บูเรียต"
+        bug: "บูกิส"
+        bum: "บูลู"
+        byn: "บลิน"
+        byv: "เมดุมบา"
+        ca: "กาตาลัง"
+        cad: "คัดโด"
+        car: "คาริบ"
+        cay: "คายูกา"
+        cch: "แอตแซม"
+        ce: "เชเชน"
+        ceb: "เซบู"
+        cgg: "คีกา"
+        ch: "ชามอร์โร"
+        chb: "ชิบชา"
+        chg: "ชะกะไต"
+        chk: "ชูก"
+        chm: "มารี"
+        chn: "ชินุกจาร์กอน"
+        cho: "ช็อกทอว์"
+        chp: "ชิพิวยัน"
+        chr: "เชอโรกี"
+        chy: "เชเยนเน"
+        ckb: "เคิร์ดโซรานี"
+        co: "คอร์ซิกา"
+        cop: "คอปติก"
+        cps: "กาปิซนอน"
+        cr: "ครี"
+        crh: "ตุรกีไครเมีย"
+        cs: "เช็ก"
+        csb: "คาซูเบียน"
+        cu: "เชอร์ชสลาวิก"
+        cv: "ชูวัช"
+        cy: "เวลส์"
+        da: "เดนมาร์ก"
+        dak: "ดาโกทา"
+        dar: "ดาร์กิน"
+        dav: "ไททา"
+        de: "เยอรมัน"
+        de_at: "เยอรมัน - ออสเตรีย"
+        de_ch: "เยอรมันสูง (สวิส)"
+        del: "เดลาแวร์"
+        den: "สเลวี"
+        dgr: "โดกริบ"
+        din: "ดิงกา"
+        dje: "ซาร์มา"
+        doi: "โฑครี"
+        dsb: "ซอร์บส์ตอนล่าง"
+        dtp: "ดูซุนกลาง"
+        dua: "ดัวลา"
+        dum: "ดัตช์กลาง"
+        dv: "ธิเวหิ"
+        dyo: "โจลา-ฟอนยี"
+        dyu: "ดิวลา"
+        dz: "ซองคา"
+        dzg: "ดาซากา"
+        ebu: "เอ็มบู"
+        ee: "เอเว"
+        efi: "อีฟิก"
+        egl: "เอมีเลีย"
+        egy: "อียิปต์โบราณ"
+        eka: "อีกาจุก"
+        el: "กรีก"
+        elx: "อีลาไมต์"
+        en: "อังกฤษ"
+        en_au: "อังกฤษ - ออสเตรเลีย"
+        en_ca: "อังกฤษ - แคนาดา"
+        en_gb: "อังกฤษ - สหราชอาณาจักร"
+        en_gb_alt_short: "อังกฤษ - อังกฤษ"
+        en_us: "อังกฤษ - อเมริกัน"
+        en_us_alt_short: "อังกฤษ - อเมริกัน"
+        enm: "อังกฤษกลาง"
+        eo: "เอสเปอรันโต"
+        es: "สเปน"
+        es_419: "สเปน - ละตินอเมริกา"
+        es_es: "สเปน - ยุโรป"
+        es_mx: "สเปน - เม็กซิโก"
+        esu: "ยูพิกกลาง"
+        et: "เอสโตเนีย"
+        eu: "บัสเก"
+        ewo: "อีวันโด"
+        ext: "เอกซ์เตรมาดูรา"
+        fa: "เปอร์เซีย"
+        fan: "ฟอง"
+        fat: "ฟันติ"
+        ff: "ฟูลาฮ์"
+        fi: "ฟินแลนด์"
+        fil: "ฟิลิปปินส์"
+        fit: "ฟินแลนด์ทอร์เนดาเล็น"
+        fj: "ฟิจิ"
+        fo: "แฟโร"
+        fon: "ฟอน"
+        fr: "ฝรั่งเศส"
+        fr_ca: "ฝรั่งเศส - แคนาดา"
+        fr_ch: "ฝรั่งเศส (สวิส)"
+        frc: "ฝรั่งเศสกาฌ็อง"
+        frm: "ฝรั่งเศสกลาง"
+        fro: "ฝรั่งเศสโบราณ"
+        frp: "อาร์พิตา"
+        frr: "ฟริเซียนเหนือ"
+        frs: "ฟริเซียนตะวันออก"
+        fur: "ฟรูลี"
+        fy: "ฟริเซียนตะวันตก"
+        ga: "ไอริช"
+        gaa: "กา"
+        gag: "กากาอุซ"
+        gan: "จีนกาน"
+        gay: "กาโย"
+        gba: "กบายา"
+        gbz: "ดารีโซโรอัสเตอร์"
+        gd: "สกอตส์กาลิก"
+        gez: "กีซ"
+        gil: "กิลเบอร์ต"
+        gl: "กาลิเซีย"
+        glk: "กิลากี"
+        gmh: "เยอรมันสูงกลาง"
+        gn: "กวารานี"
+        goh: "เยอรมันสูงโบราณ"
+        gom: "กอนกานีของกัว"
+        gon: "กอนดิ"
+        gor: "กอรอนทาโล"
+        got: "โกธิก"
+        grb: "เกรโบ"
+        grc: "กรีกโบราณ"
+        gsw: "เยอรมันสวิส"
+        gu: "คุชราต"
+        guc: "วายู"
+        gur: "ฟราฟรา"
+        guz: "กุซซี"
+        gv: "มานซ์"
+        gwi: "กวิชอิน"
+        ha: "เฮาชา"
+        hai: "ไฮดา"
+        hak: "จีนแคะ"
+        haw: "ฮาวาย"
+        he: "ฮิบรู"
+        hi: "ฮินดี"
+        hif: "ฮินดีฟิจิ"
+        hil: "ฮีลีกัยนน"
+        hit: "ฮิตไตต์"
+        hmn: "ม้ง"
+        ho: "ฮีรีโมตู"
+        hr: "โครเอเชีย"
+        hsb: "ซอร์บส์ตอนบน"
+        hsn: "จีนเซียง"
+        ht: "เฮติ"
+        hu: "ฮังการี"
+        hup: "ฮูปา"
+        hy: "อาร์เมเนีย"
+        hz: "เฮเรโร"
+        ia: "อินเตอร์ลิงกัว"
+        iba: "อิบาน"
+        ibb: "อิบิบิโอ"
+        id: "อินโดนีเชีย"
+        ie: "อินเตอร์ลิงกิว"
+        ig: "อิกโบ"
+        ii: "เสฉวนยิ"
+        ik: "อีนูเปียก"
+        ilo: "อีโลโก"
+        inh: "อินกุช"
+        io: "อีโด"
+        is: "ไอซ์แลนด์"
+        it: "อิตาลี"
+        iu: "อินุกติตุต"
+        izh: "อินเกรียน"
+        ja: "ญี่ปุ่น"
+        jam: "อังกฤษคลีโอลจาเมกา"
+        jbo: "โลชบัน"
+        jgo: "อึนกอมบา"
+        jmc: "มาชาเม"
+        jpr: "ยิว-เปอร์เซีย"
+        jrb: "ยิว-อาหรับ"
+        jut: "จัท"
+        jv: "ชวา"
+        ka: "จอร์เจีย"
+        kaa: "การา-กาลพาก"
+        kab: "กาไบล"
+        kac: "กะฉิ่น"
+        kaj: "คจู"
+        kam: "คัมบา"
+        kaw: "กวี"
+        kbd: "คาร์บาเดีย"
+        kbl: "คาเนมบู"
+        kcg: "ทีแยป"
+        kde: "มาคอนเด"
+        kea: "คาบูเวอร์เดียนู"
+        ken: "เกินยาง"
+        kfo: "โคโร"
+        kg: "คองโก"
+        kgp: "เคนก่าง"
+        kha: "กาสี"
+        kho: "โคตัน"
+        khq: "โคย์ราชีนี"
+        khw: "โควาร์"
+        ki: "กีกูยู"
+        kiu: "เคอร์มานิกิ"
+        kj: "กวนยามา"
+        kk: "คาซัค"
+        kkj: "คาโก"
+        kl: "กรีนแลนด์"
+        kln: "คาเลนจิน"
+        km: "เขมร"
+        kmb: "คิมบุนดู"
+        kn: "กันนาดา"
+        ko: "เกาหลี"
+        koi: "โคมิ-เปียร์เมียค"
+        kok: "กอนกานี"
+        kos: "คูสไร"
+        kpe: "กาแปล"
+        kr: "คานูรี"
+        krc: "คาราไช-บัลคาร์"
+        kri: "คริโอ"
+        krj: "กินารายอา"
+        krl: "แกรเลียน"
+        kru: "กุรุข"
+        ks: "กัศมีร์"
+        ksb: "ชัมบาลา"
+        ksf: "บาเฟีย"
+        ksh: "โคโลญ"
+        ku: "เคิร์ด"
+        kum: "คูมืยค์"
+        kut: "คูเทไน"
+        kv: "โกมิ"
+        kw: "คอร์นิช"
+        ky: "คีร์กีซ"
+        la: "ละติน"
+        lad: "ลาดิโน"
+        lag: "แลนจี"
+        lah: "ลาฮ์นดา"
+        lam: "แลมบา"
+        lb: "ลักเซมเบิร์ก"
+        lez: "เลซเกียน"
+        lfn: "ลิงกัวฟรังกาโนวา"
+        lg: "ยูกันดา"
+        li: "ลิมเบิร์ก"
+        lij: "ลิกูเรีย"
+        liv: "ลิโวเนีย"
+        lkt: "ลาโกตา"
+        lmo: "ลอมบาร์ด"
+        ln: "ลิงกาลา"
+        lo: "ลาว"
+        lol: "มองโก"
+        loz: "โลซิ"
+        lrc: "ลูรีเหนือ"
+        lt: "ลิทัวเนีย"
+        ltg: "ลัตเกล"
+        lu: "ลูบา-กาตองกา"
+        lua: "ลูบา-ลูลัว"
+        lui: "ลุยเซโน"
+        lun: "ลันดา"
+        luo: "ลัว"
+        lus: "ลูไช"
+        luy: "ลูเยีย"
+        lv: "ลัตเวีย"
+        lzh: "จีนคลาสสิก"
+        lzz: "แลซ"
+        mad: "มาดูรา"
+        maf: "มาฟา"
+        mag: "มคหี"
+        mai: "ไมถิลี"
+        mak: "มากาซาร์"
+        man: "มันดิงกา"
+        mas: "มาไซ"
+        mde: "มาบา"
+        mdf: "มอคชา"
+        mdh: mdh
+        mdr: "มานดาร์"
+        men: "เมนเด"
+        mer: "เมรู"
+        mfe: "มอริสเยน"
+        mg: "มาลากาซี"
+        mga: "ไอริชกลาง"
+        mgh: "มากัววา-มีทโท"
+        mgo: "เมตา"
+        mh: "มาร์แชลลิส"
+        mi: "เมารี"
+        mic: "มิกแมก"
+        min: "มีนังกาเบา"
+        mis: mis
+        mk: "มาซิโดเนีย"
+        ml: "มาลายาลัม"
+        mn: "มองโกเลีย"
+        mnc: "แมนจู"
+        mni: "มณีปุระ"
+        moh: "โมฮอว์ก"
+        mos: "โมซี"
+        mr: "มราฐี"
+        mrj: "มารีตะวันตก"
+        ms: "มาเลย์"
+        mt: "มอลตา"
+        mua: "มันดัง"
+        mul: "หลายภาษา"
+        mus: "ครีก"
+        mwl: "มีรันดา"
+        mwr: "มารวาฑี"
+        mwv: "เม็นตาไว"
+        my: "พม่า"
+        mye: "มยีน"
+        myv: "เอียร์ซยา"
+        mzn: "มาซันดารานี"
+        na: "นาอูรู"
+        nan: "จีนมินหนาน"
+        nap: "นาโปลี"
+        naq: "นามา"
+        nb: "นอร์เวย์บุคมอล"
+        nd: "เอ็นเดเบเลเหนือ"
+        nds: "เยอรมันต่ำ - แซกซอนต่ำ"
+        nds_nl: "แซกซอนใต้"
+        ne: "เนปาล"
+        new: "เนวาร์"
+        ng: "ดองกา"
+        nia: "นีอัส"
+        niu: "นีอู"
+        njo: "อ๋าวนากา"
+        nl: "ดัตช์"
+        nl_be: "เฟลมิช"
+        nmg: "กวาซิโอ"
+        nn: "นอร์เวย์นีนอสก์"
+        nnh: "จีมบูน"
+        'no': "นอร์เวย์"
+        nog: "โนไก"
+        non: "นอร์สโบราณ"
+        nov: "โนเวียล"
+        nqo: "เอ็นโก"
+        nr: "เอ็นเดเบเลใต้"
+        nso: "โซโทเหนือ"
+        nus: "เนือร์"
+        nv: "นาวาโฮ"
+        nwc: "เนวาร์ดั้งเดิม"
+        ny: "เนียนจา"
+        nym: "เนียมเวซี"
+        nyn: "เนียนโกเล"
+        nyo: "นิโอโร"
+        nzi: "นซิมา"
+        oc: "อ็อกซิตัน"
+        oj: "โอจิบวา"
+        om: "โอโรโม"
+        or: "โอริยา"
+        os: "ออสเซเตีย"
+        osa: "โอซากี"
+        ota: "ตุรกีออตโตมัน"
+        pa: "ปัญจาบ"
+        pag: "ปางาซีนัน"
+        pal: "ปะห์ลาวี"
+        pam: "ปัมปางา"
+        pap: "ปาเปียเมนโต"
+        pau: "ปาเลา"
+        pcd: "ปิการ์"
+        pdc: "เยอรมันเพนซิลเวเนีย"
+        pdt: "เพลาท์ดิช"
+        peo: "เปอร์เซียโบราณ"
+        pfl: "เยอรมันพาลาทิเนต"
+        phn: "ฟินิเชีย"
+        pi: "บาลี"
+        pl: "โปแลนด์"
+        pms: "พีดมอนต์"
+        pnt: "พอนติก"
+        pon: "พอห์นเพ"
+        prg: "ปรัสเซีย"
+        pro: "โปรวองซาลโบราณ"
+        ps: "พาชตู"
+        ps_alt_variant: "พุชโต"
+        pt: "โปรตุเกส"
+        pt_br: "โปรตุเกส - บราซิล"
+        pt_pt: "โปรตุเกส - ยุโรป"
+        qu: "ควิชัว"
+        quc: "กีเช"
+        qug: "ควิชัวไฮแลนด์ชิมโบราโซ"
+        raj: "ราชสถาน"
+        rap: "ราปานู"
+        rar: "ราโรทองกา"
+        rgn: "โรมัณโญ"
+        rif: "ริฟฟิอัน"
+        rm: "โรแมนซ์"
+        rn: "บุรุนดี"
+        ro: "โรมาเนีย"
+        ro_md: "มอลโดวา"
+        rof: "รอมโบ"
+        rom: "โรมานี"
+        root: "รูท"
+        rtm: "โรทูมัน"
+        ru: "รัสเซีย"
+        rue: "รูซิน"
+        rug: "โรเวียนา"
+        rup: "อาโรมาเนียน"
+        rw: "รวันดา"
+        rwk: "รวา"
+        sa: "สันสกฤต"
+        sad: "ซันดาเว"
+        sah: "ซาฮา"
+        sam: "อราเมอิกซามาเรีย"
+        saq: "แซมบูรู"
+        sas: "ซาซัก"
+        sat: "สันตาลี"
+        saz: "เสาราษฏร์"
+        sba: "กัมเบ"
+        sbp: "แซงกู"
+        sc: "ซาร์เดญา"
+        scn: "ซิซิลี"
+        sco: "สกอตส์"
+        sd: "สินธุ"
+        sdc: "ซาร์ดิเนียซาสซารี"
+        sdh: "เคอร์ดิชใต้"
+        se: "ซามิเหนือ"
+        see: "เซนิกา"
+        seh: "เซนา"
+        sei: "เซรี"
+        sel: "เซลคุป"
+        ses: "โคย์ราโบโรเซนนี"
+        sg: "แซงโก"
+        sga: "ไอริชโบราณ"
+        sgs: "ซาโมจิเตียน"
+        sh: "เซอร์โบ-โครเอเชีย"
+        shi: "ทาเชลีห์ท"
+        shn: "ไทใหญ่"
+        shu: "อาหรับ-ชาด"
+        si: "สิงหล"
+        sid: "ซิดาโม"
+        sk: "สโลวัก"
+        sl: "สโลวีเนีย"
+        sli: "ไซลีเซียตอนล่าง"
+        sly: "เซลายาร์"
+        sm: "ซามัว"
+        sma: "ซามิใต้"
+        smj: "ซามิลูเล"
+        smn: "ซามิอีนารี"
+        sms: "ซามิสคอลต์"
+        sn: "โชนา"
+        snk: "โซนีนเก"
+        so: "โซมาลี"
+        sog: "ซอกดีน"
+        sq: "แอลเบเนีย"
+        sr: "เซอร์เบีย"
+        srn: "ซูรินาเม"
+        srr: "เซแรร์"
+        ss: "สวาติ"
+        ssy: "ซาโฮ"
+        st: "โซโทใต้"
+        stq: "ฟรีเซียนซัทเธอร์แลนด์"
+        su: "ซุนดา"
+        suk: "ซูคูมา"
+        sus: "ซูซู"
+        sux: "ซูเมอ"
+        sv: "สวีเดน"
+        sw: "สวาฮีลี"
+        swb: "โคเมอเรียน"
+        swc: "สวาฮีลี-คองโก"
+        syc: "ซีเรียแบบดั้งเดิม"
+        syr: "ซีเรีย"
+        szl: "ไซลีเซีย"
+        ta: "ทมิฬ"
+        tcy: "ตูลู"
+        te: "เตลูกู"
+        tem: "ทิมเน"
+        teo: "เตโซ"
+        ter: "เทเรโน"
+        tet: "เตตุม"
+        tg: "ทาจิก"
+        th: "ไทย"
+        ti: "ติกริญญา"
+        tig: "ตีเกร"
+        tiv: "ทิฟ"
+        tk: "เติร์กเมนิสถาน"
+        tkl: "โตเกเลา"
+        tkr: "แซคเซอร์"
+        tl: "ตากาล็อก"
+        tlh: "คลิงกอน"
+        tli: "ทลิงกิต"
+        tly: "ทาลิช"
+        tmh: "ทามาเชก"
+        tn: "บอตสวานา"
+        to: "ตองกา"
+        tog: "ไนอะซาตองกา"
+        tpi: "ท็อกพิซิน"
+        tr: "ตุรกี"
+        tru: "ตูโรโย"
+        trv: "ทาโรโก"
+        ts: "ซิิตซองกา"
+        tsd: "ซาโคเนีย"
+        tsi: "ซิมชีแอน"
+        tt: "ตาตาร์"
+        ttt: "ตัตมุสลิม"
+        tum: "ทุมบูกา"
+        tvl: "ตูวาลู"
+        tw: "ทวิ"
+        twq: "ตัสซาวัค"
+        ty: "ตาฮิตี"
+        tyv: "ตูวา"
+        tzm: "ทามาไซต์แอตลาสกลาง"
+        udm: "อุดมูร์ต"
+        ug: "อุยกัว"
+        ug_alt_variant: "อุยกูร์"
+        uga: "ยูการิต"
+        uk: "ยูเครน"
+        umb: "อุมบุนดู"
+        und: "ภาษาที่ไม่รู้จัก"
+        ur: "อูรดู"
+        uz: "อุซเบก"
+        vai: "ไว"
+        ve: "เวนดา"
+        vec: "เวเนโต้"
+        vep: "เวปส์"
+        vi: "เวียดนาม"
+        vls: "เฟลมิชตะวันตก"
+        vmf: "เมน-ฟรานโกเนีย"
+        vo: "โวลาพึค"
+        vot: "โวทิก"
+        vro: "โวโร"
+        vun: "วุนจู"
+        wa: "วาโลนี"
+        wae: "วัลเซอร์"
+        wal: "วาลาโม"
+        war: "วาเรย์"
+        was: "วาโช"
+        wbp: "วอล์เพอร์รี"
+        wo: "โวลอฟ"
+        wuu: "จีนอู๋"
+        xal: "คัลมืยค์"
+        xh: "คะห์โอซา"
+        xmf: "เมเกรเลีย"
+        xog: "โซกา"
+        yao: "เย้า"
+        yap: "ยัป"
+        yav: "แยงเบน"
+        ybb: "เยมบา"
+        yi: "ยิว"
+        yo: "โยรูบา"
+        yrl: "เหงงกาตุ"
+        yue: "กวางตุ้ง"
+        za: "จ้วง"
+        zap: "ซาโปเตก"
+        zbl: "บลิสซิมโบลส์"
+        zea: "เซแลนด์"
+        zen: "เซนากา"
+        zgh: "ทามาไซต์โมร็อกโกมาตรฐาน"
+        zh: "จีน"
+        zh_hans: "จีนตัวย่อ"
+        zh_hant: "จีนตัวเต็ม"
+        zu: "ซูลู"
+        zun: "ซูนิ"
+        zxx: "ไม่มีข้อมูลภาษา"
+        zza: "ซาซา"
+      locale_display_pattern:
+        locale_pattern: "{0} ({1})"
+        locale_separator: "{0}, {1}"
+        locale_key_type_pattern: "{0}: {1}"
+      keys:
+        calendar: "ปฏิทิน"
+        cf: cf
+        col_alternate: "ละเว้นการจัดเรียงสัญลักษณ์"
+        col_backwards: "การจัดเรียงเสียงหนักเบาในลำดับถอยหลัง"
+        col_case_first: "การเรียงลำดับตัวพิมพ์ใหญ่/ตัวพิมพ์เล็ก"
+        col_case_level: "การจัดเรียงตามความสำคัญของตัวพิมพ์อักษร"
+        col_hiragana_quaternary: "การจัดเรียงตัวอักษรคะนะ"
+        collation: "ลำดับการจัดเรียง"
+        col_normalization: "การจัดเรียงแบบที่เป็นปกติ"
+        col_numeric: "การจัดเรียงตัวเลข"
+        col_strength: "ความแม่นยำในการจัดเรียง"
+        currency: "สกุลเงิน"
+        hc: "วงจรชั่วโมง (เทียบ 12 และ 24)"
+        lb: "รูปแบบการขึ้นบรรทัดใหม่"
+        ms: "ระบบการวัด"
+        numbers: "ตัวเลข"
+        timezone: "เขตเวลา"
+        va: "ตัวแปรภาษาถิ่น"
+        variable_top: "จัดเรียงเป็นสัญลักษณ์"
+        x: "ใช้งานส่วนบุคคล"
+      types:
+        calendar:
+          buddhist: "ปฏิทินพุทธ"
+          chinese: "ปฏิทินจีน"
+          coptic: "ปฏิทินคอปติก"
+          dangi: "ปฏิทินทันกิ"
+          ethiopic: "ปฏิทินเอธิโอเปีย"
+          ethiopic_amete_alem: "ปฏิทินปีโลกเอธิโอเปีย"
+          gregorian: "ปฏิทินเกรกอเรียน"
+          hebrew: "ปฏิทินฮิบรู"
+          indian: "ปฏิทินแห่งชาติอินเดีย"
+          islamic: "ปฏิทินอิสลาม"
+          islamic_civil: "ปฏิทินอิสลามซีวิล"
+          islamic_rgsa: "ปฏิทินอิสลาม (ซาอุดีอาระเบีย แบบพระจันทร์เสี้ยว)"
+          islamic_tbla: "ปฏิทินอิสลาม (แบบตาราง สมัยดาราศาสตร์)"
+          islamic_umalqura: "ปฏิทินอิสลาม (อุมม์อัลกุรา)"
+          iso8601: "ปฏิทิน ISO-8601"
+          japanese: "ปฏิทินญี่ปุ่น"
+          persian: "ปฏิทินเปอร์เชีย"
+          roc: "ปฏิทินไต้หวัน"
+        cf:
+          account: account
+          standard: standard
+        col_alternate:
+          non_ignorable: "จัดเรียงสัญลักษณ์"
+          shifted: "จัดเรียงสัญลักษณ์ที่ละไว้"
+        col_backwards:
+          'no': "จัดเรียงเสียงหนักเบาตามปกติ"
+          'yes': "จัดเรียงเสียงหนักเบาในลำดับถอยหลัง"
+        col_case_first:
+          lower: "จัดเรียงลำดับตัวพิมพ์เล็กก่อน"
+          'no': "จัดเรียงลำดับตามตัวพิมพ์ปกติ"
+          upper: "จัดเรียงตัวพิมพ์ใหญ่ก่อน"
+        col_case_level:
+          'no': "จัดเรียงตามความสำคัญของตัวพิมพ์"
+          'yes': "จัดเรียงความสำคัญของตัวพิมพ์"
+        col_hiragana_quaternary:
+          'no': "จัดเรียงตัวอักษรคะนะแยกต่างหาก"
+          'yes': "จัดเรียงตัวอักษรคะนะในแบบอื่น"
+        collation:
+          big5han: "เรียงตามอักษรจีนดั้งเดิม"
+          compat: compat
+          dictionary: "เรียงตามพจนานุกรม"
+          ducet: "ลำดับการจัดเรียงตาม Unicode เริ่มต้น"
+          emoji: emoji
+          eor: "กฎการเรียงลำดับตามแบบยุโรป"
+          gb2312han: "เรียงตามอักษรจีนประยุกต์"
+          phonebook: "เรียงตามสมุดโทรศัพท์"
+          phonetic: "ลำดักการจัดเรียงตามคำอ่าน"
+          pinyin: "เรียงตามการถอดเสียงภาษาจีน"
+          reformed: "เรียงตามลำดับล่าสุด"
+          search: "การค้นหาทั่วไป"
+          searchjl: "ค้นหาตามพยัญชนะขึ้นต้นที่เป็นฮันกึล"
+          standard: "ลำดับการจัดเรียงแบบมาตรฐาน"
+          stroke: "เรียงตามการลากเส้น"
+          traditional: "เรียงตามแบบดั้งเดิม"
+          unihan: "เรียงลำดับตามจำนวนขีด"
+          zhuyin: "จัดเรียงตามการสะกดแบบจู้อิน"
+        col_normalization:
+          'no': "จัดเรียงโดยไม่ต้องทำให้เป็นแบบปกติ"
+          'yes': "จัดเรียงยูนิโค้ดแบบที่เป็นปกติ"
+        col_numeric:
+          'no': "จัดเรียงตัวเลขแยก"
+          'yes': "จัดเรัยงตัวเลขตามลำดับตัวเลข"
+        col_strength:
+          identical: "จัดเรียงทั้งหมด"
+          primary: "จัดเรียงตัวอักษรฐานเท่านั้น"
+          quaternary: "จัดเรียงตามเสียงหนักเบา/ตัวพิมพ์/ความกว้าง/ตัวอักษรคะนะ"
+          secondary: "จัดเรียงเสียงหนักเบา"
+          tertiary: "จัดเรียงเสียงหนักเบา/ตัวพิมพ์/ความกว้าง"
+        hc:
+          h11: "ระบบ 12 ชั่วโมง (0–11)"
+          h12: "ระบบ 12 ชั่วโมง (1–12)"
+          h23: "ระบบ 24 ชั่วโมง (0–23)"
+          h24: "ระบบ 24 ชั่วโมง (1–24)"
+        lb:
+          loose: "รูปแบบที่ยืดหยุ่นของการขึ้นบรรทัดใหม่"
+          normal: "รูปแบบปกติของการขึ้นบรรทัดใหม่"
+          strict: "รูปแบบที่เคร่งครัดของการขึ้นบรรทัดใหม่"
+        ms:
+          metric: "ระบบเมตริก"
+          uksystem: "ระบบการวัดอิมพีเรียล"
+          ussystem: "ระบบการวัดอเมริกัน"
+        numbers:
+          ahom: ahom
+          arab: "ตัวเลขอินเดีย-อารบิก"
+          arabext: "ตัวเลขอินเดีย-อารบิกตัวเต็ม"
+          armn: "ตัวเลขอาร์เมเนีย"
+          armnlow: "ตัวเลขอาร์เมเนียพิมพ์เล็ก"
+          bali: "ตัวเลขบาหลี"
+          beng: "ตัวเลขบังกลาเทศ"
+          brah: "ตัวเลขพราหมี"
+          cakm: "ตัวเลขชากมา"
+          cham: "ตัวเลขชาม"
+          cyrl: cyrl
+          deva: "ตัวเลขเทวนาครี"
+          ethi: "ตัวเลขเอธิโอเปีย"
+          finance: "ตัวเลขทางการเงิน"
+          fullwide: "ตัวเลขแบบเต็มขนาด"
+          geor: "ตัวเลขจอร์เจีย"
+          grek: "ตัวเลขกรีก"
+          greklow: "ตัวเลขกรีกพิมพ์เล็ก"
+          gujr: "ตัวเลขคุชราต"
+          guru: "ตัวเลขกูร์มูคี"
+          hanidec: "ตัวเลขทศนิยมจีน"
+          hans: "ตัวเลขจีนตัวย่อ"
+          hansfin: "ตัวเลขทางการเงินแบบตัวย่อของจีน"
+          hant: "ตัวเลขจีนตัวเต็ม"
+          hantfin: "ตัวเลขทางการเงินแบบตัวเต็มของจีน"
+          hebr: "ตัวเลขฮิบรู"
+          hmng: hmng
+          java: "ตัวเลขชวา"
+          jpan: "ตัวเลขญี่ปุ่น"
+          jpanfin: "ตัวเลขทางการเงินของญี่ปุ่น"
+          kali: "ตัวเลขคยาห์"
+          khmr: "ตัวเลขเขมร"
+          knda: "ตัวเลขกันนาดา"
+          lana: "ตัวเลขไททัมโฮรา"
+          lanatham: "ตัวเลขไททัมทัม"
+          laoo: "ตัวเลขลาว"
+          latn: "ตัวเลขอารบิค"
+          lepc: "ตัวเลขเลปชา"
+          limb: "ตัวเลขลิมบู"
+          mathbold: mathbold
+          mathdbl: mathdbl
+          mathmono: mathmono
+          mathsanb: mathsanb
+          mathsans: mathsans
+          mlym: "ตัวเลขมาลายาลัม"
+          modi: modi
+          mong: "ตัวเลขมองโกเลีย"
+          mroo: mroo
+          mtei: "ตัวเลขเมไตมาเยก"
+          mymr: "ตัวเลขพม่า"
+          mymrshan: "ตัวเลขชานพม่า"
+          mymrtlng: mymrtlng
+          native: "ตัวเลขพื้นเมือง"
+          nkoo: "ตัวเลขเอ็นโก"
+          olck: "ตัวเลขโอลจิกิ"
+          orya: "ตัวเลขโอริยา"
+          osma: "ตัวเลขออสมันยา"
+          roman: "ตัวเลขโรมัน"
+          romanlow: "ตัวเลขโรมันพิมพ์เล็ก"
+          saur: "ตัวเลขเศารัชธรา"
+          shrd: "ตัวเลขชาราดา"
+          sind: sind
+          sinh: sinh
+          sora: "ตัวเลขโสราสมเป็ง"
+          sund: "ตัวเลขซุนดา"
+          takr: "ตัวเลขทาครี"
+          talu: "ตัวเลขไทลื้อใหม่"
+          taml: "ตัวเลขทมิฬดั้งเดิม"
+          tamldec: "ตัวเลขทมิฬ"
+          telu: "ตัวเลขเตลูกู"
+          thai: "ตัวเลขไทย"
+          tibt: "ตัวเลขทิเบต"
+          tirh: tirh
+          traditional: "ตัวเลขแบบดั้งเดิม"
+          vaii: "ตัวเลขไว"
+          wara: wara
+      code_patterns:
+        language: "ภาษา: {0}"
+        script: "สคริปต์: {0}"
+        territory: "ภูมิภาค: {0}"
+      scripts:
+        afak: "อะฟาคา"
+        aghb: "แอลเบเนีย คอเคเซีย"
+        ahom: Ahom
+        arab: "อาหรับ"
+        arab_alt_variant: "เปอร์เซีย-อาหรับ"
+        armi: "อิมพีเรียล อราเมอิก"
+        armn: "อาร์เมเนีย"
+        avst: "อเวสตะ"
+        bali: "บาหลี"
+        bamu: "บามุม"
+        bass: "บัสซา"
+        batk: "บาตัก"
+        beng: "เบงกาลี"
+        blis: "บลิสซิมโบลส์"
+        bopo: "ปอพอมอฟอ"
+        brah: "พราหมี"
+        brai: "เบรลล์"
+        bugi: "บูกิส"
+        buhd: "บูฮิด"
+        cakm: "ชากมา"
+        cans: "สัญลักษณ์ชนเผ่าพื้นเมืองแคนาดา"
+        cari: "คาเรีย"
+        cham: "จาม"
+        cher: "เชอโรกี"
+        cirt: "เซิร์ท"
+        copt: "คอปติก"
+        cprt: "ไซเปรียท"
+        cyrl: "ซีริลลิก"
+        cyrs: "เชอร์ชสลาโวนิกซีริลลิกโบราณ"
+        deva: "เทวนาครี"
+        dsrt: "เดเซเรท"
+        dupl: "ชวเลขดัปโลยัน"
+        egyd: "ดีโมติกอียิปต์"
+        egyh: "เฮียราติกอียิปต์"
+        egyp: "เฮียโรกลิฟส์อียิปต์"
+        elba: "เอลบ์ซาน"
+        ethi: "เอทิโอปิก"
+        geok: "คัตซูรีจอร์เจีย"
+        geor: "จอร์เจีย"
+        glag: "กลาโกลิติก"
+        goth: "โกธิก"
+        gran: "คฤณห์"
+        grek: "กรีก"
+        gujr: "คุชราต"
+        guru: "กูร์มูคี"
+        hang: "ฮันกูล"
+        hani: "ฮั่น"
+        hano: "ฮานูโนโอ"
+        hans: "ตัวย่อ"
+        hans_alt_stand_alone: "ฮั่นตัวย่อ"
+        hant: "ตัวเต็ม"
+        hant_alt_stand_alone: "ฮั่นตัวเต็ม"
+        hatr: Hatr
+        hebr: "ฮีบรู"
+        hira: "ฮิระงะนะ"
+        hluw: "อักขระอานาโตเลีย"
+        hmng: "ปาเฮาห์ม้ง"
+        hrkt: "คะตะกะนะหรือฮิระงะนะ"
+        hung: "ฮังการีโบราณ"
+        inds: "อินดัส"
+        ital: "อิตาลีโบราณ"
+        java: "ชวา"
+        jpan: "ญี่ปุ่น"
+        jurc: "จูร์เชน"
+        kali: "คยาห์"
+        kana: "คะตะกะนะ"
+        khar: "ขโรษฐี"
+        khmr: "เขมร"
+        khoj: "คอจคี"
+        knda: "กันนาดา"
+        kore: "เกาหลี"
+        kpel: "เปลเล"
+        kthi: "กายติ"
+        lana: "ล้านนา"
+        laoo: "ลาว"
+        latf: "ลาติน - ฟรังเตอร์"
+        latg: "ลาติน - แกลิก"
+        latn: "ละติน"
+        lepc: "เลปชา"
+        limb: "ลิมบู"
+        lina: "ลีเนียร์เอ"
+        linb: "ลีเนียร์บี"
+        lisu: "เฟรเซอร์"
+        loma: "โลมา"
+        lyci: "ไลเซีย"
+        lydi: "ลีเดีย"
+        mahj: "มหาชนี"
+        mand: "แมนเดียน"
+        mani: "มานิแชน"
+        maya: "มายาไฮโรกลิฟส์"
+        mend: "เมนเด"
+        merc: "เคอร์ซีฟ-เมโรอิติก"
+        mero: "เมโรติก"
+        mlym: "มาลายาลัม"
+        modi: "โมฑี"
+        mong: "มองโกเลีย"
+        moon: "มูน"
+        mroo: "มโร"
+        mtei: "เมเทมาเยก"
+        mult: Mult
+        mymr: "พม่า"
+        narb: "อาระเบียเหนือโบราณ"
+        nbat: "นาบาทาเอียน"
+        nkgb: "กีบา-นาซี"
+        nkoo: "เอ็นโก"
+        nshu: "นุซุ"
+        ogam: "โอคัม"
+        olck: "โอลชิกิ"
+        orkh: "ออร์คอน"
+        orya: "โอริยา"
+        osma: "ออสมันยา"
+        palm: "พาลไมรีน"
+        pauc: "ป่อจิ้งฮอ"
+        perm: "เปอร์มิกโบราณ"
+        phag: "ฟากส์-ปา"
+        phli: "ปะห์ลาวีอินสคริปชันแนล"
+        phlp: "ปะห์ลาวีซอลเตอร์"
+        phlv: "ปะห์ลาวีบุ๊ก"
+        phnx: "ฟินิเชีย"
+        plrd: "สัทศาสตร์พอลลาร์ด"
+        prti: "พาร์เทียอินสคริปชันแนล"
+        qaaa: Qaaa
+        qaab: Qaab
+        qaac: Qaac
+        qaad: Qaad
+        qaae: Qaae
+        qaaf: Qaaf
+        qaag: Qaag
+        qaah: Qaah
+        qaaj: Qaaj
+        qaak: Qaak
+        qaal: Qaal
+        qaam: Qaam
+        qaan: Qaan
+        qaao: Qaao
+        qaap: Qaap
+        qaaq: Qaaq
+        qaar: Qaar
+        qaas: Qaas
+        qaat: Qaat
+        qaau: Qaau
+        qaav: Qaav
+        qaaw: Qaaw
+        qaax: Qaax
+        qaay: Qaay
+        qaaz: Qaaz
+        qaba: Qaba
+        qabb: Qabb
+        qabc: Qabc
+        qabd: Qabd
+        qabe: Qabe
+        qabf: Qabf
+        qabg: Qabg
+        qabh: Qabh
+        qabi: Qabi
+        qabj: Qabj
+        qabk: Qabk
+        qabl: Qabl
+        qabm: Qabm
+        qabn: Qabn
+        qabo: Qabo
+        qabp: Qabp
+        qabq: Qabq
+        qabr: Qabr
+        qabs: Qabs
+        qabt: Qabt
+        qabu: Qabu
+        qabv: Qabv
+        qabw: Qabw
+        qabx: Qabx
+        rjng: "เรจัง"
+        roro: "รองโกรองโก"
+        runr: "รูนิก"
+        samr: "ซามาเรีย"
+        sara: "ซาราติ"
+        sarb: "อาระเบียใต้โบราณ"
+        saur: "โสวรัสตระ"
+        sgnw: "ไซน์ไรติ้ง"
+        shaw: "ซอเวียน"
+        shrd: "ชาราดา"
+        sidd: "สิทธัม"
+        sind: "คุดาวาดี"
+        sinh: "สิงหล"
+        sora: "โสราสมเป็ง"
+        sund: "ซุนดา"
+        sylo: "ซิโลตินากรี"
+        syrc: "ซีเรีย"
+        syre: "ซีเรียเอสทรานจีโล"
+        syrj: "ซีเรียตะวันตก"
+        syrn: "ซีเรียตะวันออก"
+        tagb: "ตักบันวา"
+        takr: "ทาครี"
+        tale: "ไทเล"
+        talu: "ไทลื้อใหม่"
+        taml: "ทมิฬ"
+        tang: "ตันกัท"
+        tavt: "ไทเวียต"
+        telu: "เทลูกู"
+        teng: "เทงกวาร์"
+        tfng: "ทิฟินาก"
+        tglg: "ตากาล็อก"
+        thaa: "ทานา"
+        thai: "ไทย"
+        tibt: "ทิเบต"
+        tirh: "เทอฮุทา"
+        ugar: "ยูการิต"
+        vaii: "ไว"
+        visp: "คำพูดที่มองเห็นได้"
+        wara: "วารังกสิติ"
+        wole: "โอลีเอ"
+        xpeo: "เปอร์เซียโบราณ"
+        xsux: "อักษรรูปลิ่มสุเมเรีย-อัคคาเดีย"
+        yiii: "ยิ"
+        zinh: "อินเฮอริต"
+        zmth: "เครื่องหมายทางคณิตศาสตร์"
+        zsym: "ซิมโบลส์"
+        zxxx: "ไม่มีภาษาเขียน"
+        zyyy: "สามัญ"
+        zzzz: "สคริปต์ที่ไม่รู้จัก"
+      territories:
+        '001': "โลก"
+        '002': "แอฟริกา"
+        '003': "อเมริกาเหนือ"
+        '005': "อเมริกาใต้"
+        009: "โอเชียเนีย"
+        '011': "แอฟริกาตะวันตก"
+        '013': "อเมริกากลาง"
+        '014': "แอฟริกาตะวันออก"
+        '015': "แอฟริกาเหนือ"
+        '017': "แอฟริกากลาง"
+        018: "แอฟริกาตอนใต้"
+        019: "อเมริกา"
+        '021': "อเมริกาตอนเหนือ"
+        029: "แคริบเบียน"
+        '030': "เอเชียตะวันออก"
+        '034': "เอเชียใต้"
+        '035': "เอเชียตะวันออกเฉียงใต้"
+        039: "ยุโรปใต้"
+        '053': "ออสตราเลเซีย"
+        '054': "เมลานีเซีย"
+        '057': "เขตไมโครนีเซีย"
+        '061': "โปลินีเซีย"
+        '142': "เอเชีย"
+        '143': "เอเชียกลาง"
+        '145': "เอเชียตะวันตก"
+        '150': "ยุโรป"
+        '151': "ยุโรปตะวันออก"
+        '154': "ยุโรปเหนือ"
+        '155': "ยุโรปตะวันตก"
+        '419': "ละตินอเมริกา"
+        ac: "เกาะแอสเซนชัน"
+        ad: "อันดอร์รา"
+        ae: "สหรัฐอาหรับเอมิเรตส์"
+        af: "อัฟกานิสถาน"
+        ag: "แอนติกาและบาร์บูดา"
+        ai: "แองกวิลลา"
+        al: "แอลเบเนีย"
+        am: "อาร์เมเนีย"
+        an: "เนเธอร์แลนด์แอนทิลลิส"
+        ao: "แองโกลา"
+        aq: "แอนตาร์กติกา"
+        ar: "อาร์เจนตินา"
+        as: "อเมริกันซามัว"
+        at: "ออสเตรีย"
+        au: "ออสเตรเลีย"
+        aw: "อารูบา"
+        ax: "หมู่เกาะโอลันด์"
+        az: "อาเซอร์ไบจาน"
+        ba: "บอสเนียและเฮอร์เซโกวีนา"
+        bb: "บาร์เบโดส"
+        bd: "บังกลาเทศ"
+        be: "เบลเยียม"
+        bf: "บูร์กินาฟาโซ"
+        bg: "บัลแกเรีย"
+        bh: "บาห์เรน"
+        bi: "บุรุนดี"
+        bj: "เบนิน"
+        bl: "เซนต์บาร์เธเลมี"
+        bm: "เบอร์มิวดา"
+        bn: "บรูไน"
+        bo: "โบลิเวีย"
+        bq: "เนเธอร์แลนด์แคริบเบียน"
+        br: "บราซิล"
+        bs: "บาฮามาส"
+        bt: "ภูฏาน"
+        bv: "เกาะบูเวต"
+        bw: "บอตสวานา"
+        by: "เบลารุส"
+        bz: "เบลีซ"
+        ca: "แคนาดา"
+        cc: "หมู่เกาะโคโคส (คีลิง)"
+        cd: "คองโก-กินชาซา"
+        cd_alt_variant: "คองโก (สาธารณรัฐประชาธิปไตย)"
+        cf: "สาธารณรัฐแอฟริกากลาง"
+        cg: "คองโก-บราซซาวิล"
+        cg_alt_variant: "คองโก (สาธารณรัฐ)"
+        ch: "สวิตเซอร์แลนด์"
+        ci: "ไอวอรี่โคสต์"
+        ci_alt_variant: CI
+        ck: "หมู่เกาะคุก"
+        cl: "ชิลี"
+        cm: "แคเมอรูน"
+        cn: "จีน"
+        co: "โคลอมเบีย"
+        cp: "เกาะคลิปเปอร์ตัน"
+        cr: "คอสตาริกา"
+        cu: "คิวบา"
+        cv: "เคปเวิร์ด"
+        cw: "คูราเซา"
+        cx: "เกาะคริสต์มาส"
+        cy: "ไซปรัส"
+        cz: "สาธารณรัฐเช็ก"
+        de: "เยอรมนี"
+        dg: "ดิเอโกการ์เซีย"
+        dj: "จิบูตี"
+        dk: "เดนมาร์ก"
+        dm: "โดมินิกา"
+        do: "สาธารณรัฐโดมินิกัน"
+        dz: "แอลจีเรีย"
+        ea: "ซีโอตาและเมลิลลา"
+        ec: "เอกวาดอร์"
+        ee: "เอสโตเนีย"
+        eg: "อียิปต์"
+        eh: "ซาฮาราตะวันตก"
+        er: "เอริเทรีย"
+        es: "สเปน"
+        et: "เอธิโอเปีย"
+        eu: "สหภาพยุโรป"
+        fi: "ฟินแลนด์"
+        fj: "ฟิจิ"
+        fk: "หมู่เกาะฟอล์กแลนด์"
+        fk_alt_variant: "หมู่เกาะฟอล์กแลนด์ (อิสลาส มาลวินาส)"
+        fm: "ไมโครนีเซีย"
+        fo: "หมู่เกาะแฟโร"
+        fr: "ฝรั่งเศส"
+        ga: "กาบอง"
+        gb: "สหราชอาณาจักร"
+        gb_alt_short: "อังกฤษ"
+        gd: "เกรเนดา"
+        ge: "จอร์เจีย"
+        gf: "เฟรนช์เกียนา"
+        gg: "เกิร์นซีย์"
+        gh: "กานา"
+        gi: "ยิบรอลตาร์"
+        gl: "กรีนแลนด์"
+        gm: "แกมเบีย"
+        gn: "กินี"
+        gp: "กวาเดอลูป"
+        gq: "อิเควทอเรียลกินี"
+        gr: "กรีซ"
+        gs: "เกาะเซาท์จอร์เจียและหมู่เกาะเซาท์แซนด์วิช"
+        gt: "กัวเตมาลา"
+        gu: "กวม"
+        gw: "กินี-บิสเซา"
+        gy: "กายอานา"
+        hk: "เขตปกครองพิเศษฮ่องกงแห่งสาธารณรัฐประชาชนจีน"
+        hk_alt_short: "ฮ่องกง"
+        hm: "เกาะเฮิร์ดและหมู่เกาะแมกดอนัลด์"
+        hn: "ฮอนดูรัส"
+        hr: "โครเอเชีย"
+        ht: "เฮติ"
+        hu: "ฮังการี"
+        ic: "หมู่เกาะคานารี"
+        id: "อินโดนีเซีย"
+        ie: "ไอร์แลนด์"
+        il: "อิสราเอล"
+        im: "เกาะแมน"
+        in: "อินเดีย"
+        io: "บริติชอินเดียนโอเชียนเทร์ริทอรี"
+        iq: "อิรัก"
+        ir: "อิหร่าน"
+        is: "ไอซ์แลนด์"
+        it: "อิตาลี"
+        je: "เจอร์ซีย์"
+        jm: "จาเมกา"
+        jo: "จอร์แดน"
+        jp: "ญี่ปุ่น"
+        ke: "เคนยา"
+        kg: "คีร์กีซสถาน"
+        kh: "กัมพูชา"
+        ki: "คิริบาส"
+        km: "คอโมโรส"
+        kn: "เซนต์คิตส์และเนวิส"
+        kp: "เกาหลีเหนือ"
+        kr: "เกาหลีใต้"
+        kw: "คูเวต"
+        ky: "หมู่เกาะเคย์แมน"
+        kz: "คาซัคสถาน"
+        la: "ลาว"
+        lb: "เลบานอน"
+        lc: "เซนต์ลูเซีย"
+        li: "ลิกเตนสไตน์"
+        lk: "ศรีลังกา"
+        lr: "ไลบีเรีย"
+        ls: "เลโซโท"
+        lt: "ลิทัวเนีย"
+        lu: "ลักเซมเบิร์ก"
+        lv: "ลัตเวีย"
+        ly: "ลิเบีย"
+        ma: "โมร็อกโก"
+        mc: "โมนาโก"
+        md: "มอลโดวา"
+        me: "มอนเตเนโกร"
+        mf: "เซนต์มาติน"
+        mg: "มาดากัสการ์"
+        mh: "หมู่เกาะมาร์แชลล์"
+        mk: "มาซิโดเนีย"
+        mk_alt_variant: "มาซิโดเนีย (FYROM)"
+        ml: "มาลี"
+        mm: "เมียนม่าร์ (พม่า)"
+        mn: "มองโกเลีย"
+        mo: "เขตปกครองพิเศษมาเก๊าแห่งสาธารณรัฐประชาชนจีน"
+        mo_alt_short: "มาเก๊า"
+        mp: "หมู่เกาะนอร์เทิร์นมาเรียนา"
+        mq: "มาร์ตินีก"
+        mr: "มอริเตเนีย"
+        ms: "มอนต์เซอร์รัต"
+        mt: "มอลตา"
+        mu: "มอริเชียส"
+        mv: "มัลดีฟส์"
+        mw: "มาลาวี"
+        mx: "เม็กซิโก"
+        my: "มาเลเซีย"
+        mz: "โมซัมบิก"
+        na: "นามิเบีย"
+        nc: "นิวแคลิโดเนีย"
+        ne: "ไนเจอร์"
+        nf: "เกาะนอร์ฟอล์ก"
+        ng: "ไนจีเรีย"
+        ni: "นิการากัว"
+        nl: "เนเธอร์แลนด์"
+        'no': "นอร์เวย์"
+        np: "เนปาล"
+        nr: "นาอูรู"
+        nu: "นีอูเอ"
+        nz: "นิวซีแลนด์"
+        om: "โอมาน"
+        pa: "ปานามา"
+        pe: "เปรู"
+        pf: "เฟรนช์โปลินีเซีย"
+        pg: "ปาปัวนิวกินี"
+        ph: "ฟิลิปปินส์"
+        pk: "ปากีสถาน"
+        pl: "โปแลนด์"
+        pm: "แซงปีแยร์และมีเกอลง"
+        pn: "หมู่เกาะพิตแคร์น"
+        pr: "เปอร์โตริโก"
+        ps: "ดินแดนปาเลสไตน์"
+        ps_alt_short: "ปาเลสไตน์"
+        pt: "โปรตุเกส"
+        pw: "ปาเลา"
+        py: "ปารากวัย"
+        qa: "กาตาร์"
+        qo: "เอาต์ไลอิงโอเชียเนีย"
+        re: "เรอูนียง"
+        ro: "โรมาเนีย"
+        rs: "เซอร์เบีย"
+        ru: "รัสเซีย"
+        rw: "รวันดา"
+        sa: "ซาอุดีอาระเบีย"
+        sb: "หมู่เกาะโซโลมอน"
+        sc: "เซเชลส์"
+        sd: "ซูดาน"
+        se: "สวีเดน"
+        sg: "สิงคโปร์"
+        sh: "เซนต์เฮเลนา"
+        si: "สโลวีเนีย"
+        sj: "สฟาลบาร์และยานไมเอน"
+        sk: "สโลวะเกีย"
+        sl: "เซียร์ราลีโอน"
+        sm: "ซานมารีโน"
+        sn: "เซเนกัล"
+        so: "โซมาเลีย"
+        sr: "ซูรินาเม"
+        ss: "ซูดานใต้"
+        st: "เซาตูเมและปรินซิปี"
+        sv: "เอลซัลวาดอร์"
+        sx: "เซนต์มาร์ติน"
+        sy: "ซีเรีย"
+        sz: "สวาซิแลนด์"
+        ta: "ทริสตัน เดอ คูนา"
+        tc: "หมู่เกาะเติกส์และหมู่เกาะเคคอส"
+        td: "ชาด"
+        tf: "เฟรนช์เซาเทิร์นเทร์ริทอรีส์"
+        tg: "โตโก"
+        th: "ไทย"
+        tj: "ทาจิกิสถาน"
+        tk: "โตเกเลา"
+        tl: "ติมอร์-เลสเต"
+        tl_alt_variant: "ติมอร์ตะวันออก"
+        tm: "เติร์กเมนิสถาน"
+        tn: "ตูนิเซีย"
+        to: "ตองกา"
+        tr: "ตุรกี"
+        tt: "ตรินิแดดและโตเบโก"
+        tv: "ตูวาลู"
+        tw: "ไต้หวัน"
+        tz: "แทนซาเนีย"
+        ua: "ยูเครน"
+        ug: "ยูกันดา"
+        um: "หมู่เกาะรอบนอกของสหรัฐอเมริกา"
+        us: "สหรัฐอเมริกา"
+        us_alt_short: "สหรัฐฯ"
+        uy: "อุรุกวัย"
+        uz: "อุซเบกิสถาน"
+        va: "นครวาติกัน"
+        vc: "เซนต์วินเซนต์และเกรนาดีนส์"
+        ve: "เวเนซุเอลา"
+        vg: "หมู่เกาะบริติชเวอร์จิน"
+        vi: "หมู่เกาะยูเอสเวอร์จิน"
+        vn: "เวียดนาม"
+        vu: "วานูอาตู"
+        wf: "วาลลิสและฟุตูนา"
+        ws: "ซามัว"
+        xk: "โคโซโว"
+        ye: "เยเมน"
+        yt: "มายอต"
+        za: "แอฟริกาใต้"
+        zm: "แซมเบีย"
+        zw: "ซิมบับเว"
+        zz: "ภูมิภาคที่ไม่รู้จัก"
+      transform_names:
+        bgn: "ชื่อมาตรฐานอังกฤษ (BGN)"
+        numeric: "ตัวเลข"
+        tone: "ระดับเสียง"
+        ungegn: "ชื่อภูมิศาสตร์มาตรฐาน UN (UNGEGN)"
+        x_accents: "สำเนียง"
+        x_fullwidth: "ตัวเต็ม"
+        x_halfwidth: "ตัวย่อ"
+        x_jamo: "จาโม"
+        x_pinyin: "พินอิน"
+        x_publishing: "เพื่อเผยแพร่"
+      variants:
+        '1901': "เยอรมันออร์โธกราฟีดั้งเดิม"
+        '1994': "อักขระเรเซียนมาตราฐาน"
+        '1996': "เยอรมันออร์โธกราฟีปี 1996"
+        1606_nict: "ปลายยุคกลางฝรั่งเศสถึงปี ค.ศ. 1606"
+        1694_acad: "ตอนต้นยุคใหม่ฝรั่งเศส"
+        1959_acad: "วิชาการ"
+        abl1943: ABL1943
+        alalc97: "การถอดอักษรเป็นอักษรโรมันตามเกณฑ์ของสมาคมห้องสมุดอเมริกันและห้องสมุดรัฐสภา
+          ฉบับพิมพ์ปี 1997"
+        aluku: "ภาษาพื้นเมืองอลูคู"
+        ao1990: AO1990
+        arevela: "อาร์เมเนียตะวันออก"
+        arevmda: "อาร์เมเนียตะวันตก"
+        baku1926: "ตัวอักษรละตินเตอร์กิกแบบครบวงจร"
+        balanka: BALANKA
+        barla: BARLA
+        bauddha: "พระพุทธเจ้า"
+        biscayan: "บิสคายัน"
+        biske: "ภาษาพื้นเมืองซานจอร์โจ/บิลา"
+        bohoric: "ตัวอักษรโบโฮริช"
+        boont: "บูนทลิ่ง"
+        colb1945: COLB1945
+        dajnko: "ตัวอักษรดายนชิซา"
+        ekavsk: EKAVSK
+        emodeng: "อังกฤษสมัยใหม่ตอนต้น"
+        fonipa: "สัทอักษรสากล"
+        fonupa: "สัทอักษร UPA"
+        fonxsamp: "ฟอนซ์แซมพ์"
+        hepburn: "การถอดอักษรแบบเฮปเบิร์น"
+        hognorsk: "ภาษานอร์วิเจียนสูง"
+        ijekavsk: IJEKAVSK
+        itihasa: "อิติหาสะ"
+        jauer: "เยาเออร์"
+        jyutping: "ระบบถอดอักษรแบบยวึดพิง"
+        kkcor: "อักขรวิธีสามัญ"
+        kociewie: KOCIEWIE
+        kscor: "อักขรวิธีมาตรฐาน"
+        laukika: "ลัวกิกา"
+        lipaw: "ภาษาพื้นเมืองลิโพวาซของเรเซียน"
+        luna1918: "ลูน่า 1918"
+        metelko: "ตัวอักษรเมเตวชิซา"
+        monoton: "โมโนโทนิก"
+        ndyuka: "ดิวคา"
+        nedis: "ภาษาพื้นเมืองนาทิโซเน"
+        njiva: "ภาษาพื้นเมืองจนีวา/นจีวา"
+        nulik: "โวลาพึคสมัยใหม่"
+        osojs: "ภาษาพื้นเมืองโอเซียคโค/โอโซยาเน"
+        oxendict: OXENDICT
+        pamaka: "ภาษาพื้นเมืองพามาคา"
+        petr1708: "พีท 1708"
+        pinyin: "พินอิน"
+        polyton: "โพลีโทนิก"
+        posix: "คอมพิวเตอร์"
+        puter: "พิวเตอร์"
+        revised: "ออร์โธกราฟิปรับปรุง"
+        rigik: "โวลาพึคดั้งเดิม"
+        rozaj: "เรเซียน"
+        rumgr: "รัมกร์"
+        saaho: "ซาโฮ"
+        scotland: "ภาษาอังกฤษมาตราฐานสก๊อต"
+        scouse: "สเกาส์"
+        solba: "ภาษาพื้นเมืองสโตวีซซา/โซลบีกา"
+        sotav: SOTAV
+        surmiran: "ซูร์มิราน"
+        sursilv: "ซูร์ซีลฟ์"
+        sutsilv: "ซุตซีลฟ์"
+        tarask: "ทาราซเคียวิซาออร์โธกราฟี"
+        uccor: "อักขรวิธีแบบครบวงจร"
+        ucrcor: "อักขรวิธีแบบปรับปรุงครบวงจร"
+        ulster: "อัลสเตอร์"
+        unifon: UNIFON
+        vaidika: "เวดิคา"
+        valencia: "วาเลนเซีย"
+        vallader: "วัลลาเดอร์"
+        wadegile: "การถอดอักษรแบบเวด-ไจลส์"
+    units:
+      long:
+        per:
+          compound_unit_pattern: "{0}ต่อ{1}"
+        acceleration_g_force:
+          display_name: "แรง G"
+          unit_pattern_count_other: "{0} แรง G"
+        acceleration_meter_per_second_squared:
+          display_name: "เมตรต่อวินาทีกำลังสอง"
+          unit_pattern_count_other: "{0} เมตรต่อวินาทีกำลังสอง"
+        angle_revolution:
+          display_name: "รอบ"
+          unit_pattern_count_other: "{0} รอบ"
+        angle_radian:
+          display_name: "เรเดียน"
+          unit_pattern_count_other: "{0} เรเดียน"
+        angle_degree:
+          display_name: "องศา"
+          unit_pattern_count_other: "{0} องศา"
+        angle_arc_minute:
+          display_name: "ลิปดา"
+          unit_pattern_count_other: "{0} ลิปดา"
+        angle_arc_second:
+          display_name: "พิลิปดา"
+          unit_pattern_count_other: "{0} พิลิปดา"
+        area_square_kilometer:
+          display_name: "ตารางกิโลเมตร"
+          unit_pattern_count_other: "{0} ตารางกิโลเมตร"
+        area_hectare:
+          display_name: "เฮกตาร์"
+          unit_pattern_count_other: "{0} เฮกตาร์"
+        area_square_meter:
+          display_name: "ตารางเมตร"
+          unit_pattern_count_other: "{0} ตารางเมตร"
+          per_unit_pattern: "{0} ต่อ ตร.ม."
+        area_square_centimeter:
+          display_name: "ตารางเซนติเมตร"
+          unit_pattern_count_other: "{0} ตารางเซนติเมตร"
+          per_unit_pattern: "{0} ต่อตารางเซนติเมตร"
+        area_square_mile:
+          display_name: "ตารางไมล์"
+          unit_pattern_count_other: "{0} ตารางไมล์"
+        area_acre:
+          display_name: "เอเคอร์"
+          unit_pattern_count_other: "{0} เอเคอร์"
+        area_square_yard:
+          display_name: "ตารางวา"
+          unit_pattern_count_other: "{0} ตารางวา"
+        area_square_foot:
+          display_name: "ตารางฟุต"
+          unit_pattern_count_other: "{0} ตารางฟุต"
+        area_square_inch:
+          display_name: "ตารางนิ้ว"
+          unit_pattern_count_other: "{0} ตร.นิ้ว"
+          per_unit_pattern: "{0} ต่อตารางนิ้ว"
+        consumption_liter_per_kilometer:
+          display_name: "ลิตรต่อกิโลเมตร"
+          unit_pattern_count_other: "{0} ลิตรต่อกิโลเมตร"
+        consumption_liter_per_100kilometers:
+          display_name: "ลิตรต่อ100 กิโลเมตร"
+          unit_pattern_count_other: "{0} ลิตร/100 กิโลเมตร"
+        consumption_mile_per_gallon:
+          display_name: "ไมล์ต่อแกลลอน"
+          unit_pattern_count_other: "{0} ไมล์ต่อแกลลอน"
+        digital_terabyte:
+          display_name: "เทราไบต์"
+          unit_pattern_count_other: "{0} เทราไบต์"
+        digital_terabit:
+          display_name: "เทราบิต"
+          unit_pattern_count_other: "{0} เทราบิต"
+        digital_gigabyte:
+          display_name: "กิกะไบต์"
+          unit_pattern_count_other: "{0} กิกะไบต์"
+        digital_gigabit:
+          display_name: "กิกะบิต"
+          unit_pattern_count_other: "{0} กิกะบิต"
+        digital_megabyte:
+          display_name: "เมกะไบต์"
+          unit_pattern_count_other: "{0} เมกะไบต์"
+        digital_megabit:
+          display_name: "เมกะบิต"
+          unit_pattern_count_other: "{0} เมกะบิต"
+        digital_kilobyte:
+          display_name: "กิโลไบต์"
+          unit_pattern_count_other: "{0} กิโลไบต์"
+        digital_kilobit:
+          display_name: "กิโลบิต"
+          unit_pattern_count_other: "{0} กิโลบิต"
+        digital_byte:
+          display_name: "ไบต์"
+          unit_pattern_count_other: "{0} ไบต์"
+        digital_bit:
+          display_name: "บิต"
+          unit_pattern_count_other: "{0} บิต"
+        duration_century:
+          display_name: "ศตวรรษ"
+          unit_pattern_count_other: "{0} ศตวรรษ"
+        duration_year:
+          display_name: "ปี"
+          unit_pattern_count_other: "{0} ปี"
+          per_unit_pattern: "{0} ต่อปี"
+        duration_month:
+          display_name: "เดือน"
+          unit_pattern_count_other: "{0} เดือน"
+          per_unit_pattern: "{0} ต่อเดือน"
+        duration_week:
+          display_name: "สัปดาห์"
+          unit_pattern_count_other: "{0} สัปดาห์"
+          per_unit_pattern: "{0} ต่อสัปดาห์"
+        duration_day:
+          display_name: "วัน"
+          unit_pattern_count_other: "{0} วัน"
+          per_unit_pattern: "{0} ต่อวัน"
+        duration_hour:
+          display_name: "ชั่วโมง"
+          unit_pattern_count_other: "{0} ชั่วโมง"
+          per_unit_pattern: "{0} ต่อชั่วโมง"
+        duration_minute:
+          display_name: "นาที"
+          unit_pattern_count_other: "{0} นาที"
+          per_unit_pattern: "{0} ต่อนาที"
+        duration_second:
+          display_name: "วินาที"
+          unit_pattern_count_other: "{0} วินาที"
+          per_unit_pattern: "{0} ต่อวินาที"
+        duration_millisecond:
+          display_name: "มิลลิวินาที"
+          unit_pattern_count_other: "{0} มิลลิวินาที"
+        duration_microsecond:
+          display_name: "ไมโครวินาที"
+          unit_pattern_count_other: "{0} ไมโครวินาที"
+        duration_nanosecond:
+          display_name: "นาโนวินาที"
+          unit_pattern_count_other: "{0} นาโนวินาที"
+        electric_ampere:
+          display_name: "แอมแปร์"
+          unit_pattern_count_other: "{0} แอมแปร์"
+        electric_milliampere:
+          display_name: "มิลลิแอมแปร์"
+          unit_pattern_count_other: "{0} มิลลิแอมแปร์"
+        electric_ohm:
+          display_name: "โอห์ม"
+          unit_pattern_count_other: "{0} โอห์ม"
+        electric_volt:
+          display_name: "โวลต์"
+          unit_pattern_count_other: "{0} โวลต์"
+        energy_kilocalorie:
+          display_name: "กิโลแคลอรี่"
+          unit_pattern_count_other: "{0} กิโลแคลอรี่"
+        energy_calorie:
+          display_name: "แคลอรี่"
+          unit_pattern_count_other: "{0} แคลอรี่"
+        energy_foodcalorie:
+          display_name: "แคลอรี่"
+          unit_pattern_count_other: "{0} แคลอรี่"
+        energy_kilojoule:
+          display_name: "กิโลจูล"
+          unit_pattern_count_other: "{0} กิโลจูล"
+        energy_joule:
+          display_name: "จูล"
+          unit_pattern_count_other: "{0} จูล"
+        energy_kilowatt_hour:
+          display_name: "กิโลวัตต์-ชั่วโมง"
+          unit_pattern_count_other: "{0} กิโลวัตต์-ชั่วโมง"
+        frequency_gigahertz:
+          display_name: "กิกะเฮิรตซ์"
+          unit_pattern_count_other: "{0} กิกะเฮิรตซ์"
+        frequency_megahertz:
+          display_name: "เมกะเฮิรตซ์"
+          unit_pattern_count_other: "{0} เมกะเฮิรตซ์"
+        frequency_kilohertz:
+          display_name: "กิโลเฮิรตซ์"
+          unit_pattern_count_other: "{0} กิโลเฮิรตซ์"
+        frequency_hertz:
+          display_name: "เฮิรตซ์"
+          unit_pattern_count_other: "{0} เฮิรตซ์"
+        length_kilometer:
+          display_name: "กิโลเมตร"
+          unit_pattern_count_other: "{0} กิโลเมตร"
+          per_unit_pattern: "{0} ต่อกิโลเมตร"
+        length_meter:
+          display_name: "เมตร"
+          unit_pattern_count_other: "{0} เมตร"
+          per_unit_pattern: "{0} ต่อเมตร"
+        length_decimeter:
+          display_name: "เดซิเมตร"
+          unit_pattern_count_other: "{0} เดซิเมตร"
+        length_centimeter:
+          display_name: "เซนติเมตร"
+          unit_pattern_count_other: "{0} เซนติเมตร"
+          per_unit_pattern: "{0} ต่อเซนติเมตร"
+        length_millimeter:
+          display_name: "มิลลิเมตร"
+          unit_pattern_count_other: "{0} มิลลิเมตร"
+        length_micrometer:
+          display_name: "ไมโครเมตร"
+          unit_pattern_count_other: "{0} ไมโครเมตร"
+        length_nanometer:
+          display_name: "นาโนเมตร"
+          unit_pattern_count_other: "{0} นาโนเมตร"
+        length_picometer:
+          display_name: "พิโกเมตร"
+          unit_pattern_count_other: "{0} พิโกเมตร"
+        length_mile:
+          display_name: "ไมล์"
+          unit_pattern_count_other: "{0} ไมล์"
+        length_yard:
+          display_name: "หลา"
+          unit_pattern_count_other: "{0} หลา"
+        length_foot:
+          display_name: "ฟุต"
+          unit_pattern_count_other: "{0} ฟุต"
+          per_unit_pattern: "{0} ต่อฟุต"
+        length_inch:
+          display_name: "นิ้ว"
+          unit_pattern_count_other: "{0} นิ้ว"
+          per_unit_pattern: "{0} ต่อนิ้ว"
+        length_parsec:
+          display_name: "พาร์เซก"
+          unit_pattern_count_other: "{0} พาร์เซก"
+        length_light_year:
+          display_name: "ปีแสง"
+          unit_pattern_count_other: "{0} ปีแสง"
+        length_astronomical_unit:
+          display_name: "หน่วยดาราศาสตร์"
+          unit_pattern_count_other: "{0} หน่วยดาราศาสตร์"
+        length_furlong:
+          display_name: fur
+          unit_pattern_count_other: "{0} fur"
+        length_fathom:
+          display_name: fm
+          unit_pattern_count_other: "{0} fm"
+        length_nautical_mile:
+          display_name: "ไมล์ทะเล"
+          unit_pattern_count_other: "{0} ไมล์ทะเล"
+        length_mile_scandinavian:
+          display_name: "ไมล์สแกนดิเนเวีย"
+          unit_pattern_count_other: "{0} ไมล์สแกนดิเนเวีย"
+        light_lux:
+          display_name: "ลักซ์"
+          unit_pattern_count_other: "{0} ลักซ์"
+        mass_metric_ton:
+          display_name: "เมตริกตัน"
+          unit_pattern_count_other: "{0} เมตริกตัน"
+        mass_kilogram:
+          display_name: "กิโลกรัม"
+          unit_pattern_count_other: "{0} กิโลกรัม"
+          per_unit_pattern: "{0} ต่อกิโลกรัม"
+        mass_gram:
+          display_name: "กรัม"
+          unit_pattern_count_other: "{0} กรัม"
+          per_unit_pattern: "{0} ต่อกรัม"
+        mass_milligram:
+          display_name: "มิลลิกรัม"
+          unit_pattern_count_other: "{0} มิลลิกรัม"
+        mass_microgram:
+          display_name: "ไมโครกรัม"
+          unit_pattern_count_other: "{0} ไมโครกรัม"
+        mass_ton:
+          display_name: "ตัน"
+          unit_pattern_count_other: "{0} ตัน"
+        mass_stone:
+          display_name: st
+          unit_pattern_count_other: "{0} st"
+        mass_pound:
+          display_name: "ปอนด์"
+          unit_pattern_count_other: "{0} ปอนด์"
+          per_unit_pattern: "{0} ต่อปอนด์"
+        mass_ounce:
+          display_name: "ออนซ์"
+          unit_pattern_count_other: "{0} ออนซ์"
+          per_unit_pattern: "{0} ต่อออนซ์"
+        mass_ounce_troy:
+          display_name: "ทรอยออนซ์"
+          unit_pattern_count_other: "{0} ทรอยออนซ์"
+        mass_carat:
+          display_name: "กะรัต"
+          unit_pattern_count_other: "{0} กะรัต"
+        power_gigawatt:
+          display_name: "กิกะวัตต์"
+          unit_pattern_count_other: "{0} กิกะวัตต์"
+        power_megawatt:
+          display_name: "เมกะวัตต์"
+          unit_pattern_count_other: "{0} เมกะวัตต์"
+        power_kilowatt:
+          display_name: "กิโลวัตต์"
+          unit_pattern_count_other: "{0} กิโลวัตต์"
+        power_watt:
+          display_name: "วัตต์"
+          unit_pattern_count_other: "{0} วัตต์"
+        power_milliwatt:
+          display_name: "มิลลิวัตต์"
+          unit_pattern_count_other: "{0} มิลลิวัตต์"
+        power_horsepower:
+          display_name: "แรงม้า"
+          unit_pattern_count_other: "{0} แรงม้า"
+        pressure_hectopascal:
+          display_name: "เฮกโตปาสกาล"
+          unit_pattern_count_other: "{0} เฮกโตปาสกาล"
+        pressure_millimeter_of_mercury:
+          display_name: "มิลลิเมตรปรอท"
+          unit_pattern_count_other: "{0} มิลลิเมตรปรอท"
+        pressure_pound_per_square_inch:
+          display_name: "ปอนด์ต่อตารางนิ้ว"
+          unit_pattern_count_other: "{0} ปอนด์ต่อตารางนิ้ว"
+        pressure_inch_hg:
+          display_name: "นิ้วปรอท"
+          unit_pattern_count_other: "{0} นิ้วปรอท"
+        pressure_millibar:
+          display_name: "มิลลิบาร์"
+          unit_pattern_count_other: "{0} มิลลิบาร์"
+        proportion_karat:
+          display_name: "กะรัต"
+          unit_pattern_count_other: "{0} กะรัต"
+        speed_kilometer_per_hour:
+          display_name: "กิโลเมตรต่อชั่วโมง"
+          unit_pattern_count_other: "{0} กิโลเมตรต่อชั่วโมง"
+        speed_meter_per_second:
+          display_name: "เมตรต่อวินาที"
+          unit_pattern_count_other: "{0} เมตรต่อวินาที"
+        speed_mile_per_hour:
+          display_name: "ไมล์ต่อชั่วโมง"
+          unit_pattern_count_other: "{0} ไมล์ต่อชั่วโมง"
+        speed_knot:
+          display_name: "นอต"
+          unit_pattern_count_other: "{0} นอต"
+        temperature_generic:
+          display_name: "°"
+          unit_pattern_count_other: "{0}°"
+        temperature_celsius:
+          display_name: "องศาเซลเซียส"
+          unit_pattern_count_other: "{0} องศาเซลเซียส"
+        temperature_fahrenheit:
+          display_name: "องศาฟาเรนไฮต์"
+          unit_pattern_count_other: "{0} องศาฟาเรนไฮต์"
+        temperature_kelvin:
+          display_name: "เคลวิน"
+          unit_pattern_count_other: "{0} เคลวิน"
+        volume_cubic_kilometer:
+          display_name: "ลูกบาศก์กิโลเมตร"
+          unit_pattern_count_other: "{0} ลูกบาศก์กิโลเมตร"
+        volume_cubic_meter:
+          display_name: "ลูกบาศก์เมตร"
+          unit_pattern_count_other: "{0} ลูกบาศก์เมตร"
+          per_unit_pattern: "{0} ต่อลูกบาศก์เมตร"
+        volume_cubic_centimeter:
+          display_name: "ลูกบาศก์เซนติเมตร"
+          unit_pattern_count_other: "{0} ลูกบาศก์เซนติเมตร"
+          per_unit_pattern: "{0} ต่อลูกบาศก์เซนติเมตร"
+        volume_cubic_mile:
+          display_name: "ลูกบาศก์ไมล์"
+          unit_pattern_count_other: "{0} ลูกบาศก์ไมล์"
+        volume_cubic_yard:
+          display_name: "ลูกบาศก์หลา"
+          unit_pattern_count_other: "{0} ลูกบาศก์หลา"
+        volume_cubic_foot:
+          display_name: "ลูกบาศก์ฟุต"
+          unit_pattern_count_other: "{0} ลูกบาศก์ฟุต"
+        volume_cubic_inch:
+          display_name: "ลูกบาศก์นิ้ว"
+          unit_pattern_count_other: "{0} ลูกบาศก์นิ้ว"
+        volume_megaliter:
+          display_name: "เมกกะลิตร"
+          unit_pattern_count_other: "{0} เมกกะลิตร"
+        volume_hectoliter:
+          display_name: "เฮกโตลิตร"
+          unit_pattern_count_other: "{0} เฮกโตลิตร"
+        volume_liter:
+          display_name: "ลิตร"
+          unit_pattern_count_other: "{0} ลิตร"
+          per_unit_pattern: "{0} ต่อลิตร"
+        volume_deciliter:
+          display_name: "เดซิลิตร"
+          unit_pattern_count_other: "{0} เดซิลิตร"
+        volume_centiliter:
+          display_name: "เซนติลิตร"
+          unit_pattern_count_other: "{0} เซนติลิตร"
+        volume_milliliter:
+          display_name: "มิลลิลิตร"
+          unit_pattern_count_other: "{0} มิลลิลิตร"
+        volume_pint_metric:
+          display_name: "ไพนต์เมตริก"
+          unit_pattern_count_other: "{0} ไพนต์เมตริก"
+        volume_cup_metric:
+          display_name: "ถ้วยเมตริก"
+          unit_pattern_count_other: "{0} ถ้วยเมตริก"
+        volume_acre_foot:
+          display_name: "เอเคอร์-ฟุต"
+          unit_pattern_count_other: "{0} เอเคอร์-ฟุต"
+        volume_bushel:
+          display_name: bu
+          unit_pattern_count_other: "{0} bu"
+        volume_gallon:
+          display_name: "แกลลอน"
+          unit_pattern_count_other: "{0} แกลลอน"
+          per_unit_pattern: "{0} ต่อแกลลอน"
+        volume_quart:
+          display_name: "ควอร์ต"
+          unit_pattern_count_other: "{0} ควอร์ต"
+        volume_pint:
+          display_name: "ไพนต์"
+          unit_pattern_count_other: "{0} ไพนต์"
+        volume_cup:
+          display_name: "ถ้วย"
+          unit_pattern_count_other: "{0} ถ้วย"
+        volume_fluid_ounce:
+          display_name: "ฟลูอิดออนซ์"
+          unit_pattern_count_other: "{0} ฟลูอิดออนซ์"
+        volume_tablespoon:
+          display_name: "ช้อนโต๊ะ"
+          unit_pattern_count_other: "{0} ช้อนโต๊ะ"
+        volume_teaspoon:
+          display_name: "ช้อนชา"
+          unit_pattern_count_other: "{0} ช้อนชา"
+        coordinate_unit:
+          east: "{0}ตะวันออก"
+          north: "{0}เหนือ"
+          south: "{0}ใต้"
+          west: "{0}ตะวันตก"
+      short:
+        per:
+          compound_unit_pattern: "{0}/{1}"
+        acceleration_g_force:
+          display_name: "แรง G"
+          unit_pattern_count_other: "{0} G"
+        acceleration_meter_per_second_squared:
+          display_name: "เมตร/วินาที²"
+          unit_pattern_count_other: "{0} ม./วินาที²"
+        angle_revolution:
+          display_name: "รอบ"
+          unit_pattern_count_other: "{0} รอบ"
+        angle_radian:
+          display_name: "เรเดียน"
+          unit_pattern_count_other: "{0} เรเดียน"
+        angle_degree:
+          display_name: "องศา"
+          unit_pattern_count_other: "{0}°"
+        angle_arc_minute:
+          display_name: "ลิปดา"
+          unit_pattern_count_other: "{0} ลิปดา"
+        angle_arc_second:
+          display_name: "พิลิปดา"
+          unit_pattern_count_other: "{0} พิลิปดา"
+        area_square_kilometer:
+          display_name: "ตร.กม."
+          unit_pattern_count_other: "{0} ตร.กม."
+        area_hectare:
+          display_name: "เฮกตาร์"
+          unit_pattern_count_other: "{0} เฮกตาร์"
+        area_square_meter:
+          display_name: "ตร.ม."
+          unit_pattern_count_other: "{0} ตร.ม."
+          per_unit_pattern: "{0} ต่อ ตร.ม."
+        area_square_centimeter:
+          display_name: "ตร.ซม."
+          unit_pattern_count_other: "{0} ตร.ซม."
+          per_unit_pattern: "{0} ต่อ ตร.ซม."
+        area_square_mile:
+          display_name: "ตร.ไมล์"
+          unit_pattern_count_other: "{0} ตร.ไมล์"
+        area_acre:
+          display_name: "เอเคอร์"
+          unit_pattern_count_other: "{0} เอเคอร์"
+        area_square_yard:
+          display_name: "ตร.ว."
+          unit_pattern_count_other: "{0} ตร.ว."
+        area_square_foot:
+          display_name: "ตร.ฟุต"
+          unit_pattern_count_other: "{0} ตร.ฟุต"
+        area_square_inch:
+          display_name: "ตร.นิ้ว"
+          unit_pattern_count_other: "{0} ตร.นิ้ว"
+          per_unit_pattern: "{0} ต่อตารางนิ้ว"
+        consumption_liter_per_kilometer:
+          display_name: "ลิตร/กม."
+          unit_pattern_count_other: "{0} ล./กม."
+        consumption_liter_per_100kilometers:
+          display_name: "ลิตร/100 กิโลเมตร"
+          unit_pattern_count_other: "{0} ล./100กม."
+        consumption_mile_per_gallon:
+          display_name: "ไมล์/แกลลอน"
+          unit_pattern_count_other: "{0} ไมล์/แกลลอน"
+        digital_terabyte:
+          display_name: TB
+          unit_pattern_count_other: "{0} TB"
+        digital_terabit:
+          display_name: Tb
+          unit_pattern_count_other: "{0} Tb"
+        digital_gigabyte:
+          display_name: GB
+          unit_pattern_count_other: "{0} GB"
+        digital_gigabit:
+          display_name: Gb
+          unit_pattern_count_other: "{0} Gb"
+        digital_megabyte:
+          display_name: MB
+          unit_pattern_count_other: "{0} MB"
+        digital_megabit:
+          display_name: Mb
+          unit_pattern_count_other: "{0} Mb"
+        digital_kilobyte:
+          display_name: kB
+          unit_pattern_count_other: "{0} kB"
+        digital_kilobit:
+          display_name: kb
+          unit_pattern_count_other: "{0} kb"
+        digital_byte:
+          display_name: "ไบต์"
+          unit_pattern_count_other: "{0} ไบต์"
+        digital_bit:
+          display_name: "บิต"
+          unit_pattern_count_other: "{0} บิต"
+        duration_century:
+          display_name: "ศตวรรษ"
+          unit_pattern_count_other: "{0} ศตวรรษ"
+        duration_year:
+          display_name: "ปี"
+          unit_pattern_count_other: "{0} ปี"
+          per_unit_pattern: "{0}/ปี"
+        duration_month:
+          display_name: "เดือน"
+          unit_pattern_count_other: "{0} เดือน"
+          per_unit_pattern: "{0}/เดือน"
+        duration_week:
+          display_name: "สัปดาห์"
+          unit_pattern_count_other: "{0} สัปดาห์"
+          per_unit_pattern: "{0}/สัปดาห์"
+        duration_day:
+          display_name: "วัน"
+          unit_pattern_count_other: "{0} วัน"
+          per_unit_pattern: "{0}/วัน"
+        duration_hour:
+          display_name: "ชั่วโมง"
+          unit_pattern_count_other: "{0} ชม."
+          per_unit_pattern: "{0}/ชม."
+        duration_minute:
+          display_name: "นาที"
+          unit_pattern_count_other: "{0} นาที"
+          per_unit_pattern: "{0}/นาที"
+        duration_second:
+          display_name: "วินาที"
+          unit_pattern_count_other: "{0} วิ"
+          per_unit_pattern: "{0}/วิ"
+        duration_millisecond:
+          display_name: "มิลลิวินาที"
+          unit_pattern_count_other: "{0} มิลลิวินาที"
+        duration_microsecond:
+          display_name: "ไมโครวินาที"
+          unit_pattern_count_other: "{0} ไมโครวิ"
+        duration_nanosecond:
+          display_name: "นาโนวินาที"
+          unit_pattern_count_other: "{0} นาโนวิ"
+        electric_ampere:
+          display_name: "แอมป์"
+          unit_pattern_count_other: "{0} แอมป์"
+        electric_milliampere:
+          display_name: "มิลลิแอมป์"
+          unit_pattern_count_other: "{0} มิลลิแอมป์"
+        electric_ohm:
+          display_name: "โอห์ม"
+          unit_pattern_count_other: "{0} Ω"
+        electric_volt:
+          display_name: "โวลต์"
+          unit_pattern_count_other: "{0} V"
+        energy_kilocalorie:
+          display_name: "กิโลแคลอรี่"
+          unit_pattern_count_other: "{0} กิโลแคลอรี่"
+        energy_calorie:
+          display_name: "แคลอรี่"
+          unit_pattern_count_other: "{0} แคลอรี่"
+        energy_foodcalorie:
+          display_name: "แคลอรี่"
+          unit_pattern_count_other: "{0} แคลอรี่"
+        energy_kilojoule:
+          display_name: "กิโลจูล"
+          unit_pattern_count_other: "{0} กิโลจูล"
+        energy_joule:
+          display_name: "จูล"
+          unit_pattern_count_other: "{0} จูล"
+        energy_kilowatt_hour:
+          display_name: "กว.-ชม."
+          unit_pattern_count_other: "{0} กว.-ชม."
+        frequency_gigahertz:
+          display_name: GHz
+          unit_pattern_count_other: "{0} GHz"
+        frequency_megahertz:
+          display_name: MHz
+          unit_pattern_count_other: "{0} MHz"
+        frequency_kilohertz:
+          display_name: kHz
+          unit_pattern_count_other: "{0} kHz"
+        frequency_hertz:
+          display_name: Hz
+          unit_pattern_count_other: "{0} Hz"
+        length_kilometer:
+          display_name: "กม."
+          unit_pattern_count_other: "{0} กม."
+          per_unit_pattern: "{0}/กม."
+        length_meter:
+          display_name: "เมตร"
+          unit_pattern_count_other: "{0} ม."
+          per_unit_pattern: "{0}/ม."
+        length_decimeter:
+          display_name: "ดม."
+          unit_pattern_count_other: "{0} ดม."
+        length_centimeter:
+          display_name: "ซม."
+          unit_pattern_count_other: "{0} ซม."
+          per_unit_pattern: "{0}/ซม."
+        length_millimeter:
+          display_name: "มม."
+          unit_pattern_count_other: "{0} มม."
+        length_micrometer:
+          display_name: "ไมโครเมตร"
+          unit_pattern_count_other: "{0} ไมโครเมตร"
+        length_nanometer:
+          display_name: "น.ม."
+          unit_pattern_count_other: "{0} น.ม."
+        length_picometer:
+          display_name: "พิโกเมตร"
+          unit_pattern_count_other: "{0} พิโกเมตร"
+        length_mile:
+          display_name: "ไมล์"
+          unit_pattern_count_other: "{0} ไมล์"
+        length_yard:
+          display_name: "หลา"
+          unit_pattern_count_other: "{0} หลา"
+        length_foot:
+          display_name: "ฟุต"
+          unit_pattern_count_other: "{0} ฟุต"
+          per_unit_pattern: "{0}/ฟุต"
+        length_inch:
+          display_name: "นิ้ว"
+          unit_pattern_count_other: "{0} นิ้ว"
+          per_unit_pattern: "{0}/นิ้ว"
+        length_parsec:
+          display_name: "พาร์เซก"
+          unit_pattern_count_other: "{0} พาร์เซก"
+        length_light_year:
+          display_name: "ปีแสง"
+          unit_pattern_count_other: "{0} ปีแสง"
+        length_astronomical_unit:
+          display_name: "หน่วยดาราศาสตร์"
+          unit_pattern_count_other: "{0} หน่วยดาราศาสตร์"
+        length_furlong:
+          display_name: fur
+          unit_pattern_count_other: "{0} fur"
+        length_fathom:
+          display_name: fm
+          unit_pattern_count_other: "{0} fm"
+        length_nautical_mile:
+          display_name: "ไมล์ทะเล"
+          unit_pattern_count_other: "{0} ไมล์ทะเล"
+        length_mile_scandinavian:
+          display_name: "ไมล์สแกนดินีเวีย"
+          unit_pattern_count_other: "{0} ไมล์สแกนดินีเวีย"
+        light_lux:
+          display_name: "ลักซ์"
+          unit_pattern_count_other: "{0} ลักซ์"
+        mass_metric_ton:
+          display_name: "ต."
+          unit_pattern_count_other: "{0} ต."
+        mass_kilogram:
+          display_name: "กก."
+          unit_pattern_count_other: "{0} กก."
+          per_unit_pattern: "{0}/ก.ก."
+        mass_gram:
+          display_name: "กรัม"
+          unit_pattern_count_other: "{0} ก."
+          per_unit_pattern: "{0}/กรัม"
+        mass_milligram:
+          display_name: "มก."
+          unit_pattern_count_other: "{0} มก."
+        mass_microgram:
+          display_name: "มคก."
+          unit_pattern_count_other: "{0} มคก."
+        mass_ton:
+          display_name: "ตัน"
+          unit_pattern_count_other: "{0} ตัน"
+        mass_stone:
+          display_name: st
+          unit_pattern_count_other: "{0} st"
+        mass_pound:
+          display_name: "ปอนด์"
+          unit_pattern_count_other: "{0} ปอนด์"
+          per_unit_pattern: "{0}/ปอนด์"
+        mass_ounce:
+          display_name: "ออนซ์"
+          unit_pattern_count_other: "{0} ออนซ์"
+          per_unit_pattern: "{0}/ออนซ์"
+        mass_ounce_troy:
+          display_name: "ทรอยออนซ์"
+          unit_pattern_count_other: "{0} ทรอยออนซ์"
+        mass_carat:
+          display_name: "กะรัต"
+          unit_pattern_count_other: "{0} กะรัต"
+        power_gigawatt:
+          display_name: "กิกะวัตต์"
+          unit_pattern_count_other: "{0} กิกะวัตต์"
+        power_megawatt:
+          display_name: "เมกะวัตต์"
+          unit_pattern_count_other: "{0} เมกะวัตต์"
+        power_kilowatt:
+          display_name: "กิโลวัตต์"
+          unit_pattern_count_other: "{0} กิโลวัตต์"
+        power_watt:
+          display_name: "วัตต์"
+          unit_pattern_count_other: "{0} วัตต์"
+        power_milliwatt:
+          display_name: "มิลลิวัตต์"
+          unit_pattern_count_other: "{0} มิลลิวัตต์"
+        power_horsepower:
+          display_name: "แรงม้า"
+          unit_pattern_count_other: "{0} แรงม้า"
+        pressure_hectopascal:
+          display_name: "เฮกโตปาสกาล"
+          unit_pattern_count_other: "{0} เฮกโตปาสกาล"
+        pressure_millimeter_of_mercury:
+          display_name: "มม. ปรอท"
+          unit_pattern_count_other: "{0} มม. ปรอท"
+        pressure_pound_per_square_inch:
+          display_name: "ปอนด์/ตร.นิ้ว"
+          unit_pattern_count_other: "{0} ปอนด์/ตร.นิ้ว"
+        pressure_inch_hg:
+          display_name: "นิ้วปรอท"
+          unit_pattern_count_other: "{0} นิ้วปรอท"
+        pressure_millibar:
+          display_name: "มิลลิบาร์"
+          unit_pattern_count_other: "{0} มิลลิบาร์"
+        proportion_karat:
+          display_name: "กะรัต"
+          unit_pattern_count_other: "{0} กะรัต"
+        speed_kilometer_per_hour:
+          display_name: "กม./ชั่วโมง"
+          unit_pattern_count_other: "{0} กม./ชม."
+        speed_meter_per_second:
+          display_name: "เมตรต่อวินาที"
+          unit_pattern_count_other: "{0} ม./วิ"
+        speed_mile_per_hour:
+          display_name: "ไมล์/ชั่วโมง"
+          unit_pattern_count_other: "{0} ไมล์/ชม."
+        speed_knot:
+          display_name: "นอต"
+          unit_pattern_count_other: "{0} นอต"
+        temperature_generic:
+          display_name: "°"
+          unit_pattern_count_other: "{0}°"
+        temperature_celsius:
+          display_name: "องศาเซลเซียส"
+          unit_pattern_count_other: "{0}°C"
+        temperature_fahrenheit:
+          display_name: "องศาฟาเรนไฮต์"
+          unit_pattern_count_other: "{0}°F"
+        temperature_kelvin:
+          display_name: K
+          unit_pattern_count_other: "{0} K"
+        volume_cubic_kilometer:
+          display_name: "ลบ.กม."
+          unit_pattern_count_other: "{0} ลบ.กม."
+        volume_cubic_meter:
+          display_name: "ลบ.ม."
+          unit_pattern_count_other: "{0} ลบ.ม."
+          per_unit_pattern: "{0}/ลบ.ม."
+        volume_cubic_centimeter:
+          display_name: "ลบ.ซม."
+          unit_pattern_count_other: "{0} ลบ.ซม."
+          per_unit_pattern: "{0}/ลบ.ซม."
+        volume_cubic_mile:
+          display_name: "ลบ.ไมล์"
+          unit_pattern_count_other: "{0} ลบ.ไมล์"
+        volume_cubic_yard:
+          display_name: "ลบ.หลา"
+          unit_pattern_count_other: "{0} ลบ.หลา"
+        volume_cubic_foot:
+          display_name: "ลบ.ฟุต"
+          unit_pattern_count_other: "{0} ลบ.ฟุต"
+        volume_cubic_inch:
+          display_name: "ลบ.นิ้ว"
+          unit_pattern_count_other: "{0} ลบ.นิ้ว"
+        volume_megaliter:
+          display_name: "เมกกะลิตร"
+          unit_pattern_count_other: "{0} เมกกะลิตร"
+        volume_hectoliter:
+          display_name: "ฮล."
+          unit_pattern_count_other: "{0} ฮล."
+        volume_liter:
+          display_name: "ลิตร"
+          unit_pattern_count_other: "{0} ล."
+          per_unit_pattern: "{0}/ล."
+        volume_deciliter:
+          display_name: "ดล."
+          unit_pattern_count_other: "{0} ดล."
+        volume_centiliter:
+          display_name: "ซล."
+          unit_pattern_count_other: "{0} ซล."
+        volume_milliliter:
+          display_name: "มล."
+          unit_pattern_count_other: "{0} มล."
+        volume_pint_metric:
+          display_name: "ไพนต์เมตริก"
+          unit_pattern_count_other: "{0} ไพนต์เมตริก"
+        volume_cup_metric:
+          display_name: "ถ. เมตริก"
+          unit_pattern_count_other: "{0} ถ. เมตริก"
+        volume_acre_foot:
+          display_name: "เอเคอร์-ฟุต"
+          unit_pattern_count_other: "{0} เอเคอร์-ฟุต"
+        volume_bushel:
+          display_name: bu
+          unit_pattern_count_other: "{0} bu"
+        volume_gallon:
+          display_name: "แกลลอน"
+          unit_pattern_count_other: "{0} แกลลอน"
+          per_unit_pattern: "{0}/แกลลอน"
+        volume_quart:
+          display_name: "คว."
+          unit_pattern_count_other: "{0} คว."
+        volume_pint:
+          display_name: "ไพนต์"
+          unit_pattern_count_other: "{0} ไพนต์"
+        volume_cup:
+          display_name: "ถ้วย"
+          unit_pattern_count_other: "{0} ถ."
+        volume_fluid_ounce:
+          display_name: "ฟลูอิดออนซ์"
+          unit_pattern_count_other: "{0} ฟลูอิดออนซ์"
+        volume_tablespoon:
+          display_name: "ชต."
+          unit_pattern_count_other: "{0} ชต."
+        volume_teaspoon:
+          display_name: "ชช."
+          unit_pattern_count_other: "{0} ชช."
+        coordinate_unit:
+          east: "{0} ตอ"
+          north: "{0} น"
+          south: "{0}ใต้"
+          west: "{0} ตต"
+      narrow:
+        per:
+          compound_unit_pattern: "{0}/{1}"
+        acceleration_g_force:
+          display_name: "แรง G"
+          unit_pattern_count_other: "{0}G"
+        acceleration_meter_per_second_squared:
+          display_name: "เมตร/วินาที²"
+          unit_pattern_count_other: "{0} ม./วินาที²"
+        angle_revolution:
+          display_name: "รอบ"
+          unit_pattern_count_other: "{0} รอบ"
+        angle_radian:
+          display_name: "เรเดียน"
+          unit_pattern_count_other: "{0} เรเดียน"
+        angle_degree:
+          display_name: "องศา"
+          unit_pattern_count_other: "{0}°"
+        angle_arc_minute:
+          display_name: "ลิปดา"
+          unit_pattern_count_other: "{0}นาที"
+        angle_arc_second:
+          display_name: "พิลิปดา"
+          unit_pattern_count_other: "{0}วิ"
+        area_square_kilometer:
+          display_name: "ตร.กม."
+          unit_pattern_count_other: "{0}ตร.กม."
+        area_hectare:
+          display_name: "เฮกตาร์"
+          unit_pattern_count_other: "{0}เฮกตาร์"
+        area_square_meter:
+          display_name: "ตร.ม."
+          unit_pattern_count_other: "{0}ตร.ม."
+          per_unit_pattern: "{0} ต่อ ตร.ม."
+        area_square_centimeter:
+          display_name: "ตร.ซม."
+          unit_pattern_count_other: "{0} ตร.ซม."
+          per_unit_pattern: "{0} ต่อ ตร.ซม."
+        area_square_mile:
+          display_name: "ตร.ไมล์"
+          unit_pattern_count_other: "{0}ตร.ไมล์"
+        area_acre:
+          display_name: "เอเคอร์"
+          unit_pattern_count_other: "{0}เอเคอร์"
+        area_square_yard:
+          display_name: "ตร.ว."
+          unit_pattern_count_other: "{0} ตร.ว."
+        area_square_foot:
+          display_name: "ตร.ฟุต"
+          unit_pattern_count_other: "{0}ตร.ฟุต"
+        area_square_inch:
+          display_name: "ตร.นิ้ว"
+          unit_pattern_count_other: "{0} ตร.นิ้ว"
+          per_unit_pattern: "{0} ต่อตารางนิ้ว"
+        consumption_liter_per_kilometer:
+          display_name: "ลิตร/กม."
+          unit_pattern_count_other: "{0} ล./กม."
+        consumption_liter_per_100kilometers:
+          display_name: "ล. /100 กม."
+          unit_pattern_count_other: "{0}ล/100กม"
+        consumption_mile_per_gallon:
+          display_name: "ไมล์/แกลลอน"
+          unit_pattern_count_other: "{0} ไมล์/แกลลอน"
+        digital_terabyte:
+          display_name: TB
+          unit_pattern_count_other: "{0} TB"
+        digital_terabit:
+          display_name: Tb
+          unit_pattern_count_other: "{0} Tb"
+        digital_gigabyte:
+          display_name: GB
+          unit_pattern_count_other: "{0} GB"
+        digital_gigabit:
+          display_name: Gb
+          unit_pattern_count_other: "{0} Gb"
+        digital_megabyte:
+          display_name: MB
+          unit_pattern_count_other: "{0} MB"
+        digital_megabit:
+          display_name: Mb
+          unit_pattern_count_other: "{0} Mb"
+        digital_kilobyte:
+          display_name: kB
+          unit_pattern_count_other: "{0} kB"
+        digital_kilobit:
+          display_name: kb
+          unit_pattern_count_other: "{0} kb"
+        digital_byte:
+          display_name: "ไบต์"
+          unit_pattern_count_other: "{0} ไบต์"
+        digital_bit:
+          display_name: "บิต"
+          unit_pattern_count_other: "{0} บิต"
+        duration_century:
+          display_name: "ศตวรรษ"
+          unit_pattern_count_other: "{0} ศตวรรษ"
+        duration_year:
+          display_name: "ปี"
+          unit_pattern_count_other: "{0}ปี"
+          per_unit_pattern: "{0}/ปี"
+        duration_month:
+          display_name: "เดือน"
+          unit_pattern_count_other: "{0}เดือน"
+          per_unit_pattern: "{0}/เดือน"
+        duration_week:
+          display_name: "สัปดาห์"
+          unit_pattern_count_other: "{0}สัปดาห์"
+          per_unit_pattern: "{0}/สัปดาห์"
+        duration_day:
+          display_name: "วัน"
+          unit_pattern_count_other: "{0}วัน"
+          per_unit_pattern: "{0}/วัน"
+        duration_hour:
+          display_name: "ชั่วโมง"
+          unit_pattern_count_other: "{0}ชม."
+          per_unit_pattern: "{0}/ชม."
+        duration_minute:
+          display_name: "นาที"
+          unit_pattern_count_other: "{0}นาที"
+          per_unit_pattern: "{0}/นาที"
+        duration_second:
+          display_name: "วิ"
+          unit_pattern_count_other: "{0}วิ"
+          per_unit_pattern: "{0}/วิ"
+        duration_millisecond:
+          display_name: "มิลลิวินาที"
+          unit_pattern_count_other: "{0} มิลลิวิ"
+        duration_microsecond:
+          display_name: "ไมโครวินาที"
+          unit_pattern_count_other: "{0} ไมโครวิ"
+        duration_nanosecond:
+          display_name: "นาโนวินาที"
+          unit_pattern_count_other: "{0} นาโนวิ"
+        electric_ampere:
+          display_name: "แอมป์"
+          unit_pattern_count_other: "{0} แอมป์"
+        electric_milliampere:
+          display_name: "มิลลิแอมป์"
+          unit_pattern_count_other: "{0} มิลลิแอมป์"
+        electric_ohm:
+          display_name: "โอห์ม"
+          unit_pattern_count_other: "{0} Ω"
+        electric_volt:
+          display_name: "โวลต์"
+          unit_pattern_count_other: "{0} V"
+        energy_kilocalorie:
+          display_name: "กิโลแคลอรี่"
+          unit_pattern_count_other: "{0} กิโลแคลอรี่"
+        energy_calorie:
+          display_name: "แคลอรี่"
+          unit_pattern_count_other: "{0} แคลอรี่"
+        energy_foodcalorie:
+          display_name: "แคลอรี่"
+          unit_pattern_count_other: "{0} แคลอรี่"
+        energy_kilojoule:
+          display_name: "กิโลจูล"
+          unit_pattern_count_other: "{0} กิโลจูล"
+        energy_joule:
+          display_name: "จูล"
+          unit_pattern_count_other: "{0} จูล"
+        energy_kilowatt_hour:
+          display_name: "กว.-ชม."
+          unit_pattern_count_other: "{0} กว.-ชม."
+        frequency_gigahertz:
+          display_name: GHz
+          unit_pattern_count_other: "{0} GHz"
+        frequency_megahertz:
+          display_name: MHz
+          unit_pattern_count_other: "{0} MHz"
+        frequency_kilohertz:
+          display_name: kHz
+          unit_pattern_count_other: "{0} kHz"
+        frequency_hertz:
+          display_name: Hz
+          unit_pattern_count_other: "{0} Hz"
+        length_kilometer:
+          display_name: "กม."
+          unit_pattern_count_other: "{0}กม."
+          per_unit_pattern: "{0}/กม."
+        length_meter:
+          display_name: "เมตร"
+          unit_pattern_count_other: "{0}ม."
+          per_unit_pattern: "{0}/ม."
+        length_decimeter:
+          display_name: "ดม."
+          unit_pattern_count_other: "{0} ดม."
+        length_centimeter:
+          display_name: "ซม."
+          unit_pattern_count_other: "{0}ซม."
+          per_unit_pattern: "{0}/ซม."
+        length_millimeter:
+          display_name: "มม."
+          unit_pattern_count_other: "{0}มม."
+        length_micrometer:
+          display_name: "ไมโครเมตร"
+          unit_pattern_count_other: "{0} ไมโครเมตร"
+        length_nanometer:
+          display_name: "น.ม."
+          unit_pattern_count_other: "{0} น.ม."
+        length_picometer:
+          display_name: "พิโกเมตร"
+          unit_pattern_count_other: "{0}พิโกเมตร"
+        length_mile:
+          display_name: "ไมล์"
+          unit_pattern_count_other: "{0}ไมล์"
+        length_yard:
+          display_name: "หลา"
+          unit_pattern_count_other: "{0}หลา"
+        length_foot:
+          display_name: "ฟุต"
+          unit_pattern_count_other: "{0}′"
+          per_unit_pattern: "{0}/ฟุต"
+        length_inch:
+          display_name: "นิ้ว"
+          unit_pattern_count_other: "{0}″"
+          per_unit_pattern: "{0}/นิ้ว"
+        length_parsec:
+          display_name: "พาร์เซก"
+          unit_pattern_count_other: "{0} พาร์เซก"
+        length_light_year:
+          display_name: "ปีแสง"
+          unit_pattern_count_other: "{0}ปีแสง"
+        length_astronomical_unit:
+          display_name: "หน่วยดาราศาสตร์"
+          unit_pattern_count_other: "{0} หน่วยดาราศาสตร์"
+        length_furlong:
+          display_name: fur
+          unit_pattern_count_other: "{0} fur"
+        length_fathom:
+          display_name: fm
+          unit_pattern_count_other: "{0} fm"
+        length_nautical_mile:
+          display_name: "ไมล์ทะเล"
+          unit_pattern_count_other: "{0} ไมล์ทะเล"
+        length_mile_scandinavian:
+          display_name: "ไมล์สแกนดินีเวีย"
+          unit_pattern_count_other: "{0} ไมล์สแกนดินีเวีย"
+        light_lux:
+          display_name: "ลักซ์"
+          unit_pattern_count_other: "{0} ลักซ์"
+        mass_metric_ton:
+          display_name: "ต."
+          unit_pattern_count_other: "{0} ต."
+        mass_kilogram:
+          display_name: "กก."
+          unit_pattern_count_other: "{0}กก."
+          per_unit_pattern: "{0}/ก.ก."
+        mass_gram:
+          display_name: "กรัม"
+          unit_pattern_count_other: "{0}ก."
+          per_unit_pattern: "{0}/กรัม"
+        mass_milligram:
+          display_name: "มก."
+          unit_pattern_count_other: "{0} มก."
+        mass_microgram:
+          display_name: "มคก."
+          unit_pattern_count_other: "{0} มคก."
+        mass_ton:
+          display_name: "ตัน"
+          unit_pattern_count_other: "{0} ตัน"
+        mass_stone:
+          display_name: st
+          unit_pattern_count_other: "{0} st"
+        mass_pound:
+          display_name: "ปอนด์"
+          unit_pattern_count_other: "{0}#"
+          per_unit_pattern: "{0}/ปอนด์"
+        mass_ounce:
+          display_name: "ออนซ์"
+          unit_pattern_count_other: "{0}ออนซ์"
+          per_unit_pattern: "{0}/ออนซ์"
+        mass_ounce_troy:
+          display_name: "ทรอยออนซ์"
+          unit_pattern_count_other: "{0} ทรอยออนซ์"
+        mass_carat:
+          display_name: "กะรัต"
+          unit_pattern_count_other: "{0} กะรัต"
+        power_gigawatt:
+          display_name: "กิกะวัตต์"
+          unit_pattern_count_other: "{0} กิกะวัตต์"
+        power_megawatt:
+          display_name: "เมกะวัตต์"
+          unit_pattern_count_other: "{0} เมกะวัตต์"
+        power_kilowatt:
+          display_name: "กิโลวัตต์"
+          unit_pattern_count_other: "{0}กิโลวัตต์"
+        power_watt:
+          display_name: "วัตต์"
+          unit_pattern_count_other: "{0}วัตต์"
+        power_milliwatt:
+          display_name: "มิลลิวัตต์"
+          unit_pattern_count_other: "{0} มิลลิวัตต์"
+        power_horsepower:
+          display_name: "แรงม้า"
+          unit_pattern_count_other: "{0}แรงม้า"
+        pressure_hectopascal:
+          display_name: "เฮกโตปาสกาล"
+          unit_pattern_count_other: "{0}hPa"
+        pressure_millimeter_of_mercury:
+          display_name: "มม. ปรอท"
+          unit_pattern_count_other: "{0} มม. ปรอท"
+        pressure_pound_per_square_inch:
+          display_name: "ปอนด์/ตร.นิ้ว"
+          unit_pattern_count_other: "{0} ปอนด์/ตร.นิ้ว"
+        pressure_inch_hg:
+          display_name: "นิ้วปรอท"
+          unit_pattern_count_other: '{0}\" Hg'
+        pressure_millibar:
+          display_name: "มิลลิบาร์"
+          unit_pattern_count_other: "{0}มิลลิบาร์"
+        proportion_karat:
+          display_name: "กะรัต"
+          unit_pattern_count_other: "{0} กะรัต"
+        speed_kilometer_per_hour:
+          display_name: "กม./ชม."
+          unit_pattern_count_other: "{0}กม./ชม."
+        speed_meter_per_second:
+          display_name: "เมตรต่อวินาที"
+          unit_pattern_count_other: "{0}ม./วิ"
+        speed_mile_per_hour:
+          display_name: "ไมล์/ชั่วโมง"
+          unit_pattern_count_other: "{0}ไมล์/ชม."
+        speed_knot:
+          display_name: "นอต"
+          unit_pattern_count_other: "{0} นอต"
+        temperature_generic:
+          display_name: "°"
+          unit_pattern_count_other: "{0}°"
+        temperature_celsius:
+          display_name: "°C"
+          unit_pattern_count_other: "{0}°C"
+        temperature_fahrenheit:
+          display_name: "องศาฟาเรนไฮต์"
+          unit_pattern_count_other: "{0}°F"
+        temperature_kelvin:
+          display_name: K
+          unit_pattern_count_other: "{0} K"
+        volume_cubic_kilometer:
+          display_name: "ลบ.กม."
+          unit_pattern_count_other: "{0}ลบ.กม."
+        volume_cubic_meter:
+          display_name: "ลบ.ม."
+          unit_pattern_count_other: "{0} ลบ.ม."
+          per_unit_pattern: "{0}/ลบ.ม."
+        volume_cubic_centimeter:
+          display_name: "ลบ.ซม."
+          unit_pattern_count_other: "{0} ลบ.ซม."
+          per_unit_pattern: "{0}/ลบ.ซม."
+        volume_cubic_mile:
+          display_name: "ลบ.ไมล์"
+          unit_pattern_count_other: "{0}ลบ.ไมล์"
+        volume_cubic_yard:
+          display_name: "ลบ.หลา"
+          unit_pattern_count_other: "{0} ลบ.หลา"
+        volume_cubic_foot:
+          display_name: "ลบ.ฟุต"
+          unit_pattern_count_other: "{0} ลบ.ฟุต"
+        volume_cubic_inch:
+          display_name: "ลบ.นิ้ว"
+          unit_pattern_count_other: "{0} ลบ.นิ้ว"
+        volume_megaliter:
+          display_name: "เมกกะลิตร"
+          unit_pattern_count_other: "{0} เมกกะลิตร"
+        volume_hectoliter:
+          display_name: "ฮล."
+          unit_pattern_count_other: "{0} ฮล."
+        volume_liter:
+          display_name: "ลิตร"
+          unit_pattern_count_other: "{0}ล."
+          per_unit_pattern: "{0}/ล."
+        volume_deciliter:
+          display_name: "ดล."
+          unit_pattern_count_other: "{0} ดล."
+        volume_centiliter:
+          display_name: "ซล."
+          unit_pattern_count_other: "{0} ซล."
+        volume_milliliter:
+          display_name: "มล."
+          unit_pattern_count_other: "{0} มล."
+        volume_pint_metric:
+          display_name: "ไพนต์เมตริก"
+          unit_pattern_count_other: "{0} ไพนต์เมตริก"
+        volume_cup_metric:
+          display_name: "ถ. เมตริก"
+          unit_pattern_count_other: "{0} ถ. เมตริก"
+        volume_acre_foot:
+          display_name: "เอเคอร์-ฟุต"
+          unit_pattern_count_other: "{0} เอเคอร์-ฟุต"
+        volume_bushel:
+          display_name: bu
+          unit_pattern_count_other: "{0} bu"
+        volume_gallon:
+          display_name: "แกลลอน"
+          unit_pattern_count_other: "{0} แกลลอน"
+          per_unit_pattern: "{0}/แกลลอน"
+        volume_quart:
+          display_name: "คว."
+          unit_pattern_count_other: "{0} คว."
+        volume_pint:
+          display_name: "ไพนต์"
+          unit_pattern_count_other: "{0} ไพนต์"
+        volume_cup:
+          display_name: "ถ้วย"
+          unit_pattern_count_other: "{0} ถ."
+        volume_fluid_ounce:
+          display_name: "ฟลูอิดออนซ์"
+          unit_pattern_count_other: "{0} ฟลูอิดออนซ์"
+        volume_tablespoon:
+          display_name: "ชต."
+          unit_pattern_count_other: "{0} ชต."
+        volume_teaspoon:
+          display_name: "ชช."
+          unit_pattern_count_other: "{0} ชช."
+        coordinate_unit:
+          east: "{0} ตอ"
+          north: "{0} น"
+          south: "{0}ใต้"
+          west: "{0} ตต"
+      duration_unit_type_hm:
+        duration_unit_pattern: h:mm
+      duration_unit_type_hms:
+        duration_unit_pattern: h:mm:ss
+      duration_unit_type_ms:
+        duration_unit_pattern: m:ss

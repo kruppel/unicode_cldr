@@ -1,0 +1,4919 @@
+---
+ko:
+  cldr:
+    dates:
+      calendars:
+        gregorian:
+          months:
+            format:
+              abbreviated:
+                '1': 1월
+                '2': 2월
+                '3': 3월
+                '4': 4월
+                '5': 5월
+                '6': 6월
+                '7': 7월
+                '8': 8월
+                '9': 9월
+                '10': 10월
+                '11': 11월
+                '12': 12월
+              narrow:
+                '1': 1월
+                '2': 2월
+                '3': 3월
+                '4': 4월
+                '5': 5월
+                '6': 6월
+                '7': 7월
+                '8': 8월
+                '9': 9월
+                '10': 10월
+                '11': 11월
+                '12': 12월
+              wide:
+                '1': 1월
+                '2': 2월
+                '3': 3월
+                '4': 4월
+                '5': 5월
+                '6': 6월
+                '7': 7월
+                '8': 8월
+                '9': 9월
+                '10': 10월
+                '11': 11월
+                '12': 12월
+            stand_alone:
+              abbreviated:
+                '1': 1월
+                '2': 2월
+                '3': 3월
+                '4': 4월
+                '5': 5월
+                '6': 6월
+                '7': 7월
+                '8': 8월
+                '9': 9월
+                '10': 10월
+                '11': 11월
+                '12': 12월
+              narrow:
+                '1': 1월
+                '2': 2월
+                '3': 3월
+                '4': 4월
+                '5': 5월
+                '6': 6월
+                '7': 7월
+                '8': 8월
+                '9': 9월
+                '10': 10월
+                '11': 11월
+                '12': 12월
+              wide:
+                '1': 1월
+                '2': 2월
+                '3': 3월
+                '4': 4월
+                '5': 5월
+                '6': 6월
+                '7': 7월
+                '8': 8월
+                '9': 9월
+                '10': 10월
+                '11': 11월
+                '12': 12월
+          days:
+            format:
+              abbreviated:
+                sun: "일"
+                mon: "월"
+                tue: "화"
+                wed: "수"
+                thu: "목"
+                fri: "금"
+                sat: "토"
+              narrow:
+                sun: "일"
+                mon: "월"
+                tue: "화"
+                wed: "수"
+                thu: "목"
+                fri: "금"
+                sat: "토"
+              short:
+                sun: "일"
+                mon: "월"
+                tue: "화"
+                wed: "수"
+                thu: "목"
+                fri: "금"
+                sat: "토"
+              wide:
+                sun: "일요일"
+                mon: "월요일"
+                tue: "화요일"
+                wed: "수요일"
+                thu: "목요일"
+                fri: "금요일"
+                sat: "토요일"
+            stand_alone:
+              abbreviated:
+                sun: "일"
+                mon: "월"
+                tue: "화"
+                wed: "수"
+                thu: "목"
+                fri: "금"
+                sat: "토"
+              narrow:
+                sun: "일"
+                mon: "월"
+                tue: "화"
+                wed: "수"
+                thu: "목"
+                fri: "금"
+                sat: "토"
+              short:
+                sun: "일"
+                mon: "월"
+                tue: "화"
+                wed: "수"
+                thu: "목"
+                fri: "금"
+                sat: "토"
+              wide:
+                sun: "일요일"
+                mon: "월요일"
+                tue: "화요일"
+                wed: "수요일"
+                thu: "목요일"
+                fri: "금요일"
+                sat: "토요일"
+          quarters:
+            format:
+              abbreviated:
+                '1': 1분기
+                '2': 2분기
+                '3': 3분기
+                '4': 4분기
+              narrow:
+                '1': '1'
+                '2': '2'
+                '3': '3'
+                '4': '4'
+              wide:
+                '1': "제 1/4분기"
+                '2': "제 2/4분기"
+                '3': "제 3/4분기"
+                '4': "제 4/4분기"
+            stand_alone:
+              abbreviated:
+                '1': 1분기
+                '2': 2분기
+                '3': 3분기
+                '4': 4분기
+              narrow:
+                '1': '1'
+                '2': '2'
+                '3': '3'
+                '4': '4'
+              wide:
+                '1': "제 1/4분기"
+                '2': "제 2/4분기"
+                '3': "제 3/4분기"
+                '4': "제 4/4분기"
+          day_periods:
+            format:
+              abbreviated:
+                midnight: "자정"
+                am: AM
+                noon: "정오"
+                pm: PM
+                morning1: "새벽"
+                morning2: "오전"
+                afternoon1: "오후"
+                evening1: "저녁"
+                night1: "밤"
+              narrow:
+                midnight: "자정"
+                am: AM
+                noon: "정오"
+                pm: PM
+                morning1: "새벽"
+                morning2: "오전"
+                afternoon1: "오후"
+                evening1: "저녁"
+                night1: "밤"
+              wide:
+                midnight: "자정"
+                am: "오전"
+                noon: "정오"
+                pm: "오후"
+                morning1: "새벽"
+                morning2: "오전"
+                afternoon1: "오후"
+                evening1: "저녁"
+                night1: "밤"
+            stand_alone:
+              abbreviated:
+                midnight: "자정"
+                am: "오전"
+                noon: "정오"
+                pm: "오후"
+                morning1: "새벽"
+                morning2: "오전"
+                afternoon1: "오후"
+                evening1: "저녁"
+                night1: "밤"
+              narrow:
+                midnight: "자정"
+                am: AM
+                noon: "정오"
+                pm: PM
+                morning1: "새벽"
+                morning2: "오전"
+                afternoon1: "오후"
+                evening1: "저녁"
+                night1: "밤"
+              wide:
+                midnight: "자정"
+                am: "오전"
+                noon: "정오"
+                pm: "오후"
+                morning1: "새벽"
+                morning2: "오전"
+                afternoon1: "오후"
+                evening1: "저녁"
+                night1: "밤"
+          eras:
+            era_names:
+              '0': "기원전"
+              0_alt_variant: BCE
+              '1': "서기"
+              1_alt_variant: CE
+            era_abbr:
+              '0': BC
+              0_alt_variant: BCE
+              '1': AD
+              1_alt_variant: CE
+            era_narrow:
+              '0': BC
+              0_alt_variant: BCE
+              '1': AD
+              1_alt_variant: CE
+          date_formats:
+            full: y년 M월 d일 EEEE
+            long: y년 M월 d일
+            medium: y. M. d.
+            short: yy. M. d.
+          time_formats:
+            full: a h시 m분 s초 zzzz
+            long: a h시 m분 s초 z
+            medium: a h:mm:ss
+            short: a h:mm
+          date_time_formats:
+            full: "{1} {0}"
+            long: "{1} {0}"
+            medium: "{1} {0}"
+            short: "{1} {0}"
+            available_formats:
+              d: d일
+              e: ccc
+              ed: d일 (E)
+              eee_ed: d일 EEEE
+              ehm: "(E) a h:mm"
+              e_hm: "(E) HH:mm"
+              ehms: "(E) a h:mm:ss"
+              e_hms: "(E) HH:mm:ss"
+              gy: G y년
+              gy_mmm: G y년 MMM
+              gy_mm_md: G y년 MMM d일
+              gy_mmm_ed: G y년 MMM d일 (E)
+              gy_mmmeee_ed: G y년 MMM d일 EEEE
+              h: H시
+              h_hmmss: HH:mm:ss
+              hm: HH:mm
+              hms: H시 m분 s초
+              hmsv: H시 m분 s초 v
+              hmv: HH:mm v
+              m: M월
+              md: M. d.
+              m_ed: M. d. (E)
+              meee_ed: M. d. EEEE
+              mmm: LLL
+              mm_md: MMM d일
+              mmm_ed: MMM d일 (E)
+              mmmeee_ed: MMM d일 EEEE
+              mmm_md: MMMM d일
+              mmss: mm:ss
+              ms: mm:ss
+              y: y년
+              y_m: y. M.
+              y_md: y. M. d.
+              y_m_ed: y. M. d. (E)
+              y_meee_ed: y. M. d. EEEE
+              y_mm: y. M.
+              y_mmm: y년 MMM
+              y_mm_md: y년 MMM d일
+              y_mmm_ed: y년 MMM d일 (E)
+              y_mmmeee_ed: y년 MMM d일 EEEE
+              y_mmmm: y년 MMMM
+              y_qqq: y년 QQQ
+              y_qqqq: y년 QQQQ
+            append_items:
+              day: "{0} ({2}: {1})"
+              day_of_week: "{0} {1}"
+              era: "{1} {0}"
+              hour: "{0} ({2}: {1})"
+              minute: "{0} ({2}: {1})"
+              month: "{0} ({2}: {1})"
+              quarter: "{0} ({2}: {1})"
+              second: "{0} ({2}: {1})"
+              timezone: "{0} {1}"
+              week: "{0} ({2}: {1})"
+              year: "{1} {0}"
+            interval_formats:
+              interval_format_fallback: "{0} ~ {1}"
+              d:
+                d: d일~d일
+              h:
+                h: H ~ H시
+              hm:
+                h: HH:mm ~ HH:mm
+                m: HH:mm ~ HH:mm
+              hmv:
+                h: HH:mm ~ HH:mm v
+                m: HH:mm ~ HH:mm v
+              hv:
+                h: HH ~ HH시 v
+              m:
+                m: M월~M월
+              md:
+                d: M. d ~ M. d
+                m: M. d ~ M. d
+              m_ed:
+                d: M. d (E) ~ M. d (E)
+                m: M. d (E) ~ M. d (E)
+              mmm:
+                m: MMM~MMM
+              mm_md:
+                d: MMM d일~d일
+                m: M월 d일 ~ M월 d일
+              mmm_ed:
+                d: M월 d일 (E) ~ d일 (E)
+                m: M월 d일 (E) ~ M월 d일 (E)
+              mmmm:
+                m: LLLL–LLLL
+              y:
+                y: y년 ~ y년
+              y_m:
+                m: y. M ~ y. M
+                y: y. M ~ y. M
+              y_md:
+                d: y. M. d. ~ y. M. d.
+                m: y. M. d. ~ y. M. d.
+                y: y. M. d. ~ y. M. d.
+              y_m_ed:
+                d: y. M. d. (E) ~ y. M. d. (E)
+                m: y. M. d. (E) ~ y. M. d. (E)
+                y: y. M. d. (E) ~ y. M. d. (E)
+              y_mmm:
+                m: y년 M월~M월
+                y: y년 M월 ~ y년 M월
+              y_mm_md:
+                d: y년 M월 d일~d일
+                m: y년 M월 d일 ~ M월 d일
+                y: y년 M월 d일 ~ y년 M월 d일
+              y_mmm_ed:
+                d: y년 M월 d일 (E) ~ d일 (E)
+                m: y년 M월 d일 (E) ~ M월 d일 (E)
+                y: y년 M월 d일 (E) ~ y년 M월 d일 (E)
+              y_mmmeee_ed:
+                d: y년 M월 d일 EEEE ~ d일 EEEE
+                m: y년 M월 d일 EEEE ~ M월 d일 EEEE
+                y: y년 M월 d일 EEEE ~ y년 M월 d일 EEEE
+              y_mmmm:
+                m: y년 MMMM ~ MMMM
+                y: y년 MMMM ~ y년 MMMM
+      fields:
+        era:
+          display_name: "연호"
+        year:
+          display_name: "년"
+          relative_type__1: "작년"
+          relative_type_0: "올해"
+          relative_type_1: "내년"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}년 후"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}년 전"
+        year_short:
+          display_name: "년"
+          relative_type__1: "작년"
+          relative_type_0: "올해"
+          relative_type_1: "내년"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}년 후"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}년 전"
+        year_narrow:
+          display_name: "년"
+          relative_type__1: "작년"
+          relative_type_0: "올해"
+          relative_type_1: "내년"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}년 후"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}년 전"
+        quarter:
+          display_name: "분기"
+          relative_type__1: last quarter
+          relative_type_0: this quarter
+          relative_type_1: next quarter
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}분기 후"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}분기 전"
+        quarter_short:
+          display_name: "분기"
+          relative_type__1: last quarter
+          relative_type_0: this quarter
+          relative_type_1: next quarter
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}분기 후"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}분기 전"
+        quarter_narrow:
+          display_name: "분기"
+          relative_type__1: last quarter
+          relative_type_0: this quarter
+          relative_type_1: next quarter
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}분기 후"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}분기 전"
+        month:
+          display_name: "월"
+          relative_type__1: "지난달"
+          relative_type_0: "이번 달"
+          relative_type_1: "다음 달"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}개월 후"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}개월 전"
+        month_short:
+          display_name: "월"
+          relative_type__1: "지난달"
+          relative_type_0: "이번 달"
+          relative_type_1: "다음 달"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}개월 후"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}개월 전"
+        month_narrow:
+          display_name: "월"
+          relative_type__1: "지난달"
+          relative_type_0: "이번 달"
+          relative_type_1: "다음 달"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}개월 후"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}개월 전"
+        week:
+          display_name: "주"
+          relative_type__1: "지난주"
+          relative_type_0: "이번 주"
+          relative_type_1: "다음 주"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}주 후"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}주 전"
+        week_short:
+          display_name: "주"
+          relative_type__1: "지난주"
+          relative_type_0: "이번 주"
+          relative_type_1: "다음 주"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}주 후"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}주 전"
+        week_narrow:
+          display_name: "주"
+          relative_type__1: "지난주"
+          relative_type_0: "이번 주"
+          relative_type_1: "다음 주"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}주 후"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}주 전"
+        day:
+          display_name: "일"
+          relative_type__2: "그저께"
+          relative_type__1: "어제"
+          relative_type_0: "오늘"
+          relative_type_1: "내일"
+          relative_type_2: "모레"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}일 후"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}일 전"
+        day_short:
+          display_name: "일"
+          relative_type__2: "그저께"
+          relative_type__1: "어제"
+          relative_type_0: "오늘"
+          relative_type_1: "내일"
+          relative_type_2: "모레"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}일 후"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}일 전"
+        day_narrow:
+          display_name: "일"
+          relative_type__2: "그저께"
+          relative_type__1: "어제"
+          relative_type_0: "오늘"
+          relative_type_1: "내일"
+          relative_type_2: "모레"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}일 후"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}일 전"
+        weekday:
+          display_name: "요일"
+        sun:
+          relative_type__1: "지난 일요일"
+          relative_type_0: "이번 일요일"
+          relative_type_1: "다음 일요일"
+        sun_short:
+          relative_type__1: "지난 일요일"
+          relative_type_0: "이번 일요일"
+          relative_type_1: "다음 일요일"
+        sun_narrow:
+          relative_type__1: "지난 일요일"
+          relative_type_0: "이번 일요일"
+          relative_type_1: "다음 일요일"
+        mon:
+          relative_type__1: "지난 월요일"
+          relative_type_0: "이번 월요일"
+          relative_type_1: "다음 월요일"
+        mon_short:
+          relative_type__1: "지난 월요일"
+          relative_type_0: "이번 월요일"
+          relative_type_1: "다음 월요일"
+        mon_narrow:
+          relative_type__1: "지난 월요일"
+          relative_type_0: "이번 월요일"
+          relative_type_1: "다음 월요일"
+        tue:
+          relative_type__1: "지난 화요일"
+          relative_type_0: "이번 화요일"
+          relative_type_1: "다음 화요일"
+        tue_short:
+          relative_type__1: "지난 화요일"
+          relative_type_0: "이번 화요일"
+          relative_type_1: "다음 화요일"
+        tue_narrow:
+          relative_type__1: "지난 화요일"
+          relative_type_0: "이번 화요일"
+          relative_type_1: "다음 화요일"
+        wed:
+          relative_type__1: "지난 수요일"
+          relative_type_0: "이번 수요일"
+          relative_type_1: "다음 수요일"
+        wed_short:
+          relative_type__1: "지난 수요일"
+          relative_type_0: "이번 수요일"
+          relative_type_1: "다음 수요일"
+        wed_narrow:
+          relative_type__1: "지난 수요일"
+          relative_type_0: "이번 수요일"
+          relative_type_1: "다음 수요일"
+        thu:
+          relative_type__1: "지난 목요일"
+          relative_type_0: "이번 목요일"
+          relative_type_1: "다음 목요일"
+        thu_short:
+          relative_type__1: "지난 목요일"
+          relative_type_0: "이번 목요일"
+          relative_type_1: "다음 목요일"
+        thu_narrow:
+          relative_type__1: "지난 목요일"
+          relative_type_0: "이번 목요일"
+          relative_type_1: "다음 목요일"
+        fri:
+          relative_type__1: "지난 금요일"
+          relative_type_0: "이번 금요일"
+          relative_type_1: "다음 금요일"
+        fri_short:
+          relative_type__1: "지난 금요일"
+          relative_type_0: "이번 금요일"
+          relative_type_1: "다음 금요일"
+        fri_narrow:
+          relative_type__1: "지난 금요일"
+          relative_type_0: "이번 금요일"
+          relative_type_1: "다음 금요일"
+        sat:
+          relative_type__1: "지난 토요일"
+          relative_type_0: "이번 토요일"
+          relative_type_1: "다음 토요일"
+        sat_short:
+          relative_type__1: "지난 토요일"
+          relative_type_0: "이번 토요일"
+          relative_type_1: "다음 토요일"
+        sat_narrow:
+          relative_type__1: "지난 토요일"
+          relative_type_0: "이번 토요일"
+          relative_type_1: "다음 토요일"
+        dayperiod:
+          display_name: "오전/오후"
+        hour:
+          display_name: "시"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}시간 후"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}시간 전"
+        hour_short:
+          display_name: "시"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}시간 후"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}시간 전"
+        hour_narrow:
+          display_name: "시"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}시간 후"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}시간 전"
+        minute:
+          display_name: "분"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}분 후"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}분 전"
+        minute_short:
+          display_name: "분"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}분 후"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}분 전"
+        minute_narrow:
+          display_name: "분"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}분 후"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}분 전"
+        second:
+          display_name: "초"
+          relative_type_0: "지금"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}초 후"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}초 전"
+        second_short:
+          display_name: "초"
+          relative_type_0: "지금"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}초 후"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}초 전"
+        second_narrow:
+          display_name: "초"
+          relative_type_0: "지금"
+          relative_time_type_future:
+            relative_time_pattern_count_other: "{0}초 후"
+          relative_time_type_past:
+            relative_time_pattern_count_other: "{0}초 전"
+        zone:
+          display_name: "시간대"
+      time_zone_names:
+        hour_format: "+HH:mm;-HH:mm"
+        gmt_format: GMT{0}
+        gmt_zero_format: GMT
+        region_format: "{0} 시간"
+        region_format_type_daylight: "{0} 하계 표준시"
+        region_format_type_standard: "{0} 표준시"
+        fallback_format: "{1}({0})"
+        zone:
+          america:
+            adak:
+              exemplar_city: "에이닥"
+            anchorage:
+              exemplar_city: "앵커리지"
+            anguilla:
+              exemplar_city: "앙귈라"
+            antigua:
+              exemplar_city: "안티과"
+            araguaina:
+              exemplar_city: "아라과이나"
+            argentina:
+              rio_gallegos:
+                exemplar_city: "리오 가예고스"
+              san_juan:
+                exemplar_city: "산후안"
+              ushuaia:
+                exemplar_city: "우수아이아"
+              la_rioja:
+                exemplar_city: "라 리오하"
+              san_luis:
+                exemplar_city: "산루이스"
+              salta:
+                exemplar_city: "살타"
+              tucuman:
+                exemplar_city: "뚜꾸만"
+            aruba:
+              exemplar_city: "아루바"
+            asuncion:
+              exemplar_city: "아순시온"
+            bahia:
+              exemplar_city: "바히아"
+            bahia_banderas:
+              exemplar_city: "바이아 반데라스"
+            barbados:
+              exemplar_city: "바베이도스"
+            belem:
+              exemplar_city: "벨렘"
+            belize:
+              exemplar_city: "벨리즈"
+            blanc_sablon:
+              exemplar_city: "블랑 사블롱"
+            boa_vista:
+              exemplar_city: "보아 비스타"
+            bogota:
+              exemplar_city: "보고타"
+            boise:
+              exemplar_city: "보이시"
+            buenos_aires:
+              exemplar_city: "부에노스 아이레스"
+            cambridge_bay:
+              exemplar_city: "케임브리지 베이"
+            campo_grande:
+              exemplar_city: "캄포 그란데"
+            cancun:
+              exemplar_city: "칸쿤"
+            caracas:
+              exemplar_city: "카라카스"
+            catamarca:
+              exemplar_city: "카타마르카"
+            cayenne:
+              exemplar_city: "카옌"
+            cayman:
+              exemplar_city: "케이맨"
+            chicago:
+              exemplar_city: "시카고"
+            chihuahua:
+              exemplar_city: "치와와"
+            coral_harbour:
+              exemplar_city: "코랄하버"
+            cordoba:
+              exemplar_city: "코르도바"
+            costa_rica:
+              exemplar_city: "코스타리카"
+            creston:
+              exemplar_city: "크레스톤"
+            cuiaba:
+              exemplar_city: "쿠이아바"
+            curacao:
+              exemplar_city: "퀴라소"
+            danmarkshavn:
+              exemplar_city: "덴마크샤븐"
+            dawson:
+              exemplar_city: "도슨"
+            dawson_creek:
+              exemplar_city: "도슨크릭"
+            denver:
+              exemplar_city: "덴버"
+            detroit:
+              exemplar_city: "디트로이트"
+            dominica:
+              exemplar_city: "도미니카"
+            edmonton:
+              exemplar_city: "에드먼턴"
+            eirunepe:
+              exemplar_city: "아이루네페"
+            el_salvador:
+              exemplar_city: "엘살바도르"
+            fortaleza:
+              exemplar_city: "포르탈레자"
+            glace_bay:
+              exemplar_city: "글라스베이"
+            godthab:
+              exemplar_city: "고드호프"
+            goose_bay:
+              exemplar_city: "구즈베이"
+            grand_turk:
+              exemplar_city: "그랜드 터크"
+            grenada:
+              exemplar_city: "그레나다"
+            guadeloupe:
+              exemplar_city: "과들루프"
+            guatemala:
+              exemplar_city: "과테말라"
+            guayaquil:
+              exemplar_city: "과야킬"
+            guyana:
+              exemplar_city: "가이아나"
+            halifax:
+              exemplar_city: "핼리팩스"
+            havana:
+              exemplar_city: "하바나"
+            hermosillo:
+              exemplar_city: "에르모시요"
+            indiana:
+              vincennes:
+                exemplar_city: "인디아나주, 뱅센"
+              petersburg:
+                exemplar_city: "인디애나주, 피츠버그"
+              tell_city:
+                exemplar_city: "인디아나주, 텔시티"
+              knox:
+                exemplar_city: "인디애나주 녹스"
+              winamac:
+                exemplar_city: "인디아나주, 워너맥"
+              marengo:
+                exemplar_city: "인디애나주, 마렝고"
+              vevay:
+                exemplar_city: "비비"
+            indianapolis:
+              exemplar_city: "인디애나폴리스"
+            inuvik:
+              exemplar_city: "이누빅"
+            iqaluit:
+              exemplar_city: "이칼루이트"
+            jamaica:
+              exemplar_city: "자메이카"
+            jujuy:
+              exemplar_city: "후후이"
+            juneau:
+              exemplar_city: "주노"
+            kentucky:
+              monticello:
+                exemplar_city: "켄터키주, 몬티첼로"
+            kralendijk:
+              exemplar_city: "크라렌디즈크"
+            la_paz:
+              exemplar_city: "라파스"
+            lima:
+              exemplar_city: "리마"
+            los_angeles:
+              exemplar_city: "로스앤젤레스"
+            louisville:
+              exemplar_city: "루이빌"
+            lower_princes:
+              exemplar_city: "로워 프린스 쿼터"
+            maceio:
+              exemplar_city: "마세이오"
+            managua:
+              exemplar_city: "마나과"
+            manaus:
+              exemplar_city: "마나우스"
+            marigot:
+              exemplar_city: "마리곳"
+            martinique:
+              exemplar_city: "마티니크"
+            matamoros:
+              exemplar_city: "마타모로스"
+            mazatlan:
+              exemplar_city: "마사틀란"
+            mendoza:
+              exemplar_city: "멘도사"
+            menominee:
+              exemplar_city: "메노미니"
+            merida:
+              exemplar_city: "메리다"
+            metlakatla:
+              exemplar_city: "메틀라카틀라"
+            mexico_city:
+              exemplar_city: "멕시코 시티"
+            miquelon:
+              exemplar_city: "미클롱"
+            moncton:
+              exemplar_city: "몽턴"
+            monterrey:
+              exemplar_city: "몬테레이"
+            montevideo:
+              exemplar_city: "몬테비데오"
+            montserrat:
+              exemplar_city: "몬세라트"
+            nassau:
+              exemplar_city: "나소"
+            new_york:
+              exemplar_city: "뉴욕"
+            nipigon:
+              exemplar_city: "니피곤"
+            nome:
+              exemplar_city: "놈"
+            noronha:
+              exemplar_city: "노롱야"
+            north_dakota:
+              beulah:
+                exemplar_city: "노스다코타주, 베라"
+              new_salem:
+                exemplar_city: "노스 다코타주, 뉴살렘"
+              center:
+                exemplar_city: "중부, 노스다코타"
+            ojinaga:
+              exemplar_city: "오히나가"
+            panama:
+              exemplar_city: "파나마"
+            pangnirtung:
+              exemplar_city: "팡니르퉁"
+            paramaribo:
+              exemplar_city: "파라마리보"
+            phoenix:
+              exemplar_city: "피닉스"
+            port_au_prince:
+              exemplar_city: "포르토프랭스"
+            port_of_spain:
+              exemplar_city: "포트오브스페인"
+            porto_velho:
+              exemplar_city: "포르투벨류"
+            puerto_rico:
+              exemplar_city: "푸에르토리코"
+            rainy_river:
+              exemplar_city: "레이니강"
+            rankin_inlet:
+              exemplar_city: "랭킹 인렛"
+            recife:
+              exemplar_city: "레시페"
+            regina:
+              exemplar_city: "리자이나"
+            resolute:
+              exemplar_city: "리졸루트"
+            rio_branco:
+              exemplar_city: "히우 브랑쿠"
+            santa_isabel:
+              exemplar_city: "산타 이사벨"
+            santarem:
+              exemplar_city: "산타렘"
+            santiago:
+              exemplar_city: "산티아고"
+            santo_domingo:
+              exemplar_city: "산토도밍고"
+            sao_paulo:
+              exemplar_city: "상파울로"
+            scoresbysund:
+              exemplar_city: "스코레스바이선드"
+            sitka:
+              exemplar_city: "싯카"
+            st_barthelemy:
+              exemplar_city: "생바르텔레미"
+            st_johns:
+              exemplar_city: "세인트존스"
+            st_kitts:
+              exemplar_city: "세인트 키츠"
+            st_lucia:
+              exemplar_city: "세인트 루시아"
+            st_thomas:
+              exemplar_city: "세인트 토마스"
+            st_vincent:
+              exemplar_city: "세인트 빈센트"
+            swift_current:
+              exemplar_city: "스위프트커런트"
+            tegucigalpa:
+              exemplar_city: "테구시갈파"
+            thule:
+              exemplar_city: "툴레"
+            thunder_bay:
+              exemplar_city: "선더베이"
+            tijuana:
+              exemplar_city: "티후아나"
+            toronto:
+              exemplar_city: "토론토"
+            tortola:
+              exemplar_city: "토르톨라"
+            vancouver:
+              exemplar_city: "벤쿠버"
+            whitehorse:
+              exemplar_city: "화이트호스"
+            winnipeg:
+              exemplar_city: "위니펙"
+            yakutat:
+              exemplar_city: "야쿠타트"
+            yellowknife:
+              exemplar_city: "옐로나이프"
+          atlantic:
+            azores:
+              exemplar_city: "아조레스"
+            bermuda:
+              exemplar_city: "버뮤다"
+            canary:
+              exemplar_city: "카나리아 제도"
+            cape_verde:
+              exemplar_city: "카보 베르데"
+            faeroe:
+              exemplar_city: "페로 제도"
+            madeira:
+              exemplar_city: "마데이라"
+            reykjavik:
+              exemplar_city: "레이캬비크"
+            south_georgia:
+              exemplar_city: "사우스조지아"
+            st_helena:
+              exemplar_city: "세인트 헬레나"
+            stanley:
+              exemplar_city: "스탠리"
+          europe:
+            amsterdam:
+              exemplar_city: "암스테르담"
+            andorra:
+              exemplar_city: "안도라"
+            athens:
+              exemplar_city: "아테네"
+            belgrade:
+              exemplar_city: "베오그라드"
+            berlin:
+              exemplar_city: "베를린"
+            bratislava:
+              exemplar_city: "브라티슬라바"
+            brussels:
+              exemplar_city: "브뤼셀"
+            bucharest:
+              exemplar_city: "부쿠레슈티"
+            budapest:
+              exemplar_city: "부다페스트"
+            busingen:
+              exemplar_city: "뷔지겐"
+            chisinau:
+              exemplar_city: "키시나우"
+            copenhagen:
+              exemplar_city: "코펜하겐"
+            dublin:
+              long:
+                daylight: "아일랜드 시간"
+              exemplar_city: "더블린"
+            gibraltar:
+              exemplar_city: "지브롤터"
+            guernsey:
+              exemplar_city: "건지"
+            helsinki:
+              exemplar_city: "헬싱키"
+            isle_of_man:
+              exemplar_city: "맨섬"
+            istanbul:
+              exemplar_city: "이스탄불"
+            jersey:
+              exemplar_city: "저지"
+            kaliningrad:
+              exemplar_city: "칼리닌그라드"
+            kiev:
+              exemplar_city: "키예프"
+            lisbon:
+              exemplar_city: "리스본"
+            ljubljana:
+              exemplar_city: "류블랴나"
+            london:
+              long:
+                daylight: "영국 하계 표준시"
+              exemplar_city: "런던"
+            luxembourg:
+              exemplar_city: "룩셈부르크"
+            madrid:
+              exemplar_city: "마드리드"
+            malta:
+              exemplar_city: "몰타"
+            mariehamn:
+              exemplar_city: "마리에함"
+            minsk:
+              exemplar_city: "민스크"
+            monaco:
+              exemplar_city: "모나코"
+            moscow:
+              exemplar_city: "모스크바"
+            oslo:
+              exemplar_city: "오슬로"
+            paris:
+              exemplar_city: "파리"
+            podgorica:
+              exemplar_city: "포드고리차"
+            prague:
+              exemplar_city: "프라하"
+            riga:
+              exemplar_city: "리가"
+            rome:
+              exemplar_city: "로마"
+            samara:
+              exemplar_city: "사마라"
+            san_marino:
+              exemplar_city: "산마리노"
+            sarajevo:
+              exemplar_city: "사라예보"
+            simferopol:
+              exemplar_city: "심페로폴"
+            skopje:
+              exemplar_city: "스코페"
+            sofia:
+              exemplar_city: "소피아"
+            stockholm:
+              exemplar_city: "스톡홀름"
+            tallinn:
+              exemplar_city: "탈린"
+            tirane:
+              exemplar_city: "티라나"
+            uzhgorod:
+              exemplar_city: "우주고로트"
+            vaduz:
+              exemplar_city: "파두츠"
+            vatican:
+              exemplar_city: "바티칸"
+            vienna:
+              exemplar_city: "비엔나"
+            vilnius:
+              exemplar_city: "빌니우스"
+            volgograd:
+              exemplar_city: "볼고그라트"
+            warsaw:
+              exemplar_city: "바르샤바"
+            zagreb:
+              exemplar_city: "자그레브"
+            zaporozhye:
+              exemplar_city: "자포로지예"
+            zurich:
+              exemplar_city: "취리히"
+          africa:
+            abidjan:
+              exemplar_city: "아비장"
+            accra:
+              exemplar_city: "아크라"
+            addis_ababa:
+              exemplar_city: "아디스아바바"
+            algiers:
+              exemplar_city: "알제"
+            asmera:
+              exemplar_city: "아스메라"
+            bamako:
+              exemplar_city: "바마코"
+            bangui:
+              exemplar_city: "방기"
+            banjul:
+              exemplar_city: "반줄"
+            bissau:
+              exemplar_city: "비사우"
+            blantyre:
+              exemplar_city: "블랜타이어"
+            brazzaville:
+              exemplar_city: "브라자빌"
+            bujumbura:
+              exemplar_city: "부줌부라"
+            cairo:
+              exemplar_city: "카이로"
+            casablanca:
+              exemplar_city: "카사블랑카"
+            ceuta:
+              exemplar_city: "세우타"
+            conakry:
+              exemplar_city: "코나크리"
+            dakar:
+              exemplar_city: "다카르"
+            dar_es_salaam:
+              exemplar_city: "다르에스살람"
+            djibouti:
+              exemplar_city: "지부티"
+            douala:
+              exemplar_city: "두알라"
+            el_aaiun:
+              exemplar_city: "엘아이운"
+            freetown:
+              exemplar_city: "프리타운"
+            gaborone:
+              exemplar_city: "가보로네"
+            harare:
+              exemplar_city: "하라레"
+            johannesburg:
+              exemplar_city: "요하네스버그"
+            juba:
+              exemplar_city: "주바"
+            kampala:
+              exemplar_city: "캄팔라"
+            khartoum:
+              exemplar_city: "카르툼"
+            kigali:
+              exemplar_city: "키갈리"
+            kinshasa:
+              exemplar_city: "킨샤사"
+            lagos:
+              exemplar_city: "라고스"
+            libreville:
+              exemplar_city: "리브르빌"
+            lome:
+              exemplar_city: "로메"
+            luanda:
+              exemplar_city: "루안다"
+            lubumbashi:
+              exemplar_city: "루붐바시"
+            lusaka:
+              exemplar_city: "루사카"
+            malabo:
+              exemplar_city: "말라보"
+            maputo:
+              exemplar_city: "마푸토"
+            maseru:
+              exemplar_city: "마세루"
+            mbabane:
+              exemplar_city: "음바바네"
+            mogadishu:
+              exemplar_city: "모가디슈"
+            monrovia:
+              exemplar_city: "몬로비아"
+            nairobi:
+              exemplar_city: "나이로비"
+            ndjamena:
+              exemplar_city: "엔자메나"
+            niamey:
+              exemplar_city: "니아메"
+            nouakchott:
+              exemplar_city: "누악쇼트"
+            ouagadougou:
+              exemplar_city: "와가두구"
+            porto_novo:
+              exemplar_city: "포르토노보"
+            sao_tome:
+              exemplar_city: "상투메"
+            tripoli:
+              exemplar_city: "트리폴리"
+            tunis:
+              exemplar_city: "튀니스"
+            windhoek:
+              exemplar_city: "빈트후크"
+          asia:
+            aden:
+              exemplar_city: "아덴"
+            almaty:
+              exemplar_city: "알마티"
+            amman:
+              exemplar_city: "암만"
+            anadyr:
+              exemplar_city: "아나디리"
+            aqtau:
+              exemplar_city: "아크타우"
+            aqtobe:
+              exemplar_city: "악토브"
+            ashgabat:
+              exemplar_city: "아슈하바트"
+            baghdad:
+              exemplar_city: "바그다드"
+            bahrain:
+              exemplar_city: "바레인"
+            baku:
+              exemplar_city: "바쿠"
+            bangkok:
+              exemplar_city: "방콕"
+            beirut:
+              exemplar_city: "베이루트"
+            bishkek:
+              exemplar_city: "비슈케크"
+            brunei:
+              exemplar_city: "브루나이"
+            calcutta:
+              exemplar_city: "콜카타"
+            chita:
+              exemplar_city: "치타"
+            choibalsan:
+              exemplar_city: "초이발산"
+            colombo:
+              exemplar_city: "콜롬보"
+            damascus:
+              exemplar_city: "다마스쿠스"
+            dhaka:
+              exemplar_city: "다카"
+            dili:
+              exemplar_city: "딜리"
+            dubai:
+              exemplar_city: "두바이"
+            dushanbe:
+              exemplar_city: "두샨베"
+            gaza:
+              exemplar_city: "가자"
+            hebron:
+              exemplar_city: "헤브론"
+            hong_kong:
+              exemplar_city: "홍콩"
+            hovd:
+              exemplar_city: "호브드"
+            irkutsk:
+              exemplar_city: "이르쿠츠크"
+            jakarta:
+              exemplar_city: "자카르타"
+            jayapura:
+              exemplar_city: "자야푸라"
+            jerusalem:
+              exemplar_city: "예루살렘"
+            kabul:
+              exemplar_city: "카불"
+            kamchatka:
+              exemplar_city: "캄차카"
+            karachi:
+              exemplar_city: "카라치"
+            katmandu:
+              exemplar_city: "카트만두"
+            khandyga:
+              exemplar_city: "한디가"
+            krasnoyarsk:
+              exemplar_city: "크라스노야르스크"
+            kuala_lumpur:
+              exemplar_city: "쿠알라룸푸르"
+            kuching:
+              exemplar_city: "쿠칭"
+            kuwait:
+              exemplar_city: "쿠웨이트"
+            macau:
+              exemplar_city: "마카오"
+            magadan:
+              exemplar_city: "마가단"
+            makassar:
+              exemplar_city: "마카사르"
+            manila:
+              exemplar_city: "마닐라"
+            muscat:
+              exemplar_city: "무스카트"
+            nicosia:
+              exemplar_city: "니코시아"
+            novokuznetsk:
+              exemplar_city: "노보쿠즈네츠크"
+            novosibirsk:
+              exemplar_city: "노보시비르스크"
+            omsk:
+              exemplar_city: "옴스크"
+            oral:
+              exemplar_city: "오랄"
+            phnom_penh:
+              exemplar_city: "프놈펜"
+            pontianak:
+              exemplar_city: "폰티아나크"
+            pyongyang:
+              exemplar_city: "평양"
+            qatar:
+              exemplar_city: "카타르"
+            qyzylorda:
+              exemplar_city: "키질로르다"
+            rangoon:
+              exemplar_city: "랑군"
+            riyadh:
+              exemplar_city: "리야드"
+            saigon:
+              exemplar_city: "사이공"
+            sakhalin:
+              exemplar_city: "사할린"
+            samarkand:
+              exemplar_city: "사마르칸트"
+            seoul:
+              exemplar_city: "서울"
+            shanghai:
+              exemplar_city: "상하이"
+            singapore:
+              exemplar_city: "싱가포르"
+            srednekolymsk:
+              exemplar_city: "스레드네콜림스크"
+            taipei:
+              exemplar_city: "타이베이"
+            tashkent:
+              exemplar_city: "타슈켄트"
+            tbilisi:
+              exemplar_city: "트빌리시"
+            tehran:
+              exemplar_city: "테헤란"
+            thimphu:
+              exemplar_city: "팀부"
+            tokyo:
+              exemplar_city: "도쿄"
+            ulaanbaatar:
+              exemplar_city: "울란바토르"
+            urumqi:
+              exemplar_city: "우루무치"
+            ust_nera:
+              exemplar_city: "우스티네라"
+            vientiane:
+              exemplar_city: "비엔티안"
+            vladivostok:
+              exemplar_city: "블라디보스토크"
+            yakutsk:
+              exemplar_city: "야쿠츠크"
+            yekaterinburg:
+              exemplar_city: "예카테린부르크"
+            yerevan:
+              exemplar_city: "예레반"
+          indian:
+            antananarivo:
+              exemplar_city: "안타나나리보"
+            chagos:
+              exemplar_city: "차고스"
+            christmas:
+              exemplar_city: "크리스마스"
+            cocos:
+              exemplar_city: "코코스"
+            comoro:
+              exemplar_city: "코모로"
+            kerguelen:
+              exemplar_city: "케르켈렌"
+            mahe:
+              exemplar_city: "마헤"
+            maldives:
+              exemplar_city: "몰디브"
+            mauritius:
+              exemplar_city: "모리셔스"
+            mayotte:
+              exemplar_city: "메요트"
+            reunion:
+              exemplar_city: "레위니옹"
+          australia:
+            adelaide:
+              exemplar_city: "애들레이드"
+            brisbane:
+              exemplar_city: "브리스베인"
+            broken_hill:
+              exemplar_city: "브로컨힐"
+            currie:
+              exemplar_city: "퀴리"
+            darwin:
+              exemplar_city: "다윈"
+            eucla:
+              exemplar_city: "유클라"
+            hobart:
+              exemplar_city: "호바트"
+            lindeman:
+              exemplar_city: "린데만"
+            lord_howe:
+              exemplar_city: "로드 하우"
+            melbourne:
+              exemplar_city: "멜버른"
+            perth:
+              exemplar_city: "퍼스"
+            sydney:
+              exemplar_city: "시드니"
+          pacific:
+            apia:
+              exemplar_city: "아피아"
+            auckland:
+              exemplar_city: "오클랜드"
+            bougainville:
+              exemplar_city: "부갱빌"
+            chatham:
+              exemplar_city: "채텀"
+            easter:
+              exemplar_city: "이스터 섬"
+            efate:
+              exemplar_city: "에파테"
+            enderbury:
+              exemplar_city: "엔더베리"
+            fakaofo:
+              exemplar_city: "파카오푸"
+            fiji:
+              exemplar_city: "피지"
+            funafuti:
+              exemplar_city: "푸나푸티"
+            galapagos:
+              exemplar_city: "갈라파고스"
+            gambier:
+              exemplar_city: "감비어"
+            guadalcanal:
+              exemplar_city: "과달카날"
+            guam:
+              exemplar_city: "괌"
+            honolulu:
+              exemplar_city: "호놀룰루"
+            johnston:
+              exemplar_city: "존스톤"
+            kiritimati:
+              exemplar_city: "키리티마티"
+            kosrae:
+              exemplar_city: "코스레"
+            kwajalein:
+              exemplar_city: "콰잘렌"
+            majuro:
+              exemplar_city: "마주로"
+            marquesas:
+              exemplar_city: "마퀘사스"
+            midway:
+              exemplar_city: "미드웨이"
+            nauru:
+              exemplar_city: "나우루"
+            niue:
+              exemplar_city: "니우에"
+            norfolk:
+              exemplar_city: "노퍽"
+            noumea:
+              exemplar_city: "누메아"
+            pago_pago:
+              exemplar_city: "파고파고"
+            palau:
+              exemplar_city: "팔라우"
+            pitcairn:
+              exemplar_city: "핏케언"
+            ponape:
+              exemplar_city: "포나페"
+            port_moresby:
+              exemplar_city: "포트모르즈비"
+            rarotonga:
+              exemplar_city: "라로통가"
+            saipan:
+              exemplar_city: "사이판"
+            tahiti:
+              exemplar_city: "타히티"
+            tarawa:
+              exemplar_city: "타라와"
+            tongatapu:
+              exemplar_city: "통가타푸"
+            truk:
+              exemplar_city: "트루크"
+            wake:
+              exemplar_city: "웨이크"
+            wallis:
+              exemplar_city: "월리스"
+          arctic:
+            longyearbyen:
+              exemplar_city: "롱이어비엔"
+          antarctica:
+            casey:
+              exemplar_city: "케이시"
+            davis:
+              exemplar_city: "데이비스"
+            dumont_d_urville:
+              exemplar_city: "뒤몽 뒤르빌"
+            macquarie:
+              exemplar_city: "맥쿼리"
+            mawson:
+              exemplar_city: "모슨"
+            mc_murdo:
+              exemplar_city: "맥머도"
+            palmer:
+              exemplar_city: "파머"
+            rothera:
+              exemplar_city: "로데라"
+            syowa:
+              exemplar_city: "쇼와"
+            troll:
+              exemplar_city: "트롤"
+            vostok:
+              exemplar_city: "보스토크"
+          etc:
+            gmt:
+              exemplar_city: GMT
+            gmt1:
+              exemplar_city: GMT+1
+            gmt10:
+              exemplar_city: GMT+10
+            gmt11:
+              exemplar_city: GMT+11
+            gmt12:
+              exemplar_city: GMT+12
+            gmt2:
+              exemplar_city: GMT+2
+            gmt3:
+              exemplar_city: GMT+3
+            gmt4:
+              exemplar_city: GMT+4
+            gmt5:
+              exemplar_city: GMT+5
+            gmt6:
+              exemplar_city: GMT+6
+            gmt7:
+              exemplar_city: GMT+7
+            gmt8:
+              exemplar_city: GMT+8
+            gmt9:
+              exemplar_city: GMT+9
+            gmt_1:
+              exemplar_city: GMT-1
+            gmt_10:
+              exemplar_city: GMT-10
+            gmt_11:
+              exemplar_city: GMT-11
+            gmt_12:
+              exemplar_city: GMT-12
+            gmt_13:
+              exemplar_city: GMT-13
+            gmt_14:
+              exemplar_city: GMT-14
+            gmt_2:
+              exemplar_city: GMT-2
+            gmt_3:
+              exemplar_city: GMT-3
+            gmt_4:
+              exemplar_city: GMT-4
+            gmt_5:
+              exemplar_city: GMT-5
+            gmt_6:
+              exemplar_city: GMT-6
+            gmt_7:
+              exemplar_city: GMT-7
+            gmt_8:
+              exemplar_city: GMT-8
+            gmt_9:
+              exemplar_city: GMT-9
+            unknown:
+              exemplar_city: "알 수 없는 장소"
+        metazone:
+          acre:
+            long:
+              generic: "아크레 시간"
+              standard: "아크레 표준시"
+              daylight: "아크레 하계 표준시"
+          afghanistan:
+            long:
+              standard: "아프가니스탄 시간"
+          africa_central:
+            long:
+              standard: "중앙아프리카 시간"
+          africa_eastern:
+            long:
+              standard: "동아프리카 시간"
+          africa_southern:
+            long:
+              standard: "남아프리카 시간"
+          africa_western:
+            long:
+              generic: "서아프리카 시간"
+              standard: "서아프리카 표준시"
+              daylight: "서아프리카 하계 표준시"
+          alaska:
+            long:
+              generic: "알래스카 시간"
+              standard: "알래스카 표준시"
+              daylight: "알래스카 하계 표준시"
+          almaty:
+            long:
+              generic: "알마티 표준 시간"
+              standard: "알마티 표준 표준시"
+              daylight: "알마티 서머 타임"
+          amazon:
+            long:
+              generic: "아마존 시간"
+              standard: "아마존 표준시"
+              daylight: "아마존 하계 표준시"
+          america_central:
+            long:
+              generic: "미 중부 시간"
+              standard: "미 중부 표준시"
+              daylight: "미 중부 하계 표준시"
+          america_eastern:
+            long:
+              generic: "미 동부 시간"
+              standard: "미 동부 표준시"
+              daylight: "미 동부 하계 표준시"
+          america_mountain:
+            long:
+              generic: "미 산지 시간"
+              standard: "미 산악 표준시"
+              daylight: "미 산지 하계 표준시"
+          america_pacific:
+            long:
+              generic: "미 태평양 시간"
+              standard: "미 태평양 표준시"
+              daylight: "미 태평양 하계 표준시"
+          anadyr:
+            long:
+              generic: "아나디리 시간"
+              standard: "아나디리 표준시"
+              daylight: "아나디리 서머 타임"
+          apia:
+            long:
+              generic: "아피아 시간"
+              standard: "아피아 표준시"
+              daylight: "아피아 하계 표준시"
+          aqtau:
+            long:
+              generic: "악타우 표준 시간"
+              standard: "악타우 표준 표준시"
+              daylight: "악타우 서머 타임"
+          aqtobe:
+            long:
+              generic: "악퇴베 표준 시간"
+              standard: "악퇴베 표준 표준시"
+              daylight: "악퇴베 서머 타임"
+          arabian:
+            long:
+              generic: "아라비아 시간"
+              standard: "아라비아 표준시"
+              daylight: "아라비아 하계 표준시"
+          argentina:
+            long:
+              generic: "아르헨티나 시간"
+              standard: "아르헨티나 표준시"
+              daylight: "아르헨티나 하계 표준시"
+          argentina_western:
+            long:
+              generic: "아르헨티나 서부 시간"
+              standard: "아르헨티나 서부 표준시"
+              daylight: "아르헨티나 서부 하계 표준시"
+          armenia:
+            long:
+              generic: "아르메니아 시간"
+              standard: "아르메니아 표준시"
+              daylight: "아르메니아 하계 표준시"
+          atlantic:
+            long:
+              generic: "대서양 시간"
+              standard: "대서양 표준시"
+              daylight: "미 대서양 하계 표준시"
+          australia_central:
+            long:
+              generic: "오스트레일리아 중부 시간"
+              standard: "오스트레일리아 중부 표준시"
+              daylight: "오스트레일리아 중부 하계 표준시"
+          australia_central_western:
+            long:
+              generic: "오스트레일리아 중서부 시간"
+              standard: "오스트레일리아 중서부 표준시"
+              daylight: "오스트레일리아 중서부 하계 표준시"
+          australia_eastern:
+            long:
+              generic: "오스트레일리아 동부 시간"
+              standard: "오스트레일리아 동부 표준시"
+              daylight: "오스트레일리아 동부 하계 표준시"
+          australia_western:
+            long:
+              generic: "오스트레일리아 서부 시간"
+              standard: "오스트레일리아 서부 표준시"
+              daylight: "오스트레일리아 서부 하계 표준시"
+          azerbaijan:
+            long:
+              generic: "아제르바이잔 시간"
+              standard: "아제르바이잔 표준시"
+              daylight: "아제르바이잔 하계 표준시"
+          azores:
+            long:
+              generic: "아조레스 시간"
+              standard: "아조레스 표준시"
+              daylight: "아조레스 하계 표준시"
+          bangladesh:
+            long:
+              generic: "방글라데시 시간"
+              standard: "방글라데시 표준시"
+              daylight: "방글라데시 하계 표준시"
+          bhutan:
+            long:
+              standard: "부탄 시간"
+          bolivia:
+            long:
+              standard: "볼리비아 시간"
+          brasilia:
+            long:
+              generic: "브라질리아 시간"
+              standard: "브라질리아 표준시"
+              daylight: "브라질리아 하계 표준시"
+          brunei:
+            long:
+              standard: "브루나이 시간"
+          cape_verde:
+            long:
+              generic: "카보 베르데 시간"
+              standard: "카보 베르데 표준시"
+              daylight: "카보 베르데 하계 표준시"
+          casey:
+            long:
+              standard: "케이시 시간"
+          chamorro:
+            long:
+              standard: "차모로 시간"
+          chatham:
+            long:
+              generic: "채텀 시간"
+              standard: "채텀 표준시"
+              daylight: "채텀 하계 표준시"
+          chile:
+            long:
+              generic: "칠레 시간"
+              standard: "칠레 표준시"
+              daylight: "칠레 하계 표준시"
+          china:
+            long:
+              generic: "중국 시간"
+              standard: "중국 표준시"
+              daylight: "중국 하계 표준시"
+          choibalsan:
+            long:
+              generic: "초이발산 시간"
+              standard: "초이발산 표준시"
+              daylight: "초이발산 하계 표준시"
+          christmas:
+            long:
+              standard: "크리스마스섬 시간"
+          cocos:
+            long:
+              standard: "코코스 제도 시간"
+          colombia:
+            long:
+              generic: "콜롬비아 시간"
+              standard: "콜롬비아 표준시"
+              daylight: "콜롬비아 하계 표준시"
+          cook:
+            long:
+              generic: "쿡 제도 시간"
+              standard: "쿡 제도 표준시"
+              daylight: "쿡 제도 절반 서머 타임"
+          cuba:
+            long:
+              generic: "쿠바 시간"
+              standard: "쿠바 표준시"
+              daylight: "쿠바 하계 표준시"
+          davis:
+            long:
+              standard: "데이비스 시간"
+          dumont_d_urville:
+            long:
+              standard: "뒤몽뒤르빌 시간"
+          east_timor:
+            long:
+              standard: "동티모르 시간"
+          easter:
+            long:
+              generic: "이스터섬 시간"
+              standard: "이스터섬 표준시"
+              daylight: "이스터섬 하계 표준시"
+          ecuador:
+            long:
+              standard: "에콰도르 시간"
+          europe_central:
+            long:
+              generic: "중부 유럽 시간"
+              standard: "중부 유럽 표준시"
+              daylight: "중부 유럽 하계 표준시"
+          europe_eastern:
+            long:
+              generic: "동유럽 시간"
+              standard: "동유럽 표준시"
+              daylight: "동유럽 하계 표준시"
+          europe_further_eastern:
+            long:
+              standard: "극동 유럽 표준시"
+          europe_western:
+            long:
+              generic: "서유럽 시간"
+              standard: "서유럽 표준시"
+              daylight: "서유럽 서머 타임"
+          falkland:
+            long:
+              generic: "포클랜드 제도 시간"
+              standard: "포클랜드 제도 표준시"
+              daylight: "포클랜드 제도 하계 표준시"
+          fiji:
+            long:
+              generic: "피지 시간"
+              standard: "피지 표준시"
+              daylight: "피지 서머 타임"
+          french_guiana:
+            long:
+              standard: "프랑스령 가이아나 시간"
+          french_southern:
+            long:
+              standard: "프랑스령 남부 식민지 및 남극 시간"
+          galapagos:
+            long:
+              standard: "갈라파고스 시간"
+          gambier:
+            long:
+              standard: "감비에 시간"
+          georgia:
+            long:
+              generic: "그루지아 시간"
+              standard: "그루지아 표준시"
+              daylight: "그루지아 하계 표준시"
+          gilbert_islands:
+            long:
+              standard: "길버트 제도 시간"
+          gmt:
+            long:
+              standard: "그리니치 표준시"
+          greenland_eastern:
+            long:
+              generic: "그린란드 동부 시간"
+              standard: "그린란드 동부 표준시"
+              daylight: "그린란드 동부 하계 표준시"
+          greenland_western:
+            long:
+              generic: "그린란드 서부 시간"
+              standard: "그린란드 서부 표준시"
+              daylight: "그린란드 서부 하계 표준시"
+          gulf:
+            long:
+              standard: "걸프만 표준시"
+          guyana:
+            long:
+              standard: "가이아나 시간"
+          hawaii_aleutian:
+            long:
+              generic: "하와이 알류샨 시간"
+              standard: "하와이 알류샨 표준시"
+              daylight: "하와이 알류샨 하계 표준시"
+          hong_kong:
+            long:
+              generic: "홍콩 시간"
+              standard: "홍콩 표준시"
+              daylight: "홍콩 하계 표준시"
+          hovd:
+            long:
+              generic: "호브드 시간"
+              standard: "호브드 표준시"
+              daylight: "호브드 하계 표준시"
+          india:
+            long:
+              standard: "인도 표준시"
+          indian_ocean:
+            long:
+              standard: "인도양 시간"
+          indochina:
+            long:
+              standard: "인도차이나 시간"
+          indonesia_central:
+            long:
+              standard: "중부 인도네시아 시간"
+          indonesia_eastern:
+            long:
+              standard: "동부 인도네시아 시간"
+          indonesia_western:
+            long:
+              standard: "서부 인도네시아 시간"
+          iran:
+            long:
+              generic: "이란 시간"
+              standard: "이란 표준시"
+              daylight: "이란 하계 표준시"
+          irkutsk:
+            long:
+              generic: "이르쿠츠크 시간"
+              standard: "이르쿠츠크 표준시"
+              daylight: "이르쿠츠크 하계 표준시"
+          israel:
+            long:
+              generic: "이스라엘 시간"
+              standard: "이스라엘 표준시"
+              daylight: "이스라엘 하계 표준시"
+          japan:
+            long:
+              generic: "일본 시간"
+              standard: "일본 표준시"
+              daylight: "일본 하계 표준시"
+          kamchatka:
+            long:
+              generic: "페트로파블롭스크-캄차츠키 시간"
+              standard: "페트로파블롭스크-캄차츠키 표준시"
+              daylight: "페트로파블롭스크-캄차츠키 서머 타임"
+          kazakhstan_eastern:
+            long:
+              standard: "동부 카자흐스탄 시간"
+          kazakhstan_western:
+            long:
+              standard: "서부 카자흐스탄 시간"
+          korea:
+            long:
+              generic: "대한민국 시간"
+              standard: "대한민국 표준시"
+              daylight: "대한민국 하계 표준시"
+          kosrae:
+            long:
+              standard: "코스라에섬 시간"
+          krasnoyarsk:
+            long:
+              generic: "크라스노야르스크 시간"
+              standard: "크라스노야르스크 표준시"
+              daylight: "크라스노야르스크 하계 표준시"
+          kyrgystan:
+            long:
+              standard: "키르기스스탄 시간"
+          line_islands:
+            long:
+              standard: "라인 제도 시간"
+          lord_howe:
+            long:
+              generic: "로드 하우 시간"
+              standard: "로드 하우 표준시"
+              daylight: "로드 하우 하계 표준시"
+          macau:
+            long:
+              generic: "마카오 시간"
+              standard: "마카오 표준 시간"
+              daylight: "마카오 서머 타임"
+          macquarie:
+            long:
+              standard: "매쿼리섬 시간"
+          magadan:
+            long:
+              generic: "마가단 시간"
+              standard: "마가단 표준시"
+              daylight: "마가단 하계 표준시"
+          malaysia:
+            long:
+              standard: "말레이시아 시간"
+          maldives:
+            long:
+              standard: "몰디브 시간"
+          marquesas:
+            long:
+              standard: "마르키즈 제도 시간"
+          marshall_islands:
+            long:
+              standard: "마셜 제도 시간"
+          mauritius:
+            long:
+              generic: "모리셔스 시간"
+              standard: "모리셔스 표준시"
+              daylight: "모리셔스 하계 표준시"
+          mawson:
+            long:
+              standard: "모슨 시간"
+          mexico_northwest:
+            long:
+              generic: "멕시코 북서부 시간"
+              standard: "멕시코 북서부 표준시"
+              daylight: "멕시코 북서부 하계 표준시"
+          mexico_pacific:
+            long:
+              generic: "멕시코 태평양 시간"
+              standard: "멕시코 태평양 표준시"
+              daylight: "멕시코 태평양 하계 표준시"
+          mongolia:
+            long:
+              generic: "울란바토르 시간"
+              standard: "울란바토르 표준시"
+              daylight: "울란바토르 하계 표준시"
+          moscow:
+            long:
+              generic: "모스크바 시간"
+              standard: "모스크바 표준시"
+              daylight: "모스크바 하계 표준시"
+          myanmar:
+            long:
+              standard: "미얀마 시간"
+          nauru:
+            long:
+              standard: "나우루 시간"
+          nepal:
+            long:
+              standard: "네팔 시간"
+          new_caledonia:
+            long:
+              generic: "뉴칼레도니아 시간"
+              standard: "뉴칼레도니아 표준시"
+              daylight: "뉴칼레도니아 하계 표준시"
+          new_zealand:
+            long:
+              generic: "뉴질랜드 시간"
+              standard: "뉴질랜드 표준시"
+              daylight: "뉴질랜드 하계 표준시"
+          newfoundland:
+            long:
+              generic: "뉴펀들랜드 시간"
+              standard: "뉴펀들랜드 표준시"
+              daylight: "뉴펀들랜드 하계 표준시"
+          niue:
+            long:
+              standard: "니우에 시간"
+          norfolk:
+            long:
+              standard: "노퍽섬 시간"
+          noronha:
+            long:
+              generic: "페르난도 데 노로냐 시간"
+              standard: "페르난도 데 노로냐 표준시"
+              daylight: "페르난도 데 노로냐 하계 표준시"
+          novosibirsk:
+            long:
+              generic: "노보시비르스크 시간"
+              standard: "노보시비르스크 표준시"
+              daylight: "노보시비르스크 하계 표준시"
+          omsk:
+            long:
+              generic: "옴스크 시간"
+              standard: "옴스크 표준시"
+              daylight: "옴스크 하계 표준시"
+          pakistan:
+            long:
+              generic: "파키스탄 시간"
+              standard: "파키스탄 표준시"
+              daylight: "파키스탄 하계 표준시"
+          palau:
+            long:
+              standard: "팔라우 시간"
+          papua_new_guinea:
+            long:
+              standard: "파푸아뉴기니 시간"
+          paraguay:
+            long:
+              generic: "파라과이 시간"
+              standard: "파라과이 표준시"
+              daylight: "파라과이 하계 표준시"
+          peru:
+            long:
+              generic: "페루 시간"
+              standard: "페루 표준시"
+              daylight: "페루 하계 표준시"
+          philippines:
+            long:
+              generic: "필리핀 시간"
+              standard: "필리핀 표준시"
+              daylight: "필리핀 하계 표준시"
+          phoenix_islands:
+            long:
+              standard: "피닉스 제도 시간"
+          pierre_miquelon:
+            long:
+              generic: "세인트피에르 미클롱 시간"
+              standard: "세인트피에르 미클롱 표준시"
+              daylight: "세인트피에르 미클롱 하계 표준시"
+          pitcairn:
+            long:
+              standard: "핏케언 시간"
+          ponape:
+            long:
+              standard: "포나페 시간"
+          qyzylorda:
+            long:
+              generic: "키질로르다 시간"
+              standard: "키질로르다 표준 시간"
+              daylight: "키질로르다 서머 타임"
+          reunion:
+            long:
+              standard: "레위니옹 시간"
+          rothera:
+            long:
+              standard: "로데라 시간"
+          sakhalin:
+            long:
+              generic: "사할린 시간"
+              standard: "사할린 표준시"
+              daylight: "사할린 하계 표준시"
+          samara:
+            long:
+              generic: "사마라 시간"
+              standard: "사마라 표준시"
+              daylight: "사마라 서머 타임"
+          samoa:
+            long:
+              generic: "사모아 시간"
+              standard: "사모아 표준시"
+              daylight: "사모아 하계 표준시"
+          seychelles:
+            long:
+              standard: "세이셸 시간"
+          singapore:
+            long:
+              standard: "싱가포르 표준시"
+          solomon:
+            long:
+              standard: "솔로몬 제도 시간"
+          south_georgia:
+            long:
+              standard: "사우스 조지아 시간"
+          suriname:
+            long:
+              standard: "수리남 시간"
+          syowa:
+            long:
+              standard: "쇼와 시간"
+          tahiti:
+            long:
+              standard: "타히티 시간"
+          taipei:
+            long:
+              generic: "대만 시간"
+              standard: "대만 표준시"
+              daylight: "대만 하계 표준시"
+          tajikistan:
+            long:
+              standard: "타지키스탄 시간"
+          tokelau:
+            long:
+              standard: "토켈라우 시간"
+          tonga:
+            long:
+              generic: "통가 시간"
+              standard: "통가 표준시"
+              daylight: "통가 서머 타임"
+          truk:
+            long:
+              standard: "추크 시간"
+          turkmenistan:
+            long:
+              generic: "투르크메니스탄 시간"
+              standard: "투르크메니스탄 표준시"
+              daylight: "투르크메니스탄 하계 표준시"
+          tuvalu:
+            long:
+              standard: "투발루 시간"
+          uruguay:
+            long:
+              generic: "우루과이 시간"
+              standard: "우루과이 표준시"
+              daylight: "우루과이 하계 표준시"
+          uzbekistan:
+            long:
+              generic: "우즈베키스탄 시간"
+              standard: "우즈베키스탄 표준시"
+              daylight: "우즈베키스탄 하계 표준시"
+          vanuatu:
+            long:
+              generic: "바누아투 시간"
+              standard: "바누아투 표준시"
+              daylight: "바누아투 서머 타임"
+          venezuela:
+            long:
+              standard: "베네수엘라 시간"
+          vladivostok:
+            long:
+              generic: "블라디보스토크 시간"
+              standard: "블라디보스토크 표준시"
+              daylight: "블라디보스토크 하계 표준시"
+          volgograd:
+            long:
+              generic: "볼고그라드 시간"
+              standard: "볼고그라드 표준시"
+              daylight: "볼고그라드 하계 표준시"
+          vostok:
+            long:
+              standard: "보스톡 시간"
+          wake:
+            long:
+              standard: "웨이크섬 시간"
+          wallis:
+            long:
+              standard: "월리스푸투나 제도 시간"
+          yakutsk:
+            long:
+              generic: "야쿠츠크 시간"
+              standard: "야쿠츠크 표준시"
+              daylight: "야쿠츠크 하계 표준시"
+          yekaterinburg:
+            long:
+              generic: "예카테린부르크 시간"
+              standard: "예카테린부르크 표준시"
+              daylight: "예카테린부르크 하계 표준시"
+    locale_display_names:
+      languages:
+        aa: "아파르어"
+        ab: "압카즈어"
+        ace: "아체어"
+        ach: "아콜리어"
+        ada: "아당메어"
+        ady: "아닥헤어"
+        ae: "아베스타어"
+        aeb: "튀니지 아랍어"
+        af: "아프리칸스어"
+        afh: "아프리히리어"
+        agq: "아그햄어"
+        ain: "아이누어"
+        ak: "아칸어"
+        akk: "아카드어"
+        akz: akz
+        ale: "알류트어"
+        aln: aln
+        alt: "남부 알타이어"
+        am: "암하라어"
+        an: "아라곤어"
+        ang: "고대 영어"
+        anp: "앙가어"
+        ar: "아랍어"
+        ar_001: "현대 표준 아랍어"
+        arc: "아람어"
+        arn: "아라우칸어"
+        aro: aro
+        arp: "아라파호어"
+        arq: "알제리 아랍어"
+        arw: "아라와크어"
+        ary: "모로코 아랍어"
+        arz: "이집트 아랍어"
+        as: "아삼어"
+        asa: "아수어"
+        ase: ase
+        ast: "아스투리아어"
+        av: "아바릭어"
+        avk: avk
+        awa: "아와히어"
+        ay: "아이마라어"
+        az: "아제르바이잔어"
+        az_alt_short: "아제리어"
+        ba: "바슈키르어"
+        bal: "발루치어"
+        ban: "발리어"
+        bar: bar
+        bas: "바사어"
+        bax: "바문어"
+        bbc: bbc
+        bbj: "고말라어"
+        be: "벨라루스어"
+        bej: "베자어"
+        bem: "벰바어"
+        bew: bew
+        bez: "베나어"
+        bfd: "바푸트어"
+        bfq: bfq
+        bg: "불가리아어"
+        bgn: "서부 발로치어"
+        bho: "호즈푸리어"
+        bi: "비슬라마어"
+        bik: "비콜어"
+        bin: "비니어"
+        bjn: bjn
+        bkm: "콤어"
+        bla: "식시카어"
+        bm: "밤바라어"
+        bn: "벵골어"
+        bo: "티베트어"
+        bpy: bpy
+        bqi: bqi
+        br: "브르타뉴어"
+        bra: "브라지어"
+        brh: "브라후이어"
+        brx: "보도어"
+        bs: "보스니아어"
+        bss: "아쿠즈어"
+        bua: "부리아타"
+        bug: "부기어"
+        bum: "불루어"
+        byn: "브린어"
+        byv: "메둠바어"
+        ca: "카탈로니아어"
+        cad: "카도어"
+        car: "카리브어"
+        cay: "카유가어"
+        cch: "앗삼어"
+        ce: "체첸어"
+        ceb: "세부아노어"
+        cgg: "치가어"
+        ch: "차모로어"
+        chb: "치브차어"
+        chg: "차가타이어"
+        chk: "추크어"
+        chm: "마리어"
+        chn: "치누크어와 영어 프랑스어의 혼성어"
+        cho: "촉토어"
+        chp: "치페우얀"
+        chr: "체로키어"
+        chy: "샤이엔어"
+        ckb: "소라니 쿠르드어"
+        co: "코르시카어"
+        cop: "콥트어"
+        cps: cps
+        cr: "크리어"
+        crh: "크리민 터키어; 크리민 타타르어"
+        cs: "체코어"
+        csb: "카슈비아어"
+        cu: "교회 슬라브어"
+        cv: "추바시어"
+        cy: "웨일스어"
+        da: "덴마크어"
+        dak: "다코타어"
+        dar: "다르그와어"
+        dav: "타이타어"
+        de: "독일어"
+        de_at: "독일어(오스트리아)"
+        de_ch: "고지 독일어(스위스)"
+        del: "델라웨어어"
+        den: "슬라브어"
+        dgr: "도그리브어"
+        din: "딩카어"
+        dje: "자르마어"
+        doi: "도그리어"
+        dsb: "저지 소르비아어"
+        dtp: dtp
+        dua: "두알라어"
+        dum: "중세 네덜란드어"
+        dv: "디베히어"
+        dyo: "졸라 포니어"
+        dyu: "드율라어"
+        dz: "종카어"
+        dzg: "다장가어"
+        ebu: "엠부어"
+        ee: "에웨어"
+        efi: "이픽어"
+        egl: egl
+        egy: "이집트어 (고대)"
+        eka: "이카죽어"
+        el: "그리스어"
+        elx: "엘람어"
+        en: "영어"
+        en_au: "영어(호주)"
+        en_ca: "영어(캐나다)"
+        en_gb: "영어(영국)"
+        en_gb_alt_short: "영어(영국)"
+        en_us: "영어(미국)"
+        en_us_alt_short: "영어(미국)"
+        enm: "영어, 중세"
+        eo: "에스페란토어"
+        es: "스페인어"
+        es_419: "스페인어(라틴 아메리카)"
+        es_es: "스페인어(스페인)"
+        es_mx: "스페인어(멕시코)"
+        esu: esu
+        et: "에스토니아어"
+        eu: "바스크어"
+        ewo: "이원도어"
+        ext: ext
+        fa: "페르시아어"
+        fan: "팡그어"
+        fat: "판티어"
+        ff: "풀라어"
+        fi: "핀란드어"
+        fil: "필리핀어"
+        fit: fit
+        fj: "피지어"
+        fo: "페로어"
+        fon: "폰어"
+        fr: "프랑스어"
+        fr_ca: "프랑스어(캐나다)"
+        fr_ch: "프랑스어(스위스)"
+        frc: frc
+        frm: "중세 프랑스어"
+        fro: "고대 프랑스어"
+        frp: frp
+        frr: "북부 프리슬란드어"
+        frs: "동부 프리슬란드어"
+        fur: "프리우리안어"
+        fy: "서프리지아어"
+        ga: "아일랜드어"
+        gaa: "가어"
+        gag: "가가우스어"
+        gan: gan
+        gay: "가요어"
+        gba: "그바야어"
+        gbz: "조로아스터 다리어"
+        gd: "스코틀랜드 게일어"
+        gez: "게이즈어"
+        gil: "키리바시어"
+        gl: "갈리시아어"
+        glk: "길라키어"
+        gmh: "중세 고지 독일어"
+        gn: "과라니어"
+        goh: "고대 고지 독일어"
+        gom: "고아 콘칸어"
+        gon: "곤디어"
+        gor: "고론탈로어"
+        got: "고트어"
+        grb: "게르보어"
+        grc: "그리스어, 고대"
+        gsw: "독일어(스위스)"
+        gu: "구자라트어"
+        guc: guc
+        gur: gur
+        guz: "구시어"
+        gv: "맹크스어"
+        gwi: "그위친어"
+        ha: "하우사어"
+        hai: "하이다어"
+        hak: hak
+        haw: "하와이어"
+        he: "히브리어"
+        hi: "힌디어"
+        hif: "피지 힌디어"
+        hil: "헤리가뇬어"
+        hit: "하타이트어"
+        hmn: "히몸어"
+        ho: "히리 모투어"
+        hr: "크로아티아어"
+        hsb: "고지 소르비아어"
+        hsn: hsn
+        ht: "아이티어"
+        hu: "헝가리어"
+        hup: "후파어"
+        hy: "아르메니아어"
+        hz: "헤레로어"
+        ia: "인테르링구아 (국제보조어협회)"
+        iba: "이반어"
+        ibb: "이비비오어"
+        id: "인도네시아어"
+        ie: "인테르링구에"
+        ig: "이그보어"
+        ii: "쓰촨 이어"
+        ik: "이누피아크어"
+        ilo: "이로코어"
+        inh: "인귀시어"
+        io: "이도어"
+        is: "아이슬란드어"
+        it: "이탈리아어"
+        iu: "이눅티투트어"
+        izh: izh
+        ja: "일본어"
+        jam: jam
+        jbo: "로반어"
+        jgo: "응곰바어"
+        jmc: "마차메어"
+        jpr: "유대-페르시아어"
+        jrb: "유대-아라비아어"
+        jut: jut
+        jv: "자바어"
+        ka: "조지아어"
+        kaa: "카라칼파크어"
+        kab: "커바일어"
+        kac: "카친어"
+        kaj: "까꼬토끄어"
+        kam: "캄바어"
+        kaw: "카위어"
+        kbd: "카바르디어"
+        kbl: "카넴부어"
+        kcg: "티얍어"
+        kde: "마콘데어"
+        kea: "크리올어"
+        ken: ken
+        kfo: "코로어"
+        kg: "콩고어"
+        kgp: kgp
+        kha: "카시어"
+        kho: "호탄어"
+        khq: "코이라 친니어"
+        khw: "코와르어"
+        ki: "키쿠유어"
+        kiu: kiu
+        kj: "쿠안야마어"
+        kk: "카자흐어"
+        kkj: "카코어"
+        kl: "그린란드어"
+        kln: "칼렌진어"
+        km: "캄보디아어"
+        kmb: "킴분두어"
+        kn: "칸나다어"
+        ko: "한국어"
+        koi: "코미페르먀크어"
+        kok: "코카니어"
+        kos: "코스라이엔어"
+        kpe: "크펠레어"
+        kr: "칸누리어"
+        krc: "카라챠이-발카르어"
+        kri: kri
+        krj: krj
+        krl: "카렐리야어"
+        kru: "쿠르크어"
+        ks: "카슈미르어"
+        ksb: "샴발라어"
+        ksf: "바피아어"
+        ksh: "콜로그니안어"
+        ku: "쿠르드어"
+        kum: "쿠믹어"
+        kut: "쿠테네어"
+        kv: "코미어"
+        kw: "콘월어"
+        ky: "키르기스어"
+        la: "라틴어"
+        lad: "라디노어"
+        lag: "랑기어"
+        lah: "라한다어"
+        lam: "람바어"
+        lb: "룩셈부르크어"
+        lez: "레즈기안어"
+        lfn: "링구아 프랑카 노바"
+        lg: "간다어"
+        li: "림버거어"
+        lij: lij
+        liv: liv
+        lkt: "라코타어"
+        lmo: lmo
+        ln: "링갈라어"
+        lo: "라오어"
+        lol: "몽구어"
+        loz: "로지어"
+        lrc: "북부 루리어"
+        lt: "리투아니아어"
+        ltg: ltg
+        lu: "루바-카탄가어"
+        lua: "루바-룰루아어"
+        lui: "루이세노어"
+        lun: "룬다어"
+        luo: "루오어"
+        lus: "루샤이어"
+        luy: "루야어"
+        lv: "라트비아어"
+        lzh: lzh
+        lzz: lzz
+        mad: "마두라어"
+        maf: "마파어"
+        mag: "마가히"
+        mai: "마이틸리"
+        mak: "마카사어"
+        man: "만딩고어"
+        mas: "마사이어"
+        mde: "마바어"
+        mdf: "모크샤어"
+        mdh: mdh
+        mdr: "만다르어"
+        men: "멘데어"
+        mer: "메루어"
+        mfe: "모리스얀어"
+        mg: "말라가시어"
+        mga: "아일랜드어, 중세"
+        mgh: "마크후와-메토어"
+        mgo: "메타어"
+        mh: "마셜제도어"
+        mi: "마오리어"
+        mic: "미크맥어"
+        min: "미낭카바우"
+        mis: mis
+        mk: "마케도니아어"
+        ml: "말라얄람어"
+        mn: "몽고어"
+        mnc: "만주어"
+        mni: "마니푸리어"
+        moh: "모호크어"
+        mos: "모시어"
+        mr: "마라티어"
+        mrj: "서부 마리어"
+        ms: "말레이어"
+        mt: "몰타어"
+        mua: "문당어"
+        mul: "다중 언어"
+        mus: "크리크어"
+        mwl: "미란데어"
+        mwr: "마르와리어"
+        mwv: mwv
+        my: "버마어"
+        mye: "미예네어"
+        myv: "엘즈야어"
+        mzn: "마잔데라니어"
+        na: "나우루어"
+        nan: nan
+        nap: "나폴리어"
+        naq: "나마어"
+        nb: "노르웨이어(보크말)"
+        nd: "북부 은데벨레어"
+        nds: "저지 독일어"
+        nds_nl: "저지 독일어(네덜란드)"
+        ne: "네팔어"
+        new: "네와르어"
+        ng: "느동가어"
+        nia: "니아스어"
+        niu: "니웨언어"
+        njo: njo
+        nl: "네덜란드어"
+        nl_be: "플라망어"
+        nmg: "크와시오어"
+        nn: "노르웨이어(니노르스크)"
+        nnh: "느기엠본어"
+        'no': "노르웨이어"
+        nog: "노가이어"
+        non: "노르웨이, 고대"
+        nov: nov
+        nqo: "응코어"
+        nr: "남부 은데벨레어"
+        nso: "소토어 (북부)"
+        nus: "누에르어"
+        nv: "나바호어"
+        nwc: "네와르어 (고전)"
+        ny: "니안자어; 치츄어; 츄어"
+        nym: "니암웨지어"
+        nyn: "니안콜어"
+        nyo: "뉴로어"
+        nzi: "느지마어"
+        oc: "오크어"
+        oj: "오지브웨이어"
+        om: "오로모어"
+        or: "오리야어"
+        os: "오세트어"
+        osa: "오세이지어"
+        ota: "터키어, 오스만"
+        pa: "펀잡어"
+        pag: "판가시난어"
+        pal: "팔레비어"
+        pam: "팜팡가어"
+        pap: "파피아먼토어"
+        pau: "파라우안어"
+        pcd: pcd
+        pdc: pdc
+        pdt: pdt
+        peo: "고대 페르시아어"
+        pfl: pfl
+        phn: "페니키아어"
+        pi: "팔리어"
+        pl: "폴란드어"
+        pms: pms
+        pnt: "폰틱어"
+        pon: "폼페이어"
+        prg: prg
+        pro: "고대 프로방스어"
+        ps: "파슈토어"
+        pt: "포르투갈어"
+        pt_br: "포르투갈어(브라질)"
+        pt_pt: "포르투갈어(포르투갈)"
+        qu: "케추아어"
+        quc: "키체어"
+        qug: qug
+        raj: "라자스탄어"
+        rap: "라파뉴이"
+        rar: "라로통가어"
+        rgn: rgn
+        rif: rif
+        rm: "로만시어"
+        rn: "룬디어"
+        ro: "루마니아어"
+        ro_md: "몰도바어"
+        rof: "롬보어"
+        rom: "집시어"
+        root: "어근"
+        rtm: rtm
+        ru: "러시아어"
+        rue: "루신어"
+        rug: rug
+        rup: "아로마니아어"
+        rw: "르완다어"
+        rwk: "르와어"
+        sa: "산스크리트어"
+        sad: "산다웨어"
+        sah: "야큐트어"
+        sam: "사마리아 아랍어"
+        saq: "삼부루어"
+        sas: "사사크어"
+        sat: "산탈리어"
+        saz: saz
+        sba: "느감바이어"
+        sbp: "상구어"
+        sc: "사르디니아어"
+        scn: "시칠리아어"
+        sco: "스코틀랜드어"
+        sd: "신디어"
+        sdc: sdc
+        sdh: "남부 쿠르드어"
+        se: "북부 사미어"
+        see: "세네카어"
+        seh: "세나어"
+        sei: sei
+        sel: "셀쿠프어"
+        ses: "코이야보로 세니어"
+        sg: "산고어"
+        sga: "아일랜드, 고대"
+        sgs: sgs
+        sh: "세르비아-크로아티아어"
+        shi: "타셸히트어"
+        shn: "샨어"
+        shu: "차디언 아라비아어"
+        si: "스리랑카어"
+        sid: "시다모어"
+        sk: "슬로바키아어"
+        sl: "슬로베니아어"
+        sli: sli
+        sly: sly
+        sm: "사모아어"
+        sma: "남부 사미어"
+        smj: "룰레 사미어"
+        smn: "이나리 사미어"
+        sms: "스콜트 사미어"
+        sn: "쇼나어"
+        snk: "소닌케어"
+        so: "소말리아어"
+        sog: "소그디엔어"
+        sq: "알바니아어"
+        sr: "세르비아어"
+        srn: "스라난 통가어"
+        srr: "세레르어"
+        ss: "시스와티어"
+        ssy: "사호어"
+        st: "소토어 (남부)"
+        stq: stq
+        su: "순다어"
+        suk: "수쿠마족어"
+        sus: "수수어"
+        sux: "수메르어"
+        sv: "스웨덴어"
+        sw: "스와힐리어"
+        swb: "코모로어"
+        swc: "콩고 스와힐리어"
+        syc: "시리아어 (고전)"
+        syr: "시리아어"
+        szl: szl
+        ta: "타밀어"
+        tcy: tcy
+        te: "텔루구어"
+        tem: "팀니어"
+        teo: "테조어"
+        ter: "테레노어"
+        tet: "테툼어"
+        tg: "타지크어"
+        th: "태국어"
+        ti: "티그리냐어"
+        tig: "티그레어"
+        tiv: "티비어"
+        tk: "투르크멘어"
+        tkl: "토켈라우제도어"
+        tkr: "차후르어"
+        tl: "타갈로그어"
+        tlh: "클링온어"
+        tli: "틀링깃족어"
+        tly: "탈리쉬어"
+        tmh: "타마섹어"
+        tn: "세츠와나어"
+        to: "통가어"
+        tog: "통가어 (니아살랜드)"
+        tpi: "토크 피신어"
+        tr: "터키어"
+        tru: tru
+        trv: "타로코어"
+        ts: "총가어"
+        tsd: tsd
+        tsi: "트심시안어"
+        tt: "타타르어"
+        ttt: ttt
+        tum: "툼부카어"
+        tvl: "투발루어"
+        tw: "트위어"
+        twq: "타사와크어"
+        ty: "타히티어"
+        tyv: "투비니안어"
+        tzm: "중앙 모로코 타마지트어"
+        udm: "우드말트어"
+        ug: "위구르어"
+        uga: "유가리틱어"
+        uk: "우크라이나어"
+        umb: "윤번두어"
+        und: "알 수 없는 언어"
+        ur: "우르두어"
+        uz: "우즈베크어"
+        vai: "바이어"
+        ve: "벤다어"
+        vec: vec
+        vep: vep
+        vi: "베트남어"
+        vls: vls
+        vmf: vmf
+        vo: "볼라퓌크어"
+        vot: "보틱어"
+        vro: vro
+        vun: "분조어"
+        wa: "왈론어"
+        wae: "월저어"
+        wal: "와라모어"
+        war: "와라이어"
+        was: "와쇼어"
+        wbp: "왈피리어"
+        wo: "월로프어"
+        wuu: wuu
+        xal: "칼미크어"
+        xh: "코사어"
+        xmf: xmf
+        xog: "소가어"
+        yao: "야오족어"
+        yap: "얍페세어"
+        yav: "양본어"
+        ybb: "옘바어"
+        yi: "이디시어"
+        yo: "요루바어"
+        yrl: yrl
+        yue: yue
+        za: "주앙어"
+        zap: "사포테크어"
+        zbl: "블리스 심볼"
+        zea: zea
+        zen: "제나가어"
+        zgh: "표준 모로코 타마지트어"
+        zh: "중국어"
+        zh_hans: "중국어(간체)"
+        zh_hant: "중국어(번체)"
+        zu: "줄루어"
+        zun: "주니어"
+        zxx: "언어 관련 내용 없음"
+        zza: "자자어"
+      locale_display_pattern:
+        locale_pattern: "{0}({1})"
+        locale_separator: "{0}, {1}"
+        locale_key_type_pattern: "{0}: {1}"
+      keys:
+        calendar: "달력"
+        cf: cf
+        col_alternate: "기호 정렬 무시"
+        col_backwards: "악센트 역순 정렬"
+        col_case_first: "대문자/소문자 순서"
+        col_case_level: "대/소문자 구분 정렬"
+        col_hiragana_quaternary: "가나 정렬"
+        collation: "정렬 순서"
+        col_normalization: "표준 정렬"
+        col_numeric: "숫자 정렬"
+        col_strength: "정렬 강도"
+        currency: "통화"
+        hc: "시간표시법(12시, 24시)"
+        lb: "줄바꿈 스타일"
+        ms: "계량법"
+        numbers: "숫자"
+        timezone: "시간대"
+        va: "방언"
+        variable_top: "기호로 정렬"
+        x: "공개 여부"
+      types:
+        calendar:
+          buddhist: "불교력"
+          chinese: "중국력"
+          coptic: "콥트력"
+          dangi: "단기력"
+          ethiopic: "에티오피아력"
+          ethiopic_amete_alem: "에티오피아 아메테 알렘력"
+          gregorian: "태양력"
+          hebrew: "히브리력"
+          indian: "인도력"
+          islamic: "이슬람력"
+          islamic_civil: "이슬람 상용력"
+          islamic_rgsa: islamic-rgsa
+          islamic_tbla: islamic-tbla
+          islamic_umalqura: islamic-umalqura
+          iso8601: ISO-8601 달력
+          japanese: "일본력"
+          persian: "페르시안력"
+          roc: "대만력"
+        cf:
+          account: account
+          standard: standard
+        col_alternate:
+          non_ignorable: "기호 정렬"
+          shifted: "기호 무시 정렬"
+        col_backwards:
+          'no': "악센트 일반 정렬"
+          'yes': "악센트 역순 정렬"
+        col_case_first:
+          lower: "첫 소문자 정렬"
+          'no': "일반 대/소문자 정렬 순서"
+          upper: "대문자 우선 정렬"
+        col_case_level:
+          'no': "대/소문자 무시 정렬"
+          'yes': "대/소문자 구분 정렬"
+        col_hiragana_quaternary:
+          'no': "가나 별도 정렬"
+          'yes': "가나를 다르게 정렬"
+        collation:
+          big5han: "중국어 번체 정렬 순서 (Big5)"
+          compat: compat
+          dictionary: "사전 정렬순"
+          ducet: "기본 유니코드 정렬 순서"
+          emoji: emoji
+          eor: eor
+          gb2312han: "중국어 간체 정렬 순서 (GB2312)"
+          phonebook: "전화번호부순"
+          phonetic: "소리나는 대로 정렬 순서"
+          pinyin: "병음순"
+          reformed: "개정 정렬순"
+          search: "범용 검색"
+          searchjl: "한글 자음으로 검색"
+          standard: "표준 정렬 순서"
+          stroke: "자획순"
+          traditional: "전통 역법"
+          unihan: "부수순"
+          zhuyin: "주음순"
+        col_normalization:
+          'no': "표준화 없이 정렬"
+          'yes': "유니코드 표준화 정렬"
+        col_numeric:
+          'no': "숫자별 정렬"
+          'yes': "숫자 정렬"
+        col_strength:
+          identical: "모두 정렬"
+          primary: "기본 문자만 정렬"
+          quaternary: "악센트/대소문자/전반각/가나 정렬"
+          secondary: "악센트 정렬"
+          tertiary: "악센트/대소문자/전반각 정렬"
+        hc:
+          h11: 12시간제(0–11)
+          h12: 12시간제(1–12)
+          h23: 24시간제(0–23)
+          h24: 24시간제(1–24)
+        lb:
+          loose: "줄바꿈 - 넓게"
+          normal: "줄바꿈 - 보통"
+          strict: "줄바꿈 - 좁게"
+        ms:
+          metric: "미터법"
+          uksystem: "야드파운드법"
+          ussystem: "미국 계량법"
+        numbers:
+          ahom: ahom
+          arab: "아라비아-인도식 숫자"
+          arabext: "확장형 아라비아-인도식 숫자"
+          armn: "아르메니아 숫자"
+          armnlow: "아르메니아 소문자 숫자"
+          bali: "발리 숫자"
+          beng: "뱅골 숫자"
+          brah: "브라미 숫자"
+          cakm: "챠크마 숫자"
+          cham: "참 숫자"
+          cyrl: cyrl
+          deva: "데바나가리 숫자"
+          ethi: "에티오피아 숫자"
+          finance: "재무 숫자"
+          fullwide: "전체 숫자"
+          geor: "그루지아 숫자"
+          grek: "그리스 숫자"
+          greklow: "그리스어 소문자 숫자"
+          gujr: "구자라트 숫자"
+          guru: "굴묵키 숫자"
+          hanidec: "중국어 십진 숫자"
+          hans: "중국어 간체 숫자"
+          hansfin: "중국어 간체 재무 숫자"
+          hant: "중국어 번체 숫자"
+          hantfin: "중국어 번체 재무 숫자"
+          hebr: "히브리 숫자"
+          hmng: hmng
+          java: "자바 숫자"
+          jpan: "일본 숫자"
+          jpanfin: "일본 재무 숫자"
+          kali: "카야 리식 숫자"
+          khmr: "크메르 숫자"
+          knda: "칸나다 숫자"
+          lana: "타이 탐 호라 숫자"
+          lanatham: "타이 탐탐 숫자"
+          laoo: "라오 숫자"
+          latn: "서양 숫자"
+          lepc: "렙차 숫자"
+          limb: "림부 숫자"
+          mathbold: mathbold
+          mathdbl: mathdbl
+          mathmono: mathmono
+          mathsanb: mathsanb
+          mathsans: mathsans
+          mlym: "말라얄람 숫자"
+          modi: modi
+          mong: "몽골 숫자"
+          mroo: mroo
+          mtei: "메이테이 마옉 숫자"
+          mymr: "미얀마 숫자"
+          mymrshan: "미얀마 샨 숫자"
+          mymrtlng: mymrtlng
+          native: "기본 숫자"
+          nkoo: nkoo
+          olck: "올치키 숫자"
+          orya: "오리야 숫자"
+          osma: "오스마냐 숫자"
+          roman: "로마 숫자"
+          romanlow: "로마 소문자 숫자"
+          saur: "사우라슈트라 숫자"
+          shrd: "샤라다 숫자"
+          sind: sind
+          sinh: sinh
+          sora: sora
+          sund: "순다 숫자"
+          takr: takr
+          talu: talu
+          taml: "타밀어 숫자"
+          tamldec: "타밀 숫자"
+          telu: "텔루구 숫자"
+          thai: "태국 숫자"
+          tibt: "티벳 숫자"
+          tirh: tirh
+          traditional: "전통적인 숫자"
+          vaii: "바이 숫자"
+          wara: wara
+      code_patterns:
+        language: "언어: {0}"
+        script: "스크립트: {0}"
+        territory: "지역: {0}"
+      scripts:
+        afak: "아파카 문자"
+        aghb: "코카시안 알바니아 문자"
+        ahom: Ahom
+        arab: "아랍 문자"
+        arab_alt_variant: "페르소-아라비아어"
+        armi: "아랍제국 문자"
+        armn: "아르메니아 문자"
+        avst: "아베스타 문자"
+        bali: "발리 문자"
+        bamu: "바뭄 문자"
+        bass: "바사바흐 문자"
+        batk: "바타크 문자"
+        beng: "벵골 문자"
+        blis: "블리스기호 문자"
+        bopo: "주음부호"
+        brah: "브라미"
+        brai: "브라유 점자"
+        bugi: "부기 문자"
+        buhd: "부히드 문자"
+        cakm: "차크마 문자"
+        cans: "통합 캐나다 토착어"
+        cari: "카리 문자"
+        cham: "칸 고어"
+        cher: "체로키 문자"
+        cirt: "키르쓰"
+        copt: "콥트 문자"
+        cprt: "키프로스 문자"
+        cyrl: "키릴 문자"
+        cyrs: "고대교회슬라브어 키릴문자"
+        deva: "데바나가리 문자"
+        dsrt: "디저렛 문자"
+        dupl: "듀플로이안 문자"
+        egyd: "고대 이집트 민중문자"
+        egyh: "고대 이집트 신관문자"
+        egyp: "고대 이집트 신성문자"
+        elba: "엘바산 문자"
+        ethi: "에티오피아 문자"
+        geok: "그루지야 쿠츠리 문자"
+        geor: "그루지야 문자"
+        glag: "글라골 문자"
+        goth: "고트 문자"
+        gran: "그란타 문자"
+        grek: "그리스 문자"
+        gujr: "구쟈라티 문자"
+        guru: "구르무키 문자"
+        hang: "한글"
+        hani: "한자"
+        hano: "하누누 문자"
+        hans: "간체"
+        hans_alt_stand_alone: "한자 간체"
+        hant: "번체"
+        hant_alt_stand_alone: "한자 번체"
+        hatr: Hatr
+        hebr: "히브리 문자"
+        hira: "히라가나"
+        hluw: "아나톨리아 상형문자"
+        hmng: "파하우 몽 문자"
+        hrkt: "가나"
+        hung: "고대 헝가리 문자"
+        inds: "인더스 문자"
+        ital: "고대 이탈리아 문자"
+        java: "자바 문자"
+        jpan: "일본 문자"
+        jurc: "줄첸 문자"
+        kali: "카야 리 문자"
+        kana: "가타카나"
+        khar: "카로슈티 문자"
+        khmr: "크메르 문자"
+        khoj: "코즈키 문자"
+        knda: "칸나다 문자"
+        kore: "한국어"
+        kpel: "크펠레 문자"
+        kthi: "카이시 문자"
+        lana: "란나 문자"
+        laoo: "라오 문자"
+        latf: "독일식 로마자"
+        latg: "아일랜드식 로마자"
+        latn: "로마자"
+        lepc: "렙차 문자"
+        limb: "림부 문자"
+        lina: "선형 문자(A)"
+        linb: "선형 문자(B)"
+        lisu: "프레이저 문자"
+        loma: "로마 문자"
+        lyci: "리키아 문자"
+        lydi: "리디아 문자"
+        mahj: "마하자니 문자"
+        mand: "만다이아 문자"
+        mani: "마니교 문자"
+        maya: "마야 상형 문자"
+        mend: "멘데 문자"
+        merc: "메로에 필기체"
+        mero: "메로에 문자"
+        mlym: "말라얄람 문자"
+        modi: Modi
+        mong: "몽골 문자"
+        moon: "문 문자"
+        mroo: "므로 문자"
+        mtei: "메이테이 마옉 문자"
+        mult: Mult
+        mymr: "미얀마 문자"
+        narb: "옛 북부 아라비아 문자"
+        nbat: "나바테아 문자"
+        nkgb: "나시 게바 문자"
+        nkoo: "응코 문자"
+        nshu: "누슈 문자"
+        ogam: "오검 문자"
+        olck: "올 치키 문자"
+        orkh: "오르혼어"
+        orya: "오리야 문자"
+        osma: "오스마니아 문자"
+        palm: "팔미라 문자"
+        pauc: Pauc
+        perm: "고대 페름 문자"
+        phag: "파스파 문자"
+        phli: "명문 팔라비 문자"
+        phlp: "솔터 팔라비 문자"
+        phlv: "북 팔라비 문자"
+        phnx: "페니키아 문자"
+        plrd: "폴라드 표음 문자"
+        prti: "명문 파라티아 문자"
+        qaaa: Qaaa
+        qaab: Qaab
+        qaac: Qaac
+        qaad: Qaad
+        qaae: Qaae
+        qaaf: Qaaf
+        qaag: Qaag
+        qaah: Qaah
+        qaaj: Qaaj
+        qaak: Qaak
+        qaal: Qaal
+        qaam: Qaam
+        qaan: Qaan
+        qaao: Qaao
+        qaap: Qaap
+        qaaq: Qaaq
+        qaar: Qaar
+        qaas: Qaas
+        qaat: Qaat
+        qaau: Qaau
+        qaav: Qaav
+        qaaw: Qaaw
+        qaax: Qaax
+        qaay: Qaay
+        qaaz: Qaaz
+        qaba: Qaba
+        qabb: Qabb
+        qabc: Qabc
+        qabd: Qabd
+        qabe: Qabe
+        qabf: Qabf
+        qabg: Qabg
+        qabh: Qabh
+        qabi: Qabi
+        qabj: Qabj
+        qabk: Qabk
+        qabl: Qabl
+        qabm: Qabm
+        qabn: Qabn
+        qabo: Qabo
+        qabp: Qabp
+        qabq: Qabq
+        qabr: Qabr
+        qabs: Qabs
+        qabt: Qabt
+        qabu: Qabu
+        qabv: Qabv
+        qabw: Qabw
+        qabx: Qabx
+        rjng: "레장 문자"
+        roro: "롱고롱고"
+        runr: "룬 문자"
+        samr: "사마리아 문자"
+        sara: "사라티"
+        sarb: "옛 남부 아라비아 문자"
+        saur: "사우라슈트라 문자"
+        sgnw: "수화 문자"
+        shaw: "샤비안 문자"
+        shrd: "사라다 문자"
+        sidd: "실담자"
+        sind: "쿠다와디 문자"
+        sinh: "신할라 문자"
+        sora: "소라 솜펭 문자"
+        sund: "순다 문자"
+        sylo: "실헤티 나가리"
+        syrc: "시리아 문자"
+        syre: "에스트랑겔로식 시리아 문자"
+        syrj: "서부 시리아 문자"
+        syrn: "동부 시리아 문자"
+        tagb: "타그반와 문자"
+        takr: "타크리 문자"
+        tale: "타이 레 문자"
+        talu: "신 타이 루에"
+        taml: "타밀 문자"
+        tang: "탕구트 문자"
+        tavt: "태국 베트남 문자"
+        telu: "텔루구 문자"
+        teng: "텡과르 문자"
+        tfng: "티피나그 문자"
+        tglg: "타갈로그 문자"
+        thaa: "타나 문자"
+        thai: "타이 문자"
+        tibt: "티베트 문자"
+        tirh: "티르후타 문자"
+        ugar: "우가리트 문자"
+        vaii: "바이 문자"
+        visp: "시화법"
+        wara: "바랑 크시티 문자"
+        wole: "울레아이"
+        xpeo: "고대 페르시아 문자"
+        xsux: "수메르-아카드어 설형문자"
+        yiii: "이 문자"
+        zinh: "구전 문자"
+        zmth: "수학 기호"
+        zsym: "기호"
+        zxxx: "구전"
+        zyyy: "일반 문자"
+        zzzz: "기록되지 않은 문자(구전)"
+      territories:
+        '001': "세계"
+        '002': "아프리카"
+        '003': "북아메리카"
+        '005': "남아메리카(남미)"
+        009: "오세아니아"
+        '011': "서부 아프리카"
+        '013': "중앙 아메리카"
+        '014': "동부 아프리카"
+        '015': "북부 아프리카"
+        '017': "중부 아프리카"
+        018: "남부 아프리카"
+        019: "아메리카 대륙"
+        '021': "북부 아메리카"
+        029: "카리브 제도"
+        '030': "동아시아"
+        '034': "남아시아"
+        '035': "동남아시아"
+        039: "남유럽"
+        '053': "오스트랄라시아"
+        '054': "멜라네시아"
+        '057': "미크로네시아 지역"
+        '061': "폴리네시아"
+        '142': "아시아"
+        '143': "중앙 아시아"
+        '145': "서아시아"
+        '150': "유럽"
+        '151': "동유럽"
+        '154': "북유럽"
+        '155': "서유럽"
+        '419': "라틴 아메리카"
+        ac: "어센션 섬"
+        ad: "안도라"
+        ae: "아랍에미리트"
+        af: "아프가니스탄"
+        ag: "앤티가 바부다"
+        ai: "앵귈라"
+        al: "알바니아"
+        am: "아르메니아"
+        an: "네덜란드령 안틸레스"
+        ao: "앙골라"
+        aq: "남극 대륙"
+        ar: "아르헨티나"
+        as: "아메리칸 사모아"
+        at: "오스트리아"
+        au: "오스트레일리아"
+        aw: "아루바"
+        ax: "올란드 제도"
+        az: "아제르바이잔"
+        ba: "보스니아 헤르체고비나"
+        bb: "바베이도스"
+        bd: "방글라데시"
+        be: "벨기에"
+        bf: "부르키나파소"
+        bg: "불가리아"
+        bh: "바레인"
+        bi: "부룬디"
+        bj: "베냉"
+        bl: "생바르텔레미"
+        bm: "버뮤다"
+        bn: "브루나이"
+        bo: "볼리비아"
+        bq: "네덜란드령 카리브"
+        br: "브라질"
+        bs: "바하마"
+        bt: "부탄"
+        bv: "부베섬"
+        bw: "보츠와나"
+        by: "벨라루스"
+        bz: "벨리즈"
+        ca: "캐나다"
+        cc: "코코스 제도"
+        cd: "콩고-킨샤사"
+        cd_alt_variant: "콩고민주공화국"
+        cf: "중앙 아프리카 공화국"
+        cg: "콩고"
+        cg_alt_variant: "콩고 공화국"
+        ch: "스위스"
+        ci: "코트디부아르"
+        ci_alt_variant: "아이보리 코스트"
+        ck: "쿡 제도"
+        cl: "칠레"
+        cm: "카메룬"
+        cn: "중국"
+        co: "콜롬비아"
+        cp: "클립퍼튼 섬"
+        cr: "코스타리카"
+        cu: "쿠바"
+        cv: "카보베르데"
+        cw: "퀴라소"
+        cx: "크리스마스섬"
+        cy: "키프로스"
+        cz: "체코"
+        de: "독일"
+        dg: "디에고 가르시아"
+        dj: "지부티"
+        dk: "덴마크"
+        dm: "도미니카"
+        do: "도미니카 공화국"
+        dz: "알제리"
+        ea: "세우타 및 멜리야"
+        ec: "에콰도르"
+        ee: "에스토니아"
+        eg: "이집트"
+        eh: "서사하라"
+        er: "에리트리아"
+        es: "스페인"
+        et: "에티오피아"
+        eu: "유럽 연합"
+        fi: "핀란드"
+        fj: "피지"
+        fk: "포클랜드 제도"
+        fk_alt_variant: "포클랜드 제도(말비나스 군도)"
+        fm: "미크로네시아"
+        fo: "페로 제도"
+        fr: "프랑스"
+        ga: "가봉"
+        gb: "영국"
+        gb_alt_short: "영국"
+        gd: "그레나다"
+        ge: "조지아"
+        gf: "프랑스령 기아나"
+        gg: "건지"
+        gh: "가나"
+        gi: "지브롤터"
+        gl: "그린란드"
+        gm: "감비아"
+        gn: "기니"
+        gp: "과들루프"
+        gq: "적도 기니"
+        gr: "그리스"
+        gs: "사우스조지아 사우스샌드위치 제도"
+        gt: "과테말라"
+        gu: "괌"
+        gw: "기니비사우"
+        gy: "가이아나"
+        hk: "홍콩(중국 특별행정구)"
+        hk_alt_short: "홍콩"
+        hm: "허드 맥도널드 제도"
+        hn: "온두라스"
+        hr: "크로아티아"
+        ht: "아이티"
+        hu: "헝가리"
+        ic: "카나리아 제도"
+        id: "인도네시아"
+        ie: "아일랜드"
+        il: "이스라엘"
+        im: "맨 섬"
+        in: "인도"
+        io: "영국령 인도양 식민지"
+        iq: "이라크"
+        ir: "이란"
+        is: "아이슬란드"
+        it: "이탈리아"
+        je: "저지"
+        jm: "자메이카"
+        jo: "요르단"
+        jp: "일본"
+        ke: "케냐"
+        kg: "키르기스스탄"
+        kh: "캄보디아"
+        ki: "키리바시"
+        km: "코모로"
+        kn: "세인트키츠 네비스"
+        kp: "조선민주주의인민공화국"
+        kr: "대한민국"
+        kw: "쿠웨이트"
+        ky: "케이맨 제도"
+        kz: "카자흐스탄"
+        la: "라오스"
+        lb: "레바논"
+        lc: "세인트루시아"
+        li: "리히텐슈타인"
+        lk: "스리랑카"
+        lr: "라이베리아"
+        ls: "레소토"
+        lt: "리투아니아"
+        lu: "룩셈부르크"
+        lv: "라트비아"
+        ly: "리비아"
+        ma: "모로코"
+        mc: "모나코"
+        md: "몰도바"
+        me: "몬테네그로"
+        mf: "생마르탱"
+        mg: "마다가스카르"
+        mh: "마셜 제도"
+        mk: "마케도니아"
+        mk_alt_variant: "마케도니아(FYROM)"
+        ml: "말리"
+        mm: "미얀마"
+        mn: "몽골"
+        mo: "마카오(중국 특별행정구)"
+        mo_alt_short: "마카오"
+        mp: "북마리아나제도"
+        mq: "마르티니크"
+        mr: "모리타니"
+        ms: "몬트세라트"
+        mt: "몰타"
+        mu: "모리셔스"
+        mv: "몰디브"
+        mw: "말라위"
+        mx: "멕시코"
+        my: "말레이시아"
+        mz: "모잠비크"
+        na: "나미비아"
+        nc: "뉴칼레도니아"
+        ne: "니제르"
+        nf: "노퍽섬"
+        ng: "나이지리아"
+        ni: "니카라과"
+        nl: "네덜란드"
+        'no': "노르웨이"
+        np: "네팔"
+        nr: "나우루"
+        nu: "니우에"
+        nz: "뉴질랜드"
+        om: "오만"
+        pa: "파나마"
+        pe: "페루"
+        pf: "프랑스령 폴리네시아"
+        pg: "파푸아뉴기니"
+        ph: "필리핀"
+        pk: "파키스탄"
+        pl: "폴란드"
+        pm: "생피에르 미클롱"
+        pn: "핏케언 섬"
+        pr: "푸에르토리코"
+        ps: "팔레스타인 지구"
+        ps_alt_short: "팔레스타인"
+        pt: "포르투갈"
+        pw: "팔라우"
+        py: "파라과이"
+        qa: "카타르"
+        qo: "오세아니아 외곽"
+        re: "리유니온"
+        ro: "루마니아"
+        rs: "세르비아"
+        ru: "러시아"
+        rw: "르완다"
+        sa: "사우디아라비아"
+        sb: "솔로몬 제도"
+        sc: "세이셸"
+        sd: "수단"
+        se: "스웨덴"
+        sg: "싱가포르"
+        sh: "세인트헬레나"
+        si: "슬로베니아"
+        sj: "스발바르제도-얀마웬섬"
+        sk: "슬로바키아"
+        sl: "시에라리온"
+        sm: "산마리노"
+        sn: "세네갈"
+        so: "소말리아"
+        sr: "수리남"
+        ss: "남수단"
+        st: "상투메 프린시페"
+        sv: "엘살바도르"
+        sx: "신트마르턴"
+        sy: "시리아"
+        sz: "스와질란드"
+        ta: "트리스탄다쿠나"
+        tc: "터크스 케이커스 제도"
+        td: "차드"
+        tf: "프랑스 남부 지방"
+        tg: "토고"
+        th: "태국"
+        tj: "타지키스탄"
+        tk: "토켈라우"
+        tl: "동티모르"
+        tl_alt_variant: TL
+        tm: "투르크메니스탄"
+        tn: "튀니지"
+        to: "통가"
+        tr: "터키"
+        tt: "트리니다드 토바고"
+        tv: "투발루"
+        tw: "대만"
+        tz: "탄자니아"
+        ua: "우크라이나"
+        ug: "우간다"
+        um: "미국령 해외 제도"
+        us: "미국"
+        us_alt_short: "미국"
+        uy: "우루과이"
+        uz: "우즈베키스탄"
+        va: "바티칸 시국"
+        vc: "세인트빈센트그레나딘"
+        ve: "베네수엘라"
+        vg: "영국령 버진아일랜드"
+        vi: "미국령 버진아일랜드"
+        vn: "베트남"
+        vu: "바누아투"
+        wf: "왈리스-푸투나 제도"
+        ws: "사모아"
+        xk: "코소보"
+        ye: "예멘"
+        yt: "마요트"
+        za: "남아프리카"
+        zm: "잠비아"
+        zw: "짐바브웨"
+        zz: "알려지지 않은 지역"
+      transform_names:
+        bgn: "미국 지명위원회(BGN)"
+        numeric: "숫자"
+        tone: "성조"
+        ungegn: "유엔지명전문가회의(UNGEGN)"
+        x_accents: "악센트"
+        x_fullwidth: "전각"
+        x_halfwidth: "반각"
+        x_jamo: "자모"
+        x_pinyin: "병음"
+        x_publishing: "게시"
+      variants:
+        '1901': "전통 독일어 표기법"
+        '1994': '1994'
+        '1996': '1996'
+        1606_nict: "중세 후기 프랑스어(1606년까지)"
+        1694_acad: 1694ACAD
+        1959_acad: 1959ACAD
+        abl1943: ABL1943
+        alalc97: ALA-LC 로마자 표기법(1997년 개정)
+        aluku: "알루꾸 방언"
+        ao1990: AO1990
+        arevela: AREVELA
+        arevmda: AREVMDA
+        baku1926: BAKU1926
+        balanka: BALANKA
+        barla: BARLA
+        bauddha: "바우다"
+        biscayan: "비스카얀"
+        biske: BISKE
+        bohoric: BOHORIC
+        boont: BOONT
+        colb1945: COLB1945
+        dajnko: DAJNKO
+        ekavsk: EKAVSK
+        emodeng: EMODENG
+        fonipa: FONIPA
+        fonupa: FONUPA
+        fonxsamp: FONXSAMP
+        hepburn: "헵번식 로마자 표기법"
+        hognorsk: "호그노르스크"
+        ijekavsk: IJEKAVSK
+        itihasa: "이띠아사"
+        jauer: "야우어"
+        jyutping: JYUTPING
+        kkcor: KKCOR
+        kociewie: KOCIEWIE
+        kscor: KSCOR
+        laukika: "라우키카"
+        lipaw: LIPAW
+        luna1918: "루나1918"
+        metelko: METELKO
+        monoton: MONOTON
+        ndyuka: "느듀카 방언"
+        nedis: NEDIS
+        njiva: NJIVA
+        nulik: NULIK
+        osojs: OSOJS
+        oxendict: OXENDICT
+        pamaka: "파마카 방언"
+        petr1708: PETR1708
+        pinyin: PINYIN
+        polyton: POLYTON
+        posix: Computer
+        puter: "퓨터"
+        revised: "개정"
+        rigik: RIGIK
+        rozaj: ROZAJ
+        rumgr: RUMGR
+        saaho: SAAHO
+        scotland: "스코틀랜드 표준 영어"
+        scouse: SCOUSE
+        solba: SOLBA
+        sotav: SOTAV
+        surmiran: "서미안"
+        sursilv: SURSILV
+        sutsilv: SUTSILV
+        tarask: TARASK
+        uccor: UCCOR
+        ucrcor: "통합 개정 표기법"
+        ulster: "얼스터"
+        unifon: UNIFON
+        vaidika: "바이디카"
+        valencia: VALENCIA
+        vallader: "발라더"
+        wadegile: WADEGILE
+    units:
+      long:
+        per:
+          compound_unit_pattern: "{1}당 {0}"
+        acceleration_g_force:
+          display_name: "중력가속도"
+          unit_pattern_count_other: "{0} 중력가속도"
+        acceleration_meter_per_second_squared:
+          display_name: "제곱 초당 미터"
+          unit_pattern_count_other: "{0}제곱 초당 미터"
+        angle_revolution:
+          display_name: "회전"
+          unit_pattern_count_other: "{0}회전"
+        angle_radian:
+          display_name: "라디안"
+          unit_pattern_count_other: "{0}라디안"
+        angle_degree:
+          display_name: "도"
+          unit_pattern_count_other: "{0}도"
+        angle_arc_minute:
+          display_name: "분각"
+          unit_pattern_count_other: "{0}분각"
+        angle_arc_second:
+          display_name: "각초"
+          unit_pattern_count_other: "{0}각초"
+        area_square_kilometer:
+          display_name: "제곱킬로미터"
+          unit_pattern_count_other: "{0}제곱킬로미터"
+        area_hectare:
+          display_name: "헥타르"
+          unit_pattern_count_other: "{0}헥타르"
+        area_square_meter:
+          display_name: "제곱미터"
+          unit_pattern_count_other: "{0}제곱미터"
+          per_unit_pattern: "제곱미터당 {0}"
+        area_square_centimeter:
+          display_name: "제곱센티미터"
+          unit_pattern_count_other: "{0}제곱센티미터"
+          per_unit_pattern: "제곱센티미터당 {0}"
+        area_square_mile:
+          display_name: "제곱마일"
+          unit_pattern_count_other: "{0}제곱마일"
+        area_acre:
+          display_name: "에이커"
+          unit_pattern_count_other: "{0}에이커"
+        area_square_yard:
+          display_name: "제곱야드"
+          unit_pattern_count_other: "{0}제곱야드"
+        area_square_foot:
+          display_name: "제곱피트"
+          unit_pattern_count_other: "{0}제곱피트"
+        area_square_inch:
+          display_name: "제곱인치"
+          unit_pattern_count_other: "{0}제곱인치"
+          per_unit_pattern: "제곱인치당 {0}"
+        consumption_liter_per_kilometer:
+          display_name: "킬로미터당 리터"
+          unit_pattern_count_other: "킬로미터당 {0}리터"
+        consumption_liter_per_100kilometers:
+          display_name: 100킬로미터당 리터
+          unit_pattern_count_other: 100킬로미터당 {0}리터
+        consumption_mile_per_gallon:
+          display_name: "갤런당 마일"
+          unit_pattern_count_other: "갤런당 {0}마일"
+        digital_terabyte:
+          display_name: "테라바이트"
+          unit_pattern_count_other: "{0}테라바이트"
+        digital_terabit:
+          display_name: "테라비트"
+          unit_pattern_count_other: "{0}테라비트"
+        digital_gigabyte:
+          display_name: "기가바이트"
+          unit_pattern_count_other: "{0}기가바이트"
+        digital_gigabit:
+          display_name: "기가비트"
+          unit_pattern_count_other: "{0}기가비트"
+        digital_megabyte:
+          display_name: "메가바이트"
+          unit_pattern_count_other: "{0}메가바이트"
+        digital_megabit:
+          display_name: "메가비트"
+          unit_pattern_count_other: "{0}메가비트"
+        digital_kilobyte:
+          display_name: "킬로바이트"
+          unit_pattern_count_other: "{0}킬로바이트"
+        digital_kilobit:
+          display_name: "킬로비트"
+          unit_pattern_count_other: "{0}킬로비트"
+        digital_byte:
+          display_name: "바이트"
+          unit_pattern_count_other: "{0}바이트"
+        digital_bit:
+          display_name: "비트"
+          unit_pattern_count_other: "{0}비트"
+        duration_century:
+          display_name: "세기"
+          unit_pattern_count_other: "{0}세기"
+        duration_year:
+          display_name: "년"
+          unit_pattern_count_other: "{0}년"
+          per_unit_pattern: "연당 {0}"
+        duration_month:
+          display_name: "개월"
+          unit_pattern_count_other: "{0}개월"
+          per_unit_pattern: "월당 {0}"
+        duration_week:
+          display_name: "주"
+          unit_pattern_count_other: "{0}주"
+          per_unit_pattern: "주당 {0}"
+        duration_day:
+          display_name: "일"
+          unit_pattern_count_other: "{0}일"
+          per_unit_pattern: "일당 {0}"
+        duration_hour:
+          display_name: "시간"
+          unit_pattern_count_other: "{0}시간"
+          per_unit_pattern: "시간당 {0}"
+        duration_minute:
+          display_name: "분"
+          unit_pattern_count_other: "{0}분"
+          per_unit_pattern: "분당 {0}"
+        duration_second:
+          display_name: "초"
+          unit_pattern_count_other: "{0}초"
+          per_unit_pattern: "초당 {0}"
+        duration_millisecond:
+          display_name: "밀리초"
+          unit_pattern_count_other: "{0}밀리초"
+        duration_microsecond:
+          display_name: "마이크로초"
+          unit_pattern_count_other: "{0}마이크로초"
+        duration_nanosecond:
+          display_name: "나노초"
+          unit_pattern_count_other: "{0}나노초"
+        electric_ampere:
+          display_name: "암페어"
+          unit_pattern_count_other: "{0}암페어"
+        electric_milliampere:
+          display_name: "밀리암페어"
+          unit_pattern_count_other: "{0}밀리암페어"
+        electric_ohm:
+          display_name: "옴"
+          unit_pattern_count_other: "{0}옴"
+        electric_volt:
+          display_name: "볼트"
+          unit_pattern_count_other: "{0}볼트"
+        energy_kilocalorie:
+          display_name: "킬로칼로리"
+          unit_pattern_count_other: "{0}킬로칼로리"
+        energy_calorie:
+          display_name: "칼로리"
+          unit_pattern_count_other: "{0}칼로리"
+        energy_foodcalorie:
+          display_name: "칼로리"
+          unit_pattern_count_other: "{0}칼로리"
+        energy_kilojoule:
+          display_name: "킬로줄"
+          unit_pattern_count_other: "{0}킬로줄"
+        energy_joule:
+          display_name: "줄"
+          unit_pattern_count_other: "{0}줄"
+        energy_kilowatt_hour:
+          display_name: "킬로와트시"
+          unit_pattern_count_other: "{0}킬로와트시"
+        frequency_gigahertz:
+          display_name: "기가헤르츠"
+          unit_pattern_count_other: "{0}기가헤르츠"
+        frequency_megahertz:
+          display_name: "메가헤르츠"
+          unit_pattern_count_other: "{0}메가헤르츠"
+        frequency_kilohertz:
+          display_name: "킬로헤르츠"
+          unit_pattern_count_other: "{0}킬로헤르츠"
+        frequency_hertz:
+          display_name: "헤르츠"
+          unit_pattern_count_other: "{0}헤르츠"
+        length_kilometer:
+          display_name: "킬로미터"
+          unit_pattern_count_other: "{0}킬로미터"
+          per_unit_pattern: "킬로미터당 {0}"
+        length_meter:
+          display_name: "미터"
+          unit_pattern_count_other: "{0}미터"
+          per_unit_pattern: "미터당 {0}"
+        length_decimeter:
+          display_name: "데시미터"
+          unit_pattern_count_other: "{0}데시미터"
+        length_centimeter:
+          display_name: "센티미터"
+          unit_pattern_count_other: "{0}센티미터"
+          per_unit_pattern: "센티미터당 {0}"
+        length_millimeter:
+          display_name: "밀리미터"
+          unit_pattern_count_other: "{0}밀리미터"
+        length_micrometer:
+          display_name: "마이크로미터"
+          unit_pattern_count_other: "{0}마이크로미터"
+        length_nanometer:
+          display_name: "나노미터"
+          unit_pattern_count_other: "{0}나노미터"
+        length_picometer:
+          display_name: "피코미터"
+          unit_pattern_count_other: "{0}피코미터"
+        length_mile:
+          display_name: "마일"
+          unit_pattern_count_other: "{0}마일"
+        length_yard:
+          display_name: "야드"
+          unit_pattern_count_other: "{0}야드"
+        length_foot:
+          display_name: "피트"
+          unit_pattern_count_other: "{0}피트"
+          per_unit_pattern: "피트당 {0}"
+        length_inch:
+          display_name: "인치"
+          unit_pattern_count_other: "{0}인치"
+          per_unit_pattern: "인치당 {0}"
+        length_parsec:
+          display_name: "파섹"
+          unit_pattern_count_other: "{0}파섹"
+        length_light_year:
+          display_name: "광년"
+          unit_pattern_count_other: "{0}광년"
+        length_astronomical_unit:
+          display_name: "천문 단위"
+          unit_pattern_count_other: "{0}천문 단위"
+        length_furlong:
+          display_name: fur
+          unit_pattern_count_other: "{0} fur"
+        length_fathom:
+          display_name: fm
+          unit_pattern_count_other: "{0} fm"
+        length_nautical_mile:
+          display_name: "해리"
+          unit_pattern_count_other: "{0}해리"
+        length_mile_scandinavian:
+          display_name: "스칸디나비아 마일"
+          unit_pattern_count_other: "{0}스칸디나비아 마일"
+        light_lux:
+          display_name: "룩스"
+          unit_pattern_count_other: "{0}룩스"
+        mass_metric_ton:
+          display_name: "메트릭 톤"
+          unit_pattern_count_other: "{0}메트릭 톤"
+        mass_kilogram:
+          display_name: "킬로그램"
+          unit_pattern_count_other: "{0}킬로그램"
+          per_unit_pattern: "킬로그램당 {0}"
+        mass_gram:
+          display_name: "그램"
+          unit_pattern_count_other: "{0}그램"
+          per_unit_pattern: "그램당 {0}"
+        mass_milligram:
+          display_name: "밀리그램"
+          unit_pattern_count_other: "{0}밀리그램"
+        mass_microgram:
+          display_name: "마이크로그램"
+          unit_pattern_count_other: "{0}마이크로그램"
+        mass_ton:
+          display_name: "톤"
+          unit_pattern_count_other: "{0}톤"
+        mass_stone:
+          display_name: st
+          unit_pattern_count_other: "{0} st"
+        mass_pound:
+          display_name: "파운드"
+          unit_pattern_count_other: "{0}파운드"
+          per_unit_pattern: "파운드당 {0}"
+        mass_ounce:
+          display_name: "온스"
+          unit_pattern_count_other: "{0}온스"
+          per_unit_pattern: "온스당 {0}"
+        mass_ounce_troy:
+          display_name: "트로이 온스"
+          unit_pattern_count_other: "{0}트로이 온스"
+        mass_carat:
+          display_name: "캐럿"
+          unit_pattern_count_other: "{0}캐럿"
+        power_gigawatt:
+          display_name: "기가와트"
+          unit_pattern_count_other: "{0}기가와트"
+        power_megawatt:
+          display_name: "메가와트"
+          unit_pattern_count_other: "{0}메가와트"
+        power_kilowatt:
+          display_name: "킬로와트"
+          unit_pattern_count_other: "{0}킬로와트"
+        power_watt:
+          display_name: "와트"
+          unit_pattern_count_other: "{0}와트"
+        power_milliwatt:
+          display_name: "밀리와트"
+          unit_pattern_count_other: "{0}밀리와트"
+        power_horsepower:
+          display_name: "마력"
+          unit_pattern_count_other: "{0}마력"
+        pressure_hectopascal:
+          display_name: "헥토파스칼"
+          unit_pattern_count_other: "{0}헥토파스칼"
+        pressure_millimeter_of_mercury:
+          display_name: "수은주밀리미터"
+          unit_pattern_count_other: "{0}수은주밀리미터"
+        pressure_pound_per_square_inch:
+          display_name: "제곱인치당 파운드"
+          unit_pattern_count_other: "{0}제곱인치당 파운드"
+        pressure_inch_hg:
+          display_name: "수은주인치"
+          unit_pattern_count_other: "{0}수은주인치"
+        pressure_millibar:
+          display_name: "밀리바"
+          unit_pattern_count_other: "{0}밀리바"
+        proportion_karat:
+          display_name: "캐럿"
+          unit_pattern_count_other: "{0}캐럿"
+        speed_kilometer_per_hour:
+          display_name: "시간당 킬로미터"
+          unit_pattern_count_other: "시속 {0}킬로미터"
+        speed_meter_per_second:
+          display_name: m/s
+          unit_pattern_count_other: "초속 {0}미터"
+        speed_mile_per_hour:
+          display_name: mi/h
+          unit_pattern_count_other: "시속 {0}마일"
+        speed_knot:
+          display_name: "노트"
+          unit_pattern_count_other: "{0}노트"
+        temperature_generic:
+          display_name: "도"
+          unit_pattern_count_other: "{0}도"
+        temperature_celsius:
+          display_name: "섭씨"
+          unit_pattern_count_other: "섭씨 {0}도"
+        temperature_fahrenheit:
+          display_name: "화씨"
+          unit_pattern_count_other: "화씨 {0}도"
+        temperature_kelvin:
+          display_name: "켈빈"
+          unit_pattern_count_other: "{0}켈빈"
+        volume_cubic_kilometer:
+          display_name: "세제곱킬로미터"
+          unit_pattern_count_other: "{0}세제곱킬로미터"
+        volume_cubic_meter:
+          display_name: "세제곱미터"
+          unit_pattern_count_other: "{0}세제곱미터"
+          per_unit_pattern: "세제곱미터당 {0}"
+        volume_cubic_centimeter:
+          display_name: "세제곱센티미터"
+          unit_pattern_count_other: "{0}세제곱센티미터"
+          per_unit_pattern: "세제곱센티미터당 {0}"
+        volume_cubic_mile:
+          display_name: "세제곱마일"
+          unit_pattern_count_other: "{0}세제곱마일"
+        volume_cubic_yard:
+          display_name: "세제곱야드"
+          unit_pattern_count_other: "{0}세제곱야드"
+        volume_cubic_foot:
+          display_name: "세제곱피트"
+          unit_pattern_count_other: "{0}세제곱피트"
+        volume_cubic_inch:
+          display_name: "세제곱인치"
+          unit_pattern_count_other: "{0}세제곱인치"
+        volume_megaliter:
+          display_name: "메가리터"
+          unit_pattern_count_other: "{0}메가리터"
+        volume_hectoliter:
+          display_name: "헥토리터"
+          unit_pattern_count_other: "{0}헥토리터"
+        volume_liter:
+          display_name: "리터"
+          unit_pattern_count_other: "{0}리터"
+          per_unit_pattern: "리터당 {0}"
+        volume_deciliter:
+          display_name: "데시리터"
+          unit_pattern_count_other: "{0}데시리터"
+        volume_centiliter:
+          display_name: "센티리터"
+          unit_pattern_count_other: "{0}센티리터"
+        volume_milliliter:
+          display_name: "밀리리터"
+          unit_pattern_count_other: "{0}밀리리터"
+        volume_pint_metric:
+          display_name: "미터식 파인트"
+          unit_pattern_count_other: "{0}미터식 파인트"
+        volume_cup_metric:
+          display_name: "미터식 컵"
+          unit_pattern_count_other: "{0}미터식 컵"
+        volume_acre_foot:
+          display_name: "에이커 피트"
+          unit_pattern_count_other: "{0}에이커 피트"
+        volume_bushel:
+          display_name: bu
+          unit_pattern_count_other: "{0} bu"
+        volume_gallon:
+          display_name: "갤런"
+          unit_pattern_count_other: "{0}갤런"
+          per_unit_pattern: "갤런당 {0}"
+        volume_quart:
+          display_name: "쿼트"
+          unit_pattern_count_other: "{0}쿼트"
+        volume_pint:
+          display_name: "파인트"
+          unit_pattern_count_other: "{0}파인트"
+        volume_cup:
+          display_name: "컵"
+          unit_pattern_count_other: "{0}컵"
+        volume_fluid_ounce:
+          display_name: "액량 온스"
+          unit_pattern_count_other: "{0}액량 온스"
+        volume_tablespoon:
+          display_name: "테이블스푼"
+          unit_pattern_count_other: "{0}테이블스푼"
+        volume_teaspoon:
+          display_name: "티스푼"
+          unit_pattern_count_other: "{0}티스푼"
+        coordinate_unit:
+          east: "동경 {0}"
+          north: "북위 {0}"
+          south: "남위 {0}"
+          west: "서경 {0}"
+      short:
+        per:
+          compound_unit_pattern: "{0}/{1}"
+        acceleration_g_force:
+          display_name: g-force
+          unit_pattern_count_other: "{0}G"
+        acceleration_meter_per_second_squared:
+          display_name: m/s²
+          unit_pattern_count_other: "{0}m/s²"
+        angle_revolution:
+          display_name: rev
+          unit_pattern_count_other: "{0}rev"
+        angle_radian:
+          display_name: rad
+          unit_pattern_count_other: "{0}rad"
+        angle_degree:
+          display_name: "°"
+          unit_pattern_count_other: "{0}°"
+        angle_arc_minute:
+          display_name: "′"
+          unit_pattern_count_other: "{0}′"
+        angle_arc_second:
+          display_name: "″"
+          unit_pattern_count_other: "{0}″"
+        area_square_kilometer:
+          display_name: km²
+          unit_pattern_count_other: "{0}km²"
+        area_hectare:
+          display_name: ha
+          unit_pattern_count_other: "{0}ha"
+        area_square_meter:
+          display_name: m²
+          unit_pattern_count_other: "{0}m²"
+          per_unit_pattern: "{0}/m²"
+        area_square_centimeter:
+          display_name: cm²
+          unit_pattern_count_other: "{0}cm²"
+          per_unit_pattern: "{0}/cm²"
+        area_square_mile:
+          display_name: mi²
+          unit_pattern_count_other: "{0}mi²"
+        area_acre:
+          display_name: ac
+          unit_pattern_count_other: "{0}ac"
+        area_square_yard:
+          display_name: yd²
+          unit_pattern_count_other: "{0}yd²"
+        area_square_foot:
+          display_name: ft²
+          unit_pattern_count_other: "{0}ft²"
+        area_square_inch:
+          display_name: in²
+          unit_pattern_count_other: "{0}in²"
+          per_unit_pattern: "{0}/in²"
+        consumption_liter_per_kilometer:
+          display_name: L/km
+          unit_pattern_count_other: "{0}L/km"
+        consumption_liter_per_100kilometers:
+          display_name: L/100km
+          unit_pattern_count_other: "{0}L/100km"
+        consumption_mile_per_gallon:
+          display_name: mpg
+          unit_pattern_count_other: "{0}mpg"
+        digital_terabyte:
+          display_name: TByte
+          unit_pattern_count_other: "{0}TB"
+        digital_terabit:
+          display_name: Tbit
+          unit_pattern_count_other: "{0}Tb"
+        digital_gigabyte:
+          display_name: GByte
+          unit_pattern_count_other: "{0}GB"
+        digital_gigabit:
+          display_name: Gbit
+          unit_pattern_count_other: "{0}Gb"
+        digital_megabyte:
+          display_name: MB
+          unit_pattern_count_other: "{0}MB"
+        digital_megabit:
+          display_name: Mbit
+          unit_pattern_count_other: "{0}Mb"
+        digital_kilobyte:
+          display_name: kB
+          unit_pattern_count_other: "{0}kB"
+        digital_kilobit:
+          display_name: kbit
+          unit_pattern_count_other: "{0}kb"
+        digital_byte:
+          display_name: byte
+          unit_pattern_count_other: "{0}byte"
+        digital_bit:
+          display_name: bit
+          unit_pattern_count_other: "{0}bit"
+        duration_century:
+          display_name: C
+          unit_pattern_count_other: "{0}C"
+        duration_year:
+          display_name: "년"
+          unit_pattern_count_other: "{0}년"
+          per_unit_pattern: "{0}/년"
+        duration_month:
+          display_name: "개월"
+          unit_pattern_count_other: "{0}개월"
+          per_unit_pattern: "{0}/월"
+        duration_week:
+          display_name: "주"
+          unit_pattern_count_other: "{0}주"
+          per_unit_pattern: "{0}/주"
+        duration_day:
+          display_name: "일"
+          unit_pattern_count_other: "{0}일"
+          per_unit_pattern: "{0}/일"
+        duration_hour:
+          display_name: "시간"
+          unit_pattern_count_other: "{0}시간"
+          per_unit_pattern: "{0}/h"
+        duration_minute:
+          display_name: "분"
+          unit_pattern_count_other: "{0}분"
+          per_unit_pattern: "{0}/min"
+        duration_second:
+          display_name: "초"
+          unit_pattern_count_other: "{0}초"
+          per_unit_pattern: "{0}/s"
+        duration_millisecond:
+          display_name: "밀리초"
+          unit_pattern_count_other: "{0}ms"
+        duration_microsecond:
+          display_name: "μs"
+          unit_pattern_count_other: "{0}μs"
+        duration_nanosecond:
+          display_name: ns
+          unit_pattern_count_other: "{0}ns"
+        electric_ampere:
+          display_name: amp
+          unit_pattern_count_other: "{0}A"
+        electric_milliampere:
+          display_name: mA
+          unit_pattern_count_other: "{0}mA"
+        electric_ohm:
+          display_name: ohm
+          unit_pattern_count_other: "{0}Ω"
+        electric_volt:
+          display_name: volt
+          unit_pattern_count_other: "{0}V"
+        energy_kilocalorie:
+          display_name: kcal
+          unit_pattern_count_other: "{0}kcal"
+        energy_calorie:
+          display_name: cal
+          unit_pattern_count_other: "{0}cal"
+        energy_foodcalorie:
+          display_name: Cal
+          unit_pattern_count_other: "{0}Cal"
+        energy_kilojoule:
+          display_name: kJ
+          unit_pattern_count_other: "{0}kJ"
+        energy_joule:
+          display_name: "줄"
+          unit_pattern_count_other: "{0}줄"
+        energy_kilowatt_hour:
+          display_name: kWh
+          unit_pattern_count_other: "{0}kWh"
+        frequency_gigahertz:
+          display_name: GHz
+          unit_pattern_count_other: "{0}GHz"
+        frequency_megahertz:
+          display_name: MHz
+          unit_pattern_count_other: "{0}MHz"
+        frequency_kilohertz:
+          display_name: kHz
+          unit_pattern_count_other: "{0}kHz"
+        frequency_hertz:
+          display_name: Hz
+          unit_pattern_count_other: "{0}Hz"
+        length_kilometer:
+          display_name: km
+          unit_pattern_count_other: "{0}km"
+          per_unit_pattern: "{0}/km"
+        length_meter:
+          display_name: m
+          unit_pattern_count_other: "{0}m"
+          per_unit_pattern: "{0}/m"
+        length_decimeter:
+          display_name: dm
+          unit_pattern_count_other: "{0}dm"
+        length_centimeter:
+          display_name: cm
+          unit_pattern_count_other: "{0}cm"
+          per_unit_pattern: "{0}/cm"
+        length_millimeter:
+          display_name: mm
+          unit_pattern_count_other: "{0}mm"
+        length_micrometer:
+          display_name: "µm"
+          unit_pattern_count_other: "{0}µm"
+        length_nanometer:
+          display_name: nm
+          unit_pattern_count_other: "{0}nm"
+        length_picometer:
+          display_name: pm
+          unit_pattern_count_other: "{0}pm"
+        length_mile:
+          display_name: mi
+          unit_pattern_count_other: "{0}mi"
+        length_yard:
+          display_name: yd
+          unit_pattern_count_other: "{0}야드"
+        length_foot:
+          display_name: ft
+          unit_pattern_count_other: "{0}ft"
+          per_unit_pattern: "{0}/ft"
+        length_inch:
+          display_name: in
+          unit_pattern_count_other: "{0}in"
+          per_unit_pattern: "{0}/in"
+        length_parsec:
+          display_name: pc
+          unit_pattern_count_other: "{0}pc"
+        length_light_year:
+          display_name: ly
+          unit_pattern_count_other: "{0}ly"
+        length_astronomical_unit:
+          display_name: au
+          unit_pattern_count_other: "{0}au"
+        length_furlong:
+          display_name: fur
+          unit_pattern_count_other: "{0} fur"
+        length_fathom:
+          display_name: fm
+          unit_pattern_count_other: "{0} fm"
+        length_nautical_mile:
+          display_name: nmi
+          unit_pattern_count_other: "{0}nmi"
+        length_mile_scandinavian:
+          display_name: smi
+          unit_pattern_count_other: "{0}smi"
+        light_lux:
+          display_name: lx
+          unit_pattern_count_other: "{0}lx"
+        mass_metric_ton:
+          display_name: t
+          unit_pattern_count_other: "{0}t"
+        mass_kilogram:
+          display_name: kg
+          unit_pattern_count_other: "{0}kg"
+          per_unit_pattern: "{0}/kg"
+        mass_gram:
+          display_name: "그램"
+          unit_pattern_count_other: "{0}g"
+          per_unit_pattern: "{0}/g"
+        mass_milligram:
+          display_name: mg
+          unit_pattern_count_other: "{0}mg"
+        mass_microgram:
+          display_name: "µg"
+          unit_pattern_count_other: "{0}µg"
+        mass_ton:
+          display_name: tn
+          unit_pattern_count_other: "{0}tn"
+        mass_stone:
+          display_name: st
+          unit_pattern_count_other: "{0} st"
+        mass_pound:
+          display_name: lb
+          unit_pattern_count_other: "{0}lb"
+          per_unit_pattern: "{0}/lb"
+        mass_ounce:
+          display_name: oz
+          unit_pattern_count_other: "{0}oz"
+          per_unit_pattern: "{0}/oz"
+        mass_ounce_troy:
+          display_name: oz t
+          unit_pattern_count_other: "{0}oz t"
+        mass_carat:
+          display_name: CD
+          unit_pattern_count_other: "{0}CD"
+        power_gigawatt:
+          display_name: GW
+          unit_pattern_count_other: "{0}GW"
+        power_megawatt:
+          display_name: MW
+          unit_pattern_count_other: "{0}MW"
+        power_kilowatt:
+          display_name: kW
+          unit_pattern_count_other: "{0}kW"
+        power_watt:
+          display_name: w
+          unit_pattern_count_other: "{0}W"
+        power_milliwatt:
+          display_name: mW
+          unit_pattern_count_other: "{0}mW"
+        power_horsepower:
+          display_name: hp
+          unit_pattern_count_other: "{0}hp"
+        pressure_hectopascal:
+          display_name: hPa
+          unit_pattern_count_other: "{0}hPa"
+        pressure_millimeter_of_mercury:
+          display_name: mm Hg
+          unit_pattern_count_other: "{0}mm Hg"
+        pressure_pound_per_square_inch:
+          display_name: psi
+          unit_pattern_count_other: "{0}psi"
+        pressure_inch_hg:
+          display_name: inHg
+          unit_pattern_count_other: "{0}inHg"
+        pressure_millibar:
+          display_name: mbar
+          unit_pattern_count_other: "{0}mb"
+        proportion_karat:
+          display_name: kt
+          unit_pattern_count_other: "{0}kt"
+        speed_kilometer_per_hour:
+          display_name: km/h
+          unit_pattern_count_other: "{0}km/h"
+        speed_meter_per_second:
+          display_name: m/s
+          unit_pattern_count_other: "초속 {0}m"
+        speed_mile_per_hour:
+          display_name: mi/h
+          unit_pattern_count_other: "시속 {0}mi"
+        speed_knot:
+          display_name: kn
+          unit_pattern_count_other: "{0}kn"
+        temperature_generic:
+          display_name: "°"
+          unit_pattern_count_other: "{0}°"
+        temperature_celsius:
+          display_name: "°C"
+          unit_pattern_count_other: "{0}°C"
+        temperature_fahrenheit:
+          display_name: "°F"
+          unit_pattern_count_other: "{0}°F"
+        temperature_kelvin:
+          display_name: K
+          unit_pattern_count_other: "{0}K"
+        volume_cubic_kilometer:
+          display_name: km³
+          unit_pattern_count_other: "{0}km³"
+        volume_cubic_meter:
+          display_name: m³
+          unit_pattern_count_other: "{0}m³"
+          per_unit_pattern: "{0}/m³"
+        volume_cubic_centimeter:
+          display_name: cm³
+          unit_pattern_count_other: "{0}cm³"
+          per_unit_pattern: "{0}/cm³"
+        volume_cubic_mile:
+          display_name: mi³
+          unit_pattern_count_other: "{0}mi³"
+        volume_cubic_yard:
+          display_name: yd³
+          unit_pattern_count_other: "{0}yd³"
+        volume_cubic_foot:
+          display_name: ft³
+          unit_pattern_count_other: "{0}ft³"
+        volume_cubic_inch:
+          display_name: in³
+          unit_pattern_count_other: "{0}in³"
+        volume_megaliter:
+          display_name: ML
+          unit_pattern_count_other: "{0}ML"
+        volume_hectoliter:
+          display_name: hL
+          unit_pattern_count_other: "{0}hL"
+        volume_liter:
+          display_name: "리터"
+          unit_pattern_count_other: "{0}L"
+          per_unit_pattern: "{0}/L"
+        volume_deciliter:
+          display_name: dL
+          unit_pattern_count_other: "{0}dL"
+        volume_centiliter:
+          display_name: cL
+          unit_pattern_count_other: "{0}cL"
+        volume_milliliter:
+          display_name: mL
+          unit_pattern_count_other: "{0}mL"
+        volume_pint_metric:
+          display_name: mpt
+          unit_pattern_count_other: "{0}mpt"
+        volume_cup_metric:
+          display_name: mcup
+          unit_pattern_count_other: "{0}mc"
+        volume_acre_foot:
+          display_name: ac ft
+          unit_pattern_count_other: "{0}ac ft"
+        volume_bushel:
+          display_name: bu
+          unit_pattern_count_other: "{0} bu"
+        volume_gallon:
+          display_name: gal
+          unit_pattern_count_other: "{0}gal"
+          per_unit_pattern: "{0}/gal"
+        volume_quart:
+          display_name: qt
+          unit_pattern_count_other: "{0}qt"
+        volume_pint:
+          display_name: pt
+          unit_pattern_count_other: "{0}pt"
+        volume_cup:
+          display_name: "컵"
+          unit_pattern_count_other: "{0}컵"
+        volume_fluid_ounce:
+          display_name: fl oz
+          unit_pattern_count_other: "{0}fl oz"
+        volume_tablespoon:
+          display_name: tbsp
+          unit_pattern_count_other: "{0}tbsp"
+        volume_teaspoon:
+          display_name: tsp
+          unit_pattern_count_other: "{0}tsp"
+        coordinate_unit:
+          east: "{0}E"
+          north: "{0}N"
+          south: "{0}S"
+          west: "{0}W"
+      narrow:
+        per:
+          compound_unit_pattern: "{0}/{1}"
+        acceleration_g_force:
+          display_name: g-force
+          unit_pattern_count_other: "{0}G"
+        acceleration_meter_per_second_squared:
+          display_name: m/s²
+          unit_pattern_count_other: "{0}m/s²"
+        angle_revolution:
+          display_name: rev
+          unit_pattern_count_other: "{0}rev"
+        angle_radian:
+          display_name: rad
+          unit_pattern_count_other: "{0}rad"
+        angle_degree:
+          display_name: "°"
+          unit_pattern_count_other: "{0}°"
+        angle_arc_minute:
+          display_name: "′"
+          unit_pattern_count_other: "{0}′"
+        angle_arc_second:
+          display_name: "″"
+          unit_pattern_count_other: "{0}″"
+        area_square_kilometer:
+          display_name: km²
+          unit_pattern_count_other: "{0}km²"
+        area_hectare:
+          display_name: ha
+          unit_pattern_count_other: "{0}ha"
+        area_square_meter:
+          display_name: m²
+          unit_pattern_count_other: "{0}m²"
+          per_unit_pattern: "{0}/m²"
+        area_square_centimeter:
+          display_name: cm²
+          unit_pattern_count_other: "{0}cm²"
+          per_unit_pattern: "{0}/cm²"
+        area_square_mile:
+          display_name: mi²
+          unit_pattern_count_other: "{0}mi²"
+        area_acre:
+          display_name: ac
+          unit_pattern_count_other: "{0}ac"
+        area_square_yard:
+          display_name: yd²
+          unit_pattern_count_other: "{0}yd²"
+        area_square_foot:
+          display_name: ft²
+          unit_pattern_count_other: "{0}ft²"
+        area_square_inch:
+          display_name: in²
+          unit_pattern_count_other: "{0}in²"
+          per_unit_pattern: "{0}/in²"
+        consumption_liter_per_kilometer:
+          display_name: L/km
+          unit_pattern_count_other: "{0}L/km"
+        consumption_liter_per_100kilometers:
+          display_name: L/100km
+          unit_pattern_count_other: "{0}L/100km"
+        consumption_mile_per_gallon:
+          display_name: mpg
+          unit_pattern_count_other: "{0}mpg"
+        digital_terabyte:
+          display_name: TByte
+          unit_pattern_count_other: "{0}TB"
+        digital_terabit:
+          display_name: Tbit
+          unit_pattern_count_other: "{0}Tb"
+        digital_gigabyte:
+          display_name: GByte
+          unit_pattern_count_other: "{0}GB"
+        digital_gigabit:
+          display_name: Gbit
+          unit_pattern_count_other: "{0}Gb"
+        digital_megabyte:
+          display_name: MB
+          unit_pattern_count_other: "{0}MB"
+        digital_megabit:
+          display_name: Mbit
+          unit_pattern_count_other: "{0}Mb"
+        digital_kilobyte:
+          display_name: kB
+          unit_pattern_count_other: "{0}kB"
+        digital_kilobit:
+          display_name: kbit
+          unit_pattern_count_other: "{0}kb"
+        digital_byte:
+          display_name: byte
+          unit_pattern_count_other: "{0}byte"
+        digital_bit:
+          display_name: bit
+          unit_pattern_count_other: "{0}bit"
+        duration_century:
+          display_name: C
+          unit_pattern_count_other: "{0}C"
+        duration_year:
+          display_name: "년"
+          unit_pattern_count_other: "{0}년"
+          per_unit_pattern: "{0}/년"
+        duration_month:
+          display_name: "개월"
+          unit_pattern_count_other: "{0}개월"
+          per_unit_pattern: "{0}/월"
+        duration_week:
+          display_name: "주"
+          unit_pattern_count_other: "{0}주"
+          per_unit_pattern: "{0}/주"
+        duration_day:
+          display_name: "일"
+          unit_pattern_count_other: "{0}일"
+          per_unit_pattern: "{0}/일"
+        duration_hour:
+          display_name: "시간"
+          unit_pattern_count_other: "{0}시간"
+          per_unit_pattern: "{0}/h"
+        duration_minute:
+          display_name: "분"
+          unit_pattern_count_other: "{0}분"
+          per_unit_pattern: "{0}/min"
+        duration_second:
+          display_name: "초"
+          unit_pattern_count_other: "{0}초"
+          per_unit_pattern: "{0}/s"
+        duration_millisecond:
+          display_name: ms
+          unit_pattern_count_other: "{0}ms"
+        duration_microsecond:
+          display_name: "μs"
+          unit_pattern_count_other: "{0}μs"
+        duration_nanosecond:
+          display_name: ns
+          unit_pattern_count_other: "{0}ns"
+        electric_ampere:
+          display_name: amp
+          unit_pattern_count_other: "{0}A"
+        electric_milliampere:
+          display_name: mA
+          unit_pattern_count_other: "{0}mA"
+        electric_ohm:
+          display_name: ohm
+          unit_pattern_count_other: "{0}Ω"
+        electric_volt:
+          display_name: volt
+          unit_pattern_count_other: "{0}V"
+        energy_kilocalorie:
+          display_name: kcal
+          unit_pattern_count_other: "{0}kcal"
+        energy_calorie:
+          display_name: cal
+          unit_pattern_count_other: "{0}cal"
+        energy_foodcalorie:
+          display_name: Cal
+          unit_pattern_count_other: "{0}Cal"
+        energy_kilojoule:
+          display_name: kJ
+          unit_pattern_count_other: "{0}kJ"
+        energy_joule:
+          display_name: "줄"
+          unit_pattern_count_other: "{0}줄"
+        energy_kilowatt_hour:
+          display_name: kWh
+          unit_pattern_count_other: "{0}kWh"
+        frequency_gigahertz:
+          display_name: GHz
+          unit_pattern_count_other: "{0}GHz"
+        frequency_megahertz:
+          display_name: MHz
+          unit_pattern_count_other: "{0}MHz"
+        frequency_kilohertz:
+          display_name: kHz
+          unit_pattern_count_other: "{0}kHz"
+        frequency_hertz:
+          display_name: Hz
+          unit_pattern_count_other: "{0}Hz"
+        length_kilometer:
+          display_name: km
+          unit_pattern_count_other: "{0}km"
+          per_unit_pattern: "{0}/km"
+        length_meter:
+          display_name: m
+          unit_pattern_count_other: "{0}m"
+          per_unit_pattern: "{0}/m"
+        length_decimeter:
+          display_name: dm
+          unit_pattern_count_other: "{0}dm"
+        length_centimeter:
+          display_name: cm
+          unit_pattern_count_other: "{0}cm"
+          per_unit_pattern: "{0}/cm"
+        length_millimeter:
+          display_name: mm
+          unit_pattern_count_other: "{0}mm"
+        length_micrometer:
+          display_name: "µm"
+          unit_pattern_count_other: "{0}µm"
+        length_nanometer:
+          display_name: nm
+          unit_pattern_count_other: "{0}nm"
+        length_picometer:
+          display_name: pm
+          unit_pattern_count_other: "{0}pm"
+        length_mile:
+          display_name: mi
+          unit_pattern_count_other: "{0}mi"
+        length_yard:
+          display_name: yd
+          unit_pattern_count_other: "{0}yd"
+        length_foot:
+          display_name: ft
+          unit_pattern_count_other: "{0}′"
+          per_unit_pattern: "{0}/ft"
+        length_inch:
+          display_name: in
+          unit_pattern_count_other: "{0}″"
+          per_unit_pattern: "{0}/in"
+        length_parsec:
+          display_name: pc
+          unit_pattern_count_other: "{0}pc"
+        length_light_year:
+          display_name: ly
+          unit_pattern_count_other: "{0}ly"
+        length_astronomical_unit:
+          display_name: au
+          unit_pattern_count_other: "{0}au"
+        length_furlong:
+          display_name: fur
+          unit_pattern_count_other: "{0} fur"
+        length_fathom:
+          display_name: fm
+          unit_pattern_count_other: "{0} fm"
+        length_nautical_mile:
+          display_name: nmi
+          unit_pattern_count_other: "{0}nmi"
+        length_mile_scandinavian:
+          display_name: smi
+          unit_pattern_count_other: "{0}smi"
+        light_lux:
+          display_name: lx
+          unit_pattern_count_other: "{0}lx"
+        mass_metric_ton:
+          display_name: t
+          unit_pattern_count_other: "{0}t"
+        mass_kilogram:
+          display_name: kg
+          unit_pattern_count_other: "{0}kg"
+          per_unit_pattern: "{0}/kg"
+        mass_gram:
+          display_name: g
+          unit_pattern_count_other: "{0}g"
+          per_unit_pattern: "{0}/g"
+        mass_milligram:
+          display_name: mg
+          unit_pattern_count_other: "{0}mg"
+        mass_microgram:
+          display_name: "µg"
+          unit_pattern_count_other: "{0}µg"
+        mass_ton:
+          display_name: tn
+          unit_pattern_count_other: "{0}tn"
+        mass_stone:
+          display_name: st
+          unit_pattern_count_other: "{0} st"
+        mass_pound:
+          display_name: lb
+          unit_pattern_count_other: "{0}lb"
+          per_unit_pattern: "{0}/lb"
+        mass_ounce:
+          display_name: oz
+          unit_pattern_count_other: "{0}oz"
+          per_unit_pattern: "{0}/oz"
+        mass_ounce_troy:
+          display_name: oz t
+          unit_pattern_count_other: "{0}oz t"
+        mass_carat:
+          display_name: CD
+          unit_pattern_count_other: "{0}CD"
+        power_gigawatt:
+          display_name: GW
+          unit_pattern_count_other: "{0}GW"
+        power_megawatt:
+          display_name: MW
+          unit_pattern_count_other: "{0}MW"
+        power_kilowatt:
+          display_name: kW
+          unit_pattern_count_other: "{0}kW"
+        power_watt:
+          display_name: w
+          unit_pattern_count_other: "{0}W"
+        power_milliwatt:
+          display_name: mW
+          unit_pattern_count_other: "{0}mW"
+        power_horsepower:
+          display_name: hp
+          unit_pattern_count_other: "{0}HP"
+        pressure_hectopascal:
+          display_name: hPa
+          unit_pattern_count_other: "{0}hPa"
+        pressure_millimeter_of_mercury:
+          display_name: mm Hg
+          unit_pattern_count_other: "{0}mm Hg"
+        pressure_pound_per_square_inch:
+          display_name: psi
+          unit_pattern_count_other: "{0}psi"
+        pressure_inch_hg:
+          display_name: inHg
+          unit_pattern_count_other: '{0}\"Hg'
+        pressure_millibar:
+          display_name: mbar
+          unit_pattern_count_other: "{0}mb"
+        proportion_karat:
+          display_name: kt
+          unit_pattern_count_other: "{0}kt"
+        speed_kilometer_per_hour:
+          display_name: km/h
+          unit_pattern_count_other: "{0}km/h"
+        speed_meter_per_second:
+          display_name: m/s
+          unit_pattern_count_other: "{0}m/s"
+        speed_mile_per_hour:
+          display_name: mi/h
+          unit_pattern_count_other: "{0}mph"
+        speed_knot:
+          display_name: kn
+          unit_pattern_count_other: "{0}kn"
+        temperature_generic:
+          display_name: "°"
+          unit_pattern_count_other: "{0}°"
+        temperature_celsius:
+          display_name: "°C"
+          unit_pattern_count_other: "{0}°C"
+        temperature_fahrenheit:
+          display_name: "°F"
+          unit_pattern_count_other: "{0}°F"
+        temperature_kelvin:
+          display_name: K
+          unit_pattern_count_other: "{0}K"
+        volume_cubic_kilometer:
+          display_name: km³
+          unit_pattern_count_other: "{0}km³"
+        volume_cubic_meter:
+          display_name: m³
+          unit_pattern_count_other: "{0}m³"
+          per_unit_pattern: "{0}/m³"
+        volume_cubic_centimeter:
+          display_name: cm³
+          unit_pattern_count_other: "{0}cm³"
+          per_unit_pattern: "{0}/cm³"
+        volume_cubic_mile:
+          display_name: mi³
+          unit_pattern_count_other: "{0}mi³"
+        volume_cubic_yard:
+          display_name: yd³
+          unit_pattern_count_other: "{0}yd³"
+        volume_cubic_foot:
+          display_name: ft³
+          unit_pattern_count_other: "{0}ft³"
+        volume_cubic_inch:
+          display_name: in³
+          unit_pattern_count_other: "{0}in³"
+        volume_megaliter:
+          display_name: ML
+          unit_pattern_count_other: "{0}ML"
+        volume_hectoliter:
+          display_name: hL
+          unit_pattern_count_other: "{0}hL"
+        volume_liter:
+          display_name: "ℓ"
+          unit_pattern_count_other: "{0}ℓ"
+          per_unit_pattern: "{0}/L"
+        volume_deciliter:
+          display_name: dL
+          unit_pattern_count_other: "{0}dL"
+        volume_centiliter:
+          display_name: cL
+          unit_pattern_count_other: "{0}cL"
+        volume_milliliter:
+          display_name: mL
+          unit_pattern_count_other: "{0}mL"
+        volume_pint_metric:
+          display_name: mpt
+          unit_pattern_count_other: "{0}mpt"
+        volume_cup_metric:
+          display_name: mcup
+          unit_pattern_count_other: "{0}mc"
+        volume_acre_foot:
+          display_name: ac ft
+          unit_pattern_count_other: "{0}ac ft"
+        volume_bushel:
+          display_name: bu
+          unit_pattern_count_other: "{0} bu"
+        volume_gallon:
+          display_name: gal
+          unit_pattern_count_other: "{0}gal"
+          per_unit_pattern: "{0}/gal"
+        volume_quart:
+          display_name: qt
+          unit_pattern_count_other: "{0}qt"
+        volume_pint:
+          display_name: pt
+          unit_pattern_count_other: "{0}pt"
+        volume_cup:
+          display_name: "컵"
+          unit_pattern_count_other: "{0}컵"
+        volume_fluid_ounce:
+          display_name: fl oz
+          unit_pattern_count_other: "{0}fl oz"
+        volume_tablespoon:
+          display_name: tbsp
+          unit_pattern_count_other: "{0}tbsp"
+        volume_teaspoon:
+          display_name: tsp
+          unit_pattern_count_other: "{0}tsp"
+        coordinate_unit:
+          east: "{0}E"
+          north: "{0}N"
+          south: "{0}S"
+          west: "{0}W"
+      duration_unit_type_hm:
+        duration_unit_pattern: h:mm
+      duration_unit_type_hms:
+        duration_unit_pattern: h:mm:ss
+      duration_unit_type_ms:
+        duration_unit_pattern: m:ss
