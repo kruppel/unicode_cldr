@@ -1,6 +1,12 @@
 source 'https://rubygems.org'
+
 gemspec
 
-gem 'rake'
-gem 'rspec', '~>2'
-gem 'byebug'
+group :development do
+  gem 'byebug'
+  gem 'bump', '~> 0.5.0', require: false
+end
+
+group :development, :test do
+  gem 'rubocop', '~> 0.34.0', require: false
+end
